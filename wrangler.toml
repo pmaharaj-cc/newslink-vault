@@ -1,0 +1,6 @@
+name = "newslink-vault"
+main = "worker.js"
+compatibility_date = "2026-05-15"
+
+[triggers]
+crons = ["0 11 * * *"]
