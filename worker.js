@@ -1,45 +1,27 @@
 /**
- * NewsLink Autonomous Pipeline
- * Cloudflare Worker — runs on cron schedule
+ * NewsLink Autonomous Pipeline — Cloudflare Worker
+ * Flow: sitemap → article text → Groq extraction → Obsidian markdown → GitHub
  *
- * Flow: sitemap → article texts → Groq extraction → Obsidian markdown → GitHub
- *
- * Env vars (Cloudflare dashboard → Settings → Variables and Secrets):
- *   GROQ_API_KEY    — Groq API key
- *   GITHUB_TOKEN    — GitHub personal access token (repo scope)
- *   GITHUB_REPO     — pmaharaj-cc/newslink-vault
- *   GITHUB_BRANCH   — main
- *   TRIGGER_SECRET  — password for /run endpoint
+ * Env vars (Cloudflare → Settings → Variables):
+ *   GROQ_API_KEY, GITHUB_TOKEN, GITHUB_REPO, GITHUB_BRANCH, TRIGGER_SECRET
  */
 
 const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
 const GROQ_MODEL   = "llama-3.1-8b-instant";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
-const MAX_ARTICLES = 15;
-const GROQ_BATCH   = 3;
+const MAX_ARTICLES = 10;
+const TEXT_LIMIT   = 800;   // chars sent to Groq per article
+const GROQ_BATCH   = 1;     // one article per Groq call to stay under 6000 TPM
 
-const SYSTEM_PROMPT = `You are a structured news data extractor for Trinidad news articles.
-Return ONLY a JSON array. Each element has exactly these fields:
-{
-  "title": string,
-  "authors": array of strings (from byline, empty array if none),
-  "date_reported": "YYYY-MM-DD",
-  "date_effective": "YYYY-MM-DD or null",
-  "people": [{"name": string, "role": string}],
-  "organizations": array of strings,
-  "places": array of strings (specific locations only),
-  "topics": array from: economy,crime,government,health,environment,energy,foreign-affairs,education,judiciary,parliament,corruption,housing,infrastructure,social,culture,disaster,
-  "state_changes": [{"entity":string,"change":string,"from":string|null,"to":string,"date_reported":"YYYY-MM-DD","date_effective":"YYYY-MM-DD|null"}],
-  "relationships": [{"from":string,"relation":string,"to":string}],
-  "quotes": [{"speaker":string,"text":string}],
-  "sentiment": [{"author":string,"target":string,"lean":"positive|negative|neutral","basis":string}],
-  "sports_crossover": boolean
-}
-Rules:
-- Max 2 quotes per article. Unnamed speakers use "Anonymous".
-- State changes: only concrete verifiable changes.
-- Return no text outside the JSON array.`;
+const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. One object per article. Fields:
+title,authors([str]),date_reported(YYYY-MM-DD),date_effective(YYYY-MM-DD|null),
+people([{name,role}]),organizations([str]),places([str]),
+topics([economy|crime|government|health|environment|energy|foreign-affairs|education|judiciary|parliament|corruption|housing|infrastructure|social|culture|disaster]),
+state_changes([{entity,change,from,to,date_reported,date_effective}]),
+relationships([{from,relation,to}]),quotes([{speaker,text}] max 2, unnamed="Anonymous"),
+sentiment([{author,target,lean(positive|negative|neutral),basis}]),sports_crossover(bool).
+Empty=[] Unknown dates=null. No text outside JSON.`;
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -84,7 +66,7 @@ async function fetchTodayURLs() {
   return articles.slice(0, MAX_ARTICLES);
 }
 
-// ── Step 2: Fetch article text ────────────────────────────────────────────────
+// ── Step 2: Fetch article text (hard cap to stay under TPM) ──────────────────
 
 async function fetchArticleText(url) {
   try {
@@ -102,7 +84,8 @@ async function fetchArticleText(url) {
       return seen.has(k) ? false : !!seen.add(k);
     });
 
-    return unique.join("\n\n") || null;
+    const full = unique.join("\n\n");
+    return full ? full.slice(0, TEXT_LIMIT) : null;
   } catch (e) {
     return null;
   }
@@ -110,7 +93,7 @@ async function fetchArticleText(url) {
 
 // ── Step 3: Groq extraction ───────────────────────────────────────────────────
 
-async function extractWithGroq(articlesText, apiKey) {
+async function extractWithGroq(articleText, apiKey) {
   const res = await fetch(GROQ_URL, {
     method: "POST",
     headers: {
@@ -120,17 +103,17 @@ async function extractWithGroq(articlesText, apiKey) {
     body: JSON.stringify({
       model: GROQ_MODEL,
       temperature: 0,
-      max_tokens: 4096,
+      max_tokens: 1024,
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
-        { role: "user",   content: articlesText }
+        { role: "user",   content: articleText }
       ]
     })
   });
 
   if (!res.ok) {
     const err = await res.text();
-    throw new Error(`Groq ${res.status}: ${err.slice(0, 200)}`);
+    throw new Error(`Groq ${res.status}: ${err.slice(0, 300)}`);
   }
 
   const data = await res.json();
@@ -138,7 +121,8 @@ async function extractWithGroq(articlesText, apiKey) {
   const cleaned = raw.replace(/^```json\s*/,"").replace(/\s*```$/,"").trim();
 
   try {
-    return JSON.parse(cleaned);
+    const parsed = JSON.parse(cleaned);
+    return Array.isArray(parsed) ? parsed : [parsed];
   } catch (e) {
     throw new Error(`JSON parse failed: ${cleaned.slice(0, 200)}`);
   }
@@ -313,17 +297,19 @@ async function runPipeline(env) {
   const withText = fetched.filter(a => a.text);
   console.log(`Text fetched: ${withText.length}/${fetched.length}`);
 
-  // Groq extraction in small batches
+  // Groq extraction one article at a time to stay under 6000 TPM
   const extracted = [];
-  for (let i = 0; i < withText.length; i += GROQ_BATCH) {
-    const batch = withText.slice(i, i + GROQ_BATCH);
-    const input = batch.map((a, j) =>
-      `--- ARTICLE ${j + 1} ---\nURL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`
-    ).join("\n\n");
-    const results = await extractWithGroq(input, env.GROQ_API_KEY);
-    extracted.push(...results);
-    if (i + GROQ_BATCH < withText.length) {
-      await new Promise(r => setTimeout(r, 2000));
+  for (let i = 0; i < withText.length; i++) {
+    const a = withText[i];
+    const input = `URL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`;
+    try {
+      const results = await extractWithGroq(input, env.GROQ_API_KEY);
+      extracted.push({ result: results[0], src: a });
+    } catch (e) {
+      console.log(`Article ${i+1} failed: ${e.message}`);
+    }
+    if (i + 1 < withText.length) {
+      await new Promise(r => setTimeout(r, 3000));
     }
   }
   console.log(`Extracted ${extracted.length} articles`);
@@ -333,11 +319,8 @@ async function runPipeline(env) {
   const articleEntries = [];
   const newEntities = new Set();
 
-  for (let i = 0; i < extracted.length; i++) {
-    const d   = extracted[i];
-    const src = withText[i];
-    if (!src) continue;
-
+  for (const { result: d, src } of extracted) {
+    if (!d) continue;
     const filename = articleFilename(d, src.pubDate);
     files[filename] = buildNote(d, src.url, src.pubDate);
     articleEntries.push({ d, filename });
@@ -347,6 +330,11 @@ async function runPipeline(env) {
     for (const pl of (d.places || []))       newEntities.add(`Places/${safe(pl)}|place|${pl}`);
     for (const t of (d.topics || []))        newEntities.add(`Topics/${safe(t)}|topic|${t}`);
     for (const a of (d.authors || []))       newEntities.add(`Authors/${safe(a)}|author|${a}`);
+  }
+
+  if (!articleEntries.length) {
+    console.log("No articles extracted, skipping push");
+    return;
   }
 
   files[`Daily/${today}.md`] = buildDailyNote(today, articleEntries);
@@ -380,3 +368,4 @@ export default {
     ctx.waitUntil(runPipeline(env));
   }
 };
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
