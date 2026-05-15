@@ -147,10 +147,11 @@ function buildEntityStub(name, type) {
 }
 
 async function pushToGitHub(files, token, repo, branch) {
-  const base=`https://api.github.com/repos/${repo}`;
+  const repo2=(repo||"").trim(), branch2=(branch||"main").trim();
+  const base=`https://api.github.com/repos/${repo2}`;
   const headers={"Authorization":`token ${token}`,"Content-Type":"application/json","Accept":"application/vnd.github.v3+json","User-Agent":"newslink-worker"};
 
-  const refRes = await fetch(`${base}/git/refs/heads/${branch}`, {headers});
+  const refRes = await fetch(`${base}/git/refs/heads/${branch2}`, {headers});
   const refData = await safeJSON(refRes, "GitHub getRef");
   const headSHA = refData.object?.sha;
   if (!headSHA) throw new Error("Could not get HEAD SHA");
@@ -175,7 +176,7 @@ async function pushToGitHub(files, token, repo, branch) {
   })});
   const newCommit = await safeJSON(newCommitRes, "GitHub createCommit");
 
-  const patchRes = await fetch(`${base}/git/refs/heads/${branch}`, {method:"PATCH",headers,body:JSON.stringify({sha:newCommit.sha})});
+  const patchRes = await fetch(`${base}/git/refs/heads/${branch2}`, {method:"PATCH",headers,body:JSON.stringify({sha:newCommit.sha})});
   await safeJSON(patchRes, "GitHub updateRef");
 
   return newCommit.sha;
@@ -224,7 +225,7 @@ async function runPipeline(env) {
     files[`Entities/${parts[0]}.md`] = buildEntityStub(parts[2], parts[1]);
   }
 
-  const sha = await pushToGitHub(files, env.GITHUB_TOKEN, env.GITHUB_REPO, env.GITHUB_BRANCH || "main");
+  const sha = await pushToGitHub(files, env.GITHUB_TOKEN, env.GITHUB_REPO, (env.GITHUB_BRANCH||"main").trim());
   console.log(`Pushed ${Object.keys(files).length} files — commit ${sha.slice(0,7)}`);
 }
 
