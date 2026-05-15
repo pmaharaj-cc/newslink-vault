@@ -14,9 +14,10 @@
 // ── Config ────────────────────────────────────────────────────────────────────
 const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL   = "llama-3.3-70b-versatile";
+const GROQ_MODEL   = "llama-3.1-8b-instant";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
-const MAX_ARTICLES = 12; // stay within Cloudflare free subrequest limit
+const MAX_ARTICLES = 15;
+const GROQ_BATCH   = 3; // articles per Groq call to stay under TPM limit
 
 // ── Extraction schema prompt ──────────────────────────────────────────────────
 const SYSTEM_PROMPT = `You are a structured news data extractor for Trinidad news articles.
@@ -306,12 +307,19 @@ async function runPipeline(env) {
   const withText = fetched.filter(a => a.text);
   console.log(`Text fetched: ${withText.length}/${fetched.length}`);
 
-  // 3. Extract with Groq (one batch call)
-  const batchInput = withText.map((a, i) =>
-    `--- ARTICLE ${i+1} ---\nURL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`
-  ).join("\n\n");
-
-  const extracted = await extractWithGroq(batchInput, env.GROQ_API_KEY);
+  // 3. Extract with Groq in small batches
+  const extracted = [];
+  for (let i = 0; i < withText.length; i += GROQ_BATCH) {
+    const batch = withText.slice(i, i + GROQ_BATCH);
+    const batchInput = batch.map((a, j) =>
+      `--- ARTICLE ${j+1} ---\nURL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`
+    ).join("\n\n");
+    const results = await extractWithGroq(batchInput, env.GROQ_API_KEY);
+    extracted.push(...results);
+    if (i + GROQ_BATCH < withText.length) {
+      await new Promise(r => setTimeout(r, 2000)); // 2s pause between batches
+    }
+  }
   console.log(`Extracted ${extracted.length} articles`);
 
   // 4. Build files
@@ -362,16 +370,4 @@ export default {
     const { pathname, searchParams } = new URL(request.url);
     if (pathname === "/run" && searchParams.get("secret") === env.TRIGGER_SECRET) {
       try {
-        await runPipeline(env);
-        return new Response("Pipeline complete", { status: 200 });
-      } catch(e) {
-        return new Response(`Error: ${e.message}`, { status: 500 });
-      }
-    }
-    return new Response("NewsLink Worker running.", { status: 200 });
-  },
-
-  async scheduled(event, env, ctx) {
-    ctx.waitUntil(runPipeline(env));
-  }
-};
+        await runPipeline
