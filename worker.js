@@ -1,14 +1,14 @@
 /**
- * NewsLink Autonomous Pipeline — Cloudflare Worker
+ * NewsLink Worker — hourly run, KV deduplication
  * Env vars: GROQ_API_KEY, GITHUB_TOKEN, GITHUB_REPO, GITHUB_BRANCH, TRIGGER_SECRET
+ * KV binding: PROCESSED (namespace for tracking done URLs)
+ * Cron: 0 * * * * (every hour)
  */
 
 const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
 const GROQ_MODEL   = "llama-3.1-8b-instant";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
-const MAX_ARTICLES = 1;
-const GROQ_BATCH   = 1;
 
 const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. Fields: title(str), authors([str]), date_reported(YYYY-MM-DD), date_effective(YYYY-MM-DD|null), people([{name,role}]), organizations([str]), places([str]), topics([economy|crime|government|health|environment|energy|foreign-affairs|education|judiciary|parliament|corruption|housing|infrastructure|social|culture|disaster]), state_changes([{entity,change,from,to,date_reported,date_effective}]), relationships([{from,relation,to}]), quotes([{speaker,text}] max 2, unnamed="Anonymous"), sentiment([{author,target,lean(positive|negative|neutral),basis}]), sports_crossover(bool). No text outside JSON.`;
 
@@ -37,7 +37,7 @@ async function fetchTodayURLs() {
     seen.add(url);
     articles.push({ url, pubDate: pub });
   }
-  return articles.slice(0, MAX_ARTICLES);
+  return articles;
 }
 
 async function fetchArticleText(url) {
@@ -49,7 +49,8 @@ async function fetchArticleText(url) {
       .map(p => p.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim())
       .filter(p => p.length > 60);
     const seen = new Set();
-    const full=ps.filter(p => { const k=p.slice(0,80); return seen.has(k)?false:!!seen.add(k); }).join("\n\n"); return full.slice(0,1500) || null;
+    const full = ps.filter(p => { const k=p.slice(0,80); return seen.has(k)?false:!!seen.add(k); }).join("\n\n");
+    return full.slice(0, 1500) || null;
   } catch(e) { return null; }
 }
 
@@ -57,14 +58,13 @@ async function extractWithGroq(text, apiKey) {
   const res = await fetch(GROQ_URL, {
     method: "POST",
     headers: {"Authorization":`Bearer ${apiKey}`,"Content-Type":"application/json"},
-    body: JSON.stringify({ model:GROQ_MODEL, temperature:0, max_tokens:4096,
+    body: JSON.stringify({ model:GROQ_MODEL, temperature:0, max_tokens:2048,
       messages: [{role:"system",content:SYSTEM_PROMPT},{role:"user",content:text}] })
   });
-  if (!res.ok) { const e=await res.text(); throw new Error(`Groq ${res.status}: ${e.slice(0,200)}`); }
+  if (!res.ok) { const e=await res.text(); throw new Error(`Groq ${res.status}: ${e.slice(0,300)}`); }
   const data = await res.json();
-  const raw = data.choices?.[0]?.message?.content || "[]";
-  const cleaned = raw.replace(/^```json\s*/,"").replace(/\s*```$/,"").trim();
-  try { return JSON.parse(cleaned); } catch(e) { throw new Error(`JSON parse failed: ${cleaned.slice(0,200)}`); }
+  const raw = (data.choices?.[0]?.message?.content || "[]").replace(/^```json\s*/,"").replace(/\s*```$/,"").trim();
+  try { return JSON.parse(raw); } catch(e) { throw new Error(`JSON parse failed: ${raw.slice(0,200)}`); }
 }
 
 function buildNote(d, url, pubDate) {
@@ -100,10 +100,6 @@ function articleFilename(d, pubDate) {
   return `Articles/${date}_${slug}.md`;
 }
 
-function buildDailyNote(date, entries) {
-  return `# ${date}\n\n## Articles\n\n${entries.map(({d,filename})=>`- [[${filename.replace(".md","")}|${d.title||"Untitled"}]]`).join("\n")}\n`;
-}
-
 function buildEntityStub(name, type) {
   return `---\ntype: ${type}\nname: ${name}\n---\n\n# ${name}\n\n## Articles\n\n`;
 }
@@ -122,56 +118,91 @@ async function pushToGitHub(files, token, repo, branch) {
   }));
   const newTree=await(await fetch(`${base}/git/trees`,{method:"POST",headers:h,body:JSON.stringify({base_tree:treeSHA,tree:treeItems})})).json();
   const today=todayTT();
-  const newCommit=await(await fetch(`${base}/git/commits`,{method:"POST",headers:h,body:JSON.stringify({message:`news: ${today} — ${Object.keys(files).filter(f=>f.startsWith("Articles/")).length} articles`,tree:newTree.sha,parents:[headSHA]})})).json();
+  const newCommit=await(await fetch(`${base}/git/commits`,{method:"POST",headers:h,body:JSON.stringify({message:`news: ${today} — ${Object.keys(files).filter(f=>f.startsWith("Articles/")).length} article(s)`,tree:newTree.sha,parents:[headSHA]})})).json();
   await fetch(`${base}/git/refs/heads/${branch}`,{method:"PATCH",headers:h,body:JSON.stringify({sha:newCommit.sha})});
   return newCommit.sha;
 }
 
 async function runPipeline(env) {
-  const today=todayTT();
-  console.log(`[${today}] Pipeline started`);
-  const urlItems=await fetchTodayURLs();
-  console.log(`Found ${urlItems.length} articles`);
-  if (!urlItems.length) return;
-  const fetched=await Promise.all(urlItems.map(async item=>({...item,text:await fetchArticleText(item.url)})));
-  const withText=fetched.filter(a=>a.text);
-  console.log(`Text fetched: ${withText.length}/${fetched.length}`);
-  const extracted=[];
-  for (let i=0;i<withText.length;i+=GROQ_BATCH) {
-    const batch=withText.slice(i,i+GROQ_BATCH);
-    const input=batch.map((a,j)=>`--- ARTICLE ${j+1} ---\nURL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`).join("\n\n");
-    const results=await extractWithGroq(input,env.GROQ_API_KEY);
-    extracted.push(...results);
-    // single article per run — no delay needed
+  const today = todayTT();
+  console.log(`[${today}] Run started`);
+
+  // 1. Get today's full article list
+  const allToday = await fetchTodayURLs();
+  console.log(`Sitemap: ${allToday.length} articles today`);
+  if (!allToday.length) return;
+
+  // 2. Filter to unprocessed only (KV check)
+  const unprocessed = [];
+  for (const item of allToday) {
+    const done = await env.PROCESSED.get(item.url);
+    if (!done) unprocessed.push(item);
   }
-  console.log(`Extracted ${extracted.length} articles`);
-  const files={}, articleEntries=[], newEntities=new Set();
-  for (let i=0;i<extracted.length;i++) {
-    const d=extracted[i], src=withText[i];
-    if (!src) continue;
-    const filename=articleFilename(d,src.pubDate);
-    files[filename]=buildNote(d,src.url,src.pubDate);
-    articleEntries.push({d,filename});
+  console.log(`Unprocessed: ${unprocessed.length}`);
+  if (!unprocessed.length) { console.log("All caught up."); return; }
+
+  // 3. Process one at a time with 65s gap
+  const files = {};
+  const articleEntries = [];
+  const newEntities = new Set();
+
+  for (let i = 0; i < unprocessed.length; i++) {
+    const item = unprocessed[i];
+    if (i > 0) await new Promise(r => setTimeout(r, 65000));
+
+    const text = await fetchArticleText(item.url);
+    if (!text) { await env.PROCESSED.put(item.url, "skip", {expirationTtl: 604800}); continue; }
+
+    let results;
+    try {
+      results = await extractWithGroq(`URL: ${item.url}\nPublished: ${item.pubDate}\n\n${text}`, env.GROQ_API_KEY);
+    } catch(e) {
+      console.log(`Groq error on ${item.url}: ${e.message}`);
+      break; // stop this run, retry next hour
+    }
+
+    const d = Array.isArray(results) ? results[0] : results;
+    if (!d) continue;
+
+    const filename = articleFilename(d, item.pubDate);
+    files[filename] = buildNote(d, item.url, item.pubDate);
+    articleEntries.push({ d, filename });
+
     for (const p of (d.people||[])) newEntities.add(`People/${safe(p.name)}|person|${p.name}`);
     for (const o of (d.organizations||[])) newEntities.add(`Orgs/${safe(o)}|organization|${o}`);
     for (const pl of (d.places||[])) newEntities.add(`Places/${safe(pl)}|place|${pl}`);
     for (const t of (d.topics||[])) newEntities.add(`Topics/${safe(t)}|topic|${t}`);
     for (const a of (d.authors||[])) newEntities.add(`Authors/${safe(a)}|author|${a}`);
+
+    await env.PROCESSED.put(item.url, "done", {expirationTtl: 604800});
+    console.log(`Done: ${d.title}`);
   }
-  files[`Daily/${today}.md`]=buildDailyNote(today,articleEntries);
-  for (const entry of newEntities) { const p=entry.split("|"); files[`Entities/${p[0]}.md`]=buildEntityStub(p[2],p[1]); }
-  const sha=await pushToGitHub(files,env.GITHUB_TOKEN,env.GITHUB_REPO,env.GITHUB_BRANCH||"main");
-  console.log(`Pushed ${Object.keys(files).length} files — commit ${sha.slice(0,7)}`);
+
+  if (!Object.keys(files).length) return;
+
+  // Daily index
+  const dailyKey = `Daily/${today}.md`;
+  const dailyLinks = articleEntries.map(({d,filename}) =>
+    `- [[${filename.replace(".md","")}|${d.title||"Untitled"}]]`).join("\n");
+  files[dailyKey] = `# ${today}\n\n## Articles\n\n${dailyLinks}\n`;
+
+  for (const entry of newEntities) {
+    const p = entry.split("|");
+    files[`Entities/${p[0]}.md`] = buildEntityStub(p[2], p[1]);
+  }
+
+  const sha = await pushToGitHub(files, env.GITHUB_TOKEN, env.GITHUB_REPO, env.GITHUB_BRANCH||"main");
+  console.log(`Pushed ${Object.keys(files).length} files — ${sha.slice(0,7)}`);
 }
 
 export default {
   async fetch(request, env) {
-    const {pathname,searchParams}=new URL(request.url);
-    if (pathname==="/run" && searchParams.get("secret")===env.TRIGGER_SECRET) {
-      try { await runPipeline(env); return new Response("Pipeline complete",{status:200}); }
-      catch(e) { return new Response(`Error: ${e.message}`,{status:500}); }
+    const {pathname, searchParams} = new URL(request.url);
+    if (pathname === "/run" && searchParams.get("secret") === env.TRIGGER_SECRET) {
+      try { await runPipeline(env); return new Response("Done", {status:200}); }
+      catch(e) { return new Response(`Error: ${e.message}`, {status:500}); }
     }
-    return new Response("NewsLink Worker running.",{status:200});
+    return new Response("NewsLink running.", {status:200});
   },
   async scheduled(event, env, ctx) {
     ctx.waitUntil(runPipeline(env));
