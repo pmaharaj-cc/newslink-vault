@@ -7,27 +7,10 @@ const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
 const GROQ_MODEL   = "llama-3.1-8b-instant";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
-const MAX_ARTICLES = 15;
+const MAX_ARTICLES = 10;
 const GROQ_BATCH   = 1;
 
-const SYSTEM_PROMPT = `You are a structured news data extractor for Trinidad news articles.
-Return ONLY a JSON array. Each element has exactly these fields:
-{
-  "title": string,
-  "authors": array of strings (from byline, empty array if none),
-  "date_reported": "YYYY-MM-DD",
-  "date_effective": "YYYY-MM-DD or null",
-  "people": [{"name": string, "role": string}],
-  "organizations": array of strings,
-  "places": array of strings (specific locations only),
-  "topics": array from: economy,crime,government,health,environment,energy,foreign-affairs,education,judiciary,parliament,corruption,housing,infrastructure,social,culture,disaster,
-  "state_changes": [{"entity":string,"change":string,"from":string|null,"to":string,"date_reported":"YYYY-MM-DD","date_effective":"YYYY-MM-DD|null"}],
-  "relationships": [{"from":string,"relation":string,"to":string}],
-  "quotes": [{"speaker":string,"text":string}],
-  "sentiment": [{"author":string,"target":string,"lean":"positive|negative|neutral","basis":string}],
-  "sports_crossover": boolean
-}
-Rules: Max 2 quotes per article. Unnamed speakers use "Anonymous". State changes: only concrete verifiable changes. Return no text outside the JSON array.`;
+const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. Fields: title(str), authors([str]), date_reported(YYYY-MM-DD), date_effective(YYYY-MM-DD|null), people([{name,role}]), organizations([str]), places([str]), topics([economy|crime|government|health|environment|energy|foreign-affairs|education|judiciary|parliament|corruption|housing|infrastructure|social|culture|disaster]), state_changes([{entity,change,from,to,date_reported,date_effective}]), relationships([{from,relation,to}]), quotes([{speaker,text}] max 2, unnamed="Anonymous"), sentiment([{author,target,lean(positive|negative|neutral),basis}]), sports_crossover(bool). No text outside JSON.`;
 
 function todayTT() {
   return new Date(Date.now() + TT_OFFSET_MS).toISOString().slice(0, 10);
@@ -66,7 +49,7 @@ async function fetchArticleText(url) {
       .map(p => p.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim())
       .filter(p => p.length > 60);
     const seen = new Set();
-    const full=ps.filter(p => { const k=p.slice(0,80); return seen.has(k)?false:!!seen.add(k); }).join("\n\n"); return full.slice(0,3000) || null;
+    const full=ps.filter(p => { const k=p.slice(0,80); return seen.has(k)?false:!!seen.add(k); }).join("\n\n"); return full.slice(0,1500) || null;
   } catch(e) { return null; }
 }
 
@@ -159,7 +142,7 @@ async function runPipeline(env) {
     const input=batch.map((a,j)=>`--- ARTICLE ${j+1} ---\nURL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`).join("\n\n");
     const results=await extractWithGroq(input,env.GROQ_API_KEY);
     extracted.push(...results);
-    if (i+GROQ_BATCH<withText.length) await new Promise(r=>setTimeout(r,2000));
+    if (i+GROQ_BATCH<withText.length) await new Promise(r=>setTimeout(r,12000));
   }
   console.log(`Extracted ${extracted.length} articles`);
   const files={}, articleEntries=[], newEntities=new Set();
