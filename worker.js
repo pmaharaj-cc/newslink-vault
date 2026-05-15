@@ -135,7 +135,7 @@ async function runPipeline(env) {
   // 2. Filter to unprocessed only (KV check)
   const unprocessed = [];
   for (const item of allToday) {
-    const done = await env.PROCESSED.get(item.url);
+    const done = env.PROCESSED ? await env.PROCESSED.get(item.url) : null;
     if (!done) unprocessed.push(item);
   }
   console.log(`Unprocessed: ${unprocessed.length}`);
@@ -174,7 +174,7 @@ async function runPipeline(env) {
     for (const t of (d.topics||[])) newEntities.add(`Topics/${safe(t)}|topic|${t}`);
     for (const a of (d.authors||[])) newEntities.add(`Authors/${safe(a)}|author|${a}`);
 
-    await env.PROCESSED.put(item.url, "done", {expirationTtl: 604800});
+    if (env.PROCESSED) await env.PROCESSED.put(item.url, "done", {expirationTtl: 604800});
     console.log(`Done: ${d.title}`);
   }
 
