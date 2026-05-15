@@ -7,7 +7,7 @@ const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
 const GROQ_MODEL   = "llama-3.1-8b-instant";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
-const MAX_ARTICLES = 10;
+const MAX_ARTICLES = 5;
 const GROQ_BATCH   = 1;
 
 const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. Fields: title(str), authors([str]), date_reported(YYYY-MM-DD), date_effective(YYYY-MM-DD|null), people([{name,role}]), organizations([str]), places([str]), topics([economy|crime|government|health|environment|energy|foreign-affairs|education|judiciary|parliament|corruption|housing|infrastructure|social|culture|disaster]), state_changes([{entity,change,from,to,date_reported,date_effective}]), relationships([{from,relation,to}]), quotes([{speaker,text}] max 2, unnamed="Anonymous"), sentiment([{author,target,lean(positive|negative|neutral),basis}]), sports_crossover(bool). No text outside JSON.`;
@@ -142,7 +142,7 @@ async function runPipeline(env) {
     const input=batch.map((a,j)=>`--- ARTICLE ${j+1} ---\nURL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`).join("\n\n");
     const results=await extractWithGroq(input,env.GROQ_API_KEY);
     extracted.push(...results);
-    if (i+GROQ_BATCH<withText.length) await new Promise(r=>setTimeout(r,12000));
+    if (i+GROQ_BATCH<withText.length) await new Promise(r=>setTimeout(r,65000));
   }
   console.log(`Extracted ${extracted.length} articles`);
   const files={}, articleEntries=[], newEntities=new Set();
