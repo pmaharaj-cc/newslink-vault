@@ -8,7 +8,7 @@ const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
 const GROQ_MODEL   = "llama-3.1-8b-instant";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
 const MAX_ARTICLES = 15;
-const GROQ_BATCH   = 3;
+const GROQ_BATCH   = 1;
 
 const SYSTEM_PROMPT = `You are a structured news data extractor for Trinidad news articles.
 Return ONLY a JSON array. Each element has exactly these fields:
@@ -66,7 +66,7 @@ async function fetchArticleText(url) {
       .map(p => p.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim())
       .filter(p => p.length > 60);
     const seen = new Set();
-    return ps.filter(p => { const k=p.slice(0,80); return seen.has(k)?false:!!seen.add(k); }).join("\n\n") || null;
+    const full=ps.filter(p => { const k=p.slice(0,80); return seen.has(k)?false:!!seen.add(k); }).join("\n\n"); return full.slice(0,3000) || null;
   } catch(e) { return null; }
 }
 
