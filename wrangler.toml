@@ -4,7 +4,3 @@ compatibility_date = "2026-05-15"
 
 [triggers]
 crons = ["0 * * * *"]
-
-[[kv_namespaces]]
-binding = "PROCESSED"
-id = "d115bdd018ae426889bb37574c030112"

@@ -1,16 +1,47 @@
 /**
- * NewsLink Worker — hourly run, KV deduplication
- * Env vars: GROQ_API_KEY, GITHUB_TOKEN, GITHUB_REPO, GITHUB_BRANCH, TRIGGER_SECRET
- * KV binding: PROCESSED (namespace for tracking done URLs)
- * Cron: 0 * * * * (every hour)
+ * NewsLink Autonomous Pipeline
+ * Cloudflare Worker — runs on cron schedule
+ *
+ * Flow: sitemap → article texts → Groq extraction → Obsidian markdown → GitHub
+ *
+ * Env vars (Cloudflare dashboard → Settings → Variables and Secrets):
+ *   GROQ_API_KEY    — Groq API key
+ *   GITHUB_TOKEN    — GitHub personal access token (repo scope)
+ *   GITHUB_REPO     — pmaharaj-cc/newslink-vault
+ *   GITHUB_BRANCH   — main
+ *   TRIGGER_SECRET  — password for /run endpoint
  */
 
 const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL   = "llama-3.1-8b-instant"; // v2
+const GROQ_MODEL   = "llama-3.1-8b-instant";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
+const MAX_ARTICLES = 15;
+const GROQ_BATCH   = 3;
 
-const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. Fields: title(str), authors([str]), date_reported(YYYY-MM-DD), date_effective(YYYY-MM-DD|null), people([{name,role}]), organizations([str]), places([str]), topics([economy|crime|government|health|environment|energy|foreign-affairs|education|judiciary|parliament|corruption|housing|infrastructure|social|culture|disaster]), state_changes([{entity,change,from,to,date_reported,date_effective}]), relationships([{from,relation,to}]), quotes([{speaker,text}] max 2, unnamed="Anonymous"), sentiment([{author,target,lean(positive|negative|neutral),basis}]), sports_crossover(bool). No text outside JSON.`;
+const SYSTEM_PROMPT = `You are a structured news data extractor for Trinidad news articles.
+Return ONLY a JSON array. Each element has exactly these fields:
+{
+  "title": string,
+  "authors": array of strings (from byline, empty array if none),
+  "date_reported": "YYYY-MM-DD",
+  "date_effective": "YYYY-MM-DD or null",
+  "people": [{"name": string, "role": string}],
+  "organizations": array of strings,
+  "places": array of strings (specific locations only),
+  "topics": array from: economy,crime,government,health,environment,energy,foreign-affairs,education,judiciary,parliament,corruption,housing,infrastructure,social,culture,disaster,
+  "state_changes": [{"entity":string,"change":string,"from":string|null,"to":string,"date_reported":"YYYY-MM-DD","date_effective":"YYYY-MM-DD|null"}],
+  "relationships": [{"from":string,"relation":string,"to":string}],
+  "quotes": [{"speaker":string,"text":string}],
+  "sentiment": [{"author":string,"target":string,"lean":"positive|negative|neutral","basis":string}],
+  "sports_crossover": boolean
+}
+Rules:
+- Max 2 quotes per article. Unnamed speakers use "Anonymous".
+- State changes: only concrete verifiable changes.
+- Return no text outside the JSON array.`;
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
 
 function todayTT() {
   return new Date(Date.now() + TT_OFFSET_MS).toISOString().slice(0, 10);
@@ -18,193 +49,335 @@ function todayTT() {
 
 function xmlTag(block, tag) {
   const m = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));
-  return m ? m[1].trim().replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&quot;/g,'"') : "";
+  return m ? m[1].trim()
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">").replace(/&quot;/g, '"') : "";
 }
 
-function safe(name) { return String(name).replace(/[<>:"/\\|?*]/g,"").trim(); }
-function wl(name) { return `[[${safe(name)}]]`; }
+function safe(name) {
+  return String(name).replace(/[<>:"/\\|?*]/g, "").trim();
+}
+
+function wl(name) {
+  return `[[${safe(name)}]]`;
+}
+
+// ── Step 1: Sitemap → today's URLs ───────────────────────────────────────────
 
 async function fetchTodayURLs() {
-  const res = await fetch(SITEMAP, { headers: {"User-Agent":"Mozilla/5.0"} });
+  const res = await fetch(SITEMAP, { headers: { "User-Agent": "Mozilla/5.0" } });
   const xml = await res.text();
   const today = todayTT();
   const seen = new Set();
   const articles = [];
+
   for (const block of (xml.match(/<url>[\s\S]*?<\/url>/g) || [])) {
     const url = xmlTag(block, "loc");
     const pub = xmlTag(block, "news:publication_date");
-    if (!url || seen.has(url) || !pub.startsWith(today) || url.includes("/sports/")) continue;
+    if (!url || seen.has(url)) continue;
+    if (!pub.startsWith(today)) continue;
+    if (url.includes("/sports/")) continue;
     seen.add(url);
     articles.push({ url, pubDate: pub });
   }
-  return articles;
+
+  return articles.slice(0, MAX_ARTICLES);
 }
+
+// ── Step 2: Fetch article text ────────────────────────────────────────────────
 
 async function fetchArticleText(url) {
   try {
-    const res = await fetch(url, { headers: {"User-Agent":"Mozilla/5.0"} });
+    const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" } });
     if (!res.ok) return null;
     const html = await res.text();
+
     const ps = (html.match(/<p[^>]*>[\s\S]*?<\/p>/g) || [])
-      .map(p => p.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim())
+      .map(p => p.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim())
       .filter(p => p.length > 60);
+
     const seen = new Set();
-    const full = ps.filter(p => { const k=p.slice(0,80); return seen.has(k)?false:!!seen.add(k); }).join("\n\n");
-    return full.slice(0, 1500) || null;
-  } catch(e) { return null; }
+    const unique = ps.filter(p => {
+      const k = p.slice(0, 80);
+      return seen.has(k) ? false : !!seen.add(k);
+    });
+
+    return unique.join("\n\n") || null;
+  } catch (e) {
+    return null;
+  }
 }
 
-async function extractWithGroq(text, apiKey) {
+// ── Step 3: Groq extraction ───────────────────────────────────────────────────
+
+async function extractWithGroq(articlesText, apiKey) {
   const res = await fetch(GROQ_URL, {
     method: "POST",
-    headers: {"Authorization":`Bearer ${apiKey}`,"Content-Type":"application/json"},
-    body: JSON.stringify({ model:GROQ_MODEL, temperature:0, max_tokens:2048,
-      messages: [{role:"system",content:SYSTEM_PROMPT},{role:"user",content:text}] })
+    headers: {
+      "Authorization": `Bearer ${apiKey}`,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      model: GROQ_MODEL,
+      temperature: 0,
+      max_tokens: 4096,
+      messages: [
+        { role: "system", content: SYSTEM_PROMPT },
+        { role: "user",   content: articlesText }
+      ]
+    })
   });
-  if (!res.ok) { const e=await res.text(); throw new Error(`Groq ${res.status}: ${e.slice(0,300)}`); }
+
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`Groq ${res.status}: ${err.slice(0, 200)}`);
+  }
+
   const data = await res.json();
-  const raw = (data.choices?.[0]?.message?.content || "[]").replace(/^```json\s*/,"").replace(/\s*```$/,"").trim();
-  try { return JSON.parse(raw); } catch(e) { throw new Error(`JSON parse failed: ${raw.slice(0,200)}`); }
+  const raw = data.choices?.[0]?.message?.content || "[]";
+  const cleaned = raw.replace(/^```json\s*/,"").replace(/\s*```$/,"").trim();
+
+  try {
+    return JSON.parse(cleaned);
+  } catch (e) {
+    throw new Error(`JSON parse failed: ${cleaned.slice(0, 200)}`);
+  }
 }
 
+// ── Step 4: Build Obsidian note ───────────────────────────────────────────────
+
 function buildNote(d, url, pubDate) {
-  const date=d.date_reported||pubDate.slice(0,10), dateEff=d.date_effective, authors=d.authors||[];
-  const lines=["---",
-    `title: "${(d.title||"Untitled").replace(/"/g,"'")}"`,
-    `date_reported: ${date}`,`date_effective: ${dateEff||"null"}`,
-    `source: trinidadexpress.com`,`url: ${url}`,
-    `authors: [${authors.join(", ")}]`,`tags: [${(d.topics||[]).join(", ")}]`,
-    `sports_crossover: ${d.sports_crossover||false}`,"---","",
-    `# ${d.title||"Untitled"}`,`> ${date} · trinidadexpress.com · [link](${url})`,""];
-  if (authors.length) lines.push(`**By:** ${authors.map(a=>`[[Authors/${safe(a)}|${a}]]`).join(" · ")}`, "");
-  if (dateEff && dateEff!==date) lines.push(`> ⚠️ **Effective:** ${dateEff} (reported ${date})`, "");
-  const people=d.people||[], orgs=d.organizations||[], places=d.places||[], topics=d.topics||[];
-  if (people.length) lines.push("## People", people.map(p=>`[[People/${safe(p.name)}|${p.name}]]`).join(" · "),"");
-  if (orgs.length)   lines.push("## Organizations", orgs.map(o=>`[[Orgs/${safe(o)}|${o}]]`).join(" · "),"");
-  if (places.length) lines.push("## Places", places.map(p=>`[[Places/${safe(p)}|${p}]]`).join(" · "),"");
-  if (topics.length) lines.push("## Topics", topics.map(t=>`[[Topics/${safe(t)}|${t}]]`).join(" · "),"");
-  const sc=d.state_changes||[];
-  if (sc.length) { lines.push("## State Changes",""); for (const s of sc) { const eff=s.date_effective&&s.date_effective!==s.date_reported?` _(effective ${s.date_effective})_`:""; lines.push(`- ${wl(s.entity)}: **${s.from||"?"}** → **${s.to}** _${s.change}_${eff}`); } lines.push(""); }
-  const rels=d.relationships||[];
-  if (rels.length) { lines.push("## Relationships",""); for (const r of rels) lines.push(`- ${wl(r.from)} **${r.relation}** ${wl(r.to)}`); lines.push(""); }
-  const quotes=d.quotes||[];
-  if (quotes.length) { lines.push("## Key Quotes",""); for (const q of quotes) lines.push(`> "${q.text}"`,`> — ${wl(q.speaker)}`,""); }
-  const sentiment=d.sentiment||[];
-  if (sentiment.length) { lines.push("---","## Sentiment",""); const icons={positive:"🟢",negative:"🔴",neutral:"⚪"}; for (const s of sentiment) lines.push(`- ${wl(s.author)} → ${wl(s.target)}: ${icons[s.lean]||"⚪"} **${s.lean}** — _${s.basis}_`); lines.push(""); }
+  const date    = d.date_reported || pubDate.slice(0, 10);
+  const dateEff = d.date_effective;
+  const authors = d.authors || [];
+
+  const lines = [
+    "---",
+    `title: "${(d.title || "Untitled").replace(/"/g, "'")}"`,
+    `date_reported: ${date}`,
+    `date_effective: ${dateEff || "null"}`,
+    `source: trinidadexpress.com`,
+    `url: ${url}`,
+    `authors: [${authors.join(", ")}]`,
+    `tags: [${(d.topics || []).join(", ")}]`,
+    `sports_crossover: ${d.sports_crossover || false}`,
+    "---",
+    "",
+    `# ${d.title || "Untitled"}`,
+    `> ${date} · trinidadexpress.com · [link](${url})`,
+    "",
+  ];
+
+  if (authors.length) {
+    lines.push(`**By:** ${authors.map(a => `[[Authors/${safe(a)}|${a}]]`).join(" · ")}`, "");
+  }
+  if (dateEff && dateEff !== date) {
+    lines.push(`> ⚠️ **Effective:** ${dateEff} (reported ${date})`, "");
+  }
+
+  const people = d.people || [];
+  const orgs   = d.organizations || [];
+  const places = d.places || [];
+  const topics = d.topics || [];
+
+  if (people.length) lines.push("## People", people.map(p => `[[People/${safe(p.name)}|${p.name}]]`).join(" · "), "");
+  if (orgs.length)   lines.push("## Organizations", orgs.map(o => `[[Orgs/${safe(o)}|${o}]]`).join(" · "), "");
+  if (places.length) lines.push("## Places", places.map(p => `[[Places/${safe(p)}|${p}]]`).join(" · "), "");
+  if (topics.length) lines.push("## Topics", topics.map(t => `[[Topics/${safe(t)}|${t}]]`).join(" · "), "");
+
+  const sc = d.state_changes || [];
+  if (sc.length) {
+    lines.push("## State Changes", "");
+    for (const s of sc) {
+      const eff = s.date_effective && s.date_effective !== s.date_reported
+        ? ` _(effective ${s.date_effective})_` : "";
+      lines.push(`- ${wl(s.entity)}: **${s.from || "?"}** → **${s.to}** _${s.change}_${eff}`);
+    }
+    lines.push("");
+  }
+
+  const rels = d.relationships || [];
+  if (rels.length) {
+    lines.push("## Relationships", "");
+    for (const r of rels) lines.push(`- ${wl(r.from)} **${r.relation}** ${wl(r.to)}`);
+    lines.push("");
+  }
+
+  const quotes = d.quotes || [];
+  if (quotes.length) {
+    lines.push("## Key Quotes", "");
+    for (const q of quotes) {
+      lines.push(`> "${q.text}"`, `> — ${wl(q.speaker)}`, "");
+    }
+  }
+
+  const sentiment = d.sentiment || [];
+  if (sentiment.length) {
+    lines.push("---", "## Sentiment", "");
+    const icons = { positive: "🟢", negative: "🔴", neutral: "⚪" };
+    for (const s of sentiment) {
+      lines.push(`- ${wl(s.author)} → ${wl(s.target)}: ${icons[s.lean] || "⚪"} **${s.lean}** — _${s.basis}_`);
+    }
+    lines.push("");
+  }
+
   return lines.join("\n");
 }
 
 function articleFilename(d, pubDate) {
-  const date=d.date_reported||pubDate.slice(0,10);
-  const slug=(d.title||"untitled").replace(/[^\w\s-]/g,"").trim().slice(0,55).replace(/\s+/g,"-");
+  const date = d.date_reported || pubDate.slice(0, 10);
+  const slug = (d.title || "untitled")
+    .replace(/[^\w\s-]/g, "").trim().slice(0, 55).replace(/\s+/g, "-");
   return `Articles/${date}_${slug}.md`;
+}
+
+function buildDailyNote(date, entries) {
+  const links = entries.map(({ d, filename }) =>
+    `- [[${filename.replace(".md", "")}|${d.title || "Untitled"}]]`
+  ).join("\n");
+  return `# ${date}\n\n## Articles\n\n${links}\n`;
 }
 
 function buildEntityStub(name, type) {
   return `---\ntype: ${type}\nname: ${name}\n---\n\n# ${name}\n\n## Articles\n\n`;
 }
 
+// ── Step 5: Push all files to GitHub (Git Trees API) ─────────────────────────
+
 async function pushToGitHub(files, token, repo, branch) {
-  const base=`https://api.github.com/repos/${repo}`;
-  const h={"Authorization":`token ${token}`,"Content-Type":"application/json","Accept":"application/vnd.github.v3+json"};
-  const refData=await(await fetch(`${base}/git/refs/heads/${branch}`,{headers:h})).json();
-  const headSHA=refData.object?.sha;
+  const base = `https://api.github.com/repos/${repo}`;
+  const headers = {
+    "Authorization": `token ${token}`,
+    "Content-Type": "application/json",
+    "Accept": "application/vnd.github.v3+json"
+  };
+
+  const refRes = await fetch(`${base}/git/refs/heads/${branch}`, { headers });
+  const refData = await refRes.json();
+  const headSHA = refData.object?.sha;
   if (!headSHA) throw new Error("Could not get HEAD SHA");
-  const commitData=await(await fetch(`${base}/git/commits/${headSHA}`,{headers:h})).json();
-  const treeSHA=commitData.tree?.sha;
-  const treeItems=await Promise.all(Object.entries(files).map(async([path,content])=>{
-    const blob=await(await fetch(`${base}/git/blobs`,{method:"POST",headers:h,body:JSON.stringify({content,encoding:"utf-8"})})).json();
-    return {path,mode:"100644",type:"blob",sha:blob.sha};
-  }));
-  const newTree=await(await fetch(`${base}/git/trees`,{method:"POST",headers:h,body:JSON.stringify({base_tree:treeSHA,tree:treeItems})})).json();
-  const today=todayTT();
-  const newCommit=await(await fetch(`${base}/git/commits`,{method:"POST",headers:h,body:JSON.stringify({message:`news: ${today} — ${Object.keys(files).filter(f=>f.startsWith("Articles/")).length} article(s)`,tree:newTree.sha,parents:[headSHA]})})).json();
-  await fetch(`${base}/git/refs/heads/${branch}`,{method:"PATCH",headers:h,body:JSON.stringify({sha:newCommit.sha})});
+
+  const commitRes = await fetch(`${base}/git/commits/${headSHA}`, { headers });
+  const commitData = await commitRes.json();
+  const treeSHA = commitData.tree?.sha;
+
+  const treeItems = await Promise.all(
+    Object.entries(files).map(async ([path, content]) => {
+      const blobRes = await fetch(`${base}/git/blobs`, {
+        method: "POST", headers,
+        body: JSON.stringify({ content, encoding: "utf-8" })
+      });
+      const blob = await blobRes.json();
+      return { path, mode: "100644", type: "blob", sha: blob.sha };
+    })
+  );
+
+  const newTreeRes = await fetch(`${base}/git/trees`, {
+    method: "POST", headers,
+    body: JSON.stringify({ base_tree: treeSHA, tree: treeItems })
+  });
+  const newTree = await newTreeRes.json();
+
+  const today = todayTT();
+  const newCommitRes = await fetch(`${base}/git/commits`, {
+    method: "POST", headers,
+    body: JSON.stringify({
+      message: `news: ${today} — ${Object.keys(files).filter(f => f.startsWith("Articles/")).length} articles`,
+      tree: newTree.sha,
+      parents: [headSHA]
+    })
+  });
+  const newCommit = await newCommitRes.json();
+
+  await fetch(`${base}/git/refs/heads/${branch}`, {
+    method: "PATCH", headers,
+    body: JSON.stringify({ sha: newCommit.sha })
+  });
+
   return newCommit.sha;
 }
 
+// ── Main pipeline ─────────────────────────────────────────────────────────────
+
 async function runPipeline(env) {
   const today = todayTT();
-  console.log(`[${today}] Run started`);
+  console.log(`[${today}] Pipeline started`);
 
-  // 1. Get today's full article list
-  const allToday = await fetchTodayURLs();
-  console.log(`Sitemap: ${allToday.length} articles today`);
-  if (!allToday.length) return;
+  const urlItems = await fetchTodayURLs();
+  console.log(`Found ${urlItems.length} articles`);
+  if (!urlItems.length) return;
 
-  // 2. Filter to unprocessed only (KV check)
-  const unprocessed = [];
-  for (const item of allToday) {
-    const done = env.PROCESSED ? await env.PROCESSED.get(item.url) : null;
-    if (!done) unprocessed.push(item);
+  const fetched = await Promise.all(
+    urlItems.map(async item => ({ ...item, text: await fetchArticleText(item.url) }))
+  );
+  const withText = fetched.filter(a => a.text);
+  console.log(`Text fetched: ${withText.length}/${fetched.length}`);
+
+  // Groq extraction in small batches
+  const extracted = [];
+  for (let i = 0; i < withText.length; i += GROQ_BATCH) {
+    const batch = withText.slice(i, i + GROQ_BATCH);
+    const input = batch.map((a, j) =>
+      `--- ARTICLE ${j + 1} ---\nURL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`
+    ).join("\n\n");
+    const results = await extractWithGroq(input, env.GROQ_API_KEY);
+    extracted.push(...results);
+    if (i + GROQ_BATCH < withText.length) {
+      await new Promise(r => setTimeout(r, 2000));
+    }
   }
-  console.log(`Unprocessed: ${unprocessed.length}`);
-  if (!unprocessed.length) { console.log("All caught up."); return; }
+  console.log(`Extracted ${extracted.length} articles`);
 
-  // 3. Process one at a time with 65s gap
+  // Build files
   const files = {};
   const articleEntries = [];
   const newEntities = new Set();
 
-  for (let i = 0; i < unprocessed.length; i++) {
-    const item = unprocessed[i];
-    if (i > 0) await new Promise(r => setTimeout(r, 65000));
+  for (let i = 0; i < extracted.length; i++) {
+    const d   = extracted[i];
+    const src = withText[i];
+    if (!src) continue;
 
-    const text = await fetchArticleText(item.url);
-    if (!text) { await env.PROCESSED.put(item.url, "skip", {expirationTtl: 604800}); continue; }
-
-    let results;
-    try {
-      results = await extractWithGroq(`URL: ${item.url}\nPublished: ${item.pubDate}\n\n${text}`, env.GROQ_API_KEY);
-    } catch(e) {
-      console.log(`Groq error on ${item.url}: ${e.message}`);
-      break; // stop this run, retry next hour
-    }
-
-    const d = Array.isArray(results) ? results[0] : results;
-    if (!d) continue;
-
-    const filename = articleFilename(d, item.pubDate);
-    files[filename] = buildNote(d, item.url, item.pubDate);
+    const filename = articleFilename(d, src.pubDate);
+    files[filename] = buildNote(d, src.url, src.pubDate);
     articleEntries.push({ d, filename });
 
-    for (const p of (d.people||[])) newEntities.add(`People/${safe(p.name)}|person|${p.name}`);
-    for (const o of (d.organizations||[])) newEntities.add(`Orgs/${safe(o)}|organization|${o}`);
-    for (const pl of (d.places||[])) newEntities.add(`Places/${safe(pl)}|place|${pl}`);
-    for (const t of (d.topics||[])) newEntities.add(`Topics/${safe(t)}|topic|${t}`);
-    for (const a of (d.authors||[])) newEntities.add(`Authors/${safe(a)}|author|${a}`);
-
-    if (env.PROCESSED) await env.PROCESSED.put(item.url, "done", {expirationTtl: 604800});
-    console.log(`Done: ${d.title}`);
+    for (const p of (d.people || []))        newEntities.add(`People/${safe(p.name)}|person|${p.name}`);
+    for (const o of (d.organizations || [])) newEntities.add(`Orgs/${safe(o)}|organization|${o}`);
+    for (const pl of (d.places || []))       newEntities.add(`Places/${safe(pl)}|place|${pl}`);
+    for (const t of (d.topics || []))        newEntities.add(`Topics/${safe(t)}|topic|${t}`);
+    for (const a of (d.authors || []))       newEntities.add(`Authors/${safe(a)}|author|${a}`);
   }
 
-  if (!Object.keys(files).length) return;
-
-  // Daily index
-  const dailyKey = `Daily/${today}.md`;
-  const dailyLinks = articleEntries.map(({d,filename}) =>
-    `- [[${filename.replace(".md","")}|${d.title||"Untitled"}]]`).join("\n");
-  files[dailyKey] = `# ${today}\n\n## Articles\n\n${dailyLinks}\n`;
+  files[`Daily/${today}.md`] = buildDailyNote(today, articleEntries);
 
   for (const entry of newEntities) {
-    const p = entry.split("|");
-    files[`Entities/${p[0]}.md`] = buildEntityStub(p[2], p[1]);
+    const parts = entry.split("|");
+    files[`Entities/${parts[0]}.md`] = buildEntityStub(parts[2], parts[1]);
   }
 
-  const sha = await pushToGitHub(files, env.GITHUB_TOKEN, env.GITHUB_REPO, env.GITHUB_BRANCH||"main");
-  console.log(`Pushed ${Object.keys(files).length} files — ${sha.slice(0,7)}`);
+  const sha = await pushToGitHub(files, env.GITHUB_TOKEN, env.GITHUB_REPO, env.GITHUB_BRANCH || "main");
+  console.log(`Pushed ${Object.keys(files).length} files — commit ${sha.slice(0, 7)}`);
 }
+
+// ── Exports ───────────────────────────────────────────────────────────────────
 
 export default {
   async fetch(request, env) {
-    const {pathname, searchParams} = new URL(request.url);
+    const { pathname, searchParams } = new URL(request.url);
     if (pathname === "/run" && searchParams.get("secret") === env.TRIGGER_SECRET) {
-      try { await runPipeline(env); return new Response("Done", {status:200}); }
-      catch(e) { return new Response(`Error: ${e.message}`, {status:500}); }
+      try {
+        await runPipeline(env);
+        return new Response("Pipeline complete", { status: 200 });
+      } catch (e) {
+        return new Response(`Error: ${e.message}`, { status: 500 });
+      }
     }
-    return new Response("NewsLink running.", {status:200});
+    return new Response("NewsLink Worker running.", { status: 200 });
   },
+
   async scheduled(event, env, ctx) {
     ctx.waitUntil(runPipeline(env));
   }
 };
+                                                                                                                                                                                                                                             
