@@ -14,7 +14,7 @@
 // ── Config ────────────────────────────────────────────────────────────────────
 const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL   = "llama3-70b-8192";
+const GROQ_MODEL   = "llama-3.3-70b-versatile";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
 const MAX_ARTICLES = 12; // stay within Cloudflare free subrequest limit
 
@@ -120,10 +120,18 @@ async function extractWithGroq(articlesText, apiKey) {
     })
   });
 
+  if (!res.ok) {
+    const errText = await res.text();
+    throw new Error(`Groq API error ${res.status}: ${errText.slice(0,200)}`);
+  }
   const data = await res.json();
   const raw = data.choices?.[0]?.message?.content || "[]";
   const cleaned = raw.replace(/^```json\s*/,"").replace(/\s*```$/,"").trim();
-  return JSON.parse(cleaned);
+  try {
+    return JSON.parse(cleaned);
+  } catch(e) {
+    throw new Error(`JSON parse failed. Raw: ${cleaned.slice(0,200)}`);
+  }
 }
 
 // ── Step 4: Build Obsidian markdown ──────────────────────────────────────────
@@ -365,5 +373,3 @@ export default {
 
   async scheduled(event, env, ctx) {
     ctx.waitUntil(runPipeline(env));
-  }
-};
