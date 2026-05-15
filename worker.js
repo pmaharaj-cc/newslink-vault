@@ -148,7 +148,7 @@ function buildEntityStub(name, type) {
 
 async function pushToGitHub(files, token, repo, branch) {
   const base=`https://api.github.com/repos/${repo}`;
-  const headers={"Authorization":`token ${token}`,"Content-Type":"application/json","Accept":"application/vnd.github.v3+json"};
+  const headers={"Authorization":`token ${token}`,"Content-Type":"application/json","Accept":"application/vnd.github.v3+json","User-Agent":"newslink-worker"};
 
   const refRes = await fetch(`${base}/git/refs/heads/${branch}`, {headers});
   const refData = await safeJSON(refRes, "GitHub getRef");
