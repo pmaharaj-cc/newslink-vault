@@ -7,7 +7,7 @@
 
 const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL   = "llama-3.1-8b-instant";
+const GROQ_MODEL   = "llama-3.1-8b-instant"; // v2
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
 
 const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. Fields: title(str), authors([str]), date_reported(YYYY-MM-DD), date_effective(YYYY-MM-DD|null), people([{name,role}]), organizations([str]), places([str]), topics([economy|crime|government|health|environment|energy|foreign-affairs|education|judiciary|parliament|corruption|housing|infrastructure|social|culture|disaster]), state_changes([{entity,change,from,to,date_reported,date_effective}]), relationships([{from,relation,to}]), quotes([{speaker,text}] max 2, unnamed="Anonymous"), sentiment([{author,target,lean(positive|negative|neutral),basis}]), sports_crossover(bool). No text outside JSON.`;
