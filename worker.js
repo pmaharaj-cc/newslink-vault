@@ -225,7 +225,7 @@ async function runPipeline(env) {
     files[`Entities/${parts[0]}.md`] = buildEntityStub(parts[2], parts[1]);
   }
 
-  const sha = await pushToGitHub(files, env.GITHUB_TOKEN, env.GITHUB_REPO, (env.GITHUB_BRANCH||"main").trim());
+  const sha = await pushToGitHub(files, env.GITHUB_TOKEN, "pmaharaj-cc/newslink-vault", "main");
   console.log(`Pushed ${Object.keys(files).length} files — commit ${sha.slice(0,7)}`);
 }
 
