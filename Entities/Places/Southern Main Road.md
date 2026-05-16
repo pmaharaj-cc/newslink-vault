@@ -1,5 +1,5 @@
 ---
-type: place
+type: places
 name: Southern Main Road
 ---
 
@@ -7,3 +7,4 @@ name: Southern Main Road
 
 ## Articles
 
+- [[Articles/2026-05-15_Three-bodies-in-one-week|Three bodies in one week]]
