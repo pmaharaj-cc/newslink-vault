@@ -21,7 +21,7 @@ topics([economy|crime|government|health|environment|energy|foreign-affairs|educa
 state_changes([{entity,change,from,to,date_reported,date_effective}]),
 relationships([{from,relation,to}]),quotes([{speaker,text}] max 2 unnamed=Anonymous),
 sentiment([{author,target,lean(positive|negative|neutral),basis}]),sports_crossover(bool).
-Empty=[] Unknown=null. No text outside JSON.`;
+Rules: people must be real named individuals only (e.g. "John Smith") — never generic phrases like "multiple accused", "a resident", "the minister", "officers". organizations must be real named bodies. Empty=[] Unknown=null. No text outside JSON.`;
 
 function todayTT() {
   return new Date(Date.now() + TT_OFFSET_MS).toISOString().slice(0, 10);
