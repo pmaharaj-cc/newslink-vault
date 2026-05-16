@@ -1,8 +1,8 @@
 /**
  * NewsLink Autonomous Pipeline — Cloudflare Worker
- * Env vars: GROQ_API_KEY, GITHUB_TOKEN, TRIGGER_SECRET
- * Subrequest budget (free tier = 50):
- *   1 sitemap + 10 text fetches + 10 exist checks + 3 Groq + ~8 GitHub = ~32
+ * Runs hourly. Tracks processed URLs in data/processed.json in the vault repo.
+ * Subrequest budget per run (~20, well under free-tier limit of 50):
+ *   1 sitemap + 1 processed.json + 3 text + 3 Groq + ~10 GitHub = ~18
  */
 
 const SITEMAP      = "https://trinidadexpress.com/tncms/sitemap/news.xml";
@@ -11,8 +11,8 @@ const GROQ_MODEL   = "llama-3.1-8b-instant";
 const GH_REPO      = "pmaharaj-cc/newslink-vault";
 const GH_BRANCH    = "main";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
-const MAX_FETCH    = 10;  // articles to pull from sitemap
-const MAX_PROCESS  = 3;   // max new articles to send to Groq per run
+const MAX_FETCH    = 15;  // articles checked from sitemap per run
+const MAX_PROCESS  = 3;   // new articles to process per run
 const TEXT_LIMIT   = 800;
 
 const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. One object per article. Fields:
@@ -38,7 +38,7 @@ async function safeJSON(res, label) {
   const text = await res.text();
   if (!res.ok) throw new Error(`${label} HTTP ${res.status}: ${text.slice(0,300)}`);
   try { return JSON.parse(text); }
-  catch(e) { throw new Error(`${label} bad JSON (${res.status}): ${text.slice(0,200)}`); }
+  catch(e) { throw new Error(`${label} bad JSON: ${text.slice(0,200)}`); }
 }
 
 async function fetchTodayURLs() {
@@ -74,27 +74,13 @@ async function fetchArticleText(url) {
   } catch(e) { return null; }
 }
 
-function articleFilename(d, pubDate) {
-  const date = d.date_reported || pubDate.slice(0,10);
-  const slug = (d.title||"untitled").replace(/[^\w\s-]/g,"").trim().slice(0,55).replace(/\s+/g,"-");
-  return `Articles/${date}_${slug}.md`;
-}
-
-async function fileExists(path, ghHeaders) {
-  const res = await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${path}`, {headers: ghHeaders});
-  return res.status === 200;
-}
-
 async function extractWithGroq(articleText, apiKey) {
   const res = await fetch(GROQ_URL, {
     method: "POST",
     headers: {"Authorization":`Bearer ${apiKey}`,"Content-Type":"application/json"},
     body: JSON.stringify({
       model: GROQ_MODEL, temperature: 0, max_tokens: 1024,
-      messages: [
-        {role:"system", content:SYSTEM_PROMPT},
-        {role:"user",   content:articleText}
-      ]
+      messages: [{role:"system",content:SYSTEM_PROMPT},{role:"user",content:articleText}]
     })
   });
   const data = await safeJSON(res, "Groq");
@@ -158,115 +144,96 @@ async function pushToGitHub(files, token) {
     "Accept": "application/vnd.github.v3+json",
     "User-Agent": "newslink-worker"
   };
-
-  const refData = await safeJSON(
-    await fetch(`${base}/git/refs/heads/${GH_BRANCH}`, {headers}),
-    "GitHub getRef"
-  );
+  const refData = await safeJSON(await fetch(`${base}/git/refs/heads/${GH_BRANCH}`,{headers}), "getRef");
   const headSHA = refData.object?.sha;
   if (!headSHA) throw new Error("No HEAD SHA");
-
-  const commitData = await safeJSON(
-    await fetch(`${base}/git/commits/${headSHA}`, {headers}),
-    "GitHub getCommit"
-  );
+  const commitData = await safeJSON(await fetch(`${base}/git/commits/${headSHA}`,{headers}), "getCommit");
   const treeSHA = commitData.tree?.sha;
 
-  // Create blobs sequentially to avoid hitting subrequest limits
   const treeItems = [];
   for (const [path, content] of Object.entries(files)) {
     const blob = await safeJSON(
-      await fetch(`${base}/git/blobs`, {method:"POST",headers,body:JSON.stringify({content,encoding:"utf-8"})}),
-      `GitHub blob:${path}`
+      await fetch(`${base}/git/blobs`,{method:"POST",headers,body:JSON.stringify({content,encoding:"utf-8"})}),
+      `blob:${path}`
     );
     treeItems.push({path, mode:"100644", type:"blob", sha:blob.sha});
   }
-
   const newTree = await safeJSON(
-    await fetch(`${base}/git/trees`, {method:"POST",headers,body:JSON.stringify({base_tree:treeSHA,tree:treeItems})}),
-    "GitHub createTree"
+    await fetch(`${base}/git/trees`,{method:"POST",headers,body:JSON.stringify({base_tree:treeSHA,tree:treeItems})}),
+    "createTree"
   );
-
   const today = todayTT();
   const newCommit = await safeJSON(
-    await fetch(`${base}/git/commits`, {method:"POST",headers,body:JSON.stringify({
-      message: `news: ${today} — ${Object.keys(files).filter(f=>f.startsWith("Articles/")).length} articles`,
-      tree: newTree.sha, parents: [headSHA]
+    await fetch(`${base}/git/commits`,{method:"POST",headers,body:JSON.stringify({
+      message:`news: ${today} — ${Object.keys(files).filter(f=>f.startsWith("Articles/")).length} articles`,
+      tree:newTree.sha, parents:[headSHA]
     })}),
-    "GitHub createCommit"
+    "createCommit"
   );
-
   await safeJSON(
-    await fetch(`${base}/git/refs/heads/${GH_BRANCH}`, {method:"PATCH",headers,body:JSON.stringify({sha:newCommit.sha})}),
-    "GitHub updateRef"
+    await fetch(`${base}/git/refs/heads/${GH_BRANCH}`,{method:"PATCH",headers,body:JSON.stringify({sha:newCommit.sha})}),
+    "updateRef"
   );
-
   return newCommit.sha;
+}
+
+async function loadProcessed(token) {
+  const headers = {"Authorization":`token ${token}`,"Accept":"application/vnd.github.v3+json","User-Agent":"newslink-worker"};
+  const res = await fetch(`https://api.github.com/repos/${GH_REPO}/contents/data/processed.json`,{headers});
+  if (res.status === 404) return new Set();
+  const data = await safeJSON(res, "loadProcessed");
+  const urls = JSON.parse(atob(data.content.replace(/\n/g,"")));
+  return new Set(urls);
 }
 
 async function runPipeline(env) {
   const today = todayTT();
   console.log(`[${today}] Pipeline started`);
 
-  const ghHeaders = {
-    "Authorization": `token ${env.GITHUB_TOKEN}`,
-    "Accept": "application/vnd.github.v3+json",
-    "User-Agent": "newslink-worker"
-  };
+  // Load already-processed URLs from GitHub
+  const processed = await loadProcessed(env.GITHUB_TOKEN);
+  console.log(`Already processed: ${processed.size} URLs`);
 
   const urlItems = await fetchTodayURLs();
-  console.log(`Sitemap: ${urlItems.length} articles`);
-  if (!urlItems.length) return;
+  console.log(`Sitemap: ${urlItems.length} articles today`);
 
-  // Check which articles are already in GitHub — skip them
-  const toProcess = [];
-  for (const item of urlItems) {
-    if (toProcess.length >= MAX_PROCESS) break;
-    const date = item.pubDate.slice(0,10);
-    // We don't know the slug yet, so fetch text + check after extraction
-    // Instead: check by URL hash isn't feasible — just fetch text for candidates
-    toProcess.push(item);
-  }
+  // Filter to only unprocessed
+  const unprocessed = urlItems.filter(a => !processed.has(a.url));
+  console.log(`Unprocessed: ${unprocessed.length}`);
+  if (!unprocessed.length) { console.log("All done for today"); return; }
 
-  // Fetch article text
-  const withText = [];
-  for (const item of toProcess) {
-    const text = await fetchArticleText(item.url);
-    if (text) withText.push({...item, text});
-  }
-  console.log(`Text: ${withText.length}/${toProcess.length}`);
-
-  // Extract with Groq, skip already-existing files
+  // Process up to MAX_PROCESS new articles
+  const toProcess = unprocessed.slice(0, MAX_PROCESS);
   const extracted = [];
-  for (let i = 0; i < withText.length; i++) {
-    const a = withText[i];
-    const input = `URL: ${a.url}\nPublished: ${a.pubDate}\n\n${a.text}`;
+  for (let i = 0; i < toProcess.length; i++) {
+    const a = toProcess[i];
+    const text = await fetchArticleText(a.url);
+    if (!text) { processed.add(a.url); continue; }
+    const input = `URL: ${a.url}\nPublished: ${a.pubDate}\n\n${text}`;
     try {
       const r = await extractWithGroq(input, env.GROQ_API_KEY);
       const d = r[0];
-      if (!d) continue;
-      // Check if this article file already exists
-      const filename = articleFilename(d, a.pubDate);
-      const exists = await fileExists(filename, ghHeaders);
-      if (exists) { console.log(`Skip (exists): ${d.title}`); continue; }
-      extracted.push({result: d, src: a, filename});
-    } catch(e) { console.log(`Article ${i+1} failed: ${e.message}`); }
-    if (i + 1 < withText.length) await new Promise(r => setTimeout(r, 2000));
+      if (d) extracted.push({result:d, src:a});
+      processed.add(a.url);
+    } catch(e) { console.log(`Failed: ${e.message}`); }
+    if (i + 1 < toProcess.length) await new Promise(r => setTimeout(r, 2000));
   }
-  console.log(`New articles: ${extracted.length}`);
+  console.log(`Extracted: ${extracted.length}`);
   if (!extracted.length) return;
 
-  // Build files — articles + daily note only (no entity stubs to stay under subrequest limit)
+  // Build files
   const files = {};
   const articleEntries = [];
-  for (const {result: d, src, filename} of extracted) {
+  for (const {result:d, src} of extracted) {
+    const filename = `Articles/${(d.date_reported||src.pubDate.slice(0,10))}_${(d.title||"untitled").replace(/[^\w\s-]/g,"").trim().slice(0,55).replace(/\s+/g,"-")}.md`;
     files[filename] = buildNote(d, src.url, src.pubDate);
     articleEntries.push({d, filename});
   }
   files[`Daily/${today}.md`] = buildDailyNote(today, articleEntries);
+  files["data/processed.json"] = JSON.stringify([...processed], null, 2);
 
   const sha = await pushToGitHub(files, env.GITHUB_TOKEN);
-  console.log(`Pushed ${Object.keys(files).length} files — commit ${sha.slice(0,7)}`);
+  console.log(`Pushed ${extracted.length} articles — commit ${sha.slice(0,7)}`);
 }
 
 export default {
@@ -276,7 +243,7 @@ export default {
       try { await runPipeline(env); return new Response("Pipeline complete", {status:200}); }
       catch(e) { return new Response(`Error: ${e.message}`, {status:500}); }
     }
-    return new Response("NewsLink Worker running.", {status:200});
+    return new Response("NewsLink running.", {status:200});
   },
   async scheduled(event, env, ctx) { ctx.waitUntil(runPipeline(env)); }
 };
