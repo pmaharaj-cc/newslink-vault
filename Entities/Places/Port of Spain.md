@@ -1,12 +1,11 @@
 ---
-type: topic
-name: government
+type: place
+name: Port of Spain
 ---
 
-# government
+# Port of Spain
 
 ## Articles
 
-- [[Articles/2026-05-15_Ex-casino-manager-freed-of-fraud-charge|Ex-casino manager freed of fraud charge]]
 - [[Articles/2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees|Finance Ministry ordered to disclose lawyer fees]]
 - [[Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter|Penny still 'gathering facts' on John-Bates matter]]
