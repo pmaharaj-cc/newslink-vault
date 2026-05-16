@@ -1,0 +1,60 @@
+{
+  "colorGroups": [
+    {
+      "query": "path:Articles",
+      "color": {
+        "a": 1,
+        "rgb": 4886745
+      }
+    },
+    {
+      "query": "path:Entities/People",
+      "color": {
+        "a": 1,
+        "rgb": 15247416
+      }
+    },
+    {
+      "query": "path:Entities/Authors",
+      "color": {
+        "a": 1,
+        "rgb": 15965202
+      }
+    },
+    {
+      "query": "path:Entities/Orgs",
+      "color": {
+        "a": 1,
+        "rgb": 3066993
+      }
+    },
+    {
+      "query": "path:Entities/Places",
+      "color": {
+        "a": 1,
+        "rgb": 10176950
+      }
+    },
+    {
+      "query": "path:Entities/Topics",
+      "color": {
+        "a": 1,
+        "rgb": 15157308
+      }
+    },
+    {
+      "query": "path:Daily",
+      "color": {
+        "a": 1,
+        "rgb": 9807270
+      }
+    }
+  ],
+  "scale": 1.5,
+  "nodeSize": 6,
+  "linksHighlighted": true,
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true
+}
