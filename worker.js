@@ -19,7 +19,7 @@ topics([economy|crime|government|health|environment|energy|foreign-affairs|educa
 state_changes([{entity,change,from,to,date_reported,date_effective}]),
 relationships([{from,relation,to}]),quotes([{speaker,text}] max 2 unnamed=Anonymous),
 sentiment([{author,target,lean(positive|negative|neutral),basis}]),sports_crossover(bool).
-Rules: people = real named individuals only, never generic phrases. organizations = real named bodies only. Empty=[] Unknown=null. No text outside JSON.`;
+Rules: people = real named individuals only, never generic phrases. organizations = real named bodies only. state_changes entity = real named person or organization only, never generic phrases like "multiple accused persons". Empty=[] Unknown=null. No text outside JSON.`;
 
 function todayTT(){return new Date(Date.now()+TT_OFFSET_MS).toISOString().slice(0,10);}
 function xmlTag(block,tag){const m=block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));return m?m[1].trim().replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&quot;/g,'"'):"";}
@@ -74,10 +74,10 @@ async function extractWithGroq(text,apiKey){
 function buildNote(d,url,pubDate){
   const date=d.date_reported||pubDate.slice(0,10),dateEff=d.date_effective,authors=d.authors||[];
   const lines=["---",`title: "${(d.title||"Untitled").replace(/"/g,"'")}"`,`date_reported: ${date}`,`date_effective: ${dateEff||"null"}`,`source: trinidadexpress.com`,`url: ${url}`,`authors: [${authors.join(", ")}]`,`tags: [${(d.topics||[]).join(", ")}]`,`sports_crossover: ${d.sports_crossover||false}`,"---","",`# ${d.title||"Untitled"}`,`> ${date} · trinidadexpress.com · [link](${url})`,""];
-  if(authors.length)lines.push(`**By:** ${authors.map(a=>`[[Authors/${safe(a)}|${a}]]`).join(" · ")}`, "");
+  if(authors.length)lines.push(`**By:** ${authors.map(a=>`[[Authors/${safe(a)}|${a}]]`).join(" · ")}`,"");
   if(dateEff&&dateEff!==date)lines.push(`> ⚠️ **Effective:** ${dateEff} (reported ${date})`,"");
   const people=d.people||[],orgs=d.organizations||[],places=d.places||[],topics=d.topics||[];
-  if(people.length)lines.push("## People",people.map(p=>`[[People/${safe(p.name)}|${p.name}]]`).join(" · "),"");
+  if(people.length)lines.push("## People",people.map(p=>`[[People/${safe(p.name)}|${p.name}]]${p.role?" _("+p.role+")_":""}`).join(" · "),"");
   if(orgs.length)lines.push("## Organizations",orgs.map(o=>`[[Orgs/${safe(o)}|${o}]]`).join(" · "),"");
   if(places.length)lines.push("## Places",places.map(p=>`[[Places/${safe(p)}|${p}]]`).join(" · "),"");
   if(topics.length)lines.push("## Topics",topics.map(t=>`[[Topics/${safe(t)}|${t}]]`).join(" · "),"");
