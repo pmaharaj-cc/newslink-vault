@@ -173,6 +173,40 @@
       "articles": [
         "Articles/2026-05-19_Underground-car-show-draws-thousands.md"
       ]
+    },
+    "Anonymous": {
+      "roles": [
+        "Contract worker",
+        "Senior Immigration officials",
+        "Investigators"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Contract-worker-at-centre-of-passport-appointment-scam.md"
+      ]
+    },
+    "Justice Margaret Mohammed": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Judgment-against-Jusamco.md"
+      ]
+    },
+    "Jusamco Pavers Ltd": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Judgment-against-Jusamco.md"
+      ]
+    },
+    "Massy Machinery Ltd": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Judgment-against-Jusamco.md"
+      ]
     }
   }
 }
