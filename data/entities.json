@@ -1,10 +1,13 @@
 {
   "People": {
     "Unknown": {
-      "roles": [],
+      "roles": [
+        "Arrested men"
+      ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-18_Massive-traffic-pile-up-as-hundreds-seek-free-eye-surge.md"
+        "Articles/2026-05-18_Massive-traffic-pile-up-as-hundreds-seek-free-eye-surge.md",
+        "Articles/2026-05-19_Cops-bust-secret-gambling-den.md"
       ]
     },
     "Zara Majid": {
@@ -82,6 +85,38 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-19_Widower-files-suit-against-AG-NCRHA.md"
+      ]
+    },
+    "Owner of the premises": {
+      "roles": [
+        "Owner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Cops-bust-secret-gambling-den.md"
+      ]
+    },
+    "Angelo Tobias Plaza": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Third-person-held-in-Angelo-case.md"
+      ]
+    },
+    "Rodhil Kirk": {
+      "roles": [
+        "senior superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Third-person-held-in-Angelo-case.md"
+      ]
+    },
+    "Elizabeth Williams": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Third-person-held-in-Angelo-case.md"
       ]
     }
   }
