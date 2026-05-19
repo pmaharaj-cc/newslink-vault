@@ -207,6 +207,34 @@
       "articles": [
         "Articles/2026-05-19_Judgment-against-Jusamco.md"
       ]
+    },
+    "Kamla Persad-Bissessar": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Vehicle-crashes-into-wall-outside-PMs-residence.md",
+        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md"
+      ]
+    },
+    "Pennelope Beckles": {
+      "roles": [
+        "Opposition Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md"
+      ]
+    },
+    "Janelle John-Bates": {
+      "roles": [
+        "Opposition Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md"
+      ]
     }
   }
 }
