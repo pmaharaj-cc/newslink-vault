@@ -1,6 +1,6 @@
 /**
  * NewsLink Worker — hourly cron
- * Tracks criminal records via entities.json accumulator.
+ * Criminal record tracking, role inference, author exclusion from people[].
  */
 const SITEMAP="https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL="https://api.groq.com/openai/v1/chat/completions";
@@ -19,7 +19,12 @@ topics([economy|crime|government|health|environment|energy|foreign-affairs|educa
 state_changes([{entity,change,from,to,date_reported,date_effective}]),
 relationships([{from,relation,to}]),quotes([{speaker,text}] max 2 unnamed=Anonymous),
 sentiment([{author,target,lean(positive|negative|neutral),basis}]),sports_crossover(bool).
-Rules: people=real named individuals only, never generic phrases. organizations=real named bodies only. state_changes entity=real named person or organization only. legal_status per person: accused|charged|convicted|acquitted|wanted or null if not explicitly stated. Empty=[] Unknown=null. No text outside JSON.`;
+Rules:
+- people = named individuals who are SUBJECTS of the article. Never include article authors/journalists.
+- role = infer from context if not stated (presiding in court → Magistrate or Judge; addressing Parliament → MP or Senator; leading police operation → Police Officer; prosecuting → Prosecutor; defending → Defence Attorney). Never leave role null if context implies one.
+- legal_status per person: accused|charged|convicted|acquitted|wanted or null if not explicitly stated.
+- organizations = real named bodies only. state_changes entity = real named person or organization only.
+- Empty=[] Unknown=null. No text outside JSON.`;
 
 function todayTT(){return new Date(Date.now()+TT_OFFSET_MS).toISOString().slice(0,10);}
 function xmlTag(block,tag){const m=block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));return m?m[1].trim().replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&quot;/g,'"'):"";}
@@ -73,10 +78,14 @@ async function extractWithGroq(text,apiKey){
 
 function buildNote(d,url,pubDate){
   const date=d.date_reported||pubDate.slice(0,10),dateEff=d.date_effective,authors=d.authors||[];
-  const lines=["---",`title: "${(d.title||"Untitled").replace(/"/g,"'")}"`,`date_reported: ${date}`,`date_effective: ${dateEff||"null"}`,`source: trinidadexpress.com`,`url: ${url}`,`authors: [${authors.join(", ")}]`,`tags: [${(d.topics||[]).join(", ")}]`,`sports_crossover: ${d.sports_crossover||false}`,"---","",`# ${d.title||"Untitled"}`,`> ${date} · trinidadexpress.com · [link](${url})`,""];
+  // Code-level safety: strip authors from people list
+  const authorSet=new Set(authors.map(a=>a.toLowerCase().trim()));
+  const people=(d.people||[]).filter(p=>!authorSet.has(p.name.toLowerCase().trim()));
+  const orgs=d.organizations||[],places=d.places||[],topics=d.topics||[];
+
+  const lines=["---",`title: "${(d.title||"Untitled").replace(/"/g,"'")}"`,`date_reported: ${date}`,`date_effective: ${dateEff||"null"}`,`source: trinidadexpress.com`,`url: ${url}`,`authors: [${authors.join(", ")}]`,`tags: [${topics.join(", ")}]`,`sports_crossover: ${d.sports_crossover||false}`,"---","",`# ${d.title||"Untitled"}`,`> ${date} · trinidadexpress.com · [link](${url})`,""];
   if(authors.length)lines.push(`**By:** ${authors.map(a=>`[[Authors/${safe(a)}|${a}]]`).join(" · ")}`,"");
   if(dateEff&&dateEff!==date)lines.push(`> ⚠️ **Effective:** ${dateEff} (reported ${date})`,"");
-  const people=d.people||[],orgs=d.organizations||[],places=d.places||[],topics=d.topics||[];
   if(people.length){
     lines.push("## People");
     lines.push(people.map(p=>{
@@ -156,12 +165,10 @@ async function runPipeline(env){
   const base=`https://api.github.com/repos/${GH_REPO}`;
   const h=ghH(env.GITHUB_TOKEN);
 
-  // Load processed URLs
   const procRes=await fetch(`${base}/contents/data/processed.json`,{headers:h});
   const procText=procRes.ok?atob((await procRes.json()).content.replace(/\n/g,"")):"[]";
   const processed=new Set(JSON.parse(procText));
 
-  // Load entities accumulator
   let entities={People:{}};
   const entRes=await fetch(`${base}/contents/data/entities.json`,{headers:h});
   if(entRes.ok){
@@ -192,12 +199,13 @@ async function runPipeline(env){
   for(const{result:d,src}of extracted){
     const fn=articleFilename(d,src.pubDate);
     const date=d.date_reported||src.pubDate.slice(0,10);
+    const authors=d.authors||[];
+    const authorSet=new Set(authors.map(a=>a.toLowerCase().trim()));
     files[fn]=buildNote(d,src.url,src.pubDate);
     entries.push({d,filename:fn});
 
-    // Update entities accumulator
     for(const p of(d.people||[])){
-      if(!p.name)continue;
+      if(!p.name||authorSet.has(p.name.toLowerCase().trim()))continue;
       if(!entities.People[p.name])entities.People[p.name]={roles:[],statuses:[],articles:[]};
       const ep=entities.People[p.name];
       if(p.role&&!ep.roles.includes(p.role))ep.roles.push(p.role);
@@ -213,7 +221,6 @@ async function runPipeline(env){
   files["data/processed.json"]=JSON.stringify([...processed],null,2);
   files["data/entities.json"]=JSON.stringify(entities,null,2);
 
-  // Write criminal stubs for anyone with a legal status
   for(const[name,data]of Object.entries(entities.People)){
     if(data.statuses&&data.statuses.length>0){
       files[`Entities/People/${safe(name)}.md`]=buildCriminalStub(name,data);
@@ -221,7 +228,7 @@ async function runPipeline(env){
   }
 
   const sha=await pushToGitHub(files,env.GITHUB_TOKEN);
-  console.log(`pushed ${extracted.length} articles, ${Object.keys(files).filter(f=>f.startsWith("Entities/")).length} criminal stubs — ${sha.slice(0,7)}`);
+  console.log(`pushed ${extracted.length} articles — ${sha.slice(0,7)}`);
 }
 
 export default{
