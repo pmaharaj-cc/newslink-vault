@@ -61,7 +61,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-19_Citizenship-for-sale.md"
+        "Articles/2026-05-19_Citizenship-for-sale.md",
+        "Articles/2026-05-19_Prison-drone-operator-held.md"
       ]
     },
     "Yvan Gil": {
@@ -117,6 +118,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-19_Third-person-held-in-Angelo-case.md"
+      ]
+    },
+    "Richard Kingsley": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Man-injured-in-Cocoyea-shooting.md"
+      ]
+    },
+    "PC Edwards": {
+      "roles": [
+        "Police Officer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Man-injured-in-Cocoyea-shooting.md"
+      ]
+    },
+    "Isaac": {
+      "roles": [
+        "Police Officer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-19_Man-injured-in-Cocoyea-shooting.md"
       ]
     }
   }
