@@ -375,6 +375,31 @@
       "articles": [
         "Articles/2026-05-20_6-year-old-out-of-hospital-but-still-critical-after-nea.md"
       ]
+    },
+    "Adrian Peter Duff": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-20_Man-found-dead-after-desperate-999-call-for-help.md",
+          "title": "Man found dead after desperate 999 call for help",
+          "date": "2026-05-20"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-20_Man-found-dead-after-desperate-999-call-for-help.md"
+      ]
+    },
+    "Children's Authority of Trinidad and Tobago": {
+      "roles": [
+        "Authority"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_Unprecedented-abuse-of-minors.md"
+      ]
     }
   }
 }
