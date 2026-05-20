@@ -330,6 +330,41 @@
       "articles": [
         "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md"
       ]
+    },
+    "Randolph Bharatt": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
+      ]
+    },
+    "Pauline Bharat": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
+      ]
+    },
+    "Sean Luke": {
+      "roles": [],
+      "statuses": [
+        {
+          "status": "victim",
+          "article": "Articles/2026-05-20_The-Boy-in-the-Canefield.md",
+          "title": "The Boy in the Canefield",
+          "date": "2026-05-20"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
+      ]
+    },
+    "Andrea Bharatt": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
+      ]
     }
   }
 }
