@@ -102,7 +102,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-19_Third-person-held-in-Angelo-case.md",
-        "Articles/2026-05-19_3-women-held-in-Angelos-disappearance.md"
+        "Articles/2026-05-19_3-women-held-in-Angelos-disappearance.md",
+        "Articles/2026-05-20_Angelo-probe-Seven-now-in-custody.md"
       ]
     },
     "Rodhil Kirk": {
@@ -216,7 +217,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-19_Vehicle-crashes-into-wall-outside-PMs-residence.md",
-        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md"
+        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md",
+        "Articles/2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny.md"
       ]
     },
     "Pennelope Beckles": {
@@ -225,7 +227,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md"
+        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md",
+        "Articles/2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny.md"
       ]
     },
     "Janelle John-Bates": {
@@ -289,6 +292,38 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-19_Ramdeen-slams-Bharath-over-Moodys-criticism.md"
+      ]
+    },
+    "Janelle Johnson": {
+      "roles": [
+        "Opposition Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny.md"
+      ]
+    },
+    "Joshua Samaroo": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md"
+      ]
+    },
+    "Kaia Sealy": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md"
+      ]
+    },
+    "Allister Guevarro": {
+      "roles": [
+        "Police Commissioner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md"
       ]
     }
   }
