@@ -400,6 +400,22 @@
       "articles": [
         "Articles/2026-05-20_Unprecedented-abuse-of-minors.md"
       ]
+    },
+    "Abdullah Joseph": {
+      "roles": [
+        "Home invader"
+      ],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-20_Cops-kill-home-invader.md",
+          "title": "Cops kill home invader",
+          "date": "2026-05-20"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-20_Cops-kill-home-invader.md"
+      ]
     }
   }
 }
