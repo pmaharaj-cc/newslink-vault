@@ -452,6 +452,24 @@
       "articles": [
         "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md"
       ]
+    },
+    "Minister of Homeland Security": {
+      "roles": [
+        "Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_Will-crime-decrease-with-more-manpower.md"
+      ]
+    },
+    "Permanent Commissioner of Police (CoP)": {
+      "roles": [
+        "Police Commissioner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_Will-crime-decrease-with-more-manpower.md"
+      ]
     }
   }
 }
