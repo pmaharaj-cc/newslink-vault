@@ -55,7 +55,8 @@ def fetch_text(url):
             html = r.read().decode("utf-8", errors="ignore")
         author_m = re.search(r'itemprop="author"[^>]*>\s*([^\n<]{2,80})', html)
         html_author = author_m.group(1).strip() if author_m else None
-        content_m = re.search(r'<div[^>]*class="[^"]*asset-content[^"]*"[^>]*>([\s\S]+)', html)
+        content_m = re.search(r'<div[^>]*id="article-body"[^>]*>([\s\S]+)', html) or \
+                   re.search(r'<div[^>]*class="[^"]*asset-content[^"]*"[^>]*>([\s\S]+)', html)
         body_html = content_m.group(1) if content_m else html
         ps = re.findall(r'<p[^>]*>(.*?)</p>', body_html, re.DOTALL)
         clean, seen = [], set()
