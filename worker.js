@@ -72,13 +72,15 @@ async function fetchArticleText(url){
     if(!res.ok)return null;
     const html=await res.text();
 
-    // Extract author from schema.org itemprop="author" (reliable on Trinidad Express)
+    // Extract author from itemprop="author" (schema.org, reliable on Trinidad Express)
     const authorM=html.match(/itemprop="author"[^>]*>\s*([^\n<]{2,80})/);
     const htmlAuthor=authorM?authorM[1].trim():null;
 
-    // Target asset-content div for clean article body (excludes nav/ads/related stories)
-    const contentM=html.match(/<div[^>]*class="[^"]*asset-content[^"]*"[^>]*>([\s\S]+)/);
-    const bodyHtml=contentM?contentM[1]:html;
+    // Target id="article-body" (itemprop="articleBody") — canonical Trinidad Express content div
+    // Falls back to asset-content, then full page
+    const bodyM=html.match(/<div[^>]*id="article-body"[^>]*>([\s\S]+)/)||
+                html.match(/<div[^>]*class="[^"]*asset-content[^"]*"[^>]*>([\s\S]+)/);
+    const bodyHtml=bodyM?bodyM[1]:html;
 
     const ps=(bodyHtml.match(/<p[^>]*>[\s\S]*?<\/p>/g)||[])
       .map(p=>p.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim())
