@@ -21,12 +21,22 @@ state_changes([{entity,change,from,to,date_reported,date_effective}]),
 relationships([{from,relation,to}]),quotes([{speaker,text}] max 2 unnamed=Anonymous),
 sentiment([{author,target,lean(positive|negative|neutral),basis}]),sports_crossover(bool).
 Rules:
-- If a "Byline:" line appears in the input, that is the article author. Set authors[] to exactly that name.
-- people = named individuals who are SUBJECTS of the article. Never include article authors/journalists.
-- role = infer from context if not stated (presiding in court -> Magistrate or Judge; addressing Parliament -> MP or Senator; leading police operation -> Police Officer; prosecuting -> Prosecutor; defending -> Defence Attorney). Never leave role null if context implies one.
-- legal_status per person: accused|charged|convicted|acquitted|wanted or null if not explicitly stated.
-- organizations = real named bodies only. state_changes entity = real named person or organization only, never generic phrases like "multiple accused persons".
-- Empty=[] Unknown=null. No text outside JSON.`;
+- If a "Byline:" line appears, those are the article authors. Set authors[] to that name. Never put authors in people[].
+- people[] = named individuals who are SUBJECTS of the article only.
+- name field = given name and surname ONLY. Strip all titles and honorifics from the name field.
+  CORRECT: name="Rehanna Ali", role="Magistrate"
+  WRONG:   name="Magistrate Rehanna Ali", role=null
+- role field = their function in this article. Extract explicitly stated roles first. If not stated, infer:
+  presiding/ruled/convicted/acquitted in court -> "Magistrate" or "Judge"
+  addressed Parliament/Senate -> "MP" or "Senator"
+  prosecuted the case -> "Prosecutor"
+  represented accused -> "Defence Attorney"
+  police rank (Cpl/Sgt/Insp/PC/Supt/ACP/CoP) -> full rank e.g. "Corporal", "Superintendent"
+  medical context -> "Doctor" or specific specialty
+  Never leave role null if the article makes their function clear.
+- legal_status: accused|charged|convicted|acquitted|wanted — only if explicitly stated about that person.
+- state_changes entity = real named person or organization only, never "multiple accused persons" or generic phrases.
+- organizations = real named bodies only. Empty=[] Unknown=null. No text outside JSON.`;
 
 function todayTT(){return new Date(Date.now()+TT_OFFSET_MS).toISOString().slice(0,10);}
 function xmlTag(block,tag){const m=block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`));return m?m[1].trim().replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&quot;/g,'"'):"";}
