@@ -291,8 +291,17 @@
       ]
     },
     "Angelo Tobias Plaza": {
-      "roles": [],
-      "statuses": [],
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md",
+          "title": "Suspect admits strangling Angelo",
+          "date": "2026-05-21"
+        }
+      ],
       "articles": [
         "Articles/2026-05-15_Mans-body-found-during-search-for-missing-Tobago-infant.md",
         "Articles/2026-05-18_Homicide-Bureau-joins-search-for-Angelo.md",
@@ -300,7 +309,8 @@
         "Articles/2026-05-19_3-women-held-in-Angelos-disappearance.md",
         "Articles/2026-05-19_Third-person-held-in-Angelo-case.md",
         "Articles/2026-05-20_Angelo-probe-Seven-now-in-custody.md",
-        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md"
+        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md",
+        "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md"
       ]
     },
     "Pennelope Beckles": {
@@ -733,11 +743,20 @@
     },
     "Abdullah Joseph": {
       "roles": [
-        "Home invader"
+        "Home invader",
+        "Suspect"
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-21_Petty-thief-killed-by-police.md",
+          "title": "Petty thief killed by police",
+          "date": "2026-05-21"
+        }
+      ],
       "articles": [
-        "Articles/2026-05-20_Cops-kill-home-invader.md"
+        "Articles/2026-05-20_Cops-kill-home-invader.md",
+        "Articles/2026-05-21_Petty-thief-killed-by-police.md"
       ]
     },
     "Angelo Tobias-Plaza": {
@@ -778,10 +797,13 @@
       ]
     },
     "Kalifa Tobias": {
-      "roles": [],
+      "roles": [
+        "Mother"
+      ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md"
+        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md",
+        "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md"
       ]
     },
     "Janelle Johnson": {
@@ -809,11 +831,13 @@
     },
     "Allister Guevarro": {
       "roles": [
-        "Police Commissioner"
+        "Police Commissioner",
+        "Commissioner of Police"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md"
+        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md",
+        "Articles/2026-05-21_Petty-thief-killed-by-police.md"
       ]
     },
     "Lionel Messi": {
@@ -887,6 +911,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-20_Will-crime-decrease-with-more-manpower.md"
+      ]
+    },
+    "Jamir Nazir": {
+      "roles": [
+        "Writer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Commonwealth-short-story-winner-accused-of-using-AI.md"
+      ]
+    },
+    "Kevin Jared Hosein": {
+      "roles": [
+        "Author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Commonwealth-short-story-winner-accused-of-using-AI.md"
       ]
     }
   }
