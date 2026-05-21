@@ -1,6 +1,7 @@
 /**
  * NewsLink Worker — hourly cron
  * Criminal record tracking, role inference, author exclusion from people[].
+ * v2: HTML-aware extraction — targets asset-content div, itemprop="author" byline.
  */
 const SITEMAP="https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL="https://api.groq.com/openai/v1/chat/completions";
@@ -10,7 +11,7 @@ const GH_BRANCH="main";
 const TT_OFFSET_MS=-4*60*60*1000;
 const MAX_FETCH=15;
 const MAX_PROCESS=3;
-const TEXT_LIMIT=800;
+const TEXT_LIMIT=1600;
 
 const SYSTEM_PROMPT=`Extract Trinidad news. Return JSON array only. One object per article. Fields:
 title,authors([str]),date_reported(YYYY-MM-DD),date_effective(YYYY-MM-DD|null),
@@ -20,10 +21,11 @@ state_changes([{entity,change,from,to,date_reported,date_effective}]),
 relationships([{from,relation,to}]),quotes([{speaker,text}] max 2 unnamed=Anonymous),
 sentiment([{author,target,lean(positive|negative|neutral),basis}]),sports_crossover(bool).
 Rules:
+- If a "Byline:" line appears in the input, that is the article author. Set authors[] to exactly that name.
 - people = named individuals who are SUBJECTS of the article. Never include article authors/journalists.
-- role = infer from context if not stated (presiding in court → Magistrate or Judge; addressing Parliament → MP or Senator; leading police operation → Police Officer; prosecuting → Prosecutor; defending → Defence Attorney). Never leave role null if context implies one.
+- role = infer from context if not stated (presiding in court -> Magistrate or Judge; addressing Parliament -> MP or Senator; leading police operation -> Police Officer; prosecuting -> Prosecutor; defending -> Defence Attorney). Never leave role null if context implies one.
 - legal_status per person: accused|charged|convicted|acquitted|wanted or null if not explicitly stated.
-- organizations = real named bodies only. state_changes entity = real named person or organization only.
+- organizations = real named bodies only. state_changes entity = real named person or organization only, never generic phrases like "multiple accused persons".
 - Empty=[] Unknown=null. No text outside JSON.`;
 
 function todayTT(){return new Date(Date.now()+TT_OFFSET_MS).toISOString().slice(0,10);}
@@ -59,11 +61,23 @@ async function fetchArticleText(url){
     const res=await fetch(url,{headers:{"User-Agent":"Mozilla/5.0"}});
     if(!res.ok)return null;
     const html=await res.text();
-    const ps=(html.match(/<p[^>]*>[\s\S]*?<\/p>/g)||[]).map(p=>p.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim()).filter(p=>p.length>60);
+
+    // Extract author from schema.org itemprop="author" (reliable on Trinidad Express)
+    const authorM=html.match(/itemprop="author"[^>]*>\s*([^\n<]{2,80})/);
+    const htmlAuthor=authorM?authorM[1].trim():null;
+
+    // Target asset-content div for clean article body (excludes nav/ads/related stories)
+    const contentM=html.match(/<div[^>]*class="[^"]*asset-content[^"]*"[^>]*>([\s\S]+)/);
+    const bodyHtml=contentM?contentM[1]:html;
+
+    const ps=(bodyHtml.match(/<p[^>]*>[\s\S]*?<\/p>/g)||[])
+      .map(p=>p.replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim())
+      .filter(p=>p.length>60);
     const seen=new Set();
     const unique=ps.filter(p=>{const k=p.slice(0,80);return seen.has(k)?false:!!seen.add(k);});
-    const full=unique.join("\n\n");
-    return full?full.slice(0,TEXT_LIMIT):null;
+    const body=unique.join("\n\n").slice(0,TEXT_LIMIT);
+
+    return body?{body,htmlAuthor}:null;
   }catch(e){return null;}
 }
 
@@ -78,7 +92,6 @@ async function extractWithGroq(text,apiKey){
 
 function buildNote(d,url,pubDate){
   const date=d.date_reported||pubDate.slice(0,10),dateEff=d.date_effective,authors=d.authors||[];
-  // Code-level safety: strip authors from people list
   const authorSet=new Set(authors.map(a=>a.toLowerCase().trim()));
   const people=(d.people||[]).filter(p=>!authorSet.has(p.name.toLowerCase().trim()));
   const orgs=d.organizations||[],places=d.places||[],topics=d.topics||[];
@@ -184,10 +197,12 @@ async function runPipeline(env){
   const extracted=[];
   for(let i=0;i<Math.min(unprocessed.length,MAX_PROCESS);i++){
     const a=unprocessed[i];
-    const text=await fetchArticleText(a.url);
-    if(!text){processed.add(a.url);continue;}
+    const fetched=await fetchArticleText(a.url);
+    if(!fetched){processed.add(a.url);continue;}
     try{
-      const r=await extractWithGroq(`URL: ${a.url}\nPublished: ${a.pubDate}\n\n${text}`,env.GROQ_API_KEY);
+      const authorHint=fetched.htmlAuthor?`Byline: ${fetched.htmlAuthor}\n`:"";
+      const prompt=`URL: ${a.url}\nPublished: ${a.pubDate}\n${authorHint}\n${fetched.body}`;
+      const r=await extractWithGroq(prompt,env.GROQ_API_KEY);
       if(r[0])extracted.push({result:r[0],src:a});
       processed.add(a.url);
     }catch(e){console.log(`failed: ${e.message}`);}
