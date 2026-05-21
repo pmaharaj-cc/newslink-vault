@@ -123,22 +123,34 @@ function buildNote(d,url,pubDate){
   return lines.join("\n");
 }
 
-function buildCriminalStub(name,data){
+function buildPersonStub(name,data){
   const statuses=[...new Set(data.statuses.map(s=>s.status))];
   const roles=[...new Set(data.roles)].filter(Boolean);
+  const hasCriminal=statuses.length>0;
+  const tags=hasCriminal?"tags: [criminal-record]":"tags: []";
   const lines=[
     "---",`type: person`,`name: "${safe(name)}"`,
+    `roles: [${roles.join(", ")}]`,
     `legal_statuses: [${statuses.join(", ")}]`,
-    `tags: [criminal-record]`,"---","",
-    `# ${name}`,""
+    tags,"---","",`# ${name}`,""
   ];
   if(roles.length)lines.push(`**Known roles:** ${roles.join(", ")}`,"");
-  lines.push(`**Legal status:** ${statuses.join(", ")}`,"");
-  lines.push("## Case History","");
-  for(const s of data.statuses){
-    lines.push(`- **${s.status}** — [[${s.article.replace(".md","")}|${s.title||"Article"}]] _(${s.date})_`);
+  if(hasCriminal){
+    lines.push(`**Legal status:** ${statuses.join(", ")}`,"");
+    lines.push("## Case History","");
+    for(const s of data.statuses){
+      lines.push(`- **${s.status}** — [[${s.article.replace(".md","")}|${s.title||"Article"}]] _(${s.date})_`);
+    }
+    lines.push("");
   }
-  lines.push("");
+  if(data.articles&&data.articles.length){
+    lines.push("## Articles","");
+    for(const a of data.articles){
+      const title=a.replace(/^Articles\/[\d-]+_/,"").replace(/-/g," ").replace(".md","");
+      lines.push(`- [[${a.replace(".md","")}|${title}]]`);
+    }
+    lines.push("");
+  }
   return lines.join("\n");
 }
 
@@ -238,7 +250,7 @@ async function runPipeline(env){
 
   for(const[name,data]of Object.entries(entities.People)){
     if(data.statuses&&data.statuses.length>0){
-      files[`Entities/People/${safe(name)}.md`]=buildCriminalStub(name,data);
+      files[`People/${safe(name)}.md`]=buildPersonStub(name,data);
     }
   }
 
