@@ -22,11 +22,14 @@
       "articles": [
         "Articles/2026-05-21_Guevarro-announces-killing-of-another-home-invading-sus.md",
         "Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t.md",
-        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md"
+        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
+        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md"
       ]
     },
     "Joshua Samaroo": {
-      "roles": [],
+      "roles": [
+        "Deceased"
+      ],
       "statuses": [
         {
           "status": "deceased",
@@ -37,7 +40,8 @@
       ],
       "articles": [
         "Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t.md",
-        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md"
+        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
+        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md"
       ]
     },
     "Christopher Samaroo": {
@@ -51,12 +55,21 @@
     },
     "Kaia Sealy": {
       "roles": [
-        "common-law wife of Joshua Samaroo"
+        "common-law wife of Joshua Samaroo",
+        "Accused"
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md",
+          "title": "Warrant issued for Kaia, accused of killing Joshua Samaroo",
+          "date": "2026-05-21"
+        }
+      ],
       "articles": [
         "Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t.md",
-        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md"
+        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
+        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md"
       ]
     },
     "Criston Williams": {
@@ -75,7 +88,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t.md",
-        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md"
+        "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
+        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md"
       ]
     }
   }
