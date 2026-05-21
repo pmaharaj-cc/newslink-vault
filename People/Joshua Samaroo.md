@@ -2,15 +2,18 @@
 type: person
 name: "Joshua Samaroo"
 roles: []
-legal_statuses: []
-tags: ["person"]
+legal_statuses: [deceased]
+tags: [criminal-record]
 ---
 
 # Joshua Samaroo
 
-**Known roles:** Unknown
+**Legal status:** deceased
 
+## Case History
+
+- **deceased** — [[Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t|Joshua's father responds: The State has to pay for what they did]] _(2026-05-21)_
 
 ## Articles
 
-- [[Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP|Police Samaroo shooting file to move to DPP]]
+- [[Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t|Joshuas father responds The State has to pay for what t]]

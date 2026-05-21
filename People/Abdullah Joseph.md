@@ -1,20 +1,19 @@
 ---
 type: person
 name: "Abdullah Joseph"
-roles: ["Home invader", "Suspect"]
-legal_statuses: ["deceased"]
-tags: ["person", "criminal-record"]
+roles: []
+legal_statuses: [deceased]
+tags: [criminal-record]
 ---
 
 # Abdullah Joseph
 
-**Known roles:** Home invader, Suspect
+**Legal status:** deceased
 
-## Legal Status
+## Case History
 
-- deceased
+- **deceased** — [[Articles/2026-05-21_Guevarro-announces-killing-of-another-home-invading-sus|Guevarro announces killing of another home invading suspect]] _(2026-05-21)_
 
 ## Articles
 
-- [[Articles/2026-05-20_Cops-kill-home-invader|Cops kill home invader]]
-- [[Articles/2026-05-21_Petty-thief-killed-by-police|Petty thief killed by police]]
+- [[Articles/2026-05-21_Guevarro-announces-killing-of-another-home-invading-sus|Guevarro announces killing of another home invading sus]]
