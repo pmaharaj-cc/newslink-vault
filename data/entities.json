@@ -1,1052 +1,1431 @@
 {
-  "People": {
-    "Abbas Khaledi": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Ex-casino-manager-freed-of-fraud-charge.md"
-      ]
-    },
-    "Magistrate Rehanna Ali": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Ex-casino-manager-freed-of-fraud-charge.md"
-      ]
-    },
-    "Devindra Rampersad": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees.md"
-      ]
-    },
-    "Ravi Balgobin Maharaj": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees.md"
-      ]
-    },
-    "Colm Imbert": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees.md"
-      ]
-    },
-    "Russell Martineau": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees.md"
-      ]
-    },
-    "Jason Mootoo": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees.md"
-      ]
-    },
-    "Margaret Sookraj-Goswami": {
-      "roles": [
-        "High Court Master"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Anju Bhola-Mc Quan": {
-      "roles": [
-        "State Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Garvey Campo": {
-      "roles": [
-        "Homicide Victim"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Shane Patience": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Ayanna Norville-Modeste": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Shaun Morris": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Nicholas Rampersadsingh": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Stephen Wilson": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Jeron Paul": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Kiran Panday": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Ian Brooks": {
-      "roles": [
-        "Defence Attorney"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Darryl Bissoon": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Wenrick King": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Sydney Viaruel": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Seandel Davy": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Richard James": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Paul Gosein": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Shelly Ann Ali": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Eniboku Akina": {
-      "roles": [
-        "Accused"
-      ],
-      "statuses": [
-        {
-          "status": "acquitted",
-          "article": "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md",
-          "title": "Gang-related cases dismissed over State Delays",
-          "date": "2026-05-15"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Gang-related-cases-dismissed-over-State-Delays.md"
-      ]
-    },
-    "Vallence Rambharat": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Mans-body-found-during-search-for-missing-Tobago-infant.md"
-      ]
-    },
-    "McLean": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Mans-body-found-during-search-for-missing-Tobago-infant.md"
-      ]
-    },
-    "Angelo Tobias Plaza": {
-      "roles": [
-        "Victim"
-      ],
-      "statuses": [
-        {
-          "status": "deceased",
-          "article": "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md",
-          "title": "Suspect admits strangling Angelo",
-          "date": "2026-05-21"
-        },
-        {
-          "status": "deceased",
-          "article": "Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo.md",
-          "title": "Alexander: There will be justice for Angelo",
-          "date": "2026-05-21"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-15_Mans-body-found-during-search-for-missing-Tobago-infant.md",
-        "Articles/2026-05-18_Homicide-Bureau-joins-search-for-Angelo.md",
-        "Articles/2026-05-18_Search-shifts-to-dump-after-tip-off.md",
-        "Articles/2026-05-19_3-women-held-in-Angelos-disappearance.md",
-        "Articles/2026-05-19_Third-person-held-in-Angelo-case.md",
-        "Articles/2026-05-20_Angelo-probe-Seven-now-in-custody.md",
-        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md",
-        "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md",
-        "Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo.md"
-      ]
-    },
-    "Pennelope Beckles": {
-      "roles": [
-        "Opposition Leader"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter.md",
-        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md",
-        "Articles/2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny.md"
-      ]
-    },
-    "Marvin Gonzales": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter.md"
-      ]
-    },
-    "Janelle John-Bates": {
-      "roles": [
-        "Opposition Senator"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter.md",
-        "Articles/2026-05-18_Penny-leave-me-alone.md",
-        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md"
-      ]
-    },
-    "Terrence Deyalsingh": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter.md",
-        "Articles/2026-05-18_Penny-leave-me-alone.md"
-      ]
-    },
-    "Jagdeo Singh": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter.md",
-        "Articles/2026-05-18_Penny-leave-me-alone.md"
-      ]
-    },
-    "Vishnu Dhanpaul": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter.md"
-      ]
-    },
-    "David Nakhid": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter.md"
-      ]
-    },
-    "Rohan Ramkissoon": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-15_Three-bodies-in-one-week.md"
-      ]
-    },
-    "acting Registrar of the Supreme Court": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_A-risk-to-justice-system.md"
-      ]
-    },
-    "Gaston Browne": {
-      "roles": [
-        "Prime Minister of Antigua and Barbuda"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Antigua-PM-calls-for-full-loss-and-damage-funding.md"
-      ]
-    },
-    "Oscar B": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Fundraiser-for-ailing-Oscar-B.md"
-      ]
-    },
-    "Anonymous": {
-      "roles": [
-        "Contract worker",
-        "Senior Immigration officials",
-        "Investigators",
-        "National Footballer",
-        "Former National Footballer",
-        "Son of Former National Footballer",
-        "Another Man"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Hundreds-show-up-for-free-eye-surgery.md",
-        "Articles/2026-05-18_NCRHA-cites-success.md",
-        "Articles/2026-05-19_Contract-worker-at-centre-of-passport-appointment-scam.md",
-        "Articles/2026-05-20_National-footballer-ex-player-among-4-held-for-narcotic.md"
-      ]
-    },
-    "45-year-old Carenage man": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Neighbour-shoots-man-during-row.md"
-      ]
-    },
-    "man known to him": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Neighbour-shoots-man-during-row.md"
-      ]
-    },
-    "John Jeremie": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Penny-Govt-blaming-crime-on-PNM-areas.md"
-      ]
-    },
-    "Kamla Persad-Bissessar": {
-      "roles": [
-        "Prime Minister"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Penny-leave-me-alone.md",
-        "Articles/2026-05-19_Beckles-cannot-delay-John-Bates-decision.md",
-        "Articles/2026-05-19_Vehicle-crashes-into-wall-outside-PMs-residence.md",
-        "Articles/2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny.md",
-        "Articles/2026-05-20_TampT-to-meet-with-Venezuela-virtually-to-discuss-oil-s.md"
-      ]
-    },
-    "Nanikishore Bobby Sirju": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Pensioners-roof-goes-flying.md"
-      ]
-    },
-    "Kalifah Tobias": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Search-shifts-to-dump-after-tip-off.md"
-      ]
-    },
-    "Shannon Miller": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Search-shifts-to-dump-after-tip-off.md"
-      ]
-    },
-    "Brian Lalla": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Staggering-man-killed-on-highway.md"
-      ]
-    },
-    "Sieunarine Coosal": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Third-Honorary-Doctorate-for-Coosal.md"
-      ]
-    },
-    "Fitzroy Harewood": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Third-Honorary-Doctorate-for-Coosal.md"
-      ]
-    },
-    "Claire Chunlan Aleong-Hosten": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Third-Honorary-Doctorate-for-Coosal.md"
-      ]
-    },
-    "Dr Colwick Wilson": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Third-Honorary-Doctorate-for-Coosal.md"
-      ]
-    },
-    "Len Archer": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Third-Honorary-Doctorate-for-Coosal.md"
-      ]
-    },
-    "Zara Majid": {
-      "roles": [
-        "Student"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Zara-eyes-Yale.md"
-      ]
-    },
-    "Fayad Majid": {
-      "roles": [
-        "National Arbiter"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Zara-eyes-Yale.md"
-      ]
-    },
-    "Michelle Majid": {
-      "roles": [
-        "Female Director of the Cayman Islands Chess Federation"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-18_Zara-eyes-Yale.md"
-      ]
-    },
-    "Owner of the premises": {
-      "roles": [
-        "Owner"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Cops-bust-secret-gambling-den.md"
-      ]
-    },
-    "Frank Seepersad": {
-      "roles": [
-        "High Court judge"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Judge-implement-Zosas-in-families-communities.md"
-      ]
-    },
-    "Justice Margaret Mohammed": {
-      "roles": [
-        "Judge"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Judgment-against-Jusamco.md"
-      ]
-    },
-    "Jusamco Pavers Ltd": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Judgment-against-Jusamco.md"
-      ]
-    },
-    "Massy Machinery Ltd": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Judgment-against-Jusamco.md"
-      ]
-    },
-    "Richard Kingsley": {
-      "roles": [
-        "Victim"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Man-injured-in-Cocoyea-shooting.md"
-      ]
-    },
-    "PC Edwards": {
-      "roles": [
-        "Police Officer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Man-injured-in-Cocoyea-shooting.md"
-      ]
-    },
-    "Isaac": {
-      "roles": [
-        "Police Officer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Man-injured-in-Cocoyea-shooting.md"
-      ]
-    },
-    "Kylene Dowden": {
-      "roles": [
-        "Director of Legal Services"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Ministry-and-FIUTT-renew-collaboration.md"
-      ]
-    },
-    "Nigel Stoddard": {
-      "roles": [
-        "FIUTT director"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Ministry-and-FIUTT-renew-collaboration.md"
-      ]
-    },
-    "Natalie Willis": {
-      "roles": [
-        "Permanent Secretary"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Ministry-and-FIUTT-renew-collaboration.md"
-      ]
-    },
-    "Deborah-Ann Scott": {
-      "roles": [
-        "Commissioner for Co-operative Development"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Ministry-and-FIUTT-renew-collaboration.md"
-      ]
-    },
-    "Roger Alexander": {
-      "roles": [
-        "Minister of Homeland Security"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Prison-drone-operator-held.md",
-        "Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo.md"
-      ]
-    },
-    "Gerald Ramdeen": {
-      "roles": [
-        "Chairman of the National Gas Company of Trinidad and Tobago"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Ramdeen-slams-Bharath-over-Moodys-criticism.md"
-      ]
-    },
-    "Vasant Bharath": {
-      "roles": [
-        "Former government minister"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Ramdeen-slams-Bharath-over-Moodys-criticism.md"
-      ]
-    },
-    "Rodhil Kirk": {
-      "roles": [
-        "senior superintendent"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Third-person-held-in-Angelo-case.md"
-      ]
-    },
-    "Elizabeth Williams": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Third-person-held-in-Angelo-case.md"
-      ]
-    },
-    "Nicholas Ajodha": {
-      "roles": [
-        "Organizer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Underground-car-show-draws-thousands.md"
-      ]
-    },
-    "Rajive Suchit": {
-      "roles": [
-        "Organizer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Underground-car-show-draws-thousands.md"
-      ]
-    },
-    "Yvan Gil": {
-      "roles": [
-        "Foreign Minister of Venezuela",
-        "Foreign Minister"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Venezuela-wants-oil-spill-compensation-from-TT.md",
-        "Articles/2026-05-20_TampT-to-meet-with-Venezuela-virtually-to-discuss-oil-s.md"
-      ]
-    },
-    "Nicholas Francis": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Widower-files-suit-against-AG-NCRHA.md"
-      ]
-    },
-    "Alisha Kanna Seebaran": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-19_Widower-files-suit-against-AG-NCRHA.md"
-      ]
-    },
-    "Skylar Gabriel": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_6-year-old-out-of-hospital-but-still-critical-after-nea.md"
-      ]
-    },
-    "Abdullah Joseph": {
-      "roles": [
-        "Home invader",
-        "Suspect"
-      ],
-      "statuses": [
-        {
-          "status": "deceased",
-          "article": "Articles/2026-05-21_Petty-thief-killed-by-police.md",
-          "title": "Petty thief killed by police",
-          "date": "2026-05-21"
-        }
-      ],
-      "articles": [
-        "Articles/2026-05-20_Cops-kill-home-invader.md",
-        "Articles/2026-05-21_Petty-thief-killed-by-police.md"
-      ]
-    },
-    "Angelo Tobias-Plaza": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_I-killed-Angelo-and-threw-him-away.md"
-      ]
-    },
-    "Angelo's mother": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_I-killed-Angelo-and-threw-him-away.md"
-      ]
-    },
-    "Angelo's stepfather": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_I-killed-Angelo-and-threw-him-away.md"
-      ]
-    },
-    "Suspect (man)": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_I-killed-Angelo-and-threw-him-away.md"
-      ]
-    },
-    "Adrian Peter Duff": {
-      "roles": [
-        "Victim"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Man-found-dead-after-desperate-999-call-for-help.md",
-        "Articles/2026-05-21_Chopped-man-found-dead-after-999-call.md"
-      ]
-    },
-    "Kalifa Tobias": {
-      "roles": [
-        "Mother"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md",
-        "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md"
-      ]
-    },
-    "Janelle Johnson": {
-      "roles": [
-        "Opposition Senator"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny.md"
-      ]
-    },
-    "Joshua Samaroo": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md"
-      ]
-    },
-    "Kaia Sealy": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md"
-      ]
-    },
-    "Allister Guevarro": {
-      "roles": [
-        "Police Commissioner",
-        "Commissioner of Police"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP.md",
-        "Articles/2026-05-21_Petty-thief-killed-by-police.md"
-      ]
-    },
-    "Lionel Messi": {
-      "roles": [
-        "Footballer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_TTs-real-future-lies-in-non-energy-exports.md"
-      ]
-    },
-    "Julian Alvarez": {
-      "roles": [
-        "Footballer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_TTs-real-future-lies-in-non-energy-exports.md"
-      ]
-    },
-    "Randolph Bharatt": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
-      ]
-    },
-    "Pauline Bharat": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
-      ]
-    },
-    "Sean Luke": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
-      ]
-    },
-    "Andrea Bharatt": {
-      "roles": [],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_The-Boy-in-the-Canefield.md"
-      ]
-    },
-    "Children's Authority of Trinidad and Tobago": {
-      "roles": [
-        "Authority"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Unprecedented-abuse-of-minors.md"
-      ]
-    },
-    "Minister of Homeland Security": {
-      "roles": [
-        "Minister"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Will-crime-decrease-with-more-manpower.md"
-      ]
-    },
-    "Permanent Commissioner of Police (CoP)": {
-      "roles": [
-        "Police Commissioner"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-20_Will-crime-decrease-with-more-manpower.md"
-      ]
-    },
-    "Jamir Nazir": {
-      "roles": [
-        "Writer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Commonwealth-short-story-winner-accused-of-using-AI.md"
-      ]
-    },
-    "Kevin Jared Hosein": {
-      "roles": [
-        "Author"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Commonwealth-short-story-winner-accused-of-using-AI.md"
-      ]
-    },
-    "Gerard Gordon": {
-      "roles": [
-        "President of the Prison OfficersÃ¢ÂÂ Association"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Death-threat-for-Teteron-prison-officer.md"
-      ]
-    },
-    "Joseph": {
-      "roles": [
-        "Police Constable"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal.md"
-      ]
-    },
-    "Moore": {
-      "roles": [
-        "Police Constable"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal.md"
-      ]
-    },
-    "Lee Tang": {
-      "roles": [
-        "Assistant Superintendent of Police"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal.md"
-      ]
-    },
-    "Mahabir": {
-      "roles": [
-        "Inspector"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal.md"
-      ]
-    },
-    "Callender": {
-      "roles": [
-        "Inspector"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal.md"
-      ]
-    },
-    "Tim Gopeesingh": {
-      "roles": [
-        "Chairman of the North Central Regional Health Authority"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_US-6M-grant-for-TT-healthcare-system.md"
-      ]
-    },
-    "Bethany Kozma": {
-      "roles": [
-        "Director of the Secretary's Office of Global Affairs"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_US-6M-grant-for-TT-healthcare-system.md"
-      ]
-    },
-    "Jena Arnott": {
-      "roles": [
-        "Senior Adviser"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_US-6M-grant-for-TT-healthcare-system.md"
-      ]
-    },
-    "Natalie Dodson": {
-      "roles": [
-        "Counsellor to the Secretary"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_US-6M-grant-for-TT-healthcare-system.md"
-      ]
-    },
-    "Bridget Lucas": {
-      "roles": [
-        "Special Adviser"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_US-6M-grant-for-TT-healthcare-system.md"
-      ]
-    },
-    "Gwyneth Kozma": {
-      "roles": [
-        "Political Officer"
-      ],
-      "statuses": [],
-      "articles": [
-        "Articles/2026-05-21_US-6M-grant-for-TT-healthcare-system.md"
-      ]
-    }
+  "Seandel Davy": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Angelo Tobias Plaza": {
+    "roles": [
+      "Victim"
+    ],
+    "legal_statuses": [
+      "deceased"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Mans-body-found-during-search-for-missing-Tobago-infant",
+        "title": "Man's body found during search for missing Tobago infant"
+      },
+      {
+        "slug": "2026-05-18_Homicide-Bureau-joins-search-for-Angelo",
+        "title": "Homicide Bureau joins search for Angelo"
+      },
+      {
+        "slug": "2026-05-18_Search-shifts-to-dump-after-tip-off",
+        "title": "Search shifts to dump after tip-off"
+      },
+      {
+        "slug": "2026-05-19_3-women-held-in-Angelos-disappearance",
+        "title": "3 women held in Angelo's disappearance"
+      },
+      {
+        "slug": "2026-05-19_Third-person-held-in-Angelo-case",
+        "title": "Third person held in Angelo case"
+      },
+      {
+        "slug": "2026-05-20_Angelo-probe-Seven-now-in-custody",
+        "title": "Angelo probe: Seven now in custody"
+      },
+      {
+        "slug": "2026-05-20_Night-falls-without-Angelo-being-found",
+        "title": "Night falls without Angelo being found"
+      },
+      {
+        "slug": "2026-05-21_Alexander-There-will-be-justice-for-Angelo",
+        "title": "Alexander: There will be justice for Angelo"
+      },
+      {
+        "slug": "2026-05-21_Suspect-admits-strangling-Angelo",
+        "title": "Suspect admits strangling Angelo"
+      }
+    ]
+  },
+  "Kiran Panday": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Eniboku Akina": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Abdullah Joseph": {
+    "roles": [
+      "Home invader",
+      "Suspect"
+    ],
+    "legal_statuses": [
+      "deceased"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-20_Cops-kill-home-invader",
+        "title": "Cops kill home invader"
+      },
+      {
+        "slug": "2026-05-21_Petty-thief-killed-by-police",
+        "title": "Petty thief killed by police"
+      }
+    ]
+  },
+  "Richard James": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Nicholas Rampersadsingh": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Paul Gosein": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Garvey Campo": {
+    "roles": [
+      "Homicide Victim"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Sydney Viaruel": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Darryl Bissoon": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Wenrick King": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Margaret Sookraj-Goswami": {
+    "roles": [
+      "High Court Master"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Shaun Morris": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Ian Brooks": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Jeron Paul": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Anju Bhola-Mc Quan": {
+    "roles": [
+      "State Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Shane Patience": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Shelly Ann Ali": {
+    "roles": [
+      "Accused"
+    ],
+    "legal_statuses": [
+      "acquitted"
+    ],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Ayanna Norville-Modeste": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Stephen Wilson": {
+    "roles": [
+      "Defence Attorney"
+    ],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Gang-related-cases-dismissed-over-State-Delays",
+        "title": "Gang-related cases dismissed over State Delays"
+      }
+    ]
+  },
+  "Abbas Khaledi": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Ex-casino-manager-freed-of-fraud-charge",
+        "title": "Ex-casino manager freed of fraud charge"
+      }
+    ]
+  },
+  "Magistrate Rehanna Ali": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Ex-casino-manager-freed-of-fraud-charge",
+        "title": "Ex-casino manager freed of fraud charge"
+      }
+    ]
+  },
+  "Devindra Rampersad": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees",
+        "title": "Finance Ministry ordered to disclose lawyer fees"
+      }
+    ]
+  },
+  "Ravi Balgobin Maharaj": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees",
+        "title": "Finance Ministry ordered to disclose lawyer fees"
+      }
+    ]
+  },
+  "Colm Imbert": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees",
+        "title": "Finance Ministry ordered to disclose lawyer fees"
+      }
+    ]
+  },
+  "Russell Martineau": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees",
+        "title": "Finance Ministry ordered to disclose lawyer fees"
+      }
+    ]
+  },
+  "Jason Mootoo": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees",
+        "title": "Finance Ministry ordered to disclose lawyer fees"
+      }
+    ]
+  },
+  "Vallence Rambharat": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Mans-body-found-during-search-for-missing-Tobago-infant",
+        "title": "Man's body found during search for missing Tobago infant"
+      }
+    ]
+  },
+  "McLean": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Mans-body-found-during-search-for-missing-Tobago-infant",
+        "title": "Man's body found during search for missing Tobago infant"
+      }
+    ]
+  },
+  "Pennelope Beckles": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter",
+        "title": "Penny still 'gathering facts' on John-Bates matter"
+      },
+      {
+        "slug": "2026-05-18_Penny-Govt-blaming-crime-on-PNM-areas",
+        "title": "Penny Govt blaming crime on PNM areas"
+      },
+      {
+        "slug": "2026-05-18_Penny-leave-me-alone",
+        "title": "Penny leave me alone"
+      },
+      {
+        "slug": "2026-05-18_What-is-the-NGC-Board-hiding",
+        "title": "What is the NGC Board hiding?"
+      },
+      {
+        "slug": "2026-05-19_Beckles-cannot-delay-John-Bates-decision",
+        "title": "Beckles cannot delay John-Bates decision"
+      },
+      {
+        "slug": "2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny",
+        "title": "PM trying to distract from failing govt says Penny"
+      }
+    ]
+  },
+  "Marvin Gonzales": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter",
+        "title": "Penny still 'gathering facts' on John-Bates matter"
+      }
+    ]
+  },
+  "Janelle John-Bates": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter",
+        "title": "Penny still 'gathering facts' on John-Bates matter"
+      },
+      {
+        "slug": "2026-05-18_Penny-leave-me-alone",
+        "title": "Penny leave me alone"
+      },
+      {
+        "slug": "2026-05-19_Beckles-cannot-delay-John-Bates-decision",
+        "title": "Beckles cannot delay John-Bates decision"
+      }
+    ]
+  },
+  "Terrence Deyalsingh": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter",
+        "title": "Penny still 'gathering facts' on John-Bates matter"
+      },
+      {
+        "slug": "2026-05-18_Penny-leave-me-alone",
+        "title": "Penny leave me alone"
+      }
+    ]
+  },
+  "Jagdeo Singh": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter",
+        "title": "Penny still 'gathering facts' on John-Bates matter"
+      },
+      {
+        "slug": "2026-05-18_Penny-leave-me-alone",
+        "title": "Penny leave me alone"
+      }
+    ]
+  },
+  "Vishnu Dhanpaul": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter",
+        "title": "Penny still 'gathering facts' on John-Bates matter"
+      }
+    ]
+  },
+  "David Nakhid": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter",
+        "title": "Penny still 'gathering facts' on John-Bates matter"
+      }
+    ]
+  },
+  "Rohan Ramkissoon": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-15_Three-bodies-in-one-week",
+        "title": "Three bodies in one week"
+      }
+    ]
+  },
+  "Dr Garvin Heerah": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_A-risk-to-justice-system",
+        "title": "A risk to justice system"
+      }
+    ]
+  },
+  "acting Registrar of the Supreme Court": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_A-risk-to-justice-system",
+        "title": "A risk to justice system"
+      }
+    ]
+  },
+  "Gaston Browne": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Antigua-PM-calls-for-full-loss-and-damage-funding",
+        "title": "Antigua PM calls for full loss and damage funding"
+      }
+    ]
+  },
+  "Unknown": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Cops-bust-secret-gambling-den-in-Dabadie",
+        "title": "Cops bust secret gambling den in Dabadie"
+      },
+      {
+        "slug": "2026-05-18_Massive-traffic-pile-up-as-hundreds-seek-free-eye-surge",
+        "title": "Massive traffic pile-up as hundreds seek free eye surgery"
+      },
+      {
+        "slug": "2026-05-19_Cops-bust-secret-gambling-den",
+        "title": "Cops bust secret gambling den"
+      }
+    ]
+  },
+  "Oscar B": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Fundraiser-for-ailing-Oscar-B",
+        "title": "Fundraiser for ailing Oscar B"
+      }
+    ]
+  },
+  "Astrid Benjamin": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Fundraiser-for-ailing-Oscar-B",
+        "title": "Fundraiser for ailing Oscar B"
+      }
+    ]
+  },
+  "Renuka Singh": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Homicide-Bureau-joins-search-for-Angelo",
+        "title": "Homicide Bureau joins search for Angelo"
+      },
+      {
+        "slug": "2026-05-18_NCRHA-cites-success",
+        "title": "NCRHA cites success"
+      }
+    ]
+  },
+  "Lizanne De Beaux": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Hundreds-show-up-for-free-eye-surgery",
+        "title": "Hundreds show up for free eye surgery"
+      }
+    ]
+  },
+  "Anonymous": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Hundreds-show-up-for-free-eye-surgery",
+        "title": "Hundreds show up for free eye surgery"
+      },
+      {
+        "slug": "2026-05-18_NCRHA-cites-success",
+        "title": "NCRHA cites success"
+      },
+      {
+        "slug": "2026-05-19_Contract-worker-at-centre-of-passport-appointment-scam",
+        "title": "Contract worker at centre of passport appointment scam"
+      },
+      {
+        "slug": "2026-05-19_Contract-worker-at-centre-of-passport-appointment-scam",
+        "title": "Contract worker at centre of passport appointment scam"
+      },
+      {
+        "slug": "2026-05-19_Contract-worker-at-centre-of-passport-appointment-scam",
+        "title": "Contract worker at centre of passport appointment scam"
+      },
+      {
+        "slug": "2026-05-20_National-footballer-ex-player-among-4-held-for-narcotic",
+        "title": "National footballer, ex-player among 4 held for narcotics"
+      },
+      {
+        "slug": "2026-05-20_National-footballer-ex-player-among-4-held-for-narcotic",
+        "title": "National footballer, ex-player among 4 held for narcotics"
+      },
+      {
+        "slug": "2026-05-20_National-footballer-ex-player-among-4-held-for-narcotic",
+        "title": "National footballer, ex-player among 4 held for narcotics"
+      },
+      {
+        "slug": "2026-05-20_National-footballer-ex-player-among-4-held-for-narcotic",
+        "title": "National footballer, ex-player among 4 held for narcotics"
+      }
+    ]
+  },
+  "45-year-old Carenage man": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Neighbour-shoots-man-during-row",
+        "title": "Neighbour shoots man during row"
+      }
+    ]
+  },
+  "man known to him": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Neighbour-shoots-man-during-row",
+        "title": "Neighbour shoots man during row"
+      }
+    ]
+  },
+  "Saira Lakhan": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_New-attorneys-could-ease-staffing-shortages-says-Lakhan",
+        "title": "New attorneys could ease staffing shortages, says Lakhan"
+      }
+    ]
+  },
+  "John Jeremie": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Penny-Govt-blaming-crime-on-PNM-areas",
+        "title": "Penny Govt blaming crime on PNM areas"
+      }
+    ]
+  },
+  "Kamla Persad-Bissessar": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Penny-leave-me-alone",
+        "title": "Penny leave me alone"
+      },
+      {
+        "slug": "2026-05-19_Beckles-cannot-delay-John-Bates-decision",
+        "title": "Beckles cannot delay John-Bates decision"
+      },
+      {
+        "slug": "2026-05-19_Vehicle-crashes-into-wall-outside-PMs-residence",
+        "title": "Vehicle crashes into wall outside PM's residence"
+      },
+      {
+        "slug": "2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny",
+        "title": "PM trying to distract from failing govt says Penny"
+      },
+      {
+        "slug": "2026-05-20_TampT-to-meet-with-Venezuela-virtually-to-discuss-oil-s",
+        "title": "T&amp;T to meet with Venezuela virtually to discuss oil spill"
+      }
+    ]
+  },
+  "Nanikishore Bobby Sirju": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Pensioners-roof-goes-flying",
+        "title": "Pensioner's roof goes flying"
+      }
+    ]
+  },
+  "Kalifah Tobias": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Search-shifts-to-dump-after-tip-off",
+        "title": "Search shifts to dump after tip-off"
+      }
+    ]
+  },
+  "Shannon Miller": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Search-shifts-to-dump-after-tip-off",
+        "title": "Search shifts to dump after tip-off"
+      }
+    ]
+  },
+  "Brian Lalla": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Staggering-man-killed-on-highway",
+        "title": "Staggering man killed on highway"
+      }
+    ]
+  },
+  "Scott Bessent": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Temporary-sanctions-relief-amid-Iran-war",
+        "title": "Temporary sanctions relief amid Iran war"
+      }
+    ]
+  },
+  "Sieunarine Coosal": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Third-Honorary-Doctorate-for-Coosal",
+        "title": "Third Honorary Doctorate for Coosal"
+      }
+    ]
+  },
+  "Fitzroy Harewood": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Third-Honorary-Doctorate-for-Coosal",
+        "title": "Third Honorary Doctorate for Coosal"
+      }
+    ]
+  },
+  "Claire Chunlan Aleong-Hosten": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Third-Honorary-Doctorate-for-Coosal",
+        "title": "Third Honorary Doctorate for Coosal"
+      }
+    ]
+  },
+  "Dr Colwick Wilson": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Third-Honorary-Doctorate-for-Coosal",
+        "title": "Third Honorary Doctorate for Coosal"
+      }
+    ]
+  },
+  "Len Archer": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Third-Honorary-Doctorate-for-Coosal",
+        "title": "Third Honorary Doctorate for Coosal"
+      }
+    ]
+  },
+  "Zara Majid": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Zara-eyes-Yale",
+        "title": "Zara eyes Yale"
+      }
+    ]
+  },
+  "Fayad Majid": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Zara-eyes-Yale",
+        "title": "Zara eyes Yale"
+      }
+    ]
+  },
+  "Michelle Majid": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-18_Zara-eyes-Yale",
+        "title": "Zara eyes Yale"
+      }
+    ]
+  },
+  "Roger Alexander": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Citizenship-for-sale",
+        "title": "Citizenship for sale"
+      },
+      {
+        "slug": "2026-05-19_Prison-drone-operator-held",
+        "title": "Prison drone operator held"
+      },
+      {
+        "slug": "2026-05-21_Alexander-There-will-be-justice-for-Angelo",
+        "title": "Alexander: There will be justice for Angelo"
+      }
+    ]
+  },
+  "Owner of the premises": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Cops-bust-secret-gambling-den",
+        "title": "Cops bust secret gambling den"
+      }
+    ]
+  },
+  "Frank Seepersad": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Judge-implement-Zosas-in-families-communities",
+        "title": "Judge implement Zosas in families, communities"
+      }
+    ]
+  },
+  "Justice Margaret Mohammed": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Judgment-against-Jusamco",
+        "title": "Judgment against Jusamco"
+      }
+    ]
+  },
+  "Jusamco Pavers Ltd": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Judgment-against-Jusamco",
+        "title": "Judgment against Jusamco"
+      }
+    ]
+  },
+  "Massy Machinery Ltd": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Judgment-against-Jusamco",
+        "title": "Judgment against Jusamco"
+      }
+    ]
+  },
+  "Richard Kingsley": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Man-injured-in-Cocoyea-shooting",
+        "title": "Man injured in Cocoyea shooting"
+      }
+    ]
+  },
+  "PC Edwards": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Man-injured-in-Cocoyea-shooting",
+        "title": "Man injured in Cocoyea shooting"
+      }
+    ]
+  },
+  "Isaac": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Man-injured-in-Cocoyea-shooting",
+        "title": "Man injured in Cocoyea shooting"
+      }
+    ]
+  },
+  "Kylene Dowden": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Ministry-and-FIUTT-renew-collaboration",
+        "title": "Ministry and FIUTT renew collaboration"
+      }
+    ]
+  },
+  "Nigel Stoddard": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Ministry-and-FIUTT-renew-collaboration",
+        "title": "Ministry and FIUTT renew collaboration"
+      }
+    ]
+  },
+  "Natalie Willis": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Ministry-and-FIUTT-renew-collaboration",
+        "title": "Ministry and FIUTT renew collaboration"
+      }
+    ]
+  },
+  "Deborah-Ann Scott": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Ministry-and-FIUTT-renew-collaboration",
+        "title": "Ministry and FIUTT renew collaboration"
+      }
+    ]
+  },
+  "Gerald Ramdeen": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Ramdeen-slams-Bharath-over-Moodys-criticism",
+        "title": "Ramdeen slams Bharath over Moody's criticism"
+      }
+    ]
+  },
+  "Vasant Bharath": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Ramdeen-slams-Bharath-over-Moodys-criticism",
+        "title": "Ramdeen slams Bharath over Moody's criticism"
+      }
+    ]
+  },
+  "Rodhil Kirk": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Third-person-held-in-Angelo-case",
+        "title": "Third person held in Angelo case"
+      }
+    ]
+  },
+  "Elizabeth Williams": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Third-person-held-in-Angelo-case",
+        "title": "Third person held in Angelo case"
+      }
+    ]
+  },
+  "Nicholas Ajodha": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Underground-car-show-draws-thousands",
+        "title": "Underground car show draws thousands"
+      }
+    ]
+  },
+  "Rajive Suchit": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Underground-car-show-draws-thousands",
+        "title": "Underground car show draws thousands"
+      }
+    ]
+  },
+  "Yvan Gil": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Venezuela-wants-oil-spill-compensation-from-TT",
+        "title": "Venezuela wants oil spill compensation from T&T"
+      },
+      {
+        "slug": "2026-05-20_TampT-to-meet-with-Venezuela-virtually-to-discuss-oil-s",
+        "title": "T&amp;T to meet with Venezuela virtually to discuss oil spill"
+      }
+    ]
+  },
+  "Nicholas Francis": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Widower-files-suit-against-AG-NCRHA",
+        "title": "Widower files suit against AG, NCRHA"
+      }
+    ]
+  },
+  "Alisha Kanna Seebaran": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-19_Widower-files-suit-against-AG-NCRHA",
+        "title": "Widower files suit against AG, NCRHA"
+      }
+    ]
+  },
+  "Skylar Gabriel": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_6-year-old-out-of-hospital-but-still-critical-after-nea",
+        "title": "6-year-old out of hospital but still critical after near-drowning"
+      }
+    ]
+  },
+  "Angelo Tobias-Plaza": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_I-killed-Angelo-and-threw-him-away",
+        "title": "I killed Angelo and threw him away"
+      }
+    ]
+  },
+  "Angelo's mother": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_I-killed-Angelo-and-threw-him-away",
+        "title": "I killed Angelo and threw him away"
+      }
+    ]
+  },
+  "Angelo's stepfather": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_I-killed-Angelo-and-threw-him-away",
+        "title": "I killed Angelo and threw him away"
+      }
+    ]
+  },
+  "Suspect (man)": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_I-killed-Angelo-and-threw-him-away",
+        "title": "I killed Angelo and threw him away"
+      }
+    ]
+  },
+  "Adrian Peter Duff": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Man-found-dead-after-desperate-999-call-for-help",
+        "title": "Man found dead after desperate 999 call for help"
+      },
+      {
+        "slug": "2026-05-21_Chopped-man-found-dead-after-999-call",
+        "title": "Chopped man found dead after 999 call"
+      }
+    ]
+  },
+  "Kalifa Tobias": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Night-falls-without-Angelo-being-found",
+        "title": "Night falls without Angelo being found"
+      },
+      {
+        "slug": "2026-05-21_Suspect-admits-strangling-Angelo",
+        "title": "Suspect admits strangling Angelo"
+      }
+    ]
+  },
+  "Janelle Johnson": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_PM-trying-to-distract-from-failing-govt-says-Penny",
+        "title": "PM trying to distract from failing govt says Penny"
+      }
+    ]
+  },
+  "Joshua Samaroo": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP",
+        "title": "Police Samaroo shooting file to move to DPP"
+      }
+    ]
+  },
+  "Kaia Sealy": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP",
+        "title": "Police Samaroo shooting file to move to DPP"
+      }
+    ]
+  },
+  "Allister Guevarro": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP",
+        "title": "Police Samaroo shooting file to move to DPP"
+      },
+      {
+        "slug": "2026-05-21_Petty-thief-killed-by-police",
+        "title": "Petty thief killed by police"
+      }
+    ]
+  },
+  "Lionel Messi": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_TTs-real-future-lies-in-non-energy-exports",
+        "title": "T&T's real future lies in non-energy exports"
+      }
+    ]
+  },
+  "Julian Alvarez": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_TTs-real-future-lies-in-non-energy-exports",
+        "title": "T&T's real future lies in non-energy exports"
+      }
+    ]
+  },
+  "Randolph Bharatt": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_The-Boy-in-the-Canefield",
+        "title": "The Boy in the Canefield"
+      }
+    ]
+  },
+  "Pauline Bharat": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_The-Boy-in-the-Canefield",
+        "title": "The Boy in the Canefield"
+      }
+    ]
+  },
+  "Sean Luke": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_The-Boy-in-the-Canefield",
+        "title": "The Boy in the Canefield"
+      }
+    ]
+  },
+  "Andrea Bharatt": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_The-Boy-in-the-Canefield",
+        "title": "The Boy in the Canefield"
+      }
+    ]
+  },
+  "Children's Authority of Trinidad and Tobago": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Unprecedented-abuse-of-minors",
+        "title": "Unprecedented abuse of minors"
+      }
+    ]
+  },
+  "Minister of Homeland Security": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Will-crime-decrease-with-more-manpower",
+        "title": "Will crime decrease with more manpower?"
+      }
+    ]
+  },
+  "Permanent Commissioner of Police (CoP)": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-20_Will-crime-decrease-with-more-manpower",
+        "title": "Will crime decrease with more manpower?"
+      }
+    ]
+  },
+  "Jamir Nazir": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Commonwealth-short-story-winner-accused-of-using-AI",
+        "title": "Commonwealth short story winner accused of using AI"
+      }
+    ]
+  },
+  "Kevin Jared Hosein": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Commonwealth-short-story-winner-accused-of-using-AI",
+        "title": "Commonwealth short story winner accused of using AI"
+      }
+    ]
+  },
+  "Gerard Gordon": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Death-threat-for-Teteron-prison-officer",
+        "title": "Death threat for Teteron prison officer"
+      }
+    ]
+  },
+  "Joseph": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal",
+        "title": "Manzanilla murder: Naked body in the cocal"
+      }
+    ]
+  },
+  "Moore": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal",
+        "title": "Manzanilla murder: Naked body in the cocal"
+      }
+    ]
+  },
+  "Lee Tang": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal",
+        "title": "Manzanilla murder: Naked body in the cocal"
+      }
+    ]
+  },
+  "Mahabir": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal",
+        "title": "Manzanilla murder: Naked body in the cocal"
+      }
+    ]
+  },
+  "Callender": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal",
+        "title": "Manzanilla murder: Naked body in the cocal"
+      }
+    ]
+  },
+  "Tim Gopeesingh": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_US-6M-grant-for-TT-healthcare-system",
+        "title": "US $6M grant for T&T healthcare system"
+      }
+    ]
+  },
+  "Bethany Kozma": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_US-6M-grant-for-TT-healthcare-system",
+        "title": "US $6M grant for T&T healthcare system"
+      }
+    ]
+  },
+  "Jena Arnott": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_US-6M-grant-for-TT-healthcare-system",
+        "title": "US $6M grant for T&T healthcare system"
+      }
+    ]
+  },
+  "Natalie Dodson": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_US-6M-grant-for-TT-healthcare-system",
+        "title": "US $6M grant for T&T healthcare system"
+      }
+    ]
+  },
+  "Bridget Lucas": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_US-6M-grant-for-TT-healthcare-system",
+        "title": "US $6M grant for T&T healthcare system"
+      }
+    ]
+  },
+  "Gwyneth Kozma": {
+    "roles": [],
+    "legal_statuses": [],
+    "articles": [
+      {
+        "slug": "2026-05-21_US-6M-grant-for-TT-healthcare-system",
+        "title": "US $6M grant for T&T healthcare system"
+      }
+    ]
   }
 }

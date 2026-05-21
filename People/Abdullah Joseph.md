@@ -1,20 +1,18 @@
 ---
 type: person
 name: "Abdullah Joseph"
-roles: [Home invader, Suspect]
-legal_statuses: [deceased]
-tags: [criminal-record]
+roles: ["Home invader", "Suspect"]
+legal_statuses: ["deceased"]
+tags: ["person", "criminal-record"]
 ---
 
 # Abdullah Joseph
 
 **Known roles:** Home invader, Suspect
 
-**Legal status:** deceased
+## Legal Status
 
-## Case History
-
-- **deceased** — [[Articles/2026-05-21_Petty-thief-killed-by-police|Petty thief killed by police]] _(2026-05-21)_
+- deceased
 
 ## Articles
 
