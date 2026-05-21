@@ -1427,5 +1427,21 @@
         "title": "US $6M grant for T&T healthcare system"
       }
     ]
+  },
+  "People": {
+    "Kwesi Walker": {
+      "roles": [],
+      "statuses": [
+        {
+          "status": "victim",
+          "article": "Articles/2026-05-21_Gunmen-kill-40-year-old-in-Champs-Fleurs.md",
+          "title": "Gunmen kill 40-year-old in Champs Fleurs",
+          "date": "2026-05-21"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-21_Gunmen-kill-40-year-old-in-Champs-Fleurs.md"
+      ]
+    }
   }
 }
