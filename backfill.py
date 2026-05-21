@@ -80,36 +80,40 @@ def build_note(d, url, pub_date):
     orgs = d.get("organizations") or []
     places = d.get("places") or []
     topics = d.get("topics") or []
-    lines = ["---", f'title: "{(d.get("title") or "Untitled").replace(chr(34), chr(39))}"',
-             f"date_reported: {date}", f"date_effective: {date_eff or 'null'}",
-             "source: trinidadexpress.com", f"url: {url}",
-             f"authors: [{', '.join(authors)}]", f"tags: [{', '.join(topics)}]",
-             f"sports_crossover: {str(d.get('sports_crossover', False)).lower()}", "---", "",
-             f"# {d.get('title') or 'Untitled'}", f"> {date} · trinidadexpress.com · [link]({url})", ""]
+    lines = ["---",
+             f'title: "{(d.get("title") or "Untitled").replace(chr(34), chr(39))}"',
+             f"date_reported: {date}",
+             f"date_effective: {date_eff or 'null'}",
+             "source: trinidadexpress.com",
+             f"url: {url}",
+             f"authors: [{', '.join(authors)}]",
+             f"tags: [{', '.join(topics)}]",
+             f"sports_crossover: {str(d.get('sports_crossover', False)).lower()}",
+             "---", "",
+             f"# {d.get('title') or 'Untitled'}",
+             f"> {date} | [trinidadexpress.com]({url})", ""]
     if authors:
-        lines += [f"**By:** {' · '.join(f'[[Authors/{safe(a)}|{a}]]' for a in authors)}", ""]
-    if date_eff and date_eff != date:
-        lines += [f"> Warning: **Effective:** {date_eff} (reported {date})", ""]
+        lines += [f"**By:** {' | '.join(f'[[Authors/{safe(a)}|{a}]]' for a in authors)}", ""]
     if people:
         parts = []
         for p in people:
             s = f"[[People/{safe(p['name'])}|{p['name']}]]"
             if p.get("role"): s += f" _({p['role']})_"
-            if p.get("legal_status"): s += f" Warning _{p['legal_status']}_"
+            if p.get("legal_status"): s += f" **{p['legal_status']}**"
             parts.append(s)
-        lines += ["## People", " · ".join(parts), ""]
+        lines += ["## People", " | ".join(parts), ""]
     if orgs:
-        lines += ["## Organizations", " · ".join(f"[[Orgs/{safe(o)}|{o}]]" for o in orgs), ""]
+        lines += ["## Organizations", " | ".join(f"[[Orgs/{safe(o)}|{o}]]" for o in orgs), ""]
     if places:
-        lines += ["## Places", " · ".join(f"[[Places/{safe(p)}|{p}]]" for p in places), ""]
+        lines += ["## Places", " | ".join(f"[[Places/{safe(p)}|{p}]]" for p in places), ""]
     if topics:
-        lines += ["## Topics", " · ".join(f"[[Topics/{safe(t)}|{t}]]" for t in topics), ""]
+        lines += ["## Topics", " | ".join(f"[[Topics/{safe(t)}|{t}]]" for t in topics), ""]
     sc = d.get("state_changes") or []
     if sc:
         lines += ["## State Changes", ""]
         for s in sc:
             eff = f" _(effective {s['date_effective']})_" if s.get("date_effective") and s.get("date_effective") != s.get("date_reported") else ""
-            lines.append(f"- {wl(s['entity'])}: **{s.get('from') or '?'}** -> **{s['to']}** _{s['change']}_{eff}")
+            lines.append(f"- **{s['entity']}**: {s.get('from') or '?'} -> {s['to']} ({s['change']}){eff}")
         lines.append("")
     rels = d.get("relationships") or []
     if rels:
@@ -121,27 +125,38 @@ def build_note(d, url, pub_date):
     if quotes:
         lines += ["## Key Quotes", ""]
         for q in quotes:
-            lines += [f'> "{q["text"]}"', f'> --- {wl(q["speaker"])}', ""]
+            lines += [f'> "{q["text"]}"', f'> -- {wl(q["speaker"])}', ""]
     sentiment = d.get("sentiment") or []
     if sentiment:
-        icons = {"positive": "G", "negative": "R", "neutral": "N"}
+        icons = {"positive": "positive", "negative": "negative", "neutral": "neutral"}
         lines += ["---", "## Sentiment", ""]
         for s in sentiment:
-            lines.append(f"- {wl(s['author'])} -> {wl(s['target'])}: {icons.get(s['lean'],'N')} **{s['lean']}** --- _{s['basis']}_")
+            lines.append(f"- {wl(s['author'])} -> {wl(s['target'])}: **{s['lean']}** -- {s['basis']}")
         lines.append("")
     return "\n".join(lines)
 
-def build_criminal_stub(name, data):
+def build_person_stub(name, data):
     statuses = list(dict.fromkeys(s["status"] for s in data["statuses"]))
     roles = list(dict.fromkeys(r for r in data["roles"] if r))
+    has_criminal = len(statuses) > 0
+    tags = "criminal-record" if has_criminal else "person"
     lines = ["---", "type: person", f'name: "{safe(name)}"',
-             f"legal_statuses: [{', '.join(statuses)}]", "tags: [criminal-record]", "---", "", f"# {name}", ""]
+             f"roles: [{', '.join(roles)}]",
+             f"legal_statuses: [{', '.join(statuses)}]",
+             f"tags: [{tags}]", "---", "", f"# {name}", ""]
     if roles:
         lines += [f"**Known roles:** {', '.join(roles)}", ""]
-    lines += [f"**Legal status:** {', '.join(statuses)}", "", "## Case History", ""]
-    for s in data["statuses"]:
-        lines.append(f"- **{s['status']}** --- [[{s['article'].replace('.md','')}|{s.get('title','Article')}]] _({s['date']})_")
-    lines.append("")
+    if has_criminal:
+        lines += [f"**Legal status:** {', '.join(statuses)}", "", "## Case History", ""]
+        for s in data["statuses"]:
+            lines.append(f"- **{s['status']}** -- [[{s['article'].replace('.md','')}|{s.get('title','Article')}]] ({s['date']})")
+        lines.append("")
+    if data.get("articles"):
+        lines += ["## Articles", ""]
+        for a in data["articles"]:
+            title = re.sub(r'^Articles/[\d-]+_', '', a).replace('-', ' ').replace('.md', '')
+            lines.append(f"- [[{a.replace('.md','')}|{title}]]")
+        lines.append("")
     return "\n".join(lines)
 
 # Main
@@ -172,7 +187,7 @@ for i, entry in enumerate(entries):
     try:
         d = groq_extract(f"URL: {url}\nPublished: {pub_date}\n{author_hint}\n{fetched['body']}")
     except Exception as e:
-        print(f"  Groq fail: {e}"); time.sleep(3); continue
+        print(f"  Groq fail: {e}"); time.sleep(5); continue
 
     files_to_push[path] = build_note(d, url, pub_date)
     authors = d.get("authors") or []
@@ -190,12 +205,12 @@ for i, entry in enumerate(entries):
                 ep["statuses"].append({"status": p["legal_status"], "article": path,
                                        "title": d.get("title", "Article"), "date": d.get("date_reported", pub_date)})
     roles_found = [p.get("role") for p in d.get("people", []) if p.get("role")]
-    print(f"  OK --- {len(d.get('people', []))} people, roles: {roles_found[:4]}")
+    print(f"  OK -- {len(d.get('people', []))} people, roles: {roles_found[:5]}")
     time.sleep(2)
 
+# Build People stubs for everyone
 for name, data in entities["People"].items():
-    if data["statuses"]:
-        files_to_push[f"Entities/People/{safe(name)}.md"] = build_criminal_stub(name, data)
+    files_to_push[f"People/{safe(name)}.md"] = build_person_stub(name, data)
 
 files_to_push["data/entities.json"] = json.dumps(entities, indent=2)
 print(f"\nPushing {len(files_to_push)} files to GitHub...")
@@ -212,7 +227,7 @@ for fpath, fcontent in files_to_push.items():
 
 new_tree = gh("git/trees", "POST", json.dumps({"base_tree": tree_sha, "tree": tree_items}).encode())
 new_commit = gh("git/commits", "POST", json.dumps({
-    "message": "backfill: improved extraction on all articles",
+    "message": "backfill: 70b model, rich People stubs with roles",
     "tree": new_tree["sha"], "parents": [head_sha]}).encode())
 gh("git/refs/heads/main", "PATCH", json.dumps({"sha": new_commit["sha"]}).encode())
-print(f"\nDone --- commit {new_commit['sha'][:7]}")
+print(f"\nDone -- commit {new_commit['sha'][:7]}")
