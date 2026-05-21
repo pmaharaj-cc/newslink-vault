@@ -15,6 +15,7 @@ tags: [criminal-record]
 ## Case History
 
 - **deceased** — [[Articles/2026-05-21_Suspect-admits-strangling-Angelo|Suspect admits strangling Angelo]] _(2026-05-21)_
+- **deceased** — [[Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo|Alexander: There will be justice for Angelo]] _(2026-05-21)_
 
 ## Articles
 
@@ -26,3 +27,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-20_Angelo-probe-Seven-now-in-custody|Angelo probe Seven now in custody]]
 - [[Articles/2026-05-20_Night-falls-without-Angelo-being-found|Night falls without Angelo being found]]
 - [[Articles/2026-05-21_Suspect-admits-strangling-Angelo|Suspect admits strangling Angelo]]
+- [[Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo|Alexander There will be justice for Angelo]]

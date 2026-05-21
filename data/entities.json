@@ -300,6 +300,12 @@
           "article": "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md",
           "title": "Suspect admits strangling Angelo",
           "date": "2026-05-21"
+        },
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo.md",
+          "title": "Alexander: There will be justice for Angelo",
+          "date": "2026-05-21"
         }
       ],
       "articles": [
@@ -310,7 +316,8 @@
         "Articles/2026-05-19_Third-person-held-in-Angelo-case.md",
         "Articles/2026-05-20_Angelo-probe-Seven-now-in-custody.md",
         "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md",
-        "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md"
+        "Articles/2026-05-21_Suspect-admits-strangling-Angelo.md",
+        "Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo.md"
       ]
     },
     "Pennelope Beckles": {
@@ -654,7 +661,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-19_Prison-drone-operator-held.md"
+        "Articles/2026-05-19_Prison-drone-operator-held.md",
+        "Articles/2026-05-21_Alexander-There-will-be-justice-for-Angelo.md"
       ]
     },
     "Gerald Ramdeen": {
@@ -793,7 +801,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-20_Man-found-dead-after-desperate-999-call-for-help.md"
+        "Articles/2026-05-20_Man-found-dead-after-desperate-999-call-for-help.md",
+        "Articles/2026-05-21_Chopped-man-found-dead-after-999-call.md"
       ]
     },
     "Kalifa Tobias": {
@@ -929,6 +938,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-21_Commonwealth-short-story-winner-accused-of-using-AI.md"
+      ]
+    },
+    "Gerard Gordon": {
+      "roles": [
+        "President of the Prison Officers’ Association"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Death-threat-for-Teteron-prison-officer.md"
       ]
     }
   }
