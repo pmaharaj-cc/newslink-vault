@@ -105,7 +105,8 @@
       "articles": [
         "Articles/2026-05-19_Third-person-held-in-Angelo-case.md",
         "Articles/2026-05-19_3-women-held-in-Angelos-disappearance.md",
-        "Articles/2026-05-20_Angelo-probe-Seven-now-in-custody.md"
+        "Articles/2026-05-20_Angelo-probe-Seven-now-in-custody.md",
+        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md"
       ]
     },
     "Rodhil Kirk": {
@@ -443,6 +444,13 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-20_I-killed-Angelo-and-threw-him-away.md"
+      ]
+    },
+    "Kalifa Tobias": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-20_Night-falls-without-Angelo-being-found.md"
       ]
     }
   }
