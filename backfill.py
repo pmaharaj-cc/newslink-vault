@@ -146,15 +146,30 @@ def build_note(d, url, pub_date):
         lines.append("")
     return "\n".join(lines)
 
+def role_to_tag(role):
+    if not role: return "person"
+    r = role.lower()
+    if any(x in r for x in ["magistrate","judge","master","justice"]): return "judiciary"
+    if any(x in r for x in ["defence","defense"]): return "defence"
+    if any(x in r for x in ["prosecutor","state attorney","dpp","crown counsel"]): return "prosecution"
+    if any(x in r for x in ["mp","senator","minister","prime minister","councillor","chairman"]): return "politics"
+    if any(x in r for x in ["corporal","sergeant","inspector","constable","superintendent","commissioner of police","acp","pc ","wpc"]): return "police"
+    if any(x in r for x in ["doctor","dr.","physician","surgeon","medical officer","pathologist"]): return "medical"
+    if any(x in r for x in ["victim","deceased","complainant"]): return "victim"
+    return "person"
+
 def build_person_stub(name, data):
     statuses = list(dict.fromkeys(s["status"] for s in data["statuses"]))
     roles = list(dict.fromkeys(r for r in data["roles"] if r))
     has_criminal = len(statuses) > 0
-    tags = "criminal-record" if has_criminal else "person"
+    role_tags = list(dict.fromkeys(role_to_tag(r) for r in roles)) or ["person"]
+    if has_criminal and "criminal-record" not in role_tags:
+        role_tags.append("criminal-record")
+    tags_str = ", ".join(role_tags)
     lines = ["---", "type: person", f'name: "{safe(name)}"',
              f"roles: [{', '.join(roles)}]",
              f"legal_statuses: [{', '.join(statuses)}]",
-             f"tags: [{tags}]", "---", "", f"# {name}", ""]
+             f"tags: [{tags_str}]", "---", "", f"# {name}", ""]
     if roles:
         lines += [f"**Known roles:** {', '.join(roles)}", ""]
     if has_criminal:
