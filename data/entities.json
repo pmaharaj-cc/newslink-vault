@@ -1442,6 +1442,24 @@
       "articles": [
         "Articles/2026-05-21_Gunmen-kill-40-year-old-in-Champs-Fleurs.md"
       ]
+    },
+    "Roberts": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Gunmen-rob-supermarket-owners-and-security-guard.md"
+      ]
+    },
+    "Hassanali": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Gunmen-rob-supermarket-owners-and-security-guard.md"
+      ]
     }
   }
 }
