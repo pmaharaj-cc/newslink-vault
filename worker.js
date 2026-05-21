@@ -5,7 +5,7 @@
  */
 const SITEMAP="https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL="https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL="llama-3.1-8b-instant";
+const GROQ_MODEL="llama-3.3-70b-versatile";
 const GH_REPO="pmaharaj-cc/newslink-vault";
 const GH_BRANCH="main";
 const TT_OFFSET_MS=-4*60*60*1000;
