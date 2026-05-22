@@ -91,6 +91,24 @@
         "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
         "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md"
       ]
+    },
+    "Kamla Persad-Bissessar": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Regional-procurement-makes-sense.md"
+      ]
+    },
+    "Savitri Rampersad": {
+      "roles": [
+        "Author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Exploring-pans-new-frontier.md"
+      ]
     }
   }
 }
