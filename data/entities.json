@@ -109,6 +109,42 @@
       "articles": [
         "Articles/2026-05-21_Exploring-pans-new-frontier.md"
       ]
+    },
+    "Vigel Paul": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_BIR-acted-unlawfully-against-PriceSmart.md"
+      ]
+    },
+    "Jamir Nazir": {
+      "roles": [
+        "Writer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Literature-in-the-age-of-AI.md"
+      ]
+    },
+    "Sharma Taylor": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Literature-in-the-age-of-AI.md"
+      ]
+    },
+    "Kevin Jared Hosein": {
+      "roles": [
+        "Author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-21_Literature-in-the-age-of-AI.md"
+      ]
     }
   }
 }
