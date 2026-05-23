@@ -181,9 +181,17 @@
     },
     "Angelo Tobias Plaza": {
       "roles": [],
-      "statuses": [],
+      "statuses": [
+        {
+          "status": "missing",
+          "article": "Articles/2026-05-23_Five-suspects-released-in-Angelo-case.md",
+          "title": "Five suspects released in Angelo case",
+          "date": "2026-05-23"
+        }
+      ],
       "articles": [
-        "Articles/2026-05-22_Alexander-It-would-take-a-miracle-to-recover-Angelo.md"
+        "Articles/2026-05-22_Alexander-It-would-take-a-miracle-to-recover-Angelo.md",
+        "Articles/2026-05-23_Five-suspects-released-in-Angelo-case.md"
       ]
     },
     "Roger Alexander": {
@@ -283,6 +291,78 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-23_Public-trust-may-be-at-stake.md"
+      ]
+    },
+    "Faris Al-Rawi": {
+      "roles": [
+        "Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Al-Rawi-John-Bates-escape-Privileges-enquiry.md"
+      ]
+    },
+    "Janelle John-Bates": {
+      "roles": [
+        "Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Al-Rawi-John-Bates-escape-Privileges-enquiry.md"
+      ]
+    },
+    "Terrence Deyalsingh": {
+      "roles": [
+        "Former Health Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Al-Rawi-John-Bates-escape-Privileges-enquiry.md"
+      ]
+    },
+    "David Nakhid": {
+      "roles": [
+        "Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Al-Rawi-John-Bates-escape-Privileges-enquiry.md"
+      ]
+    },
+    "Wade Mark": {
+      "roles": [
+        "Senate President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Al-Rawi-John-Bates-escape-Privileges-enquiry.md"
+      ]
+    },
+    "Pennelope Beckles": {
+      "roles": [
+        "Opposition Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Al-Rawi-John-Bates-escape-Privileges-enquiry.md"
+      ]
+    },
+    "Vishnu": {
+      "roles": [
+        "Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Al-Rawi-John-Bates-escape-Privileges-enquiry.md"
+      ]
+    },
+    "Megan Morrison": {
+      "roles": [
+        "Area Representative"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Five-suspects-released-in-Angelo-case.md"
       ]
     }
   }
