@@ -18,6 +18,7 @@ tags: [criminal-record]
 - **wanted** — [[Articles/2026-05-23_Khan-outlines-legal-reasoning|Khan outlines legal reasoning]] _(2026-05-23)_
 - **wanted** — [[Articles/2026-05-23_Move-swiftly-to-strengthen-PCA|Move swiftly to strengthen PCA]] _(2026-05-23)_
 - **wanted** — [[Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case|Abdulah knocks TTPS messaging in Samaroo case]] _(2026-05-23)_
+- **wanted** — [[Articles/2026-05-23_Public-trust-may-be-at-stake|Public trust may be at stake]] _(2026-05-23)_
 
 ## Articles
 
@@ -27,3 +28,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-23_Khan-outlines-legal-reasoning|Khan outlines legal reasoning]]
 - [[Articles/2026-05-23_Move-swiftly-to-strengthen-PCA|Move swiftly to strengthen PCA]]
 - [[Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case|Abdulah knocks TTPS messaging in Samaroo case]]
+- [[Articles/2026-05-23_Public-trust-may-be-at-stake|Public trust may be at stake]]

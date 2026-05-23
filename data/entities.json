@@ -87,6 +87,12 @@
           "article": "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md",
           "title": "Abdulah knocks TTPS messaging in Samaroo case",
           "date": "2026-05-23"
+        },
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-23_Public-trust-may-be-at-stake.md",
+          "title": "Public trust may be at stake",
+          "date": "2026-05-23"
         }
       ],
       "articles": [
@@ -95,7 +101,8 @@
         "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md",
         "Articles/2026-05-23_Khan-outlines-legal-reasoning.md",
         "Articles/2026-05-23_Move-swiftly-to-strengthen-PCA.md",
-        "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md"
+        "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md",
+        "Articles/2026-05-23_Public-trust-may-be-at-stake.md"
       ]
     },
     "Criston Williams": {
@@ -267,6 +274,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md"
+      ]
+    },
+    "Renee Cummings": {
+      "roles": [
+        "Criminologist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Public-trust-may-be-at-stake.md"
       ]
     }
   }
