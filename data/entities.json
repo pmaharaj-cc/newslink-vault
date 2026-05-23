@@ -197,6 +197,44 @@
       "articles": [
         "Articles/2026-05-22_Interpol-Red-Notice-issued-for-fourth-suspect-in-Munici.md"
       ]
+    },
+    "Keone Brathwaite": {
+      "roles": [
+        "Transport Officer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Two-die-in-crashes.md"
+      ]
+    },
+    "Eli Zakour": {
+      "roles": [
+        "Transport Minister",
+        "Transport and Civil Aviation Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Two-die-in-crashes.md",
+        "Articles/2026-05-23_Zakour-CAL-to-cut-unprofitable-routes.md"
+      ]
+    },
+    "Michael Dowlath": {
+      "roles": [
+        "Education Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Zero-tolerance-to-school-violence.md"
+      ]
+    },
+    "Nyan Gadsby-Dolly": {
+      "roles": [
+        "Opposition MP"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Zero-tolerance-to-school-violence.md"
+      ]
     }
   }
 }
