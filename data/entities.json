@@ -25,7 +25,8 @@
         "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
         "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md",
         "Articles/2026-05-22_Interpol-Red-Notice-issued-for-fourth-suspect-in-Munici.md",
-        "Articles/2026-05-22_Guevarro-Stay-out-of-peoples-houses.md"
+        "Articles/2026-05-22_Guevarro-Stay-out-of-peoples-houses.md",
+        "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md"
       ]
     },
     "Joshua Samaroo": {
@@ -43,7 +44,9 @@
       "articles": [
         "Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t.md",
         "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
-        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md"
+        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md",
+        "Articles/2026-05-23_Khan-outlines-legal-reasoning.md",
+        "Articles/2026-05-23_Move-swiftly-to-strengthen-PCA.md"
       ]
     },
     "Christopher Samaroo": {
@@ -66,12 +69,33 @@
           "article": "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md",
           "title": "Warrant issued for Kaia, accused of killing Joshua Samaroo",
           "date": "2026-05-21"
+        },
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-23_Khan-outlines-legal-reasoning.md",
+          "title": "Khan outlines legal reasoning",
+          "date": "2026-05-23"
+        },
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-23_Move-swiftly-to-strengthen-PCA.md",
+          "title": "Move swiftly to strengthen PCA",
+          "date": "2026-05-23"
+        },
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md",
+          "title": "Abdulah knocks TTPS messaging in Samaroo case",
+          "date": "2026-05-23"
         }
       ],
       "articles": [
         "Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t.md",
         "Articles/2026-05-21_DPP-directs-criminal-charges-in-Samaroo-killing.md",
-        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md"
+        "Articles/2026-05-21_Warrant-issued-for-Kaia-accused-of-killing-Joshua-Samar.md",
+        "Articles/2026-05-23_Khan-outlines-legal-reasoning.md",
+        "Articles/2026-05-23_Move-swiftly-to-strengthen-PCA.md",
+        "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md"
       ]
     },
     "Criston Williams": {
@@ -234,6 +258,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-23_Zero-tolerance-to-school-violence.md"
+      ]
+    },
+    "David Abdulah": {
+      "roles": [
+        "Political leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case.md"
       ]
     }
   }
