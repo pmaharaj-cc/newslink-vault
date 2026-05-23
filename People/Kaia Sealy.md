@@ -1,14 +1,14 @@
 ---
 type: person
 name: "Kaia Sealy"
-roles: [common-law wife of Joshua Samaroo, Accused]
+roles: [common-law wife of Joshua Samaroo, Accused, Victim]
 legal_statuses: [wanted]
 tags: [criminal-record]
 ---
 
 # Kaia Sealy
 
-**Known roles:** common-law wife of Joshua Samaroo, Accused
+**Known roles:** common-law wife of Joshua Samaroo, Accused, Victim
 
 **Legal status:** wanted
 
@@ -19,6 +19,7 @@ tags: [criminal-record]
 - **wanted** — [[Articles/2026-05-23_Move-swiftly-to-strengthen-PCA|Move swiftly to strengthen PCA]] _(2026-05-23)_
 - **wanted** — [[Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case|Abdulah knocks TTPS messaging in Samaroo case]] _(2026-05-23)_
 - **wanted** — [[Articles/2026-05-23_Public-trust-may-be-at-stake|Public trust may be at stake]] _(2026-05-23)_
+- **wanted** — [[Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster|Kaia breaks silence: I am not a gangster]] _(2026-05-23)_
 
 ## Articles
 
@@ -29,3 +30,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-23_Move-swiftly-to-strengthen-PCA|Move swiftly to strengthen PCA]]
 - [[Articles/2026-05-23_Abdulah-knocks-TTPS-messaging-in-Samaroo-case|Abdulah knocks TTPS messaging in Samaroo case]]
 - [[Articles/2026-05-23_Public-trust-may-be-at-stake|Public trust may be at stake]]
+- [[Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster|Kaia breaks silence I am not a gangster]]
