@@ -436,6 +436,40 @@
       "articles": [
         "Articles/2026-05-23_Alarm-as-taxi-driver-and-car-go-missing.md"
       ]
+    },
+    "Uriah Woods": {
+      "roles": [
+        "Appellant"
+      ],
+      "statuses": [
+        {
+          "status": "convicted",
+          "article": "Articles/2026-05-23_Man-convicted-of-jealous-rage-killing-wins-appeal.md",
+          "title": "Man convicted of jealous rage killing wins appeal",
+          "date": "2026-05-23"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-23_Man-convicted-of-jealous-rage-killing-wins-appeal.md"
+      ]
+    },
+    "Sandra Miller": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Man-convicted-of-jealous-rage-killing-wins-appeal.md"
+      ]
+    },
+    "Lawrence Stewart": {
+      "roles": [
+        "Miller's partner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Man-convicted-of-jealous-rage-killing-wins-appeal.md"
+      ]
     }
   }
 }
