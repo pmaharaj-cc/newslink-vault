@@ -616,7 +616,7 @@
         "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
       ]
     },
-    "AndrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Tanker": {
+    "AndrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Tanker": {
       "roles": [
         "Musician"
       ],
@@ -756,6 +756,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-24_Man-called-out-from-bar-gunned-down.md"
+      ]
+    },
+    "Kriyaan Singh": {
+      "roles": [
+        "Veterinarian"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Papaoutais-road-to-recovery.md"
       ]
     }
   }
