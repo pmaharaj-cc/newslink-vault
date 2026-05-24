@@ -1,14 +1,14 @@
 ---
 type: person
 name: "Kaia Sealy"
-roles: [common-law wife of Joshua Samaroo, Accused, Victim, Grieving mother]
+roles: [common-law wife of Joshua Samaroo, Accused, Victim, Grieving mother, Common-law wife of Joshua Samaroo]
 legal_statuses: [wanted, charged]
 tags: [criminal-record]
 ---
 
 # Kaia Sealy
 
-**Known roles:** common-law wife of Joshua Samaroo, Accused, Victim, Grieving mother
+**Known roles:** common-law wife of Joshua Samaroo, Accused, Victim, Grieving mother, Common-law wife of Joshua Samaroo
 
 **Legal status:** wanted, charged
 
@@ -21,6 +21,7 @@ tags: [criminal-record]
 - **wanted** — [[Articles/2026-05-23_Public-trust-may-be-at-stake|Public trust may be at stake]] _(2026-05-23)_
 - **wanted** — [[Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster|Kaia breaks silence: I am not a gangster]] _(2026-05-23)_
 - **charged** — [[Articles/2026-05-24_Kaia-supporters-to-stage-standstill-protest-today|Kaia supporters to stage standstill protest today]] _(2026-05-24)_
+- **wanted** — [[Articles/2026-05-24_Im-no-gangster|I'm no gangster]] _(2026-05-24)_
 
 ## Articles
 
@@ -33,3 +34,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-23_Public-trust-may-be-at-stake|Public trust may be at stake]]
 - [[Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster|Kaia breaks silence I am not a gangster]]
 - [[Articles/2026-05-24_Kaia-supporters-to-stage-standstill-protest-today|Kaia supporters to stage standstill protest today]]
+- [[Articles/2026-05-24_Im-no-gangster|Im no gangster]]
