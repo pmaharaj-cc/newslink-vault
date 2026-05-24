@@ -616,7 +616,7 @@
         "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
       ]
     },
-    "AndrÃÂÃÂÃÂÃÂ© Tanker": {
+    "AndrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Tanker": {
       "roles": [
         "Musician"
       ],
@@ -711,6 +711,51 @@
       ],
       "articles": [
         "Articles/2026-05-24_Angelos-stepdad-charged-with-murder.md"
+      ]
+    },
+    "Hollis Koylass": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Man-called-out-from-bar-gunned-down.md"
+      ]
+    },
+    "Dyer-Baptiste": {
+      "roles": [
+        "Corporal"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Man-called-out-from-bar-gunned-down.md"
+      ]
+    },
+    "Young": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Man-called-out-from-bar-gunned-down.md"
+      ]
+    },
+    "Cadette": {
+      "roles": [
+        "Woman Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Man-called-out-from-bar-gunned-down.md"
+      ]
+    },
+    "Rampersad": {
+      "roles": [
+        "Woman Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Man-called-out-from-bar-gunned-down.md"
       ]
     }
   }
