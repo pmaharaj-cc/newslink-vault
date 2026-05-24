@@ -214,7 +214,9 @@
       ]
     },
     "Angelo Tobias Plaza": {
-      "roles": [],
+      "roles": [
+        "Victim"
+      ],
       "statuses": [
         {
           "status": "missing",
@@ -225,7 +227,8 @@
       ],
       "articles": [
         "Articles/2026-05-22_Alexander-It-would-take-a-miracle-to-recover-Angelo.md",
-        "Articles/2026-05-23_Five-suspects-released-in-Angelo-case.md"
+        "Articles/2026-05-23_Five-suspects-released-in-Angelo-case.md",
+        "Articles/2026-05-24_Angelos-stepdad-charged-with-murder.md"
       ]
     },
     "Roger Alexander": {
@@ -613,7 +616,7 @@
         "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
       ]
     },
-    "AndrÃÂ© Tanker": {
+    "AndrÃÂÃÂ© Tanker": {
       "roles": [
         "Musician"
       ],
@@ -692,6 +695,22 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-24_Im-no-gangster.md"
+      ]
+    },
+    "Shannon Miller": {
+      "roles": [
+        "Stepfather"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-24_Angelos-stepdad-charged-with-murder.md",
+          "title": "Angelo's stepdad charged with murder",
+          "date": "2026-05-24"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-24_Angelos-stepdad-charged-with-murder.md"
       ]
     }
   }
