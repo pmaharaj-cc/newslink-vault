@@ -513,6 +513,123 @@
       "articles": [
         "Articles/2026-05-23_Soondrie-Dwarika-The-Nightingale-of-Gandhi-Village.md"
       ]
+    },
+    "Arthur Conan Doyle": {
+      "roles": [
+        "Author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_The-games-afoot-as-armchair-detectives-mark-Sherlock-Ho.md"
+      ]
+    },
+    "Sherlock Holmes": {
+      "roles": [
+        "Detective"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_The-games-afoot-as-armchair-detectives-mark-Sherlock-Ho.md"
+      ]
+    },
+    "John Watson": {
+      "roles": [
+        "Doctor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_The-games-afoot-as-armchair-detectives-mark-Sherlock-Ho.md"
+      ]
+    },
+    "James Moriarty": {
+      "roles": [
+        "Nemesis"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_The-games-afoot-as-armchair-detectives-mark-Sherlock-Ho.md"
+      ]
+    },
+    "Devashish Ramdath": {
+      "roles": [
+        "Singer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Deva-Rajas-Musical-Mission.md"
+      ]
+    },
+    "Ian Olton": {
+      "roles": [
+        "Musician"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
+    },
+    "Carlton Olton": {
+      "roles": [
+        "Ian Olton's father"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
+    },
+    "Irma Olton": {
+      "roles": [
+        "Ian Olton's mother"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
+    },
+    "André Tanker": {
+      "roles": [
+        "Musician"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
+    },
+    "Aldwyn Roberts": {
+      "roles": [
+        "Musician"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
+    },
+    "Slinger Francisco": {
+      "roles": [
+        "Musician"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
+    },
+    "David Rudder": {
+      "roles": [
+        "Musician"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
+    },
+    "Ella Andall": {
+      "roles": [
+        "Musician"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
+      ]
     }
   }
 }
