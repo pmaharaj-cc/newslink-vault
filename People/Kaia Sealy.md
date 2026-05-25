@@ -22,6 +22,7 @@ tags: [criminal-record]
 - **wanted** — [[Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster|Kaia breaks silence: I am not a gangster]] _(2026-05-23)_
 - **charged** — [[Articles/2026-05-24_Kaia-supporters-to-stage-standstill-protest-today|Kaia supporters to stage standstill protest today]] _(2026-05-24)_
 - **wanted** — [[Articles/2026-05-24_Im-no-gangster|I'm no gangster]] _(2026-05-24)_
+- **charged** — [[Articles/2026-05-25_200-protesters-march-for-Kaia|200 protesters march for Kaia]] _(2026-05-25)_
 
 ## Articles
 
@@ -35,3 +36,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster|Kaia breaks silence I am not a gangster]]
 - [[Articles/2026-05-24_Kaia-supporters-to-stage-standstill-protest-today|Kaia supporters to stage standstill protest today]]
 - [[Articles/2026-05-24_Im-no-gangster|Im no gangster]]
+- [[Articles/2026-05-25_200-protesters-march-for-Kaia|200 protesters march for Kaia]]
