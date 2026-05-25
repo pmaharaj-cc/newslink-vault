@@ -2,7 +2,7 @@
 type: person
 name: "Joshua Samaroo"
 roles: [Deceased, Common-law husband of Kaia Sealy]
-legal_statuses: [deceased]
+legal_statuses: [deceased, killed]
 tags: [criminal-record]
 ---
 
@@ -10,12 +10,13 @@ tags: [criminal-record]
 
 **Known roles:** Deceased, Common-law husband of Kaia Sealy
 
-**Legal status:** deceased
+**Legal status:** deceased, killed
 
 ## Case History
 
 - **deceased** — [[Articles/2026-05-21_Joshuas-father-responds-The-State-has-to-pay-for-what-t|Joshua's father responds: The State has to pay for what they did]] _(2026-05-21)_
 - **deceased** — [[Articles/2026-05-24_Im-no-gangster|I'm no gangster]] _(2026-05-24)_
+- **killed** — [[Articles/2026-05-24_Ketching-feelings|Ketching feelings]] _(2026-05-24)_
 
 ## Articles
 
@@ -27,3 +28,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster|Kaia breaks silence I am not a gangster]]
 - [[Articles/2026-05-24_Kaia-supporters-to-stage-standstill-protest-today|Kaia supporters to stage standstill protest today]]
 - [[Articles/2026-05-24_Im-no-gangster|Im no gangster]]
+- [[Articles/2026-05-24_Ketching-feelings|Ketching feelings]]

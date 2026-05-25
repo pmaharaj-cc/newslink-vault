@@ -46,6 +46,12 @@
           "article": "Articles/2026-05-24_Im-no-gangster.md",
           "title": "I'm no gangster",
           "date": "2026-05-24"
+        },
+        {
+          "status": "killed",
+          "article": "Articles/2026-05-24_Ketching-feelings.md",
+          "title": "Ketching feelings",
+          "date": "2026-05-24"
         }
       ],
       "articles": [
@@ -56,7 +62,8 @@
         "Articles/2026-05-23_Move-swiftly-to-strengthen-PCA.md",
         "Articles/2026-05-23_Kaia-breaks-silence-I-am-not-a-gangster.md",
         "Articles/2026-05-24_Kaia-supporters-to-stage-standstill-protest-today.md",
-        "Articles/2026-05-24_Im-no-gangster.md"
+        "Articles/2026-05-24_Im-no-gangster.md",
+        "Articles/2026-05-24_Ketching-feelings.md"
       ]
     },
     "Christopher Samaroo": {
@@ -329,7 +336,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-23_Public-trust-may-be-at-stake.md"
+        "Articles/2026-05-23_Public-trust-may-be-at-stake.md",
+        "Articles/2026-05-24_Ketching-feelings.md"
       ]
     },
     "Faris Al-Rawi": {
@@ -616,7 +624,7 @@
         "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
       ]
     },
-    "AndrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Tanker": {
+    "AndrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Tanker": {
       "roles": [
         "Musician"
       ],
@@ -781,6 +789,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-24_Safeguard-the-integrity-of-the-OPR.md"
+      ]
+    },
+    "Israel Khan": {
+      "roles": [
+        "Senior Counsel"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Ketching-feelings.md"
       ]
     }
   }
