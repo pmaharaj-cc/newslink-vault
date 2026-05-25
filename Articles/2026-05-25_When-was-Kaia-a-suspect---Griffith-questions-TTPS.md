@@ -3,14 +3,14 @@ title: "When was Kaia a suspect? - Griffith questions TTPS"
 date_reported: 2026-05-25
 date_effective: null
 source: trinidadexpress.com
-url: https://trinidadexpress.com/news/when-was-kaia-a-suspect---griffith-questions-ttps/article_60dfed22-2774-46cd-880f-66081e136e9b.html
+url: https://trinidadexpress.com/newsextra/when-was-kaia-a-suspect---griffith-questions-ttps/article_60dfed22-2774-46cd-880f-66081e136e9b.html
 authors: [Trinidad Express]
 tags: [crime, government]
 sports_crossover: false
 ---
 
 # When was Kaia a suspect? - Griffith questions TTPS
-> 2026-05-25 · trinidadexpress.com · [link](https://trinidadexpress.com/news/when-was-kaia-a-suspect---griffith-questions-ttps/article_60dfed22-2774-46cd-880f-66081e136e9b.html)
+> 2026-05-25 · trinidadexpress.com · [link](https://trinidadexpress.com/newsextra/when-was-kaia-a-suspect---griffith-questions-ttps/article_60dfed22-2774-46cd-880f-66081e136e9b.html)
 
 **By:** [[Authors/Trinidad Express|Trinidad Express]]
 
@@ -19,9 +19,6 @@ sports_crossover: false
 
 ## Organizations
 [[Orgs/Office of the Director of Public Prosecutions|Office of the Director of Public Prosecutions]] · [[Orgs/TTPS|TTPS]]
-
-## Places
-[[Places/Trinidad|Trinidad]]
 
 ## Topics
 [[Topics/crime|crime]] · [[Topics/government|government]]
@@ -42,4 +39,4 @@ sports_crossover: false
 ---
 ## Sentiment
 
-- [[Gary Griffith]] → [[TTPS]]: 🔴 **negative** — _raising questions about police-involved killing_
+- [[Gary Griffith]] → [[TTPS]]: 🔴 **negative** — _questioning of official narrative_
