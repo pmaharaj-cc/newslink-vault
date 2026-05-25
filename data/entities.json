@@ -616,7 +616,7 @@
         "Articles/2026-05-23_Answering-the-call-of-the-drum.md"
       ]
     },
-    "AndrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Tanker": {
+    "AndrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Tanker": {
       "roles": [
         "Musician"
       ],
@@ -765,6 +765,22 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-24_Papaoutais-road-to-recovery.md"
+      ]
+    },
+    "Merle": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Migraines.md"
+      ]
+    },
+    "Beverly S Khan": {
+      "roles": [
+        "Procurement Regulator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-24_Safeguard-the-integrity-of-the-OPR.md"
       ]
     }
   }
