@@ -27,6 +27,7 @@ tags: [criminal-record]
 - **suspect** — [[Articles/2026-05-25_When-was-Kaia-a-suspect---Griffith-questions-TTPS|When was Kaia a suspect? - Griffith questions TTPS]] _(2026-05-25)_
 - **to be charged** — [[Articles/2026-05-26_Sealy-fired-Glock-at-cops|Sealy fired Glock at cops]] _(2026-05-26)_
 - **charged** — [[Articles/2026-05-26_PM-defends-role-of-law-enforcement-amid-public-outcry|PM defends role of law enforcement amid public outcry]] _(2026-05-26)_
+- **wanted** — [[Articles/2026-05-26_Rising-tension-between-public-police|Rising tension between public, police]] _(2026-05-26)_
 
 ## Articles
 
@@ -46,3 +47,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-25_When-was-Kaia-a-suspect---Griffith-questions-TTPS|When was Kaia a suspect   Griffith questions TTPS]]
 - [[Articles/2026-05-26_Sealy-fired-Glock-at-cops|Sealy fired Glock at cops]]
 - [[Articles/2026-05-26_PM-defends-role-of-law-enforcement-amid-public-outcry|PM defends role of law enforcement amid public outcry]]
+- [[Articles/2026-05-26_Rising-tension-between-public-police|Rising tension between public police]]
