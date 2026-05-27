@@ -187,6 +187,85 @@
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md"
       ]
+    },
+    "Angelo Tobias Plaza": {
+      "roles": [
+        "victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Angelos-stepdad-appears-in-court.md"
+      ]
+    },
+    "Shannon Miller": {
+      "roles": [
+        "stepfather"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-27_Angelos-stepdad-appears-in-court.md",
+          "title": "Angelo's stepdad appears in court",
+          "date": "2026-05-27"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-27_Angelos-stepdad-appears-in-court.md"
+      ]
+    },
+    "Shabanna Shah": {
+      "roles": [
+        "Master"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Angelos-stepdad-appears-in-court.md"
+      ]
+    },
+    "Wayne Sturge": {
+      "roles": [
+        "Defence Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md"
+      ]
+    },
+    "Jearlean John": {
+      "roles": [
+        "Minister of Works and Infrastructure"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md"
+      ]
+    },
+    "Saddam Hosein": {
+      "roles": [
+        "Minister of Land and Legal Affairs"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md"
+      ]
+    },
+    "Chester W Nimitz": {
+      "roles": [
+        "Fleet Admiral"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md"
+      ]
+    },
+    "Roger Hosein": {
+      "roles": [
+        "Economist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_TT-outlook-improves-marginally-structural-weakness-pers.md"
+      ]
     }
   }
 }

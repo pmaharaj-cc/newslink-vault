@@ -1,21 +1,21 @@
 ---
 type: person
 name: "Shannon Miller"
-roles: [Stepfather]
+roles: [stepfather]
 legal_statuses: [charged]
 tags: [criminal-record]
 ---
 
 # Shannon Miller
 
-**Known roles:** Stepfather
+**Known roles:** stepfather
 
 **Legal status:** charged
 
 ## Case History
 
-- **charged** — [[Articles/2026-05-24_Angelos-stepdad-charged-with-murder|Angelo's stepdad charged with murder]] _(2026-05-24)_
+- **charged** — [[Articles/2026-05-27_Angelos-stepdad-appears-in-court|Angelo's stepdad appears in court]] _(2026-05-27)_
 
 ## Articles
 
-- [[Articles/2026-05-24_Angelos-stepdad-charged-with-murder|Angelos stepdad charged with murder]]
+- [[Articles/2026-05-27_Angelos-stepdad-appears-in-court|Angelos stepdad appears in court]]
