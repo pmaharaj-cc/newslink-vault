@@ -164,28 +164,42 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-26_PMs-response-falls-short.md"
+        "Articles/2026-05-26_PMs-response-falls-short.md",
+        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md"
       ]
     },
     "Kaia Sealy": {
-      "roles": [],
+      "roles": [
+        "Accused"
+      ],
       "statuses": [
         {
           "status": "wanted",
           "article": "Articles/2026-05-26_PMs-response-falls-short.md",
           "title": "PM's response falls short",
           "date": "2026-05-26"
+        },
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
+          "title": "Four more charges for Kaia Sealy",
+          "date": "2026-05-27"
         }
       ],
       "articles": [
-        "Articles/2026-05-26_PMs-response-falls-short.md"
+        "Articles/2026-05-26_PMs-response-falls-short.md",
+        "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
+        "Articles/2026-05-27_Cops-warn-of-SOE-protest-rules.md"
       ]
     },
     "Joshua Samaroo": {
-      "roles": [],
+      "roles": [
+        "Deceased"
+      ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-26_PMs-response-falls-short.md"
+        "Articles/2026-05-26_PMs-response-falls-short.md",
+        "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -265,6 +279,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-27_TT-outlook-improves-marginally-structural-weakness-pers.md"
+      ]
+    },
+    "Pennelope Beckles": {
+      "roles": [
+        "Opposition Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md"
+      ]
+    },
+    "Roger Alexander": {
+      "roles": [
+        "Homeland Security Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md"
+      ]
+    },
+    "Suzette Martin": {
+      "roles": [
+        "Deputy Commissioner of Police, Operations"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Cops-warn-of-SOE-protest-rules.md"
       ]
     }
   }
