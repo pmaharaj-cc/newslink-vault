@@ -307,6 +307,29 @@
       "articles": [
         "Articles/2026-05-27_Cops-warn-of-SOE-protest-rules.md"
       ]
+    },
+    "Ahamad Hosein": {
+      "roles": [
+        "Acting President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_Make-Eid-ul-Adha-a-public-holiday.md"
+      ]
+    },
+    "Adrian Peter Duff": {
+      "roles": [],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-27_Adrian-was-tortured-strangled.md",
+          "title": "Adrian was tortured, strangled",
+          "date": "2026-05-27"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-27_Adrian-was-tortured-strangled.md"
+      ]
     }
   }
 }
