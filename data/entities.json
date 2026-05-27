@@ -157,6 +157,36 @@
       "articles": [
         "Articles/2026-05-26_Bail-granted-to-officer-charged-with-indecent-assault.md"
       ]
+    },
+    "Kamla Persad-Bissessar": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-26_PMs-response-falls-short.md"
+      ]
+    },
+    "Kaia Sealy": {
+      "roles": [],
+      "statuses": [
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-26_PMs-response-falls-short.md",
+          "title": "PM's response falls short",
+          "date": "2026-05-26"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-26_PMs-response-falls-short.md"
+      ]
+    },
+    "Joshua Samaroo": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-26_PMs-response-falls-short.md"
+      ]
     }
   }
 }
