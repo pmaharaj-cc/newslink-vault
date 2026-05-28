@@ -16,9 +16,11 @@ tags: [criminal-record]
 
 - **wanted** — [[Articles/2026-05-26_PMs-response-falls-short|PM's response falls short]] _(2026-05-26)_
 - **wanted** — [[Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy|Four more charges for Kaia Sealy]] _(2026-05-27)_
+- **wanted** — [[Articles/2026-05-28_Kaia-willing-to-return|Kaia willing to return]] _(2026-05-28)_
 
 ## Articles
 
 - [[Articles/2026-05-26_PMs-response-falls-short|PMs response falls short]]
 - [[Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy|Four more charges for Kaia Sealy]]
 - [[Articles/2026-05-27_Cops-warn-of-SOE-protest-rules|Cops warn of SOE protest rules]]
+- [[Articles/2026-05-28_Kaia-willing-to-return|Kaia willing to return]]

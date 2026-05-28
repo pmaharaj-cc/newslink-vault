@@ -184,12 +184,19 @@
           "article": "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
           "title": "Four more charges for Kaia Sealy",
           "date": "2026-05-27"
+        },
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-28_Kaia-willing-to-return.md",
+          "title": "Kaia willing to return",
+          "date": "2026-05-28"
         }
       ],
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md",
         "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
-        "Articles/2026-05-27_Cops-warn-of-SOE-protest-rules.md"
+        "Articles/2026-05-27_Cops-warn-of-SOE-protest-rules.md",
+        "Articles/2026-05-28_Kaia-willing-to-return.md"
       ]
     },
     "Joshua Samaroo": {
@@ -497,6 +504,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-27_16m-increase-in-UTC-profit.md"
+      ]
+    },
+    "Fayola Sandy": {
+      "roles": [
+        "Defence Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-28_Kaia-willing-to-return.md"
       ]
     }
   }
