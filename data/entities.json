@@ -166,7 +166,9 @@
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md",
         "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
-        "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md"
+        "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md",
+        "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
+        "Articles/2026-05-28_PM-willing-to-extend-SoE-again.md"
       ]
     },
     "Kaia Sealy": {
@@ -319,7 +321,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
-        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
+        "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md"
       ]
     },
     "Roger Alexander": {
@@ -614,6 +617,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-28_Garbage-truck-driver-threatened-after-crushing-death.md"
+      ]
+    },
+    "David West": {
+      "roles": [
+        "PCA Director"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md"
       ]
     }
   }
