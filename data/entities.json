@@ -168,7 +168,8 @@
         "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
         "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md",
         "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
-        "Articles/2026-05-28_PM-willing-to-extend-SoE-again.md"
+        "Articles/2026-05-28_PM-willing-to-extend-SoE-again.md",
+        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md"
       ]
     },
     "Kaia Sealy": {
@@ -694,6 +695,65 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-28_Appeal-Court-revives-cops-discrimination-claim-against-.md"
+      ]
+    },
+    "Victor Roberts": {
+      "roles": [
+        "Alderman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md"
+      ]
+    },
+    "Doodnath Mayrhoo": {
+      "roles": [
+        "Mayor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md"
+      ]
+    },
+    "Naresh Maharaj": {
+      "roles": [
+        "UNC member"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md"
+      ]
+    },
+    "Katrianna Rezende": {
+      "roles": [
+        "Defendant"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md",
+          "title": "Gun accidentally fired, couple charged",
+          "date": "2026-05-28"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md"
+      ]
+    },
+    "Manuel Rezende": {
+      "roles": [
+        "Defendant"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md",
+          "title": "Gun accidentally fired, couple charged",
+          "date": "2026-05-28"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md"
       ]
     }
   }
