@@ -314,7 +314,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-27_Make-Eid-ul-Adha-a-public-holiday.md"
+        "Articles/2026-05-27_Make-Eid-ul-Adha-a-public-holiday.md",
+        "Articles/2026-05-27_The-cost-of-public-holidays.md"
       ]
     },
     "Adrian Peter Duff": {
@@ -469,6 +470,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-27_The-waning-wetland.md"
+      ]
+    },
+    "Shaka Alexander": {
+      "roles": [
+        "Council Chief"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_The-cost-of-public-holidays.md"
+      ]
+    },
+    "Kerri Maharaj": {
+      "roles": [
+        "Chief Financial Officer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_16m-increase-in-UTC-profit.md"
+      ]
+    },
+    "Varun Maharaj": {
+      "roles": [
+        "Chairman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-27_16m-increase-in-UTC-profit.md"
       ]
     }
   }
