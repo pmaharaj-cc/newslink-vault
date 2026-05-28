@@ -165,7 +165,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md",
-        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md"
+        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
+        "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md"
       ]
     },
     "Kaia Sealy": {
@@ -190,13 +191,27 @@
           "article": "Articles/2026-05-28_Kaia-willing-to-return.md",
           "title": "Kaia willing to return",
           "date": "2026-05-28"
+        },
+        {
+          "status": "facing charges",
+          "article": "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+          "title": "Hands up, don't shoot: Protesters arrested",
+          "date": "2026-05-28"
+        },
+        {
+          "status": "wanted",
+          "article": "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md",
+          "title": "Kamla dismisses protesters' 'victim gimmickry'",
+          "date": "2026-05-28"
         }
       ],
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md",
         "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
         "Articles/2026-05-27_Cops-warn-of-SOE-protest-rules.md",
-        "Articles/2026-05-28_Kaia-willing-to-return.md"
+        "Articles/2026-05-28_Kaia-willing-to-return.md",
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+        "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md"
       ]
     },
     "Joshua Samaroo": {
@@ -206,7 +221,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md",
-        "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md"
+        "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -513,6 +529,47 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-28_Kaia-willing-to-return.md"
+      ]
+    },
+    "Alyssa Phillip": {
+      "roles": [
+        "Protestor"
+      ],
+      "statuses": [
+        {
+          "status": "detained",
+          "article": "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+          "title": "Hands up, don't shoot: Protesters arrested",
+          "date": "2026-05-28"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
+      ]
+    },
+    "Jason De Silva": {
+      "roles": [
+        "Blogger and influencer"
+      ],
+      "statuses": [
+        {
+          "status": "detained",
+          "article": "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+          "title": "Hands up, don't shoot: Protesters arrested",
+          "date": "2026-05-28"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
+      ]
+    },
+    "Camille Caresquero": {
+      "roles": [
+        "Mother of Alyssa Phillip"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
       ]
     }
   }
