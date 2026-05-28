@@ -2,7 +2,7 @@
 type: person
 name: "Kaia Sealy"
 roles: [Accused]
-legal_statuses: [wanted, facing charges]
+legal_statuses: [wanted, facing charges, charged]
 tags: [criminal-record]
 ---
 
@@ -10,7 +10,7 @@ tags: [criminal-record]
 
 **Known roles:** Accused
 
-**Legal status:** wanted, facing charges
+**Legal status:** wanted, facing charges, charged
 
 ## Case History
 
@@ -19,6 +19,7 @@ tags: [criminal-record]
 - **wanted** — [[Articles/2026-05-28_Kaia-willing-to-return|Kaia willing to return]] _(2026-05-28)_
 - **facing charges** — [[Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested|Hands up, don't shoot: Protesters arrested]] _(2026-05-28)_
 - **wanted** — [[Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry|Kamla dismisses protesters' 'victim gimmickry']] _(2026-05-28)_
+- **charged** — [[Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest|Alarm over PM's statement in response to protest]] _(2026-05-28)_
 
 ## Articles
 
@@ -28,3 +29,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-28_Kaia-willing-to-return|Kaia willing to return]]
 - [[Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested|Hands up dont shoot Protesters arrested]]
 - [[Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry|Kamla dismisses protesters victim gimmickry]]
+- [[Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest|Alarm over PMs statement in response to protest]]

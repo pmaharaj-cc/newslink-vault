@@ -203,6 +203,12 @@
           "article": "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md",
           "title": "Kamla dismisses protesters' 'victim gimmickry'",
           "date": "2026-05-28"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
+          "title": "Alarm over PM's statement in response to protest",
+          "date": "2026-05-28"
         }
       ],
       "articles": [
@@ -211,7 +217,8 @@
         "Articles/2026-05-27_Cops-warn-of-SOE-protest-rules.md",
         "Articles/2026-05-28_Kaia-willing-to-return.md",
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
-        "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md"
+        "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md",
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
       ]
     },
     "Joshua Samaroo": {
@@ -222,7 +229,8 @@
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md",
         "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
-        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -310,7 +318,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md"
+        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
       ]
     },
     "Roger Alexander": {
@@ -533,7 +542,8 @@
     },
     "Alyssa Phillip": {
       "roles": [
-        "Protestor"
+        "Protestor",
+        "Protester"
       ],
       "statuses": [
         {
@@ -541,10 +551,17 @@
           "article": "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
           "title": "Hands up, don't shoot: Protesters arrested",
           "date": "2026-05-28"
+        },
+        {
+          "status": "detained",
+          "article": "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
+          "title": "Alarm over PM's statement in response to protest",
+          "date": "2026-05-28"
         }
       ],
       "articles": [
-        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
       ]
     },
     "Jason De Silva": {
@@ -557,19 +574,28 @@
           "article": "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
           "title": "Hands up, don't shoot: Protesters arrested",
           "date": "2026-05-28"
+        },
+        {
+          "status": "detained",
+          "article": "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
+          "title": "Alarm over PM's statement in response to protest",
+          "date": "2026-05-28"
         }
       ],
       "articles": [
-        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
       ]
     },
     "Camille Caresquero": {
       "roles": [
-        "Mother of Alyssa Phillip"
+        "Mother of Alyssa Phillip",
+        "Alyssa Phillip's mother"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md"
+        "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
       ]
     }
   }
