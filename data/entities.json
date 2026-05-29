@@ -736,10 +736,17 @@
           "article": "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md",
           "title": "Gun accidentally fired, couple charged",
           "date": "2026-05-28"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-29_Officer-inadvertently-fired-gun.md",
+          "title": "Officer inadvertently fired gun",
+          "date": "2026-05-29"
         }
       ],
       "articles": [
-        "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md"
+        "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md",
+        "Articles/2026-05-29_Officer-inadvertently-fired-gun.md"
       ]
     },
     "Manuel Rezende": {
@@ -752,10 +759,17 @@
           "article": "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md",
           "title": "Gun accidentally fired, couple charged",
           "date": "2026-05-28"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-29_Officer-inadvertently-fired-gun.md",
+          "title": "Officer inadvertently fired gun",
+          "date": "2026-05-29"
         }
       ],
       "articles": [
-        "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md"
+        "Articles/2026-05-28_Gun-accidentally-fired-couple-charged.md",
+        "Articles/2026-05-29_Officer-inadvertently-fired-gun.md"
       ]
     },
     "Pope Leo XIV": {
