@@ -865,6 +865,15 @@
       "articles": [
         "Articles/2026-05-29_Man-killed-after-car-careens-into-ditch.md"
       ]
+    },
+    "Mitchell": {
+      "roles": [
+        "Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-29_EBC-clerk-robbed.md"
+      ]
     }
   }
 }
