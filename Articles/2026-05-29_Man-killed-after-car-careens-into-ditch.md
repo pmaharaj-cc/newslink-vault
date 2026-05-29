@@ -1,16 +1,16 @@
 ---
 title: "Man killed after car careens into ditch"
 date_reported: 2026-05-29
-date_effective: null
+date_effective: 2026-05-29
 source: trinidadexpress.com
-url: https://trinidadexpress.com/news/man-killed-after-car-careens-into-ditch/article_526f9007-60f7-4c94-8f44-408c4075aa70.html
+url: https://trinidadexpress.com/news/local/man-killed-after-car-careens-into-ditch/article_526f9007-60f7-4c94-8f44-408c4075aa70.html
 authors: [Unknown]
 tags: [crime]
 sports_crossover: false
 ---
 
 # Man killed after car careens into ditch
-> 2026-05-29 · trinidadexpress.com · [link](https://trinidadexpress.com/news/man-killed-after-car-careens-into-ditch/article_526f9007-60f7-4c94-8f44-408c4075aa70.html)
+> 2026-05-29 · trinidadexpress.com · [link](https://trinidadexpress.com/news/local/man-killed-after-car-careens-into-ditch/article_526f9007-60f7-4c94-8f44-408c4075aa70.html)
 
 **By:** [[Authors/Unknown|Unknown]]
 
@@ -35,4 +35,4 @@ sports_crossover: false
 ---
 ## Sentiment
 
-- [[Unknown]] → [[Joel Wharwood]]: ⚪ **neutral** — _reporting of the accident_
+- [[Unknown]] → [[Joel Wharwood]]: ⚪ **neutral** — _reporting of his death_
