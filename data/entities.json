@@ -169,7 +169,9 @@
         "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md",
         "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
         "Articles/2026-05-28_PM-willing-to-extend-SoE-again.md",
-        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md"
+        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md",
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
       ]
     },
     "Kaia Sealy": {
@@ -212,6 +214,18 @@
           "article": "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
           "title": "Alarm over PM's statement in response to protest",
           "date": "2026-05-28"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+          "title": "Beckles on the brink of a policing state",
+          "date": "2026-05-29"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
+          "title": "Kamla: PNM promoting lawlessness",
+          "date": "2026-05-29"
         }
       ],
       "articles": [
@@ -222,7 +236,9 @@
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
         "Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
-        "Articles/2026-05-28_Authority-is-not-the-enemy.md"
+        "Articles/2026-05-28_Authority-is-not-the-enemy.md",
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
       ]
     },
     "Joshua Samaroo": {
@@ -235,7 +251,9 @@
         "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
-        "Articles/2026-05-28_Authority-is-not-the-enemy.md"
+        "Articles/2026-05-28_Authority-is-not-the-enemy.md",
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -325,7 +343,8 @@
       "articles": [
         "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
-        "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md"
+        "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md"
       ]
     },
     "Roger Alexander": {
@@ -549,7 +568,8 @@
     "Alyssa Phillip": {
       "roles": [
         "Protestor",
-        "Protester"
+        "Protester",
+        "organiser"
       ],
       "statuses": [
         {
@@ -563,16 +583,26 @@
           "article": "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
           "title": "Alarm over PM's statement in response to protest",
           "date": "2026-05-28"
+        },
+        {
+          "status": "arrested",
+          "article": "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+          "title": "Beckles on the brink of a policing state",
+          "date": "2026-05-29"
         }
       ],
       "articles": [
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
-        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
       ]
     },
     "Jason De Silva": {
       "roles": [
-        "Blogger and influencer"
+        "Blogger and influencer",
+        "Social media commentator",
+        "blogger/influencer"
       ],
       "statuses": [
         {
@@ -586,11 +616,19 @@
           "article": "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
           "title": "Alarm over PM's statement in response to protest",
           "date": "2026-05-28"
+        },
+        {
+          "status": "arrested",
+          "article": "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+          "title": "Beckles on the brink of a policing state",
+          "date": "2026-05-29"
         }
       ],
       "articles": [
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
-        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
       ]
     },
     "Camille Caresquero": {
@@ -705,7 +743,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md"
+        "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md",
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md"
       ]
     },
     "Doodnath Mayrhoo": {

@@ -20,6 +20,8 @@ tags: [criminal-record]
 - **facing charges** — [[Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested|Hands up, don't shoot: Protesters arrested]] _(2026-05-28)_
 - **wanted** — [[Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry|Kamla dismisses protesters' 'victim gimmickry']] _(2026-05-28)_
 - **charged** — [[Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest|Alarm over PM's statement in response to protest]] _(2026-05-28)_
+- **charged** — [[Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state|Beckles on the brink of a policing state]] _(2026-05-29)_
+- **charged** — [[Articles/2026-05-29_Kamla-PNM-promoting-lawlessness|Kamla: PNM promoting lawlessness]] _(2026-05-29)_
 
 ## Articles
 
@@ -31,3 +33,5 @@ tags: [criminal-record]
 - [[Articles/2026-05-28_Kamla-dismisses-protesters-victim-gimmickry|Kamla dismisses protesters victim gimmickry]]
 - [[Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest|Alarm over PMs statement in response to protest]]
 - [[Articles/2026-05-28_Authority-is-not-the-enemy|Authority is not the enemy]]
+- [[Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state|Beckles on the brink of a policing state]]
+- [[Articles/2026-05-29_Kamla-PNM-promoting-lawlessness|Kamla PNM promoting lawlessness]]
