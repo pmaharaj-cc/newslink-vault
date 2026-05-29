@@ -837,17 +837,26 @@
       ]
     },
     "Ricardo Diaz": {
-      "roles": [],
+      "roles": [
+        "Procurement Manager"
+      ],
       "statuses": [
         {
           "status": "deceased",
           "article": "Articles/2026-05-28_Murder-on-the-Rivulet-Road.md",
           "title": "Murder on the Rivulet Road",
           "date": "2026-05-28"
+        },
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-29_Proman-procurement-manager-executed-after-leaving-work.md",
+          "title": "Proman procurement manager executed after leaving work",
+          "date": "2026-05-29"
         }
       ],
       "articles": [
-        "Articles/2026-05-28_Murder-on-the-Rivulet-Road.md"
+        "Articles/2026-05-28_Murder-on-the-Rivulet-Road.md",
+        "Articles/2026-05-29_Proman-procurement-manager-executed-after-leaving-work.md"
       ]
     },
     "Douglas Wilson": {
