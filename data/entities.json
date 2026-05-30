@@ -238,7 +238,8 @@
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-28_Authority-is-not-the-enemy.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
-        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
       ]
     },
     "Joshua Samaroo": {
@@ -413,7 +414,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-27_Guevarros-brothel-case-back-in-court.md"
+        "Articles/2026-05-27_Guevarros-brothel-case-back-in-court.md",
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
       ]
     },
     "Sheldon Lewis": {
@@ -569,7 +571,8 @@
       "roles": [
         "Protestor",
         "Protester",
-        "organiser"
+        "organiser",
+        "protest organiser"
       ],
       "statuses": [
         {
@@ -595,7 +598,8 @@
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
-        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
       ]
     },
     "Jason De Silva": {
@@ -634,12 +638,21 @@
     "Camille Caresquero": {
       "roles": [
         "Mother of Alyssa Phillip",
-        "Alyssa Phillip's mother"
+        "Alyssa Phillip's mother",
+        "protestor"
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "status": "released from police custody",
+          "article": "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
+          "title": "Phillip, mom join protest after release",
+          "date": "2026-05-30"
+        }
+      ],
       "articles": [
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
-        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md"
+        "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
       ]
     },
     "Deshawn Joseph": {

@@ -1,14 +1,14 @@
 ---
 type: person
 name: "Alyssa Phillip"
-roles: [Protestor, Protester, organiser]
+roles: [Protestor, Protester, organiser, protest organiser]
 legal_statuses: [detained, arrested]
 tags: [criminal-record]
 ---
 
 # Alyssa Phillip
 
-**Known roles:** Protestor, Protester, organiser
+**Known roles:** Protestor, Protester, organiser, protest organiser
 
 **Legal status:** detained, arrested
 
@@ -24,3 +24,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest|Alarm over PMs statement in response to protest]]
 - [[Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state|Beckles on the brink of a policing state]]
 - [[Articles/2026-05-29_Kamla-PNM-promoting-lawlessness|Kamla PNM promoting lawlessness]]
+- [[Articles/2026-05-30_Phillip-mom-join-protest-after-release|Phillip mom join protest after release]]
