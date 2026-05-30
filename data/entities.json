@@ -146,7 +146,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-26_Bail-granted-to-officer-charged-with-indecent-assault.md"
+        "Articles/2026-05-26_Bail-granted-to-officer-charged-with-indecent-assault.md",
+        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md"
       ]
     },
     "Guerra-Abraham": {
@@ -233,6 +234,12 @@
           "article": "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
           "title": "Penny: Govt trying to justify another SoE",
           "date": "2026-05-30"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
+          "title": "Media warned against trying Samaroo case in public domain",
+          "date": "2026-05-30"
         }
       ],
       "articles": [
@@ -247,14 +254,22 @@
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
-        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
+        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md"
       ]
     },
     "Joshua Samaroo": {
       "roles": [
         "Deceased"
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
+          "title": "Media warned against trying Samaroo case in public domain",
+          "date": "2026-05-30"
+        }
+      ],
       "articles": [
         "Articles/2026-05-26_PMs-response-falls-short.md",
         "Articles/2026-05-27_Four-more-charges-for-Kaia-Sealy.md",
@@ -263,7 +278,8 @@
         "Articles/2026-05-28_Authority-is-not-the-enemy.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
-        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
+        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -950,6 +966,69 @@
       ],
       "articles": [
         "Articles/2026-05-30_Man-beaten-to-death-over-sex-attack-on-child.md"
+      ]
+    },
+    "Marvin Gonzales": {
+      "roles": [
+        "MP"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
+      ]
+    },
+    "Barry Padarath": {
+      "roles": [
+        "Public Utilities Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
+      ]
+    },
+    "Anil Roberts": {
+      "roles": [
+        "Minister in the Ministry of Housing"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
+      ]
+    },
+    "Mano Bridglal": {
+      "roles": [
+        "Director of Operations"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
+      ]
+    },
+    "Krishna Persadsingh": {
+      "roles": [
+        "Director of Wastewater Services"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
+      ]
+    },
+    "Alana Mahabir": {
+      "roles": [
+        "Head of Water Resource Agency"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
+      ]
+    },
+    "Jeevan Joseph": {
+      "roles": [
+        "Former CEO"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
       ]
     }
   }
