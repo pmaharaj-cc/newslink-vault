@@ -3,14 +3,14 @@ title: "Man beaten to death over sex attack on child"
 date_reported: 2026-05-30
 date_effective: null
 source: trinidadexpress.com
-url: https://trinidadexpress.com/man-beaten-to-death-over-sex-attack-on-child/article_960021da-9e99-40df-a376-411404949727.html
+url: https://trinidadexpress.com/newsextra/man-beaten-to-death-over-sex-attack-on-child/article_960021da-9e99-40df-a376-411404949727.html
 authors: [Unknown]
 tags: [crime]
 sports_crossover: false
 ---
 
 # Man beaten to death over sex attack on child
-> 2026-05-30 · trinidadexpress.com · [link](https://trinidadexpress.com/man-beaten-to-death-over-sex-attack-on-child/article_960021da-9e99-40df-a376-411404949727.html)
+> 2026-05-30 · trinidadexpress.com · [link](https://trinidadexpress.com/newsextra/man-beaten-to-death-over-sex-attack-on-child/article_960021da-9e99-40df-a376-411404949727.html)
 
 **By:** [[Authors/Unknown|Unknown]]
 
@@ -38,4 +38,4 @@ sports_crossover: false
 ---
 ## Sentiment
 
-- [[Unknown]] → [[residents of Sea Lots]]: 🔴 **negative** — _took matters into their own hands and beat the accused to death_
+- [[Unknown]] → [[Hasim Ali]]: 🔴 **negative** — _alleged sexual assault_
