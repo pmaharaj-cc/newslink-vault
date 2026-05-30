@@ -1030,6 +1030,40 @@
       "articles": [
         "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
       ]
+    },
+    "Jalon Graham": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-05-30_Gunman-kills-22-year-old-in-Tobago-attack.md",
+          "title": "Gunman kills 22-year-old in Tobago attack",
+          "date": "2026-05-30"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-30_Gunman-kills-22-year-old-in-Tobago-attack.md"
+      ]
+    },
+    "Sarah Mohammed": {
+      "roles": [
+        "School Principal"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Parents-watch-in-horror-as-flames-engulf-preparatory-sc.md"
+      ]
+    },
+    "Joshua Regrello": {
+      "roles": [
+        "Pannist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Parents-watch-in-horror-as-flames-engulf-preparatory-sc.md"
+      ]
     }
   }
 }
