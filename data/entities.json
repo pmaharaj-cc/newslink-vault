@@ -255,7 +255,8 @@
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
-        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md"
+        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
       ]
     },
     "Joshua Samaroo": {
@@ -279,7 +280,8 @@
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
-        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md"
+        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -380,7 +382,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md"
+        "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
       ]
     },
     "Suzette Martin": {
@@ -443,7 +446,8 @@
       "articles": [
         "Articles/2026-05-27_Guevarros-brothel-case-back-in-court.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
-        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
       ]
     },
     "Sheldon Lewis": {
@@ -601,7 +605,8 @@
         "Protester",
         "organiser",
         "protest organiser",
-        "Protest organiser"
+        "Protest organiser",
+        "Organiser"
       ],
       "statuses": [
         {
@@ -627,6 +632,12 @@
           "article": "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
           "title": "Penny: Govt trying to justify another SoE",
           "date": "2026-05-30"
+        },
+        {
+          "status": "arrested",
+          "article": "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+          "title": "Top cop: Police had to act as protesters did not follow law",
+          "date": "2026-05-30"
         }
       ],
       "articles": [
@@ -635,14 +646,16 @@
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
-        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
       ]
     },
     "Jason De Silva": {
       "roles": [
         "Blogger and influencer",
         "Social media commentator",
-        "blogger/influencer"
+        "blogger/influencer",
+        "Social media personality"
       ],
       "statuses": [
         {
@@ -662,13 +675,20 @@
           "article": "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
           "title": "Beckles on the brink of a policing state",
           "date": "2026-05-29"
+        },
+        {
+          "status": "arrested",
+          "article": "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+          "title": "Top cop: Police had to act as protesters did not follow law",
+          "date": "2026-05-30"
         }
       ],
       "articles": [
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
-        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
       ]
     },
     "Camille Caresquero": {
@@ -683,12 +703,19 @@
           "article": "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
           "title": "Phillip, mom join protest after release",
           "date": "2026-05-30"
+        },
+        {
+          "status": "arrested",
+          "article": "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+          "title": "Top cop: Police had to act as protesters did not follow law",
+          "date": "2026-05-30"
         }
       ],
       "articles": [
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
-        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
       ]
     },
     "Deshawn Joseph": {
@@ -1063,6 +1090,49 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-30_Parents-watch-in-horror-as-flames-engulf-preparatory-sc.md"
+      ]
+    },
+    "Prakash Ramadhar": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Police-maliciously-prosecuted-13-year-old-for-rape.md"
+      ]
+    },
+    "Wayne Mohammed": {
+      "roles": [
+        "Senior Superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Senior-cop-warns-officers-dont-abuse-sick-leave.md"
+      ]
+    },
+    "Anuska Eversley": {
+      "roles": [
+        "Municipal Police Corporal"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Senior-cop-warns-officers-dont-abuse-sick-leave.md"
+      ]
+    },
+    "Jivan Cooper": {
+      "roles": [
+        "Municipal Police Officer"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-30_Senior-cop-warns-officers-dont-abuse-sick-leave.md",
+          "title": "Senior cop warns officers: don't abuse sick leave",
+          "date": "2026-05-30"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-30_Senior-cop-warns-officers-dont-abuse-sick-leave.md"
       ]
     }
   }
