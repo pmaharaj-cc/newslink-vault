@@ -21,3 +21,4 @@ tags: [criminal-record]
 
 - [[Articles/2026-05-28_Murder-on-the-Rivulet-Road|Murder on the Rivulet Road]]
 - [[Articles/2026-05-29_Proman-procurement-manager-executed-after-leaving-work|Proman procurement manager executed after leaving work]]
+- [[Articles/2026-05-30_Manager-gunned-down-in-drivers-seat|Manager gunned down in drivers seat]]

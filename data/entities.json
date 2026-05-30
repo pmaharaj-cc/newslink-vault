@@ -171,7 +171,8 @@
         "Articles/2026-05-28_PM-willing-to-extend-SoE-again.md",
         "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
-        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
       ]
     },
     "Kaia Sealy": {
@@ -226,6 +227,12 @@
           "article": "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
           "title": "Kamla: PNM promoting lawlessness",
           "date": "2026-05-29"
+        },
+        {
+          "status": "facing charges",
+          "article": "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
+          "title": "Penny: Govt trying to justify another SoE",
+          "date": "2026-05-30"
         }
       ],
       "articles": [
@@ -239,7 +246,8 @@
         "Articles/2026-05-28_Authority-is-not-the-enemy.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
-        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
       ]
     },
     "Joshua Samaroo": {
@@ -254,7 +262,8 @@
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-28_Authority-is-not-the-enemy.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
-        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md"
+        "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -345,7 +354,8 @@
         "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
-        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md"
+        "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
       ]
     },
     "Roger Alexander": {
@@ -410,12 +420,14 @@
     },
     "Allister Guevarro": {
       "roles": [
-        "Commissioner of Police"
+        "Commissioner of Police",
+        "Police Commissioner"
       ],
       "statuses": [],
       "articles": [
         "Articles/2026-05-27_Guevarros-brothel-case-back-in-court.md",
-        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
       ]
     },
     "Sheldon Lewis": {
@@ -572,7 +584,8 @@
         "Protestor",
         "Protester",
         "organiser",
-        "protest organiser"
+        "protest organiser",
+        "Protest organiser"
       ],
       "statuses": [
         {
@@ -592,6 +605,12 @@
           "article": "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
           "title": "Beckles on the brink of a policing state",
           "date": "2026-05-29"
+        },
+        {
+          "status": "arrested",
+          "article": "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
+          "title": "Penny: Govt trying to justify another SoE",
+          "date": "2026-05-30"
         }
       ],
       "articles": [
@@ -599,7 +618,8 @@
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
-        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md"
+        "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
       ]
     },
     "Jason De Silva": {
@@ -869,7 +889,8 @@
       ],
       "articles": [
         "Articles/2026-05-28_Murder-on-the-Rivulet-Road.md",
-        "Articles/2026-05-29_Proman-procurement-manager-executed-after-leaving-work.md"
+        "Articles/2026-05-29_Proman-procurement-manager-executed-after-leaving-work.md",
+        "Articles/2026-05-30_Manager-gunned-down-in-drivers-seat.md"
       ]
     },
     "Douglas Wilson": {
@@ -895,6 +916,40 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-29_EBC-clerk-robbed.md"
+      ]
+    },
+    "Boodoosingh": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Manager-gunned-down-in-drivers-seat.md"
+      ]
+    },
+    "Ramute": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-30_Manager-gunned-down-in-drivers-seat.md"
+      ]
+    },
+    "Hasim Ali": {
+      "roles": [
+        "Deceased"
+      ],
+      "statuses": [
+        {
+          "status": "accused",
+          "article": "Articles/2026-05-30_Man-beaten-to-death-over-sex-attack-on-child.md",
+          "title": "Man beaten to death over sex attack on child",
+          "date": "2026-05-30"
+        }
+      ],
+      "articles": [
+        "Articles/2026-05-30_Man-beaten-to-death-over-sex-attack-on-child.md"
       ]
     }
   }
