@@ -175,7 +175,9 @@
         "Articles/2026-05-28_UNC-members-call-for-aldermans-resignation.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
-        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md"
+        "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
+        "Articles/2026-05-31_PM-Sick-and-evil.md",
+        "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md"
       ]
     },
     "Kaia Sealy": {
@@ -248,6 +250,18 @@
           "article": "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
           "title": "The DPP and the court of public opinion",
           "date": "2026-05-30"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-31_We-will-not-be-gagged.md",
+          "title": "We will not be gagged",
+          "date": "2026-05-31"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-31_PM-Sick-and-evil.md",
+          "title": "PM: Sick and evil",
+          "date": "2026-05-31"
         }
       ],
       "articles": [
@@ -266,7 +280,9 @@
         "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
         "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
-        "Articles/2026-05-31_MATT-backs-DPP.md"
+        "Articles/2026-05-31_MATT-backs-DPP.md",
+        "Articles/2026-05-31_We-will-not-be-gagged.md",
+        "Articles/2026-05-31_PM-Sick-and-evil.md"
       ]
     },
     "Joshua Samaroo": {
@@ -293,7 +309,9 @@
         "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
         "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
-        "Articles/2026-05-31_MATT-backs-DPP.md"
+        "Articles/2026-05-31_MATT-backs-DPP.md",
+        "Articles/2026-05-31_We-will-not-be-gagged.md",
+        "Articles/2026-05-31_PM-Sick-and-evil.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -460,7 +478,8 @@
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
-        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
+        "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md"
       ]
     },
     "Sheldon Lewis": {
@@ -619,7 +638,8 @@
         "organiser",
         "protest organiser",
         "Protest organiser",
-        "Organiser"
+        "Organiser",
+        "Activist"
       ],
       "statuses": [
         {
@@ -660,7 +680,8 @@
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
-        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+        "Articles/2026-05-31_We-will-not-be-gagged.md"
       ]
     },
     "Jason De Silva": {
@@ -1236,6 +1257,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md"
+      ]
+    },
+    "Mariah Walcott": {
+      "roles": [
+        "Supporter"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-31_We-will-not-be-gagged.md"
+      ]
+    },
+    "Sumaria Seepersad": {
+      "roles": [
+        "Great-grandmother of Kamla Persad-Bissessar"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md"
       ]
     }
   }

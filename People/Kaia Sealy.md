@@ -25,6 +25,8 @@ tags: [criminal-record]
 - **facing charges** — [[Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE|Penny: Govt trying to justify another SoE]] _(2026-05-30)_
 - **charged** — [[Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma|Media warned against trying Samaroo case in public domain]] _(2026-05-30)_
 - **charged** — [[Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion|The DPP and the court of public opinion]] _(2026-05-30)_
+- **charged** — [[Articles/2026-05-31_We-will-not-be-gagged|We will not be gagged]] _(2026-05-31)_
+- **charged** — [[Articles/2026-05-31_PM-Sick-and-evil|PM: Sick and evil]] _(2026-05-31)_
 
 ## Articles
 
@@ -44,3 +46,5 @@ tags: [criminal-record]
 - [[Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-|Top cop Police had to act as protesters did not follow ]]
 - [[Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion|The DPP and the court of public opinion]]
 - [[Articles/2026-05-31_MATT-backs-DPP|MATT backs DPP]]
+- [[Articles/2026-05-31_We-will-not-be-gagged|We will not be gagged]]
+- [[Articles/2026-05-31_PM-Sick-and-evil|PM Sick and evil]]

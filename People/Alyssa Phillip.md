@@ -1,14 +1,14 @@
 ---
 type: person
 name: "Alyssa Phillip"
-roles: [Protestor, Protester, organiser, protest organiser, Protest organiser, Organiser]
+roles: [Protestor, Protester, organiser, protest organiser, Protest organiser, Organiser, Activist]
 legal_statuses: [detained, arrested]
 tags: [criminal-record]
 ---
 
 # Alyssa Phillip
 
-**Known roles:** Protestor, Protester, organiser, protest organiser, Protest organiser, Organiser
+**Known roles:** Protestor, Protester, organiser, protest organiser, Protest organiser, Organiser, Activist
 
 **Legal status:** detained, arrested
 
@@ -29,3 +29,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-30_Phillip-mom-join-protest-after-release|Phillip mom join protest after release]]
 - [[Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE|Penny Govt trying to justify another SoE]]
 - [[Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-|Top cop Police had to act as protesters did not follow ]]
+- [[Articles/2026-05-31_We-will-not-be-gagged|We will not be gagged]]
