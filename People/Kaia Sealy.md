@@ -24,6 +24,7 @@ tags: [criminal-record]
 - **charged** — [[Articles/2026-05-29_Kamla-PNM-promoting-lawlessness|Kamla: PNM promoting lawlessness]] _(2026-05-29)_
 - **facing charges** — [[Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE|Penny: Govt trying to justify another SoE]] _(2026-05-30)_
 - **charged** — [[Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma|Media warned against trying Samaroo case in public domain]] _(2026-05-30)_
+- **charged** — [[Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion|The DPP and the court of public opinion]] _(2026-05-30)_
 
 ## Articles
 
@@ -41,3 +42,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE|Penny Govt trying to justify another SoE]]
 - [[Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma|Media warned against trying Samaroo case in public doma]]
 - [[Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-|Top cop Police had to act as protesters did not follow ]]
+- [[Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion|The DPP and the court of public opinion]]

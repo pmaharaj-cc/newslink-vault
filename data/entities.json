@@ -147,7 +147,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-26_Bail-granted-to-officer-charged-with-indecent-assault.md",
-        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md"
+        "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
       ]
     },
     "Guerra-Abraham": {
@@ -240,6 +241,12 @@
           "article": "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
           "title": "Media warned against trying Samaroo case in public domain",
           "date": "2026-05-30"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
+          "title": "The DPP and the court of public opinion",
+          "date": "2026-05-30"
         }
       ],
       "articles": [
@@ -256,7 +263,8 @@
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
-        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
       ]
     },
     "Joshua Samaroo": {
@@ -281,7 +289,8 @@
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
-        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -447,7 +456,8 @@
         "Articles/2026-05-27_Guevarros-brothel-case-back-in-court.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
-        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
       ]
     },
     "Sheldon Lewis": {
