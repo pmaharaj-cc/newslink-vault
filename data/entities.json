@@ -148,7 +148,8 @@
       "articles": [
         "Articles/2026-05-26_Bail-granted-to-officer-charged-with-indecent-assault.md",
         "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
-        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
+        "Articles/2026-05-31_MATT-backs-DPP.md"
       ]
     },
     "Guerra-Abraham": {
@@ -264,7 +265,8 @@
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
-        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
+        "Articles/2026-05-31_MATT-backs-DPP.md"
       ]
     },
     "Joshua Samaroo": {
@@ -290,7 +292,8 @@
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-05-30_Media-warned-against-trying-Samaroo-case-in-public-doma.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
-        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md"
+        "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
+        "Articles/2026-05-31_MATT-backs-DPP.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -1197,6 +1200,42 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-30_Anya-Bidaisee-one-stage-away-from-a-BFA.md"
+      ]
+    },
+    "Nizam Mohammed": {
+      "roles": [
+        "Former House Speaker"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md"
+      ]
+    },
+    "Faris Al-Rawi": {
+      "roles": [
+        "Opposition Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md"
+      ]
+    },
+    "Janelle John-Bates": {
+      "roles": [
+        "Opposition Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md"
+      ]
+    },
+    "Terrence Deyalsingh": {
+      "roles": [
+        "Former Health Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md"
       ]
     }
   }
