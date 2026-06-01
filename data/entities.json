@@ -179,12 +179,14 @@
         "Articles/2026-05-31_PM-Sick-and-evil.md",
         "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md",
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
-        "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md"
+        "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
+        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md"
       ]
     },
     "Kaia Sealy": {
       "roles": [
-        "Accused"
+        "Accused",
+        "Common-law wife of Joshua Samaroo"
       ],
       "statuses": [
         {
@@ -270,6 +272,12 @@
           "article": "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
           "title": "Benjamin: No info on gangs uniting to attack police",
           "date": "2026-06-01"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
+          "title": "Stuart: Bring back 'mother of nation'",
+          "date": "2026-06-01"
         }
       ],
       "articles": [
@@ -292,7 +300,8 @@
         "Articles/2026-05-31_We-will-not-be-gagged.md",
         "Articles/2026-05-31_PM-Sick-and-evil.md",
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
-        "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md"
+        "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
+        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md"
       ]
     },
     "Joshua Samaroo": {
@@ -323,7 +332,8 @@
         "Articles/2026-05-31_We-will-not-be-gagged.md",
         "Articles/2026-05-31_PM-Sick-and-evil.md",
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
-        "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md"
+        "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
+        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -1540,6 +1550,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-01_Tulsa-Trace-picnic-site-Smugglers-convicted.md"
+      ]
+    },
+    "Idi Stuart": {
+      "roles": [
+        "Head of the Trinidad and Tobago National Nursing Association"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md"
       ]
     }
   }
