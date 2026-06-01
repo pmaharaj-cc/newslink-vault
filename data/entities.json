@@ -177,7 +177,8 @@
         "Articles/2026-05-29_Kamla-PNM-promoting-lawlessness.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-05-31_PM-Sick-and-evil.md",
-        "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md"
+        "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md",
+        "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md"
       ]
     },
     "Kaia Sealy": {
@@ -282,7 +283,8 @@
         "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
         "Articles/2026-05-31_MATT-backs-DPP.md",
         "Articles/2026-05-31_We-will-not-be-gagged.md",
-        "Articles/2026-05-31_PM-Sick-and-evil.md"
+        "Articles/2026-05-31_PM-Sick-and-evil.md",
+        "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md"
       ]
     },
     "Joshua Samaroo": {
@@ -311,7 +313,8 @@
         "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
         "Articles/2026-05-31_MATT-backs-DPP.md",
         "Articles/2026-05-31_We-will-not-be-gagged.md",
-        "Articles/2026-05-31_PM-Sick-and-evil.md"
+        "Articles/2026-05-31_PM-Sick-and-evil.md",
+        "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -671,6 +674,12 @@
           "article": "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
           "title": "Top cop: Police had to act as protesters did not follow law",
           "date": "2026-05-30"
+        },
+        {
+          "status": "arrested",
+          "article": "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
+          "title": "Activists call for June 5 shutdown for Kaia",
+          "date": "2026-06-01"
         }
       ],
       "articles": [
@@ -681,7 +690,8 @@
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
-        "Articles/2026-05-31_We-will-not-be-gagged.md"
+        "Articles/2026-05-31_We-will-not-be-gagged.md",
+        "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md"
       ]
     },
     "Jason De Silva": {
@@ -772,11 +782,13 @@
     },
     "David West": {
       "roles": [
-        "PCA Director"
+        "PCA Director",
+        "PCA head"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md"
+        "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
+        "Articles/2026-06-01_14-police-killings.md"
       ]
     },
     "Shamsudeen Ayube": {
@@ -1321,6 +1333,72 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-31_Whos-influencing-the-home.md"
+      ]
+    },
+    "David Boodoo": {
+      "roles": [
+        "Home invasion suspect"
+      ],
+      "statuses": [
+        {
+          "status": "Deceased",
+          "article": "Articles/2026-06-01_14-police-killings.md",
+          "title": "14 police killings",
+          "date": "2026-06-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-01_14-police-killings.md"
+      ]
+    },
+    "Sharaz Samaroo": {
+      "roles": [
+        "Home invasion suspect"
+      ],
+      "statuses": [
+        {
+          "status": "Deceased",
+          "article": "Articles/2026-06-01_14-police-killings.md",
+          "title": "14 police killings",
+          "date": "2026-06-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-01_14-police-killings.md"
+      ]
+    },
+    "Donald Javel Pierre": {
+      "roles": [
+        "Murder victim"
+      ],
+      "statuses": [
+        {
+          "status": "Deceased",
+          "article": "Articles/2026-06-01_14-police-killings.md",
+          "title": "14 police killings",
+          "date": "2026-06-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-01_14-police-killings.md"
+      ]
+    },
+    "Basdeo Panday": {
+      "roles": [
+        "Former Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_NCIC-Name-Piarco-Airport-after-Bas.md"
+      ]
+    },
+    "Surujdeo Mangaroo": {
+      "roles": [
+        "NCIC President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_NCIC-Name-Piarco-Airport-after-Bas.md"
       ]
     }
   }

@@ -19,6 +19,7 @@ tags: [criminal-record]
 - **arrested** — [[Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state|Beckles on the brink of a policing state]] _(2026-05-29)_
 - **arrested** — [[Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE|Penny: Govt trying to justify another SoE]] _(2026-05-30)_
 - **arrested** — [[Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-|Top cop: Police had to act as protesters did not follow law]] _(2026-05-30)_
+- **arrested** — [[Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia|Activists call for June 5 shutdown for Kaia]] _(2026-06-01)_
 
 ## Articles
 
@@ -30,3 +31,4 @@ tags: [criminal-record]
 - [[Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE|Penny Govt trying to justify another SoE]]
 - [[Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-|Top cop Police had to act as protesters did not follow ]]
 - [[Articles/2026-05-31_We-will-not-be-gagged|We will not be gagged]]
+- [[Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia|Activists call for June 5 shutdown for Kaia]]
