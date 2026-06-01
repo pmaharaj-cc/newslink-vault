@@ -1,16 +1,21 @@
 ---
 type: person
 name: "Joseph"
-roles: []
-legal_statuses: []
-tags: ["person"]
+roles: [Father]
+legal_statuses: [deceased]
+tags: [criminal-record]
 ---
 
 # Joseph
 
-**Known roles:** Unknown
+**Known roles:** Father
 
+**Legal status:** deceased
+
+## Case History
+
+- **deceased** — [[Articles/2026-06-01_Childrens-handover-ends-in-bloodshed|Children's handover ends in bloodshed]] _(2026-06-01)_
 
 ## Articles
 
-- [[Articles/2026-05-21_Manzanilla-murder-Naked-body-in-the-cocal|Manzanilla murder: Naked body in the cocal]]
+- [[Articles/2026-06-01_Childrens-handover-ends-in-bloodshed|Childrens handover ends in bloodshed]]

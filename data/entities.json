@@ -1420,6 +1420,70 @@
       "articles": [
         "Articles/2026-06-01_Thousands-face-travel-woes.md"
       ]
+    },
+    "Jordan Cudjoe Burke": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Double-murder-near-Penal-police-station.md"
+      ]
+    },
+    "Cedric Burke": {
+      "roles": [
+        "businessman and community activist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Double-murder-near-Penal-police-station.md"
+      ]
+    },
+    "Ishmael Matthews": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Double-murder-near-Penal-police-station.md"
+      ]
+    },
+    "Roberto Samuel Carlos": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Double-murder-near-Penal-police-station.md"
+      ]
+    },
+    "Persad": {
+      "roles": [
+        "Superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Double-murder-near-Penal-police-station.md"
+      ]
+    },
+    "Maraj": {
+      "roles": [
+        "Assistant Superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Double-murder-near-Penal-police-station.md"
+      ]
+    },
+    "Joseph": {
+      "roles": [
+        "Father"
+      ],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-06-01_Childrens-handover-ends-in-bloodshed.md",
+          "title": "Children's handover ends in bloodshed",
+          "date": "2026-06-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-01_Childrens-handover-ends-in-bloodshed.md"
+      ]
     }
   }
 }
