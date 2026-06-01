@@ -799,7 +799,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
-        "Articles/2026-06-01_14-police-killings.md"
+        "Articles/2026-06-01_14-police-killings.md",
+        "Articles/2026-06-01_14-police-killings-during-state-of-emergency.md"
       ]
     },
     "Shamsudeen Ayube": {
@@ -1356,10 +1357,17 @@
           "article": "Articles/2026-06-01_14-police-killings.md",
           "title": "14 police killings",
           "date": "2026-06-01"
+        },
+        {
+          "status": "Accused",
+          "article": "Articles/2026-06-01_14-police-killings-during-state-of-emergency.md",
+          "title": "14 police killings during state of emergency",
+          "date": "2026-06-01"
         }
       ],
       "articles": [
-        "Articles/2026-06-01_14-police-killings.md"
+        "Articles/2026-06-01_14-police-killings.md",
+        "Articles/2026-06-01_14-police-killings-during-state-of-emergency.md"
       ]
     },
     "Sharaz Samaroo": {
@@ -1372,10 +1380,17 @@
           "article": "Articles/2026-06-01_14-police-killings.md",
           "title": "14 police killings",
           "date": "2026-06-01"
+        },
+        {
+          "status": "Accused",
+          "article": "Articles/2026-06-01_14-police-killings-during-state-of-emergency.md",
+          "title": "14 police killings during state of emergency",
+          "date": "2026-06-01"
         }
       ],
       "articles": [
-        "Articles/2026-06-01_14-police-killings.md"
+        "Articles/2026-06-01_14-police-killings.md",
+        "Articles/2026-06-01_14-police-killings-during-state-of-emergency.md"
       ]
     },
     "Donald Javel Pierre": {
@@ -1391,7 +1406,8 @@
         }
       ],
       "articles": [
-        "Articles/2026-06-01_14-police-killings.md"
+        "Articles/2026-06-01_14-police-killings.md",
+        "Articles/2026-06-01_14-police-killings-during-state-of-emergency.md"
       ]
     },
     "Basdeo Panday": {

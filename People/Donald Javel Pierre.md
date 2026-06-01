@@ -19,3 +19,4 @@ tags: [criminal-record]
 ## Articles
 
 - [[Articles/2026-06-01_14-police-killings|14 police killings]]
+- [[Articles/2026-06-01_14-police-killings-during-state-of-emergency|14 police killings during state of emergency]]
