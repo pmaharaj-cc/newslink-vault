@@ -1484,6 +1484,47 @@
       "articles": [
         "Articles/2026-06-01_Childrens-handover-ends-in-bloodshed.md"
       ]
+    },
+    "Trevor Geeban": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "convicted",
+          "article": "Articles/2026-06-01_Tulsa-Trace-picnic-site-Smugglers-convicted.md",
+          "title": "Tulsa Trace picnic site: Smugglers convicted",
+          "date": "2026-06-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-01_Tulsa-Trace-picnic-site-Smugglers-convicted.md"
+      ]
+    },
+    "Kadeem Weekes": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "convicted",
+          "article": "Articles/2026-06-01_Tulsa-Trace-picnic-site-Smugglers-convicted.md",
+          "title": "Tulsa Trace picnic site: Smugglers convicted",
+          "date": "2026-06-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-01_Tulsa-Trace-picnic-site-Smugglers-convicted.md"
+      ]
+    },
+    "Dylan Martin": {
+      "roles": [
+        "Prosecutor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-01_Tulsa-Trace-picnic-site-Smugglers-convicted.md"
+      ]
     }
   }
 }
