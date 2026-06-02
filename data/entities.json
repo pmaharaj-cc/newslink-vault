@@ -1720,10 +1720,17 @@
           "article": "Articles/2026-06-02_Murder-Man-found-in-Morvant-identified-as-Venezuelan.md",
           "title": "Murder: Man found in Morvant identified as Venezuelan",
           "date": "2026-06-02"
+        },
+        {
+          "status": "murdered",
+          "article": "Articles/2026-06-02_Murdered-man-found-in-Morvant-identified-as-Venezuelan.md",
+          "title": "Murdered man found in Morvant identified as Venezuelan",
+          "date": "2026-06-02"
         }
       ],
       "articles": [
-        "Articles/2026-06-02_Murder-Man-found-in-Morvant-identified-as-Venezuelan.md"
+        "Articles/2026-06-02_Murder-Man-found-in-Morvant-identified-as-Venezuelan.md",
+        "Articles/2026-06-02_Murdered-man-found-in-Morvant-identified-as-Venezuelan.md"
       ]
     }
   }

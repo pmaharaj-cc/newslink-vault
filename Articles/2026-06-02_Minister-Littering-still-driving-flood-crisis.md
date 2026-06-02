@@ -3,14 +3,14 @@ title: "Minister: Littering still driving flood crisis"
 date_reported: 2026-06-02
 date_effective: null
 source: trinidadexpress.com
-url: https://trinidadexpress.com/instagram/minister-littering-still-driving-flood-crisis/article_776913b4-9833-459d-8b7e-9cb0d883d26f.html
+url: https://trinidadexpress.com/newsextra/minister-littering-still-driving-flood-crisis/article_776913b4-9833-459d-8b7e-9cb0d883d26f.html
 authors: [Unknown]
 tags: [environment, disaster, government]
 sports_crossover: false
 ---
 
 # Minister: Littering still driving flood crisis
-> 2026-06-02 · trinidadexpress.com · [link](https://trinidadexpress.com/instagram/minister-littering-still-driving-flood-crisis/article_776913b4-9833-459d-8b7e-9cb0d883d26f.html)
+> 2026-06-02 · trinidadexpress.com · [link](https://trinidadexpress.com/newsextra/minister-littering-still-driving-flood-crisis/article_776913b4-9833-459d-8b7e-9cb0d883d26f.html)
 
 **By:** [[Authors/Unknown|Unknown]]
 

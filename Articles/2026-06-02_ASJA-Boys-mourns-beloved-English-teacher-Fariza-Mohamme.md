@@ -3,14 +3,14 @@ title: "ASJA Boys mourns beloved English teacher Fariza Mohammed"
 date_reported: 2026-06-02
 date_effective: null
 source: trinidadexpress.com
-url: https://trinidadexpress.com/news/asja-boys-mourns-beloved-english-teacher-fariza-mohammed/article_e783ce1a-7065-4541-a268-0f36aa11d6f9.html
+url: https://trinidadexpress.com/news/local/asja-boys-mourns-beloved-english-teacher-fariza-mohammed/article_e783ce1a-7065-4541-a268-0f36aa11d6f9.html
 authors: [Susan Mohammed]
 tags: [education]
 sports_crossover: false
 ---
 
 # ASJA Boys mourns beloved English teacher Fariza Mohammed
-> 2026-06-02 · trinidadexpress.com · [link](https://trinidadexpress.com/news/asja-boys-mourns-beloved-english-teacher-fariza-mohammed/article_e783ce1a-7065-4541-a268-0f36aa11d6f9.html)
+> 2026-06-02 · trinidadexpress.com · [link](https://trinidadexpress.com/news/local/asja-boys-mourns-beloved-english-teacher-fariza-mohammed/article_e783ce1a-7065-4541-a268-0f36aa11d6f9.html)
 
 **By:** [[Authors/Susan Mohammed|Susan Mohammed]]
 
