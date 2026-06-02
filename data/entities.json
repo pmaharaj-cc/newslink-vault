@@ -1709,6 +1709,20 @@
       "articles": [
         "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md"
       ]
+    },
+    "Enrique Pineda": {
+      "roles": [],
+      "statuses": [
+        {
+          "status": "victim",
+          "article": "Articles/2026-06-02_Murder-Man-found-in-Morvant-identified-as-Venezuelan.md",
+          "title": "Murder: Man found in Morvant identified as Venezuelan",
+          "date": "2026-06-02"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-02_Murder-Man-found-in-Morvant-identified-as-Venezuelan.md"
+      ]
     }
   }
 }
