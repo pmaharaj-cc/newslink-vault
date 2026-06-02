@@ -1571,6 +1571,40 @@
       "articles": [
         "Articles/2026-06-01_LIAT-and-Air-Carabes-sign-interline-agreement.md"
       ]
+    },
+    "Cassandra Armstrong": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Commuters-feel-the-squeeze.md"
+      ]
+    },
+    "Eli Zakour": {
+      "roles": [
+        "Transport and Civil Aviation Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Associations-unhappy-after-meeting-with-Zakour.md"
+      ]
+    },
+    "Parsana Rampersad": {
+      "roles": [
+        "Vice President of the Route Two Maxi Taxi Association"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Associations-unhappy-after-meeting-with-Zakour.md"
+      ]
+    },
+    "Eon Hewitt": {
+      "roles": [
+        "President of the Association of Maxi Taxis Trinidad and Tobago"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Associations-unhappy-after-meeting-with-Zakour.md"
+      ]
     }
   }
 }
