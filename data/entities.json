@@ -1605,6 +1605,60 @@
       "articles": [
         "Articles/2026-06-02_Associations-unhappy-after-meeting-with-Zakour.md"
       ]
+    },
+    "Martin Harripersad": {
+      "roles": [
+        "Homeowner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Triple-murder-in-Corinth.md"
+      ]
+    },
+    "Clariey Kinfu": {
+      "roles": [
+        "Relative"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Triple-murder-in-Corinth.md"
+      ]
+    },
+    "Anthony Alibocas": {
+      "roles": [
+        "Friend"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Triple-murder-in-Corinth.md"
+      ]
+    },
+    "Micah Joseph": {
+      "roles": [
+        "Father"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Killed-in-front-of-his-children.md"
+      ]
+    },
+    "Joshua": {
+      "roles": [
+        "Brother"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Killed-in-front-of-his-children.md"
+      ]
+    },
+    "Elizabeth": {
+      "roles": [
+        "Sister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Killed-in-front-of-his-children.md"
+      ]
     }
   }
 }
