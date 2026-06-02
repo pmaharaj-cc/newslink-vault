@@ -3,14 +3,14 @@ title: "Councillor off life support, breathing on his own"
 date_reported: 2026-06-02
 date_effective: null
 source: trinidadexpress.com
-url: https://trinidadexpress.com/instagram/councillor-off-life-support-breathing-on-his-own/article_2be34b10-f103-4581-9706-6851f7e508d3.html
+url: https://trinidadexpress.com/news/local/councillor-off-life-support-breathing-on-his-own/article_2be34b10-f103-4581-9706-6851f7e508d3.html
 authors: [Anonymous]
 tags: [health, government]
 sports_crossover: false
 ---
 
 # Councillor off life support, breathing on his own
-> 2026-06-02 · trinidadexpress.com · [link](https://trinidadexpress.com/instagram/councillor-off-life-support-breathing-on-his-own/article_2be34b10-f103-4581-9706-6851f7e508d3.html)
+> 2026-06-02 · trinidadexpress.com · [link](https://trinidadexpress.com/news/local/councillor-off-life-support-breathing-on-his-own/article_2be34b10-f103-4581-9706-6851f7e508d3.html)
 
 **By:** [[Authors/Anonymous|Anonymous]]
 
@@ -18,17 +18,17 @@ sports_crossover: false
 [[People/Anil Baliram|Anil Baliram]] _(Councillor)_ · [[People/Ryan Rampersad|Ryan Rampersad]] _(Chairman)_
 
 ## Organizations
-[[Orgs/CouvaTabaquiteTalparo Regional Corporation|Couva/Tabaquite/Talparo Regional Corporation]] · [[Orgs/San Fernando General Hospital|San Fernando General Hospital]]
+[[Orgs/San Fernando General Hospital|San Fernando General Hospital]] · [[Orgs/CouvaTabaquiteTalparo Regional Corporation|Couva/Tabaquite/Talparo Regional Corporation]]
 
 ## Places
-[[Places/Trinidad|Trinidad]] · [[Places/San Fernando|San Fernando]] · [[Places/Couva|Couva]] · [[Places/Freeport|Freeport]]
+[[Places/San Fernando|San Fernando]] · [[Places/Couva|Couva]] · [[Places/Trinidad|Trinidad]]
 
 ## Topics
 [[Topics/health|health]] · [[Topics/government|government]]
 
 ## State Changes
 
-- [[Anil Baliram]]: **intensive care unit** → **breathing independently** _removed from intensive care unit_
+- [[Anil Baliram]]: **life support** → **breathing independently** _health status_
 
 ## Relationships
 
@@ -45,4 +45,4 @@ sports_crossover: false
 ---
 ## Sentiment
 
-- [[Ryan Rampersad]] → [[Anil Baliram]]: 🟢 **positive** — _described as diligent and dedicated public servant_
+- [[Ryan Rampersad]] → [[Anil Baliram]]: 🟢 **positive** — _description of Baliram's work ethic and dedication_
