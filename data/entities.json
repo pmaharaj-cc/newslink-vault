@@ -63,11 +63,13 @@
     },
     "Anil Baliram": {
       "roles": [
-        "Local Government Councillor"
+        "Local Government Councillor",
+        "Councillor"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-26_Councillor-still-in-ICU.md"
+        "Articles/2026-05-26_Councillor-still-in-ICU.md",
+        "Articles/2026-06-02_Councillor-off-life-support-breathing-on-his-own.md"
       ]
     },
     "Rampersad": {
@@ -1658,6 +1660,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-02_Killed-in-front-of-his-children.md"
+      ]
+    },
+    "Fariza Mohammed": {
+      "roles": [
+        "English Teacher"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_ASJA-Boys-mourns-beloved-English-teacher-Fariza-Mohamme.md"
+      ]
+    },
+    "Ryan Rampersad": {
+      "roles": [
+        "Chairman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Councillor-off-life-support-breathing-on-his-own.md"
       ]
     }
   }
