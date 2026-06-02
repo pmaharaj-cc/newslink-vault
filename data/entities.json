@@ -1426,11 +1426,13 @@
     },
     "Basdeo Panday": {
       "roles": [
-        "Former Prime Minister"
+        "Former Prime Minister",
+        "Late Prime Minister"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-01_NCIC-Name-Piarco-Airport-after-Bas.md"
+        "Articles/2026-06-01_NCIC-Name-Piarco-Airport-after-Bas.md",
+        "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md"
       ]
     },
     "Surujdeo Mangaroo": {
@@ -1439,7 +1441,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-01_NCIC-Name-Piarco-Airport-after-Bas.md"
+        "Articles/2026-06-01_NCIC-Name-Piarco-Airport-after-Bas.md",
+        "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md"
       ]
     },
     "Vernell Carter": {
@@ -1678,6 +1681,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-02_Councillor-off-life-support-breathing-on-his-own.md"
+      ]
+    },
+    "Raould Simon": {
+      "roles": [
+        "Warao Shaman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md"
+      ]
+    },
+    "Eric Lewis": {
+      "roles": [
+        "Leader of the First Peoples Sovereign Nations"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md"
+      ]
+    },
+    "Ricardo Bharath Hernandez": {
+      "roles": [
+        "Chief of the Santa Rosa First Peoples Community"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md"
       ]
     }
   }
