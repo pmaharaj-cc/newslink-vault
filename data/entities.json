@@ -1760,20 +1760,24 @@
     },
     "Jennifer Johnson-Carroll": {
       "roles": [
-        "Nominee for US Ambassador"
+        "Nominee for US Ambassador",
+        "US Ambassador Nominee"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-02_Arouca-born-Jennifer-Johnson-Carroll-nominated-as-US-Am.md"
+        "Articles/2026-06-02_Arouca-born-Jennifer-Johnson-Carroll-nominated-as-US-Am.md",
+        "Articles/2026-06-03_TT-born-woman-nominated-as-US-envoy.md"
       ]
     },
     "Donald Trump": {
       "roles": [
-        "President of the United States"
+        "President of the United States",
+        "US President"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-02_Arouca-born-Jennifer-Johnson-Carroll-nominated-as-US-Am.md"
+        "Articles/2026-06-02_Arouca-born-Jennifer-Johnson-Carroll-nominated-as-US-Am.md",
+        "Articles/2026-06-03_TT-born-woman-nominated-as-US-envoy.md"
       ]
     },
     "Vidia Naipaul": {
@@ -1828,6 +1832,42 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-02_Solar-project-lights-path-for-TT-farmers.md"
+      ]
+    },
+    "Clint Adams": {
+      "roles": [
+        "Maxi-Taxi Driver"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-03_Strike-loses-steam-in-Central.md"
+      ]
+    },
+    "Vickash Kissoondath": {
+      "roles": [
+        "President of the Route 3 Maxi-Taxi Association"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-03_Strike-loses-steam-in-Central.md"
+      ]
+    },
+    "Candace Bond": {
+      "roles": [
+        "Former US Ambassador"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-03_TT-born-woman-nominated-as-US-envoy.md"
+      ]
+    },
+    "Rick Scott": {
+      "roles": [
+        "Governor of Florida"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-03_TT-born-woman-nominated-as-US-envoy.md"
       ]
     }
   }
