@@ -184,7 +184,8 @@
         "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
         "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
         "Articles/2026-06-02_Performing-politics-and-Indianness.md",
-        "Articles/2026-06-03_PM-defends-no-protest-zones-under-SOE.md"
+        "Articles/2026-06-03_PM-defends-no-protest-zones-under-SOE.md",
+        "Articles/2026-06-03_Probe-into-crushing-death-of-sanitation-worker.md"
       ]
     },
     "Kaia Sealy": {
@@ -798,7 +799,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-28_Garbage-truck-driver-threatened-after-crushing-death.md"
+        "Articles/2026-05-28_Garbage-truck-driver-threatened-after-crushing-death.md",
+        "Articles/2026-06-03_Probe-into-crushing-death-of-sanitation-worker.md"
       ]
     },
     "Ian Alleyne": {
@@ -1924,6 +1926,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-03_A-passion-for-travel-a-mission-to-guide-Indira-turns-ex.md"
+      ]
+    },
+    "Leroy Baptiste": {
+      "roles": [
+        "Minister of Labour"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-03_Probe-into-crushing-death-of-sanitation-worker.md"
       ]
     }
   }
