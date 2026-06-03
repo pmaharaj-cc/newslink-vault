@@ -1592,11 +1592,13 @@
     },
     "Eli Zakour": {
       "roles": [
-        "Transport and Civil Aviation Minister"
+        "Transport and Civil Aviation Minister",
+        "Minister of Transport and Civil Aviation"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-02_Associations-unhappy-after-meeting-with-Zakour.md"
+        "Articles/2026-06-02_Associations-unhappy-after-meeting-with-Zakour.md",
+        "Articles/2026-06-03_Maxi-taxi-strike-ends-on-day-two.md"
       ]
     },
     "Parsana Rampersad": {
@@ -1888,6 +1890,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-03_No-ghost-gangs-in-NPUPS.md"
+      ]
+    },
+    "Brenton Knights": {
+      "roles": [
+        "President of Route Two Taxi Association"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-03_Maxi-taxi-strike-ends-on-day-two.md"
       ]
     }
   }
