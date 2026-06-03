@@ -182,7 +182,8 @@
         "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md",
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
         "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
-        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md"
+        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
+        "Articles/2026-06-02_Performing-politics-and-Indianness.md"
       ]
     },
     "Kaia Sealy": {
@@ -1434,7 +1435,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-01_NCIC-Name-Piarco-Airport-after-Bas.md",
-        "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md"
+        "Articles/2026-06-02_Indigenous-groups-reject-bid-to-rename-Piarco-Airport-a.md",
+        "Articles/2026-06-02_Performing-politics-and-Indianness.md"
       ]
     },
     "Surujdeo Mangaroo": {
@@ -1772,6 +1774,42 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-02_Arouca-born-Jennifer-Johnson-Carroll-nominated-as-US-Am.md"
+      ]
+    },
+    "Vidia Naipaul": {
+      "roles": [
+        "Author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Performing-politics-and-Indianness.md"
+      ]
+    },
+    "Patrick Manning": {
+      "roles": [
+        "Former Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Performing-politics-and-Indianness.md"
+      ]
+    },
+    "George Chambers": {
+      "roles": [
+        "Former Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Performing-politics-and-Indianness.md"
+      ]
+    },
+    "Keith Rowley": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-02_Performing-politics-and-Indianness.md"
       ]
     }
   }
