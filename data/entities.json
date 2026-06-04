@@ -2108,6 +2108,72 @@
       "articles": [
         "Articles/2026-06-04_Family-returns-from-airport-to-find-home-in-flames.md"
       ]
+    },
+    "Fareeda Balgobin": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+          "title": "Fareeda charged in alleged 7-year abuse, kidnapping case",
+          "date": "2026-06-04"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+      ]
+    },
+    "Joshua Benny": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+          "title": "Fareeda charged in alleged 7-year abuse, kidnapping case",
+          "date": "2026-06-04"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+      ]
+    },
+    "Rohit Sitahal": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+          "title": "Fareeda charged in alleged 7-year abuse, kidnapping case",
+          "date": "2026-06-04"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+      ]
+    },
+    "Lee Lum": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+      ]
+    },
+    "Sabita Basdeo": {
+      "roles": [
+        "Alleged victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+      ]
     }
   }
 }
