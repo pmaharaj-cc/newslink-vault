@@ -438,7 +438,8 @@
         "Articles/2026-05-28_West-laments-PCAs-lack-of-legal-powers.md",
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
-        "Articles/2026-06-03_PNM-vigil-at-Croisee-will-proceed-says-defiant-Beckles.md"
+        "Articles/2026-06-03_PNM-vigil-at-Croisee-will-proceed-says-defiant-Beckles.md",
+        "Articles/2026-06-04_Penny-to-rotate-senators-tomorrow.md"
       ]
     },
     "Roger Alexander": {
@@ -1295,11 +1296,13 @@
     },
     "Janelle John-Bates": {
       "roles": [
-        "Opposition Senator"
+        "Opposition Senator",
+        "Senator"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md"
+        "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md",
+        "Articles/2026-06-04_Penny-to-rotate-senators-tomorrow.md"
       ]
     },
     "Terrence Deyalsingh": {
@@ -2032,6 +2035,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-04_Police-disrupt-PoS-peace-walk.md"
+      ]
+    },
+    "JACK WARNER": {
+      "roles": [
+        "Former Government Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-04_Warner-No-protest-zones-an-attempt-to-muzzle-population.md"
+      ]
+    },
+    "Persad-Bissessar": {
+      "roles": [
+        "Government Official"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-04_Warner-No-protest-zones-an-attempt-to-muzzle-population.md"
       ]
     }
   }
