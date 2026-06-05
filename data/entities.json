@@ -2421,6 +2421,47 @@
       "articles": [
         "Articles/2026-06-05_Disorderly-conduct-charge-for-woman-after-peace-walk.md"
       ]
+    },
+    "Jevon Atiba Sylvester": {
+      "roles": [
+        "Prison Officer"
+      ],
+      "statuses": [
+        {
+          "status": "acquitted",
+          "article": "Articles/2026-06-05_Fatal-love-triangle-ends-in-acquittal.md",
+          "title": "Fatal love triangle ends in acquittal",
+          "date": "2026-06-05"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-05_Fatal-love-triangle-ends-in-acquittal.md"
+      ]
+    },
+    "Dominique Bernard": {
+      "roles": [
+        "Prison Officer"
+      ],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-06-05_Fatal-love-triangle-ends-in-acquittal.md",
+          "title": "Fatal love triangle ends in acquittal",
+          "date": "2026-06-05"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-05_Fatal-love-triangle-ends-in-acquittal.md"
+      ]
+    },
+    "Maria Busby Earle-Caddle": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-05_Fatal-love-triangle-ends-in-acquittal.md"
+      ]
     }
   }
 }
