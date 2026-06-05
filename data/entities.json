@@ -2491,6 +2491,40 @@
       "articles": [
         "Articles/2026-06-05_Dr-Margaret-Satya-Rose-appointed-Opposition-Senator.md"
       ]
+    },
+    "Daoud Mohammed": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-05_Cops-claim-mans-abduction-for-ransom-and-drugs-was-a-ho.md",
+          "title": "Cops claim man's abduction for ransom and drugs was a hoax",
+          "date": "2026-06-05"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-05_Cops-claim-mans-abduction-for-ransom-and-drugs-was-a-ho.md"
+      ]
+    },
+    "Amzard Mohammed": {
+      "roles": [
+        "Relative"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-05_Cops-claim-mans-abduction-for-ransom-and-drugs-was-a-ho.md"
+      ]
+    },
+    "Ramdath": {
+      "roles": [
+        "Acting Sergeant"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-05_Cops-claim-mans-abduction-for-ransom-and-drugs-was-a-ho.md"
+      ]
     }
   }
 }
