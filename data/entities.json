@@ -1089,7 +1089,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md"
+        "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md",
+        "Articles/2026-06-05_Gonzales-PNM-ready-to-fight-SoE-in-court.md"
       ]
     },
     "Barry Padarath": {
@@ -2122,10 +2123,17 @@
           "article": "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
           "title": "Fareeda charged in alleged 7-year abuse, kidnapping case",
           "date": "2026-06-04"
+        },
+        {
+          "status": "Charged",
+          "article": "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md",
+          "title": "Trio to face court in worker abuse case",
+          "date": "2026-06-05"
         }
       ],
       "articles": [
-        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+        "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md"
       ]
     },
     "Joshua Benny": {
@@ -2138,10 +2146,17 @@
           "article": "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
           "title": "Fareeda charged in alleged 7-year abuse, kidnapping case",
           "date": "2026-06-04"
+        },
+        {
+          "status": "Charged",
+          "article": "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md",
+          "title": "Trio to face court in worker abuse case",
+          "date": "2026-06-05"
         }
       ],
       "articles": [
-        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+        "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md"
       ]
     },
     "Rohit Sitahal": {
@@ -2154,10 +2169,17 @@
           "article": "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
           "title": "Fareeda charged in alleged 7-year abuse, kidnapping case",
           "date": "2026-06-04"
+        },
+        {
+          "status": "Charged",
+          "article": "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md",
+          "title": "Trio to face court in worker abuse case",
+          "date": "2026-06-05"
         }
       ],
       "articles": [
-        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+        "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md"
       ]
     },
     "Lee Lum": {
@@ -2166,16 +2188,26 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+        "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md"
       ]
     },
     "Sabita Basdeo": {
       "roles": [
-        "Alleged victim"
+        "Alleged victim",
+        "Domestic worker"
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "status": "Victim",
+          "article": "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md",
+          "title": "Trio to face court in worker abuse case",
+          "date": "2026-06-05"
+        }
+      ],
       "articles": [
-        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md"
+        "Articles/2026-06-04_Fareeda-charged-in-alleged-7-year-abuse-kidnapping-case.md",
+        "Articles/2026-06-05_Trio-to-face-court-in-worker-abuse-case.md"
       ]
     },
     "Alana Ramnath": {
