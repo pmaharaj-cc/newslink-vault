@@ -189,7 +189,8 @@
         "Articles/2026-06-03_TT-wins-UN-Security-Council-seat-with-overwhelming-supp.md",
         "Articles/2026-06-03_Planting-seeds-of-hope-ambition-and-possibility.md",
         "Articles/2026-06-04_Overwhelming-vote-of-support.md",
-        "Articles/2026-06-04_PM-to-review-SoE-with-National-Security-Council.md"
+        "Articles/2026-06-04_PM-to-review-SoE-with-National-Security-Council.md",
+        "Articles/2026-06-04_UN-seat-brings-new-test.md"
       ]
     },
     "Kaia Sealy": {
@@ -2299,6 +2300,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-04_Stefan-Roach-Finding-purpose-through-music.md"
+      ]
+    },
+    "Sean Sobers": {
+      "roles": [
+        "Foreign and Caricom Affairs Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-04_UN-seat-brings-new-test.md"
       ]
     }
   }
