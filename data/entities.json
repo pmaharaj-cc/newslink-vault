@@ -1301,12 +1301,14 @@
     "Janelle John-Bates": {
       "roles": [
         "Opposition Senator",
-        "Senator"
+        "Senator",
+        "Former Senator"
       ],
       "statuses": [],
       "articles": [
         "Articles/2026-05-31_Al-Rawi-fires-back-after-Nizam-demands-LATT-probe.md",
-        "Articles/2026-06-04_Penny-to-rotate-senators-tomorrow.md"
+        "Articles/2026-06-04_Penny-to-rotate-senators-tomorrow.md",
+        "Articles/2026-06-05_Dr-Margaret-Satya-Rose-appointed-Opposition-Senator.md"
       ]
     },
     "Terrence Deyalsingh": {
@@ -2461,6 +2463,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-05_Fatal-love-triangle-ends-in-acquittal.md"
+      ]
+    },
+    "Margaret Satya Rose": {
+      "roles": [
+        "Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-05_Dr-Margaret-Satya-Rose-appointed-Opposition-Senator.md"
+      ]
+    },
+    "Sajiv Boodhu": {
+      "roles": [
+        "Senator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-05_Dr-Margaret-Satya-Rose-appointed-Opposition-Senator.md"
+      ]
+    },
+    "Pennelope Beckles-Robinson": {
+      "roles": [
+        "Leader of the Opposition"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-05_Dr-Margaret-Satya-Rose-appointed-Opposition-Senator.md"
       ]
     }
   }
