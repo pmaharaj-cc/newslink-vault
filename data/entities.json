@@ -191,7 +191,9 @@
         "Articles/2026-06-04_Overwhelming-vote-of-support.md",
         "Articles/2026-06-04_PM-to-review-SoE-with-National-Security-Council.md",
         "Articles/2026-06-04_UN-seat-brings-new-test.md",
-        "Articles/2026-06-05_Oxy-enters-TT-energy-sector.md"
+        "Articles/2026-06-05_Oxy-enters-TT-energy-sector.md",
+        "Articles/2026-06-07_Wage-boost-wins-business-support.md",
+        "Articles/2026-06-07_Sturge-backs-SoE-extension.md"
       ]
     },
     "Kaia Sealy": {
@@ -387,7 +389,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md"
+        "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md",
+        "Articles/2026-06-07_Sturge-backs-SoE-extension.md"
       ]
     },
     "Jearlean John": {
@@ -2553,6 +2556,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-06_Alis-new-film-a-love-story-amid-Indias-partition.md"
+      ]
+    },
+    "Baldath Maharaj": {
+      "roles": [
+        "President of the Chaguanas Chamber of Industry and Commerce"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-07_Wage-boost-wins-business-support.md"
       ]
     }
   }
