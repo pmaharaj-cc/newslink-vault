@@ -1998,11 +1998,13 @@
     },
     "Grant": {
       "roles": [
-        "Inspector"
+        "Inspector",
+        "Police Constable"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-03_One-of-missing-police-station-guns-recovered-3-held.md"
+        "Articles/2026-06-03_One-of-missing-police-station-guns-recovered-3-held.md",
+        "Articles/2026-06-08_Soldier-arrested-for-allegedly-cursing-police-officer.md"
       ]
     },
     "Khan": {

@@ -3,14 +3,14 @@ title: "Dad in tears after autopsy on daughter Mercedez"
 date_reported: 2026-06-08
 date_effective: null
 source: trinidadexpress.com
-url: https://trinidadexpress.com/news/local/dad-in-tears-after-autopsy-on-daughter-mercedes/article_abb0d45f-71be-4b39-a6ed-7f2d397a64d4.html
+url: https://trinidadexpress.com/news/local/dad-in-tears-after-autopsy-on-daughter-mercedez/article_abb0d45f-71be-4b39-a6ed-7f2d397a64d4.html
 authors: [Digital Desk]
 tags: [crime]
 sports_crossover: false
 ---
 
 # Dad in tears after autopsy on daughter Mercedez
-> 2026-06-08 · trinidadexpress.com · [link](https://trinidadexpress.com/news/local/dad-in-tears-after-autopsy-on-daughter-mercedes/article_abb0d45f-71be-4b39-a6ed-7f2d397a64d4.html)
+> 2026-06-08 · trinidadexpress.com · [link](https://trinidadexpress.com/news/local/dad-in-tears-after-autopsy-on-daughter-mercedez/article_abb0d45f-71be-4b39-a6ed-7f2d397a64d4.html)
 
 **By:** [[Authors/Digital Desk|Digital Desk]]
 
@@ -26,10 +26,6 @@ sports_crossover: false
 ## Topics
 [[Topics/crime|crime]]
 
-## State Changes
-
-- [[Mercedez Layne]]: **alive** → **deceased** _death_ _(effective 2026-06-07)_
-
 ## Relationships
 
 - [[Ronald Cabrera]] **father of** [[Mercedez Layne]]
@@ -42,4 +38,4 @@ sports_crossover: false
 ---
 ## Sentiment
 
-- [[Ronald Cabrera]] → [[justice system]]: 🔴 **negative** — _comment on punishment not being able to bring back his daughter_
+- [[Ronald Cabrera]] → [[justice system]]: 🔴 **negative** — _questioning the effectiveness of punishment_
