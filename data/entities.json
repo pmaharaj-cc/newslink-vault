@@ -1764,11 +1764,13 @@
     },
     "Emmanuel Pierre": {
       "roles": [
-        "Priest"
+        "Priest",
+        "Parish Priest"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-02_Sacred-treasures-stolen-from-St-Marys-Church.md"
+        "Articles/2026-06-02_Sacred-treasures-stolen-from-St-Marys-Church.md",
+        "Articles/2026-06-08_Leave-sacred-artefacts-alone-says-IRO-head.md"
       ]
     },
     "Jahrael Akeel Tafari Hunte": {
@@ -2565,6 +2567,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-07_Wage-boost-wins-business-support.md"
+      ]
+    },
+    "Patsy King-Roach": {
+      "roles": [
+        "Wife"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-08_Wife-Delayed-ambulance-cost-my-husband-his-life.md"
+      ]
+    },
+    "Densil King-Roach": {
+      "roles": [
+        "Husband"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-08_Wife-Delayed-ambulance-cost-my-husband-his-life.md"
+      ]
+    },
+    "Ellis Burris": {
+      "roles": [
+        "President of Inter-Religious Organisation"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-08_Leave-sacred-artefacts-alone-says-IRO-head.md"
       ]
     }
   }
