@@ -194,7 +194,8 @@
         "Articles/2026-06-05_Oxy-enters-TT-energy-sector.md",
         "Articles/2026-06-07_Wage-boost-wins-business-support.md",
         "Articles/2026-06-07_Sturge-backs-SoE-extension.md",
-        "Articles/2026-06-08_TT-signs-offshore-exploration-deal-with-ExxonMobil-Occi.md"
+        "Articles/2026-06-08_TT-signs-offshore-exploration-deal-with-ExxonMobil-Occi.md",
+        "Articles/2026-06-09_Heerah-Dont-extend-SoE-without-clear-objectives.md"
       ]
     },
     "Kaia Sealy": {
@@ -2614,11 +2615,19 @@
       "roles": [
         "Victim"
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-06-09_From-Mariah-to-Mercedez-TTs-shame.md",
+          "title": "From Mariah to Mercedez: T&T's shame",
+          "date": "2026-06-09"
+        }
+      ],
       "articles": [
         "Articles/2026-06-08_Dad-in-tears-after-autopsy-on-daughter-Mercedez.md",
         "Articles/2026-06-08_Sick-behaviour-haunting-our-land.md",
-        "Articles/2026-06-09_Call-for-PH-taxi-drivers-to-be-legalised.md"
+        "Articles/2026-06-09_Call-for-PH-taxi-drivers-to-be-legalised.md",
+        "Articles/2026-06-09_From-Mariah-to-Mercedez-TTs-shame.md"
       ]
     },
     "John Kenneth Galbraith": {
@@ -2707,6 +2716,40 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-09_Fishermen-get-reprieve.md"
+      ]
+    },
+    "Garvin Heerah": {
+      "roles": [
+        "Regional security consultant"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-09_Heerah-Dont-extend-SoE-without-clear-objectives.md"
+      ]
+    },
+    "Mariah Seenath": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [
+        {
+          "status": "deceased",
+          "article": "Articles/2026-06-09_From-Mariah-to-Mercedez-TTs-shame.md",
+          "title": "From Mariah to Mercedez: T&T's shame",
+          "date": "2026-06-09"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-09_From-Mariah-to-Mercedez-TTs-shame.md"
+      ]
+    },
+    "Marlon Seenath": {
+      "roles": [
+        "Father of Mariah"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-09_From-Mariah-to-Mercedez-TTs-shame.md"
       ]
     }
   }
