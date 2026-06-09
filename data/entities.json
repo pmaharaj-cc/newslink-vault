@@ -1920,11 +1920,13 @@
     },
     "Brenton Knights": {
       "roles": [
-        "President of Route Two Taxi Association"
+        "President of Route Two Taxi Association",
+        "Route 2 Maxi-Taxi Association president"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-03_Maxi-taxi-strike-ends-on-day-two.md"
+        "Articles/2026-06-03_Maxi-taxi-strike-ends-on-day-two.md",
+        "Articles/2026-06-09_Call-for-PH-taxi-drivers-to-be-legalised.md"
       ]
     },
     "Rusimine Riaz": {
@@ -2615,7 +2617,8 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-08_Dad-in-tears-after-autopsy-on-daughter-Mercedez.md",
-        "Articles/2026-06-08_Sick-behaviour-haunting-our-land.md"
+        "Articles/2026-06-08_Sick-behaviour-haunting-our-land.md",
+        "Articles/2026-06-09_Call-for-PH-taxi-drivers-to-be-legalised.md"
       ]
     },
     "John Kenneth Galbraith": {
@@ -2659,6 +2662,51 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-08_TT-signs-offshore-exploration-deal-with-ExxonMobil-Occi.md"
+      ]
+    },
+    "Andrea Bharatt": {
+      "roles": [
+        "court clerk"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-09_Call-for-PH-taxi-drivers-to-be-legalised.md"
+      ]
+    },
+    "Kern Warner": {
+      "roles": [
+        "PH taxi driver"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-09_Call-for-PH-taxi-drivers-to-be-legalised.md"
+      ]
+    },
+    "Samuel Blades": {
+      "roles": [
+        "taxi driver"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-09_Call-for-PH-taxi-drivers-to-be-legalised.md"
+      ]
+    },
+    "Ravi Ratiram": {
+      "roles": [
+        "Agriculture and Fisheries Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-09_Fishermen-get-reprieve.md"
+      ]
+    },
+    "Nirmalla Debysingh": {
+      "roles": [
+        "CEO of Namdevco"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-09_Fishermen-get-reprieve.md"
       ]
     }
   }
