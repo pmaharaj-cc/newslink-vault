@@ -29,6 +29,7 @@ tags: [criminal-record]
 - **charged** — [[Articles/2026-05-31_PM-Sick-and-evil|PM: Sick and evil]] _(2026-05-31)_
 - **charged** — [[Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police|Benjamin: No info on gangs uniting to attack police]] _(2026-06-01)_
 - **charged** — [[Articles/2026-06-01_Stuart-Bring-back-mother-of-nation|Stuart: Bring back 'mother of nation']] _(2026-06-01)_
+- **charged** — [[Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport|Kaia Sealy arrested on arrival at Piarco Airport]] _(2026-06-17)_
 
 ## Articles
 
@@ -53,3 +54,4 @@ tags: [criminal-record]
 - [[Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia|Activists call for June 5 shutdown for Kaia]]
 - [[Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police|Benjamin No info on gangs uniting to attack police]]
 - [[Articles/2026-06-01_Stuart-Bring-back-mother-of-nation|Stuart Bring back mother of nation]]
+- [[Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport|Kaia Sealy arrested on arrival at Piarco Airport]]

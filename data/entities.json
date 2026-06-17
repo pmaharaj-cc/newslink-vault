@@ -293,6 +293,12 @@
           "article": "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
           "title": "Stuart: Bring back 'mother of nation'",
           "date": "2026-06-01"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md",
+          "title": "Kaia Sealy arrested on arrival at Piarco Airport",
+          "date": "2026-06-17"
         }
       ],
       "articles": [
@@ -316,7 +322,8 @@
         "Articles/2026-05-31_PM-Sick-and-evil.md",
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
         "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
-        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md"
+        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
+        "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md"
       ]
     },
     "Joshua Samaroo": {
@@ -348,7 +355,8 @@
         "Articles/2026-05-31_PM-Sick-and-evil.md",
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
         "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
-        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md"
+        "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
+        "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -672,11 +680,13 @@
     },
     "Fayola Sandy": {
       "roles": [
-        "Defence Attorney"
+        "Defence Attorney",
+        "Attorney"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-05-28_Kaia-willing-to-return.md"
+        "Articles/2026-05-28_Kaia-willing-to-return.md",
+        "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md"
       ]
     },
     "Alyssa Phillip": {
