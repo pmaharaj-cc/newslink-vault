@@ -195,7 +195,9 @@
         "Articles/2026-06-07_Wage-boost-wins-business-support.md",
         "Articles/2026-06-07_Sturge-backs-SoE-extension.md",
         "Articles/2026-06-08_TT-signs-offshore-exploration-deal-with-ExxonMobil-Occi.md",
-        "Articles/2026-06-09_Heerah-Dont-extend-SoE-without-clear-objectives.md"
+        "Articles/2026-06-09_Heerah-Dont-extend-SoE-without-clear-objectives.md",
+        "Articles/2026-06-22_Shamfa-to-Barry-Stop-it.md",
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
       ]
     },
     "Kaia Sealy": {
@@ -406,12 +408,14 @@
     "Jearlean John": {
       "roles": [
         "Minister of Works and Infrastructure",
-        "Works Minister"
+        "Works Minister",
+        "Minister of Works and Infrastructure, Acting Prime Minister"
       ],
       "statuses": [],
       "articles": [
         "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md",
-        "Articles/2026-06-02_Minister-Littering-still-driving-flood-crisis.md"
+        "Articles/2026-06-02_Minister-Littering-still-driving-flood-crisis.md",
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
       ]
     },
     "Saddam Hosein": {
@@ -454,7 +458,8 @@
         "Articles/2026-05-29_Beckles-on-the-brink-of-a-policing-state.md",
         "Articles/2026-05-30_Penny-Govt-trying-to-justify-another-SoE.md",
         "Articles/2026-06-03_PNM-vigil-at-Croisee-will-proceed-says-defiant-Beckles.md",
-        "Articles/2026-06-04_Penny-to-rotate-senators-tomorrow.md"
+        "Articles/2026-06-04_Penny-to-rotate-senators-tomorrow.md",
+        "Articles/2026-06-22_Shamfa-to-Barry-Stop-it.md"
       ]
     },
     "Roger Alexander": {
@@ -1103,12 +1108,14 @@
     },
     "Marvin Gonzales": {
       "roles": [
-        "MP"
+        "MP",
+        "Opposition Chief Whip"
       ],
       "statuses": [],
       "articles": [
         "Articles/2026-05-30_Marvin-Govt-returned-criminals-to-WASA.md",
-        "Articles/2026-06-05_Gonzales-PNM-ready-to-fight-SoE-in-court.md"
+        "Articles/2026-06-05_Gonzales-PNM-ready-to-fight-SoE-in-court.md",
+        "Articles/2026-06-22_Shamfa-to-Barry-Stop-it.md"
       ]
     },
     "Barry Padarath": {
@@ -1851,11 +1858,13 @@
     },
     "Keith Rowley": {
       "roles": [
-        "Prime Minister"
+        "Prime Minister",
+        "Former Prime Minister"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-02_Performing-politics-and-Indianness.md"
+        "Articles/2026-06-02_Performing-politics-and-Indianness.md",
+        "Articles/2026-06-22_Shamfa-to-Barry-Stop-it.md"
       ]
     },
     "Michael Callan": {
@@ -2779,6 +2788,150 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-22_Get-ready-for-a-taste-of-Carenage.md"
+      ]
+    },
+    "Warren Small": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Man-acquitted-of-2020-double-murder-shot-dead-weeks-aft.md"
+      ]
+    },
+    "Nalini Singh": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Man-acquitted-of-2020-double-murder-shot-dead-weeks-aft.md"
+      ]
+    },
+    "Colin Selvon": {
+      "roles": [
+        "Defence Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Man-acquitted-of-2020-double-murder-shot-dead-weeks-aft.md"
+      ]
+    },
+    "Anastasia Weekes": {
+      "roles": [
+        "Defence Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Man-acquitted-of-2020-double-murder-shot-dead-weeks-aft.md"
+      ]
+    },
+    "Shamfa Cudjoe-Lewis": {
+      "roles": [
+        "Political Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Shamfa-to-Barry-Stop-it.md"
+      ]
+    },
+    "Michael L Ahamad": {
+      "roles": [
+        "Brother-in-law"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Richard Ahamad": {
+      "roles": [
+        "Son"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Sally Savitri Ahamad": {
+      "roles": [
+        "Wife"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Karen Ahamad Tsuda": {
+      "roles": [
+        "Daughter"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Merle Ahamad": {
+      "roles": [
+        "Brother"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Marlene Dean": {
+      "roles": [
+        "Sister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Anne Marie Ahamad": {
+      "roles": [
+        "Sister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Anderson Ahamad": {
+      "roles": [
+        "Brother"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Judy Ramsamooj": {
+      "roles": [
+        "Sister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Harold Ahamad": {
+      "roles": [
+        "Brother"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Wattie Newton": {
+      "roles": [
+        "Brother-in-law"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
       ]
     }
   }
