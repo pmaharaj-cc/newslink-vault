@@ -251,6 +251,28 @@ def load_processed():
         return set()
 
 
+def load_vault_urls():
+    urls = set()
+    try:
+        items = gh(f"contents/Articles?ref={BRANCH}")
+        if not isinstance(items, list):
+            return urls
+        for item in items:
+            if not item["name"].endswith(".md"):
+                continue
+            try:
+                fd = gh(f"contents/Articles/{item['name']}")
+                content = base64.b64decode(fd["content"].replace("\n", "")).decode()
+                m = re.search(r"^url: (.+)$", content, re.MULTILINE)
+                if m:
+                    urls.add(m.group(1).strip())
+            except Exception:
+                continue
+    except Exception as e:
+        print(f"warn: could not scan Articles/: {e}")
+    return urls
+
+
 def load_entities():
     try:
         data = gh("contents/data/entities.json")
@@ -290,10 +312,16 @@ def main():
 
     print(f"Catch-up since {cutoff_date()} (max {MAX_PROCESS} articles)")
     processed = load_processed()
+    vault_urls = load_vault_urls()
     entities = load_entities()
     candidates = fetch_sitemap_urls()
-    pending = [a for a in candidates if a["url"] not in processed]
-    print(f"Sitemap: {len(candidates)} recent, {len(pending)} unprocessed")
+    # Vault article files are source of truth — ignore ghost entries in processed.json
+    pending = [a for a in candidates if a["url"] not in vault_urls]
+    ghosts = processed - vault_urls
+    print(f"Sitemap: {len(candidates)} recent, {len(pending)} missing from vault")
+    if ghosts:
+        print(f"Cleaning {len(ghosts)} ghost processed URLs (no article file)")
+    processed = vault_urls
 
     if not pending:
         print("Nothing to catch up.")
@@ -350,18 +378,23 @@ def main():
         print(f"  OK — {d.get('title', 'Untitled')[:60]}")
         time.sleep(2)
 
-    if not extracted:
-        print("No articles extracted.")
-        files["data/processed.json"] = json.dumps(sorted(processed), indent=2)
-    else:
+    if extracted:
         for date, entries in entries_by_date.items():
             merged = list_articles_for_date(date, entries)
             files[f"Daily/{date}.md"] = build_daily_note(date, merged)
-        files["data/processed.json"] = json.dumps(sorted(processed), indent=2)
         files["data/entities.json"] = json.dumps(entities, indent=2)
         for name, data in entities["People"].items():
             if data.get("statuses"):
                 files[f"People/{safe(name)}.md"] = build_person_stub(name, data)
+    elif not ghosts:
+        print("No articles extracted.")
+        return
+
+    files["data/processed.json"] = json.dumps(sorted(processed), indent=2)
+
+    if not files:
+        print("Nothing to push.")
+        return
 
     print(f"\nPushing {len(files)} files ({extracted} new articles)...")
     ref = gh(f"git/refs/heads/{BRANCH}")

@@ -371,7 +371,6 @@ async function runPipeline(env) {
     const a = batch[i];
     const fetched = await fetchArticleText(a.url);
     if (!fetched) {
-      processed.add(a.url);
       stats.skipped++;
       continue;
     }
