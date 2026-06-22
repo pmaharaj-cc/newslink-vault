@@ -2,3 +2,7 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+.env
+.env.*
+local/
+mcps/

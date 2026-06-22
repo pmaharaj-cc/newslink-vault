@@ -1,0 +1,29 @@
+name: Catch-up Articles
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_process:
+        description: "Max articles to process this run"
+        required: false
+        default: "25"
+      lookback_days:
+        description: "Days to look back in sitemap"
+        required: false
+        default: "21"
+
+jobs:
+  catchup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run catch-up
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          MAX_PROCESS: ${{ inputs.max_process }}
+          LOOKBACK_DAYS: ${{ inputs.lookback_days }}
+        run: python catchup.py
