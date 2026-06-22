@@ -540,7 +540,8 @@
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
         "Articles/2026-05-30_The-DPP-and-the-court-of-public-opinion.md",
         "Articles/2026-05-31_Kamla-We-are-the-fulfilment-of-the-jahajis-dream.md",
-        "Articles/2026-06-03_TTPS-gets-more-buses-to-help-stranded-passengers.md"
+        "Articles/2026-06-03_TTPS-gets-more-buses-to-help-stranded-passengers.md",
+        "Articles/2026-06-22_Put-down-the-gun.md"
       ]
     },
     "Sheldon Lewis": {
@@ -2051,11 +2052,13 @@
     },
     "Farley Augustine": {
       "roles": [
-        "THA Chief Secretary"
+        "THA Chief Secretary",
+        "Chief Secretary"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-03_Planting-seeds-of-hope-ambition-and-possibility.md"
+        "Articles/2026-06-03_Planting-seeds-of-hope-ambition-and-possibility.md",
+        "Articles/2026-06-22_Tourism-gloom-ahead-of-todays-THA-budget.md"
       ]
     },
     "Westmin James": {
@@ -2932,6 +2935,42 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+      ]
+    },
+    "Reginald MacLean": {
+      "roles": [
+        "Head of the Tobago Hotel and Tourism Association"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Tourism-gloom-ahead-of-todays-THA-budget.md"
+      ]
+    },
+    "Zorisha Hackett": {
+      "roles": [
+        "Secretary of Tourism"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Tourism-gloom-ahead-of-todays-THA-budget.md"
+      ]
+    },
+    "Jamir Nazir": {
+      "roles": [
+        "Writer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_AI-cloud-over-writing-prize.md"
+      ]
+    },
+    "Kevin Jared Hosein": {
+      "roles": [
+        "Author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_AI-cloud-over-writing-prize.md"
       ]
     }
   }
