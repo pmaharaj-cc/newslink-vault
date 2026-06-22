@@ -132,7 +132,7 @@ async function extractWithGroq(text, apiKey) {
   const body = JSON.stringify({
     model: GROQ_MODEL,
     temperature: 0,
-    max_tokens: 1024,
+      max_tokens: 2048,
     messages: [{ role: "system", content: SYSTEM_PROMPT }, { role: "user", content: text }]
   });
   let data;
