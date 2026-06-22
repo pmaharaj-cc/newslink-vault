@@ -339,7 +339,7 @@ async function pushToGitHub(files, token, message) {
 
 async function runPipeline(env) {
   const today = todayTT();
-  const stats = { today, candidates: 0, unprocessed: 0, extracted: 0, skipped: 0, failed: 0, dates: [] };
+  const stats = { today, candidates: 0, unprocessed: 0, extracted: 0, skipped: 0, failed: 0, dates: [], lastError: null };
   console.log(`[${today}] started`);
   const base = `https://api.github.com/repos/${GH_REPO}`;
   const h = ghH(env.GITHUB_TOKEN);
@@ -383,6 +383,7 @@ async function runPipeline(env) {
     } catch (e) {
       console.log(`failed: ${e.message}`);
       stats.failed++;
+      stats.lastError = e.message;
     }
     if (i + 1 < batch.length) await new Promise(r => setTimeout(r, 2000));
   }
