@@ -2011,7 +2011,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-03_13-bullets-fired-at-schoolboy-in-Princes-Town.md"
+        "Articles/2026-06-03_13-bullets-fired-at-schoolboy-in-Princes-Town.md",
+        "Articles/2026-06-22_Men-with-cutlasses-cart-off-with-grocery-safe-with-4000.md"
       ]
     },
     "Bhagwandeen": {
@@ -3072,6 +3073,74 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-21_Mourning-a-champion-for-the-environment.md"
+      ]
+    },
+    "Nandoo": {
+      "roles": [
+        "Corporal"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Men-with-cutlasses-cart-off-with-grocery-safe-with-4000.md"
+      ]
+    },
+    "Seth": {
+      "roles": [
+        "Corporal"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Men-with-cutlasses-cart-off-with-grocery-safe-with-4000.md"
+      ]
+    },
+    "Keir Starmer": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-21_Assassination-as-State-Policy.md"
+      ]
+    },
+    "Roman Lavrynovich": {
+      "roles": [
+        "Arsonist"
+      ],
+      "statuses": [
+        {
+          "status": "convicted",
+          "article": "Articles/2026-06-21_Assassination-as-State-Policy.md",
+          "title": "Assassination as State Policy",
+          "date": "2026-06-21"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-21_Assassination-as-State-Policy.md"
+      ]
+    },
+    "Stanislav Carpiuk": {
+      "roles": [
+        "Arsonist"
+      ],
+      "statuses": [
+        {
+          "status": "convicted",
+          "article": "Articles/2026-06-21_Assassination-as-State-Policy.md",
+          "title": "Assassination as State Policy",
+          "date": "2026-06-21"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-21_Assassination-as-State-Policy.md"
+      ]
+    },
+    "Evgeny Lyukshin": {
+      "roles": [
+        "Diplomat"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-21_Assassination-as-State-Policy.md"
       ]
     }
   }
