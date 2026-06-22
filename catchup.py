@@ -4,6 +4,7 @@ Run via GitHub Actions or locally with GITHUB_TOKEN and GROQ_API_KEY set.
 """
 import json, base64, re, time, os, urllib.request
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GROQ_KEY = os.environ.get("GROQ_API_KEY", "")
@@ -252,7 +253,23 @@ def load_processed():
 
 
 def load_vault_urls():
+    """Prefer local checkout (fast); fall back to GitHub API."""
     urls = set()
+    articles_dir = Path("Articles")
+    if articles_dir.is_dir():
+        for path in articles_dir.glob("*.md"):
+            try:
+                for line in path.read_text(encoding="utf-8").splitlines():
+                    if line.startswith("url: "):
+                        u = line.split("url: ", 1)[1].strip()
+                        if u:
+                            urls.add(u)
+                        break
+            except Exception:
+                continue
+        print(f"Scanned {len(urls)} URLs from local Articles/")
+        return urls
+
     try:
         items = gh(f"contents/Articles?ref={BRANCH}")
         if not isinstance(items, list):
@@ -286,10 +303,25 @@ def load_entities():
 
 def list_articles_for_date(date, new_entries):
     merged = {e["filename"]: e for e in new_entries}
+    prefix = f"{date}_"
+    articles_dir = Path("Articles")
+    if articles_dir.is_dir():
+        for path in sorted(articles_dir.glob(f"{prefix}*.md")):
+            fn = f"Articles/{path.name}"
+            if fn in merged:
+                continue
+            try:
+                content = path.read_text(encoding="utf-8")
+                title_m = re.search(r'^title: "(.+)"$', content, re.MULTILINE)
+                title = title_m.group(1) if title_m else path.stem[len(date) + 1:].replace("-", " ")
+                merged[fn] = {"filename": fn, "title": title}
+            except Exception:
+                continue
+        return list(merged.values())
+
     try:
         items = gh(f"contents/Articles?ref={BRANCH}")
         if isinstance(items, list):
-            prefix = f"{date}_"
             for item in items:
                 if not item["name"].startswith(prefix):
                     continue
