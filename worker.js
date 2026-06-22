@@ -11,7 +11,7 @@ const GH_BRANCH = "main";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
 const LOOKBACK_DAYS = 14;
 const MAX_FETCH = 40;
-const MAX_PROCESS = 4;
+const MAX_PROCESS = 3;
 const GROQ_DELAY_MS = 12000;
 const TEXT_LIMIT = 1600;
 
@@ -316,11 +316,8 @@ async function listArticleEntriesForDate(base, h, date, newEntries) {
         if (!item.name.startsWith(prefix)) continue;
         const filename = `Articles/${item.name}`;
         if (merged.has(filename)) continue;
-        const content = await ghGetFile(base, h, filename);
-        if (!content) continue;
-        const titleM = content.match(/^title: "(.+)"$/m);
         merged.set(filename, {
-          d: { title: titleM ? titleM[1].replace(/'/g, '"') : item.name.replace(prefix, "").replace(/-/g, " ") },
+          d: { title: item.name.slice(prefix.length).replace(/-/g, " ") },
           filename
         });
       }
