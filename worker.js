@@ -11,7 +11,8 @@ const GH_BRANCH = "main";
 const TT_OFFSET_MS = -4 * 60 * 60 * 1000;
 const LOOKBACK_DAYS = 14;
 const MAX_FETCH = 40;
-const MAX_PROCESS = 8;
+const MAX_PROCESS = 4;
+const GROQ_DELAY_MS = 12000;
 const TEXT_LIMIT = 1600;
 
 const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. One object per article. Fields:
@@ -128,17 +129,34 @@ async function fetchArticleText(url) {
 }
 
 async function extractWithGroq(text, apiKey) {
-  const res = await fetch(GROQ_URL, {
-    method: "POST",
-    headers: { "Authorization": `Bearer ${apiKey}`, "Content-Type": "application/json" },
-    body: JSON.stringify({
-      model: GROQ_MODEL,
-      temperature: 0,
-      max_tokens: 1024,
-      messages: [{ role: "system", content: SYSTEM_PROMPT }, { role: "user", content: text }]
-    })
+  const body = JSON.stringify({
+    model: GROQ_MODEL,
+    temperature: 0,
+    max_tokens: 1024,
+    messages: [{ role: "system", content: SYSTEM_PROMPT }, { role: "user", content: text }]
   });
-  const data = await safeJSON(res, "Groq");
+  let data;
+  for (let attempt = 0; attempt < 4; attempt++) {
+    const res = await fetch(GROQ_URL, {
+      method: "POST",
+      headers: { "Authorization": `Bearer ${apiKey}`, "Content-Type": "application/json" },
+      body
+    });
+    const raw = await res.text();
+    if (res.status === 429 && attempt < 3) {
+      const waitM = raw.match(/try again in ([\d.]+)s/i);
+      const waitMs = Math.ceil((parseFloat(waitM?.[1] || 12) + 1) * 1000);
+      await new Promise(r => setTimeout(r, waitMs));
+      continue;
+    }
+    if (!res.ok) throw new Error(`Groq HTTP ${res.status}: ${raw.slice(0, 300)}`);
+    try {
+      data = JSON.parse(raw);
+    } catch (e) {
+      throw new Error(`Groq bad JSON: ${raw.slice(0, 200)}`);
+    }
+    break;
+  }
   const raw = data.choices?.[0]?.message?.content || "[]";
   const cleaned = raw.replace(/^```json\s*/, "").replace(/\s*```$/, "").trim();
   try {
@@ -385,7 +403,7 @@ async function runPipeline(env) {
       stats.failed++;
       stats.lastError = e.message;
     }
-    if (i + 1 < batch.length) await new Promise(r => setTimeout(r, 2000));
+    if (i + 1 < batch.length) await new Promise(r => setTimeout(r, GROQ_DELAY_MS));
   }
   stats.extracted = extracted.length;
   if (!extracted.length) return stats;

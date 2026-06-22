@@ -15,7 +15,8 @@ GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = os.environ.get("GROQ_MODEL", "qwen/qwen3.6-27b")
 SITEMAP = "https://trinidadexpress.com/tncms/sitemap/news.xml"
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "21"))
-MAX_PROCESS = int(os.environ.get("MAX_PROCESS", "25"))
+MAX_PROCESS = int(os.environ.get("MAX_PROCESS", "4"))
+GROQ_DELAY_SEC = int(os.environ.get("GROQ_DELAY_SEC", "12"))
 TEXT_LIMIT = 1600
 TT = timezone(timedelta(hours=-4))
 
@@ -121,14 +122,20 @@ def groq_extract(text):
         "model": GROQ_MODEL, "temperature": 0, "max_tokens": 1024,
         "messages": [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": text}]
     }).encode()
-    req = urllib.request.Request(GROQ_URL, data=payload,
-        headers={"Authorization": f"Bearer {GROQ_KEY}", "Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=45) as r:
-            data = json.loads(r.read())
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", errors="ignore")[:300]
-        raise RuntimeError(f"Groq HTTP {e.code}: {body}") from e
+    for attempt in range(4):
+        req = urllib.request.Request(GROQ_URL, data=payload,
+            headers={"Authorization": f"Bearer {GROQ_KEY}", "Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=45) as r:
+                data = json.loads(r.read())
+            break
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", errors="ignore")
+            if e.code == 429 and attempt < 3:
+                wait_m = re.search(r"try again in ([\d.]+)s", body, re.I)
+                time.sleep(float(wait_m.group(1)) + 1 if wait_m else 12)
+                continue
+            raise RuntimeError(f"Groq HTTP {e.code}: {body[:300]}") from e
     raw = data["choices"][0]["message"]["content"]
     cleaned = re.sub(r'^```json\s*', '', re.sub(r'\s*```$', '', raw.strip())).strip()
     parsed = json.loads(cleaned)
@@ -411,7 +418,7 @@ def main():
                         "title": d.get("title", "Article"), "date": date
                     })
         print(f"  OK — {d.get('title', 'Untitled')[:60]}")
-        time.sleep(2)
+        time.sleep(GROQ_DELAY_SEC)
 
     if extracted:
         for date, entries in entries_by_date.items():
