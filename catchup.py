@@ -2,7 +2,7 @@
 NewsLink Catch-up — process unprocessed sitemap articles (multi-day lookback).
 Run via GitHub Actions or locally with GITHUB_TOKEN and GROQ_API_KEY set.
 """
-import json, base64, re, time, os, urllib.request
+import json, base64, re, time, os, urllib.request, urllib.error
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -12,7 +12,7 @@ REPO = "pmaharaj-cc/newslink-vault"
 BRANCH = "main"
 GH = f"https://api.github.com/repos/{REPO}"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "qwen/qwen3.6-27b")
 SITEMAP = "https://trinidadexpress.com/tncms/sitemap/news.xml"
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "21"))
 MAX_PROCESS = int(os.environ.get("MAX_PROCESS", "25"))
@@ -123,8 +123,12 @@ def groq_extract(text):
     }).encode()
     req = urllib.request.Request(GROQ_URL, data=payload,
         headers={"Authorization": f"Bearer {GROQ_KEY}", "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=45) as r:
-        data = json.loads(r.read())
+    try:
+        with urllib.request.urlopen(req, timeout=45) as r:
+            data = json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="ignore")[:300]
+        raise RuntimeError(f"Groq HTTP {e.code}: {body}") from e
     raw = data["choices"][0]["message"]["content"]
     cleaned = re.sub(r'^```json\s*', '', re.sub(r'\s*```$', '', raw.strip())).strip()
     parsed = json.loads(cleaned)
@@ -368,7 +372,6 @@ def main():
         print(f"[{i+1}/{len(batch)}] {article['url']}")
         fetched = fetch_article_text(article["url"])
         if not fetched:
-            processed.add(article["url"])
             print("  skip (no text)")
             continue
         author_hint = f"Byline: {fetched['html_author']}\n" if fetched.get("html_author") else ""
