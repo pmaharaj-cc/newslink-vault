@@ -423,7 +423,7 @@ def main():
                 files[f"People/{safe(name)}.md"] = build_person_stub(name, data)
     elif not ghosts:
         print("No articles extracted.")
-        return
+        raise SystemExit(1)
 
     files["data/processed.json"] = json.dumps(sorted(processed), indent=2)
 

@@ -14,8 +14,9 @@ The live worker URL: `https://newslink-vault.proger-yung.workers.dev`
 | Symptom | Fix |
 |--------|-----|
 | Worker `401 Bad credentials` | Regenerate GitHub PAT → update Cloudflare `GITHUB_TOKEN` |
-| Catchup `Groq HTTP 403` | Groq blocked `llama-3.3-70b-versatile` for dev tier (Jun 2026). Code now uses `qwen/qwen3.6-27b` — redeploy worker + re-run catchup |
-| Catchup `0 articles` but URLs pending | Check Actions log for Groq/GitHub errors; verify secrets above |
+| Catchup `Groq HTTP 403: error code: 1010` | Cloudflare WAF blocks GitHub Actions IPs from `api.groq.com`. **Catch-up workflow cannot call Groq.** Use the Cloudflare worker (after deploy) or run `catchup.py` locally |
+| Catchup `Groq HTTP 403` (model) | Groq deprecated `llama-3.3-70b-versatile` for dev tier (Jun 2026). Code uses `qwen/qwen3.6-27b` — redeploy worker |
+| Catchup `0 articles` but URLs pending | See rows above; worker `GITHUB_TOKEN` must also be valid |
 
 ## Deploy updated worker.js
 
