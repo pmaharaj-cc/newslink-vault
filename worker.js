@@ -136,14 +136,14 @@ async function extractWithGroq(text, apiKey) {
     messages: [{ role: "system", content: SYSTEM_PROMPT }, { role: "user", content: text }]
   });
   let data;
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < 2; attempt++) {
     const res = await fetch(GROQ_URL, {
       method: "POST",
       headers: { "Authorization": `Bearer ${apiKey}`, "Content-Type": "application/json" },
       body
     });
     const raw = await res.text();
-    if (res.status === 429 && attempt < 3) {
+    if (res.status === 429 && attempt < 1) {
       const waitM = raw.match(/try again in ([\d.]+)s/i);
       const waitMs = Math.ceil((parseFloat(waitM?.[1] || 12) + 1) * 1000);
       await new Promise(r => setTimeout(r, waitMs));
@@ -387,6 +387,7 @@ async function runPipeline(env) {
   if (!unprocessed.length) return stats;
 
   const extracted = [];
+  const touchedPeople = new Set();
   const batch = unprocessed.slice(0, MAX_PROCESS);
   for (let i = 0; i < batch.length; i++) {
     const a = batch[i];
@@ -426,6 +427,7 @@ async function runPipeline(env) {
       if (!p.name || authorSet.has(p.name.toLowerCase().trim())) continue;
       if (!entities.People[p.name]) entities.People[p.name] = { roles: [], statuses: [], articles: [] };
       const ep = entities.People[p.name];
+      touchedPeople.add(p.name);
       if (p.role && !ep.roles.includes(p.role)) ep.roles.push(p.role);
       if (!ep.articles.includes(fn)) ep.articles.push(fn);
       if (p.legal_status) {
@@ -444,8 +446,9 @@ async function runPipeline(env) {
   files["data/processed.json"] = JSON.stringify([...processed], null, 2);
   files["data/entities.json"] = JSON.stringify(entities, null, 2);
 
-  for (const [name, data] of Object.entries(entities.People)) {
-    if (data.statuses && data.statuses.length > 0) {
+  for (const name of touchedPeople) {
+    const data = entities.People[name];
+    if (data?.statuses?.length > 0) {
       files[`People/${safe(name)}.md`] = buildPersonStub(name, data);
     }
   }
