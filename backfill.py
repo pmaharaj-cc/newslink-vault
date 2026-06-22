@@ -70,7 +70,7 @@ def fetch_text(url):
         return None
 
 def groq_extract(text):
-    payload = json.dumps({"model": "qwen/qwen3.6-27b", "temperature": 0, "max_tokens": 1024,
+    payload = json.dumps({"model": "openai/gpt-oss-120b", "temperature": 0, "max_tokens": 1024,
         "messages": [{"role": "system", "content": SYSTEM_PROMPT},
                      {"role": "user", "content": text}]}).encode()
     req = urllib.request.Request(GROQ_URL, data=payload,
