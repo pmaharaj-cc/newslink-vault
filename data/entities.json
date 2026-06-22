@@ -203,7 +203,8 @@
     "Kaia Sealy": {
       "roles": [
         "Accused",
-        "Common-law wife of Joshua Samaroo"
+        "Common-law wife of Joshua Samaroo",
+        "Citizen"
       ],
       "statuses": [
         {
@@ -325,12 +326,14 @@
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
         "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
         "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
-        "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md"
+        "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md",
+        "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md"
       ]
     },
     "Joshua Samaroo": {
       "roles": [
-        "Deceased"
+        "Deceased",
+        "Victim"
       ],
       "statuses": [
         {
@@ -358,7 +361,8 @@
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
         "Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police.md",
         "Articles/2026-06-01_Stuart-Bring-back-mother-of-nation.md",
-        "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md"
+        "Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport.md",
+        "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md"
       ]
     },
     "Angelo Tobias Plaza": {
@@ -741,6 +745,12 @@
           "article": "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
           "title": "Activists call for June 5 shutdown for Kaia",
           "date": "2026-06-01"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md",
+          "title": "Big bail for Alyssa and mom",
+          "date": "2026-06-22"
         }
       ],
       "articles": [
@@ -755,7 +765,9 @@
         "Articles/2026-06-01_Activists-call-for-June-5-shutdown-for-Kaia.md",
         "Articles/2026-06-05_Phillip-questions-differing-police-response-to-protests.md",
         "Articles/2026-06-06_Respect-the-justice-system.md",
-        "Articles/2026-06-22_19-bullets-19-protests-campaign-ends.md"
+        "Articles/2026-06-22_19-bullets-19-protests-campaign-ends.md",
+        "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md",
+        "Articles/2026-06-22_Natuc-stands-with-Alyssa.md"
       ]
     },
     "Jason De Silva": {
@@ -803,7 +815,8 @@
       "roles": [
         "Mother of Alyssa Phillip",
         "Alyssa Phillip's mother",
-        "protestor"
+        "protestor",
+        "Activist"
       ],
       "statuses": [
         {
@@ -817,13 +830,20 @@
           "article": "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
           "title": "Top cop: Police had to act as protesters did not follow law",
           "date": "2026-05-30"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md",
+          "title": "Big bail for Alyssa and mom",
+          "date": "2026-06-22"
         }
       ],
       "articles": [
         "Articles/2026-05-28_Hands-up-dont-shoot-Protesters-arrested.md",
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
-        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+        "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md"
       ]
     },
     "Deshawn Joseph": {
@@ -2971,6 +2991,51 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-22_AI-cloud-over-writing-prize.md"
+      ]
+    },
+    "Kateisha Ambrose-Persadsingh": {
+      "roles": [
+        "Magistrate"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md"
+      ]
+    },
+    "Patricia Williams": {
+      "roles": [
+        "Mother"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Son-chased-shot-dead.md"
+      ]
+    },
+    "Marlon Williams": {
+      "roles": [
+        "Maintenance Worker"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Son-chased-shot-dead.md"
+      ]
+    },
+    "Faith Chewitt": {
+      "roles": [
+        "Partner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Son-chased-shot-dead.md"
+      ]
+    },
+    "Michael Annisette": {
+      "roles": [
+        "General Secretary"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-22_Natuc-stands-with-Alyssa.md"
       ]
     }
   }

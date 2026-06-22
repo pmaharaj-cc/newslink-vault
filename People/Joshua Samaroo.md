@@ -1,14 +1,14 @@
 ---
 type: person
 name: "Joshua Samaroo"
-roles: [Deceased]
+roles: [Deceased, Victim]
 legal_statuses: [deceased]
 tags: [criminal-record]
 ---
 
 # Joshua Samaroo
 
-**Known roles:** Deceased
+**Known roles:** Deceased, Victim
 
 **Legal status:** deceased
 
@@ -36,3 +36,4 @@ tags: [criminal-record]
 - [[Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police|Benjamin No info on gangs uniting to attack police]]
 - [[Articles/2026-06-01_Stuart-Bring-back-mother-of-nation|Stuart Bring back mother of nation]]
 - [[Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport|Kaia Sealy arrested on arrival at Piarco Airport]]
+- [[Articles/2026-06-22_Big-bail-for-Alyssa-and-mom|Big bail for Alyssa and mom]]

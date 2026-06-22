@@ -1,14 +1,14 @@
 ---
 type: person
 name: "Kaia Sealy"
-roles: [Accused, Common-law wife of Joshua Samaroo]
+roles: [Accused, Common-law wife of Joshua Samaroo, Citizen]
 legal_statuses: [wanted, facing charges, charged]
 tags: [criminal-record]
 ---
 
 # Kaia Sealy
 
-**Known roles:** Accused, Common-law wife of Joshua Samaroo
+**Known roles:** Accused, Common-law wife of Joshua Samaroo, Citizen
 
 **Legal status:** wanted, facing charges, charged
 
@@ -55,3 +55,4 @@ tags: [criminal-record]
 - [[Articles/2026-06-01_Benjamin-No-info-on-gangs-uniting-to-attack-police|Benjamin No info on gangs uniting to attack police]]
 - [[Articles/2026-06-01_Stuart-Bring-back-mother-of-nation|Stuart Bring back mother of nation]]
 - [[Articles/2026-06-17_Kaia-Sealy-arrested-on-arrival-at-Piarco-Airport|Kaia Sealy arrested on arrival at Piarco Airport]]
+- [[Articles/2026-06-22_Big-bail-for-Alyssa-and-mom|Big bail for Alyssa and mom]]
