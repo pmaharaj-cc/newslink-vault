@@ -158,13 +158,19 @@ async function extractWithGroq(text, apiKey) {
     break;
   }
   const raw = data.choices?.[0]?.message?.content || "[]";
-  const cleaned = raw.replace(/^```json\s*/, "").replace(/\s*```$/, "").trim();
-  try {
-    const p = JSON.parse(cleaned);
-    return Array.isArray(p) ? p : [p];
-  } catch (e) {
-    throw new Error(`Groq JSON: ${cleaned.slice(0, 200)}`);
+  const cleaned = raw
+    .replace(/<think>[\s\S]*?<\/think>/gi, "")
+    .replace(/^```json\s*/i, "")
+    .replace(/\s*```$/i, "")
+    .trim();
+  const candidates = [cleaned, cleaned.match(/\[[\s\S]*\]/)?.[0]].filter(Boolean);
+  for (const text of candidates) {
+    try {
+      const p = JSON.parse(text);
+      return Array.isArray(p) ? p : [p];
+    } catch (e) { /* try next */ }
   }
+  throw new Error(`Groq JSON: ${cleaned.slice(0, 200)}`);
 }
 
 function buildNote(d, url, pubDate) {

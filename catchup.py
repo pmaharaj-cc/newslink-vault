@@ -137,8 +137,14 @@ def groq_extract(text):
                 continue
             raise RuntimeError(f"Groq HTTP {e.code}: {body[:300]}") from e
     raw = data["choices"][0]["message"]["content"]
-    cleaned = re.sub(r'^```json\s*', '', re.sub(r'\s*```$', '', raw.strip())).strip()
-    parsed = json.loads(cleaned)
+    cleaned = re.sub(r'<think>[\s\S]*?</think>', '', raw, flags=re.I).strip()
+    cleaned = re.sub(r'^```json\s*', '', re.sub(r'\s*```$', '', cleaned, flags=re.I), flags=re.I).strip()
+    json_text = cleaned
+    if not cleaned.startswith('['):
+        m = re.search(r'\[[\s\S]*\]', cleaned)
+        if m:
+            json_text = m.group(0)
+    parsed = json.loads(json_text)
     return parsed[0] if isinstance(parsed, list) else parsed
 
 
