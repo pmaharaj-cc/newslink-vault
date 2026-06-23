@@ -197,7 +197,8 @@
         "Articles/2026-06-08_TT-signs-offshore-exploration-deal-with-ExxonMobil-Occi.md",
         "Articles/2026-06-09_Heerah-Dont-extend-SoE-without-clear-objectives.md",
         "Articles/2026-06-22_Shamfa-to-Barry-Stop-it.md",
-        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md",
+        "Articles/2026-06-21_PM-leaves-country-for-family-funeral.md"
       ]
     },
     "Kaia Sealy": {
@@ -419,7 +420,8 @@
       "articles": [
         "Articles/2026-05-27_Ministers-tour-USS-Nimitz-supercarrier.md",
         "Articles/2026-06-02_Minister-Littering-still-driving-flood-crisis.md",
-        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md"
+        "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md",
+        "Articles/2026-06-21_PM-leaves-country-for-family-funeral.md"
       ]
     },
     "Saddam Hosein": {
@@ -548,7 +550,8 @@
         "Articles/2026-06-22_Put-down-the-gun.md",
         "Articles/2026-06-22_Paying-police-to-not-police.md",
         "Articles/2026-06-22_Humanism-The-compass-we-need-today.md",
-        "Articles/2026-06-21_Guevarro-290-cops-on-suspension.md"
+        "Articles/2026-06-21_Guevarro-290-cops-on-suspension.md",
+        "Articles/2026-06-21_Alyssa-Mom-on-3-charges-each.md"
       ]
     },
     "Sheldon Lewis": {
@@ -754,6 +757,12 @@
           "article": "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md",
           "title": "Big bail for Alyssa and mom",
           "date": "2026-06-22"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-21_Alyssa-Mom-on-3-charges-each.md",
+          "title": "Alyssa, Mom on 3 charges each",
+          "date": "2026-06-21"
         }
       ],
       "articles": [
@@ -770,7 +779,8 @@
         "Articles/2026-06-06_Respect-the-justice-system.md",
         "Articles/2026-06-22_19-bullets-19-protests-campaign-ends.md",
         "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md",
-        "Articles/2026-06-22_Natuc-stands-with-Alyssa.md"
+        "Articles/2026-06-22_Natuc-stands-with-Alyssa.md",
+        "Articles/2026-06-21_Alyssa-Mom-on-3-charges-each.md"
       ]
     },
     "Jason De Silva": {
@@ -839,6 +849,12 @@
           "article": "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md",
           "title": "Big bail for Alyssa and mom",
           "date": "2026-06-22"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-21_Alyssa-Mom-on-3-charges-each.md",
+          "title": "Alyssa, Mom on 3 charges each",
+          "date": "2026-06-21"
         }
       ],
       "articles": [
@@ -846,7 +862,8 @@
         "Articles/2026-05-28_Alarm-over-PMs-statement-in-response-to-protest.md",
         "Articles/2026-05-30_Phillip-mom-join-protest-after-release.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
-        "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md"
+        "Articles/2026-06-22_Big-bail-for-Alyssa-and-mom.md",
+        "Articles/2026-06-21_Alyssa-Mom-on-3-charges-each.md"
       ]
     },
     "Deshawn Joseph": {
@@ -3282,6 +3299,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-21_Environmental-giant-Agard-dies-at-71.md"
+      ]
+    },
+    "Indira Raman Misir-Gosine": {
+      "roles": [
+        "Magistrate"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-21_Alyssa-Mom-on-3-charges-each.md"
       ]
     }
   }
