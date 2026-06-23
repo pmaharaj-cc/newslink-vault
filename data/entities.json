@@ -3381,5 +3381,42 @@
         "Articles/2026-06-23_Car-found-abandoned-driver-missing.md"
       ]
     }
-  }
+  },
+  "Orgs": {
+    "Couva Police Station": {
+      "articles": [
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+      ]
+    },
+    "Freeport Police Station": {
+      "articles": [
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+      ]
+    },
+    "Police": {
+      "articles": [
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+      ]
+    }
+  },
+  "Places": {
+    "Freeport": {
+      "articles": [
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+      ]
+    },
+    "Couva": {
+      "articles": [
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+      ]
+    }
+  },
+  "Topics": {
+    "crime": {
+      "articles": [
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+      ]
+    }
+  },
+  "Authors": {}
 }
