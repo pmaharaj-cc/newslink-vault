@@ -1,7 +1,6 @@
 /**
  * NewsLink Worker — hourly cron
- * Criminal record tracking, role inference, author exclusion from people[].
- * v3: multi-day lookback, merged daily indexes, richer error reporting.
+ * v4: all entity stubs, typed wikilinks, junk filter, debt registry.
  */
 const SITEMAP = "https://trinidadexpress.com/tncms/sitemap/news.xml";
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
@@ -14,6 +13,37 @@ const MAX_FETCH = 40;
 const MAX_PROCESS = 3;
 const GROQ_DELAY_MS = 12000;
 const TEXT_LIMIT = 1600;
+const PIPELINE_VERSION = 4;
+
+const JUNK_EXACT = new Set(["unknown", "anonymous"]);
+const JUNK_PATTERNS = [/^\d+-year-old /i, /^man known to /i, /^suspect \(/i, /^owner of the /i];
+
+function isJunkEntity(name) {
+  const n = String(name || "").trim();
+  if (!n) return true;
+  if (JUNK_EXACT.has(n.toLowerCase())) return true;
+  return JUNK_PATTERNS.some((re) => re.test(n));
+}
+
+function linkCtx(d, authors, people) {
+  const authorSet = new Set(authors.map((a) => a.toLowerCase().trim()));
+  return {
+    people: new Set(people.map((p) => p.name)),
+    orgs: new Set(d.organizations || []),
+    places: new Set(d.places || []),
+    topics: new Set(d.topics || []),
+    authorSet,
+  };
+}
+
+function entityFolder(name, ctx) {
+  if (ctx.authorSet?.has(String(name).toLowerCase().trim())) return "Authors";
+  if (ctx.orgs?.has(name)) return "Orgs";
+  if (ctx.places?.has(name)) return "Places";
+  if (ctx.topics?.has(name)) return "Topics";
+  if (ctx.people?.has(name)) return "People";
+  return "People";
+}
 
 const SYSTEM_PROMPT = `Extract Trinidad news. Return JSON array only. One object per article. Fields:
 title,authors([str]),date_reported(YYYY-MM-DD),date_effective(YYYY-MM-DD|null),
@@ -57,8 +87,9 @@ function safe(name) {
   return String(name).replace(/[<>:"/\\|?*]/g, "").trim();
 }
 
-function wl(name) {
-  return `[[${safe(name)}]]`;
+function wl(name, ctx) {
+  const folder = typeof ctx === "string" ? ctx : entityFolder(name, ctx);
+  return `[[${folder}/${safe(name)}]]`;
 }
 
 async function safeJSON(res, label) {
@@ -182,6 +213,7 @@ function buildNote(d, url, pubDate) {
   const orgs = d.organizations || [];
   const places = d.places || [];
   const topics = d.topics || [];
+  const ctx = linkCtx(d, authors, people);
 
   const lines = [
     "---",
@@ -193,6 +225,8 @@ function buildNote(d, url, pubDate) {
     `authors: [${authors.join(", ")}]`,
     `tags: [${topics.join(", ")}]`,
     `sports_crossover: ${d.sports_crossover || false}`,
+    `pipeline_version: ${PIPELINE_VERSION}`,
+    `extraction_tier: forward`,
     "---", "",
     `# ${d.title || "Untitled"}`,
     `> ${date} · trinidadexpress.com · [link](${url})`, ""
@@ -217,14 +251,14 @@ function buildNote(d, url, pubDate) {
     lines.push("## State Changes", "");
     for (const s of sc) {
       const eff = s.date_effective && s.date_effective !== s.date_reported ? ` _(effective ${s.date_effective})_` : "";
-      lines.push(`- ${wl(s.entity)}: **${s.from || "?"}** → **${s.to}** _${s.change}_${eff}`);
+      lines.push(`- ${wl(s.entity, ctx)}: **${s.from || "?"}** → **${s.to}** _${s.change}_${eff}`);
     }
     lines.push("");
   }
   const rels = d.relationships || [];
   if (rels.length) {
     lines.push("## Relationships", "");
-    for (const r of rels) lines.push(`- ${wl(r.from)} **${r.relation}** ${wl(r.to)}`);
+    for (const r of rels) lines.push(`- ${wl(r.from, ctx)} **${r.relation}** ${wl(r.to, ctx)}`);
     lines.push("");
   }
   const quotes = d.quotes || [];
@@ -239,7 +273,7 @@ function buildNote(d, url, pubDate) {
     lines.push("---", "## Sentiment", "");
     const icons = { positive: "🟢", negative: "🔴", neutral: "⚪" };
     for (const s of sentiment) {
-      lines.push(`- ${wl(s.author)} → ${wl(s.target)}: ${icons[s.lean] || "⚪"} **${s.lean}** — _${s.basis}_`);
+      lines.push(`- ${wl(s.author, ctx)} → ${wl(s.target, ctx)}: ${icons[s.lean] || "⚪"} **${s.lean}** — _${s.basis}_`);
     }
     lines.push("");
   }
@@ -247,8 +281,8 @@ function buildNote(d, url, pubDate) {
 }
 
 function buildPersonStub(name, data) {
-  const statuses = [...new Set(data.statuses.map(s => s.status))];
-  const roles = [...new Set(data.roles)].filter(Boolean);
+  const statuses = [...new Set((data.statuses || []).map(s => s.status))];
+  const roles = [...new Set(data.roles || [])].filter(Boolean);
   const hasCriminal = statuses.length > 0;
   const tags = hasCriminal ? "tags: [criminal-record]" : "tags: []";
   const lines = [
@@ -261,7 +295,7 @@ function buildPersonStub(name, data) {
   if (hasCriminal) {
     lines.push(`**Legal status:** ${statuses.join(", ")}`, "");
     lines.push("## Case History", "");
-    for (const s of data.statuses) {
+    for (const s of (data.statuses || [])) {
       lines.push(`- **${s.status}** — [[${s.article.replace(".md", "")}|${s.title || "Article"}]] _(${s.date})_`);
     }
     lines.push("");
@@ -275,6 +309,40 @@ function buildPersonStub(name, data) {
     lines.push("");
   }
   return lines.join("\n");
+}
+
+
+function buildSimpleStub(type, name, articles) {
+  const lines = [
+    "---", `type: ${type}`, `name: "${safe(name)}"`, "---", "", `# ${name}`, "", "## Articles", ""
+  ];
+  for (const a of articles || []) {
+    const title = a.replace(/^Articles\/[\d-]+_/, "").replace(/-/g, " ").replace(".md", "");
+    lines.push(`- [[${a.replace(".md", "")}|${title}]]`);
+  }
+  lines.push("");
+  return lines.join("\n");
+}
+
+function buildOrgStub(name, data) { return buildSimpleStub("organization", name, data.articles); }
+function buildPlaceStub(name, data) { return buildSimpleStub("place", name, data.articles); }
+function buildTopicStub(name, data) { return buildSimpleStub("topic", name, data.articles); }
+function buildAuthorStub(name, data) { return buildSimpleStub("author", name, data.articles); }
+
+function ensureEntityBucket(entities, kind, name) {
+  if (!entities[kind]) entities[kind] = {};
+  if (!entities[kind][name]) entities[kind][name] = { articles: [] };
+  return entities[kind][name];
+}
+
+function collectArticleDebts(d, fn, authors) {
+  const debts = [];
+  const authorSet = new Set(authors.map((a) => a.toLowerCase().trim()));
+  for (const p of (d.people || [])) {
+    if (!p.name || authorSet.has(p.name.toLowerCase().trim())) continue;
+    if (isJunkEntity(p.name)) debts.push({ type: "junk_entity", entity: p.name, section: "People" });
+  }
+  return debts.map((debt) => ({ article: fn, pipeline_version: PIPELINE_VERSION, ...debt }));
 }
 
 function buildDailyNote(date, entries) {
@@ -369,14 +437,26 @@ async function runPipeline(env) {
   const procText = procRes.ok ? atob((await procRes.json()).content.replace(/\n/g, "")) : "[]";
   const processed = new Set(JSON.parse(procText));
 
-  let entities = { People: {} };
+  let entities = { People: {}, Orgs: {}, Places: {}, Topics: {}, Authors: {} };
   const entRes = await fetch(`${base}/contents/data/entities.json`, { headers: h });
   if (entRes.ok) {
     try {
       const ed = await entRes.json();
       entities = JSON.parse(atob(ed.content.replace(/\n/g, "")));
     } catch (e) { /* keep default */ }
-    if (!entities.People) entities.People = {};
+  }
+  for (const k of ["People", "Orgs", "Places", "Topics", "Authors"]) {
+    if (!entities[k]) entities[k] = {};
+  }
+
+  let debtRegistry = { entries: [] };
+  const debtRes = await fetch(`${base}/contents/data/debt_registry.json`, { headers: h });
+  if (debtRes.ok) {
+    try {
+      const dd = await debtRes.json();
+      debtRegistry = JSON.parse(atob(dd.content.replace(/\n/g, "")));
+    } catch (e) { /* keep default */ }
+    if (!debtRegistry.entries) debtRegistry.entries = [];
   }
 
   const urlItems = await fetchRecentURLs();
@@ -388,6 +468,10 @@ async function runPipeline(env) {
 
   const extracted = [];
   const touchedPeople = new Set();
+  const touchedOrgs = new Set();
+  const touchedPlaces = new Set();
+  const touchedTopics = new Set();
+  const touchedAuthors = new Set();
   const batch = unprocessed.slice(0, MAX_PROCESS);
   for (let i = 0; i < batch.length; i++) {
     const a = batch[i];
@@ -423,11 +507,35 @@ async function runPipeline(env) {
     if (!entriesByDate[date]) entriesByDate[date] = [];
     entriesByDate[date].push({ d, filename: fn });
 
+    for (const a of authors) {
+      if (!a) continue;
+      const ea = ensureEntityBucket(entities, "Authors", a);
+      touchedAuthors.add(a);
+      if (!ea.articles.includes(fn)) ea.articles.push(fn);
+    }
+    for (const o of (d.organizations || [])) {
+      if (!o) continue;
+      const eo = ensureEntityBucket(entities, "Orgs", o);
+      touchedOrgs.add(o);
+      if (!eo.articles.includes(fn)) eo.articles.push(fn);
+    }
+    for (const pl of (d.places || [])) {
+      if (!pl) continue;
+      const epl = ensureEntityBucket(entities, "Places", pl);
+      touchedPlaces.add(pl);
+      if (!epl.articles.includes(fn)) epl.articles.push(fn);
+    }
+    for (const tp of (d.topics || [])) {
+      if (!tp) continue;
+      const et = ensureEntityBucket(entities, "Topics", tp);
+      touchedTopics.add(tp);
+      if (!et.articles.includes(fn)) et.articles.push(fn);
+    }
     for (const p of (d.people || [])) {
       if (!p.name || authorSet.has(p.name.toLowerCase().trim())) continue;
       if (!entities.People[p.name]) entities.People[p.name] = { roles: [], statuses: [], articles: [] };
       const ep = entities.People[p.name];
-      touchedPeople.add(p.name);
+      if (!isJunkEntity(p.name)) touchedPeople.add(p.name);
       if (p.role && !ep.roles.includes(p.role)) ep.roles.push(p.role);
       if (!ep.articles.includes(fn)) ep.articles.push(fn);
       if (p.legal_status) {
@@ -435,6 +543,7 @@ async function runPipeline(env) {
         if (!dup) ep.statuses.push({ status: p.legal_status, article: fn, title: d.title || "Untitled", date });
       }
     }
+    debtRegistry.entries.push(...collectArticleDebts(d, fn, authors));
   }
 
   for (const [date, entries] of Object.entries(entriesByDate)) {
@@ -446,11 +555,22 @@ async function runPipeline(env) {
   files["data/processed.json"] = JSON.stringify([...processed], null, 2);
   files["data/entities.json"] = JSON.stringify(entities, null, 2);
 
+  files["data/debt_registry.json"] = JSON.stringify(debtRegistry, null, 2);
+
   for (const name of touchedPeople) {
-    const data = entities.People[name];
-    if (data?.statuses?.length > 0) {
-      files[`People/${safe(name)}.md`] = buildPersonStub(name, data);
-    }
+    files[`People/${safe(name)}.md`] = buildPersonStub(name, entities.People[name]);
+  }
+  for (const name of touchedOrgs) {
+    files[`Orgs/${safe(name)}.md`] = buildOrgStub(name, entities.Orgs[name]);
+  }
+  for (const name of touchedPlaces) {
+    files[`Places/${safe(name)}.md`] = buildPlaceStub(name, entities.Places[name]);
+  }
+  for (const name of touchedTopics) {
+    files[`Topics/${safe(name)}.md`] = buildTopicStub(name, entities.Topics[name]);
+  }
+  for (const name of touchedAuthors) {
+    files[`Authors/${safe(name)}.md`] = buildAuthorStub(name, entities.Authors[name]);
   }
 
   const articleCount = Object.keys(files).filter(f => f.startsWith("Articles/")).length;

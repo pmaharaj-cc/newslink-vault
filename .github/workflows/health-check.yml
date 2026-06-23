@@ -14,18 +14,9 @@ jobs:
           fetch-depth: 0
       - name: Check for recent news commits
         run: |
-          CUTOFF=$(date -u -d '26 hours ago' +%s)
-          FOUND=0
-          while IFS= read -r line; do
-            TS=$(git log -1 --format=%ct "$line" 2>/dev/null || echo 0)
-            if [ "$TS" -ge "$CUTOFF" ]; then
-              FOUND=1
-              echo "Recent commit: $line"
-              break
-            fi
-          done < <(git log --oneline --grep='^news:' -20)
-          if [ "$FOUND" -eq 0 ]; then
+          RECENT=$(git log --since='26 hours ago' --grep='^news:' --oneline -1)
+          if [ -z "$RECENT" ]; then
             echo "::warning::No news: commit in the last 26 hours — Cloudflare worker may be down"
             exit 1
           fi
-          echo "Pipeline healthy"
+          echo "Pipeline healthy: $RECENT"

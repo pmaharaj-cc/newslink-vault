@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "pipeline_version": 4,
+  "article": {
+    "required_frontmatter": [
+      "title",
+      "date_reported",
+      "source",
+      "url",
+      "pipeline_version",
+      "extraction_tier"
+    ],
+    "extraction_tiers": {
+      "legacy": "Written before pipeline v4 — candidate for overhaul re-parse",
+      "forward": "Written by pipeline v4+ — stubs and typed links enforced"
+    },
+    "sections": ["People", "Organizations", "Places", "Topics", "State Changes", "Relationships", "Key Quotes", "Sentiment"]
+  },
+  "wikilink_rules": {
+    "people": "[[People/{name}]]",
+    "orgs": "[[Orgs/{name}]]",
+    "places": "[[Places/{name}]]",
+    "topics": "[[Topics/{name}]]",
+    "authors": "[[Authors/{name}]]",
+    "articles": "[[Articles/{slug}]]"
+  },
+  "entity_stubs": {
+    "People": {
+      "required": ["type", "name", "roles", "articles"],
+      "optional": ["legal_statuses", "tags", "state_history", "relationships", "quotes", "sentiment_received"]
+    },
+    "Orgs": { "required": ["type", "name", "articles"] },
+    "Places": { "required": ["type", "name", "articles"] },
+    "Topics": { "required": ["type", "name", "articles"] },
+    "Authors": { "required": ["type", "name", "articles"] }
+  },
+  "junk_denylist": {
+    "exact": ["Unknown", "Anonymous"],
+    "patterns": [
+      "^\\d+-year-old ",
+      "^man known to ",
+      "^Suspect \\(",
+      "^Owner of the "
+    ]
+  },
+  "identity_rules": {
+    "strip_titles_from_name": ["Magistrate", "Justice", "Dr", "Minister", "PC", "Corporal", "Sergeant", "Inspector", "Superintendent", "Acting"],
+    "orgs_not_people_suffixes": ["Ltd", "Inc", "Authority", "Ministry", "Service", "Corporation"]
+  },
+  "overhaul_modes": {
+    "stubs-only": "Scan article wikilinks → create missing stubs (no LLM)",
+    "link-normalize": "Rewrite bare [[X]] → typed paths across all articles",
+    "reparse-legacy": "Re-fetch url from frontmatter → re-extract legacy-tier articles",
+    "full": "link-normalize → reparse-legacy → rebuild entities.json → validate against this schema"
+  }
+}
