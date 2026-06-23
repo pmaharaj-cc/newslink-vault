@@ -3014,11 +3014,13 @@
     },
     "Marlon Williams": {
       "roles": [
-        "Maintenance Worker"
+        "Maintenance Worker",
+        "Labourer"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-22_Son-chased-shot-dead.md"
+        "Articles/2026-06-22_Son-chased-shot-dead.md",
+        "Articles/2026-06-21_Man-shot-dead-in-Pleasantville.md"
       ]
     },
     "Faith Chewitt": {
@@ -3150,6 +3152,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-06-21_Man-leaves-to-sell-yams-returns-to-house-fire.md"
+      ]
+    },
+    "Aiyna Ali": {
+      "roles": [
+        "MP"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-21_Total-blackout.md"
+      ]
+    },
+    "Phillip Watts": {
+      "roles": [
+        "Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-21_Public-funds-demand-public-accountability.md"
+      ]
+    },
+    "Kieron Edwards": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-21_Public-funds-demand-public-accountability.md"
       ]
     }
   }
