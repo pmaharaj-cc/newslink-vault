@@ -471,12 +471,14 @@
     },
     "Roger Alexander": {
       "roles": [
-        "Homeland Security Minister"
+        "Homeland Security Minister",
+        "Minister of Homeland Security"
       ],
       "statuses": [],
       "articles": [
         "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
-        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md"
+        "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
       ]
     },
     "Suzette Martin": {
@@ -3414,6 +3416,42 @@
       "articles": [
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
       ]
+    },
+    "Krishan Khanhai": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Krishna Khanhai": {
+      "roles": [
+        "Father"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Leela Pariag": {
+      "roles": [
+        "Stepmother"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Johann Harry": {
+      "roles": [
+        "Social media activist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+      ]
     }
   },
   "Orgs": {
@@ -3462,6 +3500,26 @@
       "articles": [
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
       ]
+    },
+    "San Fernando General Hospital": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Shore of Peace": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Ministry of Homeland Security": {
+      "articles": [
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+      ]
+    },
+    "Government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+      ]
     }
   },
   "Places": {
@@ -3483,7 +3541,8 @@
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md",
-        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
       ]
     },
     "Charlieville": {
@@ -3495,6 +3554,41 @@
       "articles": [
         "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
       ]
+    },
+    "Marabella": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Tramline Road": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Union Park East": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Gasparillo": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "La Romaine": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "San Fernando": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+      ]
+    },
+    "Trincity": {
+      "articles": [
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+      ]
     }
   },
   "Topics": {
@@ -3502,7 +3596,9 @@
       "articles": [
         "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md",
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
-        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
+        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md",
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md",
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
       ]
     },
     "education": {
@@ -3527,7 +3623,13 @@
     },
     "government": {
       "articles": [
-        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+      ]
+    },
+    "health": {
+      "articles": [
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
       ]
     }
   },
@@ -3540,6 +3642,11 @@
     "Shivana Lal": {
       "articles": [
         "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
+      ]
+    },
+    "Alexander Bruzual": {
+      "articles": [
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
       ]
     }
   }
