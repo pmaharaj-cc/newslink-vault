@@ -3389,6 +3389,31 @@
       "articles": [
         "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
       ]
+    },
+    "Jackqui Watson": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
+          "title": "6m bail for woman charged in alleged $20m fraud",
+          "date": "2026-06-25"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
+    },
+    "Abraham": {
+      "roles": [
+        "Magistrate"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
     }
   },
   "Orgs": {
@@ -3404,7 +3429,8 @@
     },
     "Police": {
       "articles": [
-        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md",
+        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
       ]
     },
     "UNICEF": {
@@ -3415,6 +3441,26 @@
     "Commonwealth Foundation": {
       "articles": [
         "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
+      ]
+    },
+    "Fraud Squad": {
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
+    },
+    "Special Investigations Unit": {
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
+    },
+    "Central Bank of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
+    },
+    "Director of Public Prosecutions": {
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
       ]
     }
   },
@@ -3436,14 +3482,27 @@
     },
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
+        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md",
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
+    },
+    "Charlieville": {
+      "articles": [
+        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
+      ]
+    },
+    "Caroni Savannah Road": {
+      "articles": [
+        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
       ]
     }
   },
   "Topics": {
     "crime": {
       "articles": [
-        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md",
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
+        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
       ]
     },
     "education": {
@@ -3460,12 +3519,27 @@
       "articles": [
         "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
       ]
+    },
+    "economy": {
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
+    },
+    "government": {
+      "articles": [
+        "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md"
+      ]
     }
   },
   "Authors": {
     "AV Rampersad": {
       "articles": [
         "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
+      ]
+    },
+    "Shivana Lal": {
+      "articles": [
+        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
       ]
     }
   }
