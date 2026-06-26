@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Callender"
-roles: [Victim]
-legal_statuses: []
-tags: []
+type: place
+name: "Wharf Trace"
 ---
 
-# Callender
-
-**Known roles:** Victim
+# Wharf Trace
 
 ## Articles
 

@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Callender"
-roles: [Victim]
-legal_statuses: []
-tags: []
+type: place
+name: "St Joseph"
 ---
 
-# Callender
-
-**Known roles:** Victim
+# St Joseph
 
 ## Articles
 

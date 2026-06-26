@@ -3477,6 +3477,15 @@
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
+    },
+    "Callender": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+      ]
     }
   },
   "Orgs": {
@@ -3549,7 +3558,8 @@
     "Eric Williams Medical Sciences Complex": {
       "articles": [
         "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
-        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
     },
     "Grand Bazaar shopping mall": {
@@ -3572,7 +3582,7 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     },
-    "Adam’s Bagels": {
+    "Adamâs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3664,7 +3674,8 @@
     },
     "Mt Hope": {
       "articles": [
-        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
     },
     "Morvant": {
@@ -3672,9 +3683,29 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
-    "Adam’s Bagels": {
+    "Adamâs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+      ]
+    },
+    "Wharf Trace": {
+      "articles": [
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+      ]
+    },
+    "Maracas Valley": {
+      "articles": [
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+      ]
+    },
+    "St Joseph": {
+      "articles": [
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+      ]
+    },
+    "Eric Williams Medical Sciences Complex": {
+      "articles": [
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
     }
   },
@@ -3688,7 +3719,8 @@
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
         "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
-        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md",
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
     },
     "education": {
@@ -3721,7 +3753,8 @@
       "articles": [
         "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md",
         "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
-        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
     }
   },
@@ -3739,6 +3772,11 @@
     "Alexander Bruzual": {
       "articles": [
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+      ]
+    },
+    "Gyasi Gonzales": {
+      "articles": [
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
     }
   }

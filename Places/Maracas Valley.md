@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Callender"
-roles: [Victim]
-legal_statuses: []
-tags: []
+type: place
+name: "Maracas Valley"
 ---
 
-# Callender
-
-**Known roles:** Victim
+# Maracas Valley
 
 ## Articles
 

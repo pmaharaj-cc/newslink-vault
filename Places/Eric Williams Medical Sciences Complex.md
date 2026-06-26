@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Callender"
-roles: [Victim]
-legal_statuses: []
-tags: []
+type: place
+name: "Eric Williams Medical Sciences Complex"
 ---
 
-# Callender
-
-**Known roles:** Victim
+# Eric Williams Medical Sciences Complex
 
 ## Articles
 

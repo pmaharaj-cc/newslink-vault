@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Callender"
-roles: [Victim]
-legal_statuses: []
-tags: []
+type: author
+name: "Gyasi Gonzales"
 ---
 
-# Callender
-
-**Known roles:** Victim
+# Gyasi Gonzales
 
 ## Articles
 
