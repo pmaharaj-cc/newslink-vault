@@ -3452,6 +3452,31 @@
       "articles": [
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
       ]
+    },
+    "Bahadoor Pooransingh": {
+      "roles": [
+        "maintenance worker"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md"
+      ]
+    },
+    "Kavita M": {
+      "roles": [
+        "Suspect"
+      ],
+      "statuses": [
+        {
+          "status": "accused",
+          "article": "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md",
+          "title": "Woman vanishes with $3,200 after promising iPhone, braces",
+          "date": "2026-06-26"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+      ]
     }
   },
   "Orgs": {
@@ -3520,12 +3545,49 @@
       "articles": [
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
       ]
+    },
+    "Eric Williams Medical Sciences Complex": {
+      "articles": [
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+      ]
+    },
+    "Grand Bazaar shopping mall": {
+      "articles": [
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md"
+      ]
+    },
+    "Trinidad and Tobago Police Service": {
+      "articles": [
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md"
+      ]
+    },
+    "St Joseph Police Station": {
+      "articles": [
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+      ]
+    },
+    "Customs": {
+      "articles": [
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+      ]
+    },
+    "Adam’s Bagels": {
+      "articles": [
+        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+      ]
+    },
+    "Instagram": {
+      "articles": [
+        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+      ]
     }
   },
   "Places": {
     "Freeport": {
       "articles": [
-        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md"
+        "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md",
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md"
       ]
     },
     "Couva": {
@@ -3589,6 +3651,31 @@
       "articles": [
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
       ]
+    },
+    "Valsayn": {
+      "articles": [
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md"
+      ]
+    },
+    "Circular Road West, Mt Lambert": {
+      "articles": [
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+      ]
+    },
+    "Mt Hope": {
+      "articles": [
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
+      ]
+    },
+    "Morvant": {
+      "articles": [
+        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+      ]
+    },
+    "Adam’s Bagels": {
+      "articles": [
+        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+      ]
     }
   },
   "Topics": {
@@ -3598,7 +3685,10 @@
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
         "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md",
         "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md",
-        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
+        "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
     "education": {
@@ -3629,7 +3719,9 @@
     },
     "health": {
       "articles": [
-        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md"
+        "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md",
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
+        "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     }
   },
