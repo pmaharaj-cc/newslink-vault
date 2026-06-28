@@ -2348,11 +2348,13 @@
     },
     "Stefan Roach": {
       "roles": [
-        "Guitarist"
+        "Guitarist",
+        "Artist"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-04_Stefan-Roach-Finding-purpose-through-music.md"
+        "Articles/2026-06-04_Stefan-Roach-Finding-purpose-through-music.md",
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     },
     "Aaron Lowchewtung": {
@@ -3486,6 +3488,78 @@
       "articles": [
         "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
+    },
+    "Guillaume Pierre": {
+      "roles": [
+        "Ambassador"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Chinua Alleyne": {
+      "roles": [
+        "Mayor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Anyka Batista": {
+      "roles": [
+        "Director"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Danielle Parkinson": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Gina Granado": {
+      "roles": [
+        "Co-host"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Andre Donawa": {
+      "roles": [
+        "Artist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Joe Brien": {
+      "roles": [
+        "Artist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Lbee": {
+      "roles": [
+        "Artist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
     }
   },
   "Orgs": {
@@ -3583,7 +3657,7 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     },
-    "AdamÃ¢ÂÂs Bagels": {
+    "AdamÃÂ¢ÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3596,6 +3670,26 @@
     "Forensic Science Centre": {
       "articles": [
         "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
+      ]
+    },
+    "Embassy of France in Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Alliance Française of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Port of Spain City Corporation": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Sound Forge": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     }
   },
@@ -3620,7 +3714,8 @@
       "articles": [
         "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md",
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
-        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     },
     "Charlieville": {
@@ -3689,7 +3784,7 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
-    "AdamÃ¢ÂÂs Bagels": {
+    "AdamÃÂ¢ÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3728,6 +3823,16 @@
       "articles": [
         "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
       ]
+    },
+    "Port of Spain": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Sound Forge": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
     }
   },
   "Topics": {
@@ -3752,7 +3857,8 @@
     },
     "culture": {
       "articles": [
-        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
+        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md",
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     },
     "disaster": {
@@ -3777,6 +3883,16 @@
         "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
         "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+      ]
+    },
+    "foreign-affairs": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "social": {
+      "articles": [
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     }
   },
