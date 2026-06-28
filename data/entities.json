@@ -3502,7 +3502,8 @@
     "Police": {
       "articles": [
         "Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped.md",
-        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md"
+        "Articles/2026-06-25_Gunned-down-in-insurance-company-parking-lot.md",
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
       ]
     },
     "UNICEF": {
@@ -3582,7 +3583,7 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     },
-    "Adamâs Bagels": {
+    "AdamÃ¢ÂÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3590,6 +3591,11 @@
     "Instagram": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
+      ]
+    },
+    "Forensic Science Centre": {
+      "articles": [
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
       ]
     }
   },
@@ -3683,7 +3689,7 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
-    "Adamâs Bagels": {
+    "AdamÃ¢ÂÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3707,6 +3713,21 @@
       "articles": [
         "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
       ]
+    },
+    "Barrackpore": {
+      "articles": [
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
+      ]
+    },
+    "Hassanali Trace": {
+      "articles": [
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
+      ]
+    },
+    "St James": {
+      "articles": [
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
+      ]
     }
   },
   "Topics": {
@@ -3720,7 +3741,8 @@
         "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md",
-        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md",
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
       ]
     },
     "education": {
@@ -3777,6 +3799,11 @@
     "Gyasi Gonzales": {
       "articles": [
         "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+      ]
+    },
+    "DIGITAL DESK": {
+      "articles": [
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
       ]
     }
   }
