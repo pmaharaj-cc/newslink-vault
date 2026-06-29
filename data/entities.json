@@ -2049,11 +2049,13 @@
     },
     "Williams": {
       "roles": [
-        "Senior Superintendent"
+        "Senior Superintendent",
+        "Police Constable"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-03_One-of-missing-police-station-guns-recovered-3-held.md"
+        "Articles/2026-06-03_One-of-missing-police-station-guns-recovered-3-held.md",
+        "Articles/2026-06-29_Teens-fatal-ride.md"
       ]
     },
     "Mohammed": {
@@ -3560,6 +3562,33 @@
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
+    },
+    "Idris Hosein": {
+      "roles": [
+        "Student"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-29_Teens-fatal-ride.md"
+      ]
+    },
+    "Arif Hosein": {
+      "roles": [
+        "Father"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-29_Teens-fatal-ride.md"
+      ]
+    },
+    "Solomon Rajkumar": {
+      "roles": [
+        "Sergeant"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-06-29_Teens-fatal-ride.md"
+      ]
     }
   },
   "Orgs": {
@@ -3657,7 +3686,7 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     },
-    "AdamÃÂ¢ÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3677,7 +3706,7 @@
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     },
-    "Alliance Française of Trinidad and Tobago": {
+    "Alliance FranÃ§aise of Trinidad and Tobago": {
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
@@ -3690,6 +3719,11 @@
     "Sound Forge": {
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "Barataria Police Station": {
+      "articles": [
+        "Articles/2026-06-29_Teens-fatal-ride.md"
       ]
     }
   },
@@ -3707,7 +3741,8 @@
     },
     "Cunupia": {
       "articles": [
-        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
+        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md",
+        "Articles/2026-06-29_Teens-fatal-ride.md"
       ]
     },
     "Trinidad and Tobago": {
@@ -3784,7 +3819,7 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
-    "AdamÃÂ¢ÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3833,6 +3868,21 @@
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
+    },
+    "Churchill-Roosevelt Highway": {
+      "articles": [
+        "Articles/2026-06-29_Teens-fatal-ride.md"
+      ]
+    },
+    "Ragoo Street": {
+      "articles": [
+        "Articles/2026-06-29_Teens-fatal-ride.md"
+      ]
+    },
+    "Arima": {
+      "articles": [
+        "Articles/2026-06-29_Teens-fatal-ride.md"
+      ]
     }
   },
   "Topics": {
@@ -3847,7 +3897,8 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md",
         "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md",
-        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
+        "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md",
+        "Articles/2026-06-29_Teens-fatal-ride.md"
       ]
     },
     "education": {

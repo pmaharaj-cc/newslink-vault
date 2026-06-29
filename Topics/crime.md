@@ -17,3 +17,4 @@ name: "crime"
 - [[Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces|Woman vanishes with 3200 after promising iPhone braces]]
 - [[Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace|Teen shot in the head at Wharf Trace]]
 - [[Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion|Barrackpore pensioner murdered in home invasion]]
+- [[Articles/2026-06-29_Teens-fatal-ride|Teens fatal ride]]
