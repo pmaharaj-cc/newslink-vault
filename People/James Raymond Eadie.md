@@ -1,16 +1,15 @@
 ---
 type: person
-name: "John Jeremie"
-roles: [Attorney General]
+name: "James Raymond Eadie"
+roles: [King's Counsel]
 legal_statuses: []
 tags: []
 ---
 
-# John Jeremie
+# James Raymond Eadie
 
-**Known roles:** Attorney General
+**Known roles:** King's Counsel
 
 ## Articles
 
-- [[Articles/2026-06-16_Money-spent-on-cheese-paste-champagne|Money spent on cheese paste champagne]]
 - [[Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter|The State brings in UK Kings Counsel for Hadeed matter]]

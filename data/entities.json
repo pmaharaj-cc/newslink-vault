@@ -201,7 +201,8 @@
         "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md",
         "Articles/2026-06-21_PM-leaves-country-for-family-funeral.md",
         "Articles/2026-06-23_US-Navy-SEALs-to-help-fight-crime.md",
-        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md",
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
       ]
     },
     "Kaia Sealy": {
@@ -2831,7 +2832,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-06-16_Money-spent-on-cheese-paste-champagne.md"
+        "Articles/2026-06-16_Money-spent-on-cheese-paste-champagne.md",
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
       ]
     },
     "Aldrin Johnson": {
@@ -3607,6 +3609,65 @@
       "articles": [
         "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
+    },
+    "Dominic Hadeed": {
+      "roles": [
+        "Businessman"
+      ],
+      "statuses": [
+        {
+          "status": "accused",
+          "article": "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+          "title": "The State brings in UK King's Counsel for Hadeed matter",
+          "date": "2026-07-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Genevieve Hadeed": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "accused",
+          "article": "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+          "title": "The State brings in UK King's Counsel for Hadeed matter",
+          "date": "2026-07-01"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Star Sabga": {
+      "roles": [
+        "Relative"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "James Raymond Eadie": {
+      "roles": [
+        "King's Counsel"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Robert Stephen Strang": {
+      "roles": [
+        "King's Counsel"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
     }
   },
   "Orgs": {
@@ -3705,7 +3766,7 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     },
-    "AdamÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3725,7 +3786,7 @@
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     },
-    "Alliance FranÃÂ§aise of Trinidad and Tobago": {
+    "Alliance FranÃÂÃÂ§aise of Trinidad and Tobago": {
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
@@ -3759,6 +3820,56 @@
       "articles": [
         "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
+    },
+    "State of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Attorney General's Office": {
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Chief Justice's Office": {
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Middle Temple": {
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Bar of England and Wales": {
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Commissioner of Police": {
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Ministry of Works and Infrastructure": {
+      "articles": [
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
+      ]
+    },
+    "Urban Development Corporation of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
+      ]
+    },
+    "Ministry of Health": {
+      "articles": [
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
+      ]
+    },
+    "Port of Spain General Hospital": {
+      "articles": [
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
+      ]
     }
   },
   "Places": {
@@ -3785,7 +3896,9 @@
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md",
-        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md",
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
       ]
     },
     "Charlieville": {
@@ -3854,7 +3967,7 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
-    "AdamÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3896,7 +4009,8 @@
     },
     "Port of Spain": {
       "articles": [
-        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md",
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
       ]
     },
     "Sound Forge": {
@@ -3944,7 +4058,8 @@
         "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md",
         "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md",
         "Articles/2026-06-29_Teens-fatal-ride.md",
-        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md",
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
       ]
     },
     "education": {
@@ -3973,7 +4088,9 @@
       "articles": [
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
-        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md",
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
       ]
     },
     "health": {
@@ -3981,7 +4098,8 @@
         "Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest.md",
         "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md",
-        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md"
+        "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md",
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
       ]
     },
     "foreign-affairs": {
@@ -3992,6 +4110,16 @@
     "social": {
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+      ]
+    },
+    "judiciary": {
+      "articles": [
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "infrastructure": {
+      "articles": [
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
       ]
     }
   },
@@ -4024,6 +4152,11 @@
     "Jarrel De Matas": {
       "articles": [
         "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+      ]
+    },
+    "Sherlan Ramsubhag": {
+      "articles": [
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
       ]
     }
   }
