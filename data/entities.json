@@ -165,7 +165,8 @@
     },
     "Kamla Persad-Bissessar": {
       "roles": [
-        "Prime Minister"
+        "Prime Minister",
+        "Former Prime Minister"
       ],
       "statuses": [],
       "articles": [
@@ -199,7 +200,8 @@
         "Articles/2026-06-22_Shamfa-to-Barry-Stop-it.md",
         "Articles/2026-06-22_PM-attends-funeral-of-brother-in-law-in-New-York.md",
         "Articles/2026-06-21_PM-leaves-country-for-family-funeral.md",
-        "Articles/2026-06-23_US-Navy-SEALs-to-help-fight-crime.md"
+        "Articles/2026-06-23_US-Navy-SEALs-to-help-fight-crime.md",
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
     },
     "Kaia Sealy": {
@@ -3589,6 +3591,22 @@
       "articles": [
         "Articles/2026-06-29_Teens-fatal-ride.md"
       ]
+    },
+    "Dominic": {
+      "roles": [
+        "Businessman"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-06-30_Missing-the-point-on-gangs.md",
+          "title": "Missing the point on gangs",
+          "date": "2026-06-30"
+        }
+      ],
+      "articles": [
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+      ]
     }
   },
   "Orgs": {
@@ -3673,7 +3691,8 @@
     },
     "Trinidad and Tobago Police Service": {
       "articles": [
-        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md"
+        "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
     },
     "St Joseph Police Station": {
@@ -3686,7 +3705,7 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     },
-    "AdamÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3706,7 +3725,7 @@
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     },
-    "Alliance FranÃ§aise of Trinidad and Tobago": {
+    "Alliance FranÃÂ§aise of Trinidad and Tobago": {
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
@@ -3724,6 +3743,21 @@
     "Barataria Police Station": {
       "articles": [
         "Articles/2026-06-29_Teens-fatal-ride.md"
+      ]
+    },
+    "Education Ministry": {
+      "articles": [
+        "Articles/2026-06-30_Continuous-assessment-worth-fighting-for.md"
+      ]
+    },
+    "People's National Movement": {
+      "articles": [
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+      ]
+    },
+    "UK Foreign Office": {
+      "articles": [
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
     }
   },
@@ -3750,7 +3784,8 @@
         "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md",
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
-        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
+        "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md",
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
     },
     "Charlieville": {
@@ -3819,7 +3854,7 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
-    "AdamÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3883,6 +3918,16 @@
       "articles": [
         "Articles/2026-06-29_Teens-fatal-ride.md"
       ]
+    },
+    "Trinidad": {
+      "articles": [
+        "Articles/2026-06-30_Continuous-assessment-worth-fighting-for.md"
+      ]
+    },
+    "Parliament": {
+      "articles": [
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+      ]
     }
   },
   "Topics": {
@@ -3898,12 +3943,14 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md",
         "Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace.md",
         "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md",
-        "Articles/2026-06-29_Teens-fatal-ride.md"
+        "Articles/2026-06-29_Teens-fatal-ride.md",
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
     },
     "education": {
       "articles": [
-        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md"
+        "Articles/2026-06-24_Safety-in-numbers-safety-in-plans.md",
+        "Articles/2026-06-30_Continuous-assessment-worth-fighting-for.md"
       ]
     },
     "culture": {
@@ -3925,7 +3972,8 @@
     "government": {
       "articles": [
         "Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud.md",
-        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
     },
     "health": {
@@ -3971,6 +4019,11 @@
     "DIGITAL DESK": {
       "articles": [
         "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md"
+      ]
+    },
+    "Jarrel De Matas": {
+      "articles": [
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
       ]
     }
   }

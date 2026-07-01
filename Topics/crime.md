@@ -18,3 +18,4 @@ name: "crime"
 - [[Articles/2026-06-26_Teen-shot-in-the-head-at-Wharf-Trace|Teen shot in the head at Wharf Trace]]
 - [[Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion|Barrackpore pensioner murdered in home invasion]]
 - [[Articles/2026-06-29_Teens-fatal-ride|Teens fatal ride]]
+- [[Articles/2026-06-30_Missing-the-point-on-gangs|Missing the point on gangs]]
