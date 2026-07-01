@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Frank Seepersad"
-roles: [Justice]
+name: "Eldon Calliste"
+roles: [Corporal]
 legal_statuses: []
 tags: []
 ---
 
-# Frank Seepersad
+# Eldon Calliste
 
-**Known roles:** Justice
+**Known roles:** Corporal
 
 ## Articles
 

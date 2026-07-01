@@ -12,3 +12,4 @@ name: "government"
 - [[Articles/2026-06-30_Missing-the-point-on-gangs|Missing the point on gangs]]
 - [[Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter|The State brings in UK Kings Counsel for Hadeed matter]]
 - [[Articles/2026-07-01_POSGH-Central-Block-at-97|POSGH Central Block at 97]]
+- [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]

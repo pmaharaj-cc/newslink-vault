@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Frank Seepersad"
-roles: [Justice]
-legal_statuses: []
-tags: []
+type: organization
+name: "High Court"
 ---
 
-# Frank Seepersad
-
-**Known roles:** Justice
+# High Court
 
 ## Articles
 

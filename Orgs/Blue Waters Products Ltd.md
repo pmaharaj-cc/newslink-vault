@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Frank Seepersad"
-roles: [Justice]
-legal_statuses: []
-tags: []
+type: organization
+name: "Blue Waters Products Ltd"
 ---
 
-# Frank Seepersad
-
-**Known roles:** Justice
+# Blue Waters Products Ltd
 
 ## Articles
 

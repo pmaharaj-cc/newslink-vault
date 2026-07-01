@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Frank Seepersad"
-roles: [Justice]
-legal_statuses: []
-tags: []
+type: organization
+name: "Special Branch"
 ---
 
-# Frank Seepersad
-
-**Known roles:** Justice
+# Special Branch
 
 ## Articles
 

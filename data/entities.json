@@ -202,7 +202,8 @@
         "Articles/2026-06-21_PM-leaves-country-for-family-funeral.md",
         "Articles/2026-06-23_US-Navy-SEALs-to-help-fight-crime.md",
         "Articles/2026-06-30_Missing-the-point-on-gangs.md",
-        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "Kaia Sealy": {
@@ -481,7 +482,8 @@
       "articles": [
         "Articles/2026-05-27_Penny-wants-a-stronger-PCA.md",
         "Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-.md",
-        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md"
+        "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "Suzette Martin": {
@@ -3612,7 +3614,8 @@
     },
     "Dominic Hadeed": {
       "roles": [
-        "Businessman"
+        "Businessman",
+        "Owner"
       ],
       "statuses": [
         {
@@ -3623,12 +3626,14 @@
         }
       ],
       "articles": [
-        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "Genevieve Hadeed": {
       "roles": [
-        "Accused"
+        "Accused",
+        "Wife"
       ],
       "statuses": [
         {
@@ -3639,7 +3644,8 @@
         }
       ],
       "articles": [
-        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "Star Sabga": {
@@ -3667,6 +3673,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+      ]
+    },
+    "Frank Seepersad": {
+      "roles": [
+        "Justice"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
+      ]
+    },
+    "Eldon Calliste": {
+      "roles": [
+        "Corporal"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     }
   },
@@ -3753,7 +3777,8 @@
     "Trinidad and Tobago Police Service": {
       "articles": [
         "Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar.md",
-        "Articles/2026-06-30_Missing-the-point-on-gangs.md"
+        "Articles/2026-06-30_Missing-the-point-on-gangs.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "St Joseph Police Station": {
@@ -3766,7 +3791,7 @@
         "Articles/2026-06-26_Pregnant-woman-knifed-15-times.md"
       ]
     },
-    "AdamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -3786,7 +3811,7 @@
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
     },
-    "Alliance FranÃÂÃÂ§aise of Trinidad and Tobago": {
+    "Alliance FranÃÂÃÂÃÂÃÂ§aise of Trinidad and Tobago": {
       "articles": [
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md"
       ]
@@ -3870,6 +3895,21 @@
       "articles": [
         "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
       ]
+    },
+    "Blue Waters Products Ltd": {
+      "articles": [
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
+      ]
+    },
+    "Special Branch": {
+      "articles": [
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
+      ]
+    },
+    "High Court": {
+      "articles": [
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
+      ]
     }
   },
   "Places": {
@@ -3898,7 +3938,8 @@
         "Articles/2026-06-27_Fte-de-la-Musique-2026-a-success.md",
         "Articles/2026-06-30_Missing-the-point-on-gangs.md",
         "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
-        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "Charlieville": {
@@ -3967,7 +4008,7 @@
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
     },
-    "AdamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
+    "AdamÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Bagels": {
       "articles": [
         "Articles/2026-06-26_Woman-vanishes-with-3200-after-promising-iPhone-braces.md"
       ]
@@ -4059,7 +4100,8 @@
         "Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion.md",
         "Articles/2026-06-29_Teens-fatal-ride.md",
         "Articles/2026-06-30_Missing-the-point-on-gangs.md",
-        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "education": {
@@ -4090,7 +4132,8 @@
         "Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts.md",
         "Articles/2026-06-30_Missing-the-point-on-gangs.md",
         "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
-        "Articles/2026-07-01_POSGH-Central-Block-at-97.md"
+        "Articles/2026-07-01_POSGH-Central-Block-at-97.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "health": {
@@ -4114,7 +4157,8 @@
     },
     "judiciary": {
       "articles": [
-        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md"
+        "Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter.md",
+        "Articles/2026-07-01_Police-detail-alleged-assassination-plan.md"
       ]
     },
     "infrastructure": {

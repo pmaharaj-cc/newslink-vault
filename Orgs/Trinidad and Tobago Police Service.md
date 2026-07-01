@@ -9,3 +9,4 @@ name: "Trinidad and Tobago Police Service"
 
 - [[Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar|Bullets fly at Grand Bazaar]]
 - [[Articles/2026-06-30_Missing-the-point-on-gangs|Missing the point on gangs]]
+- [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
