@@ -1,11 +1,15 @@
 ---
-type: topic
-name: "social"
+type: person
+name: "Sundar Popo"
+roles: [Singer]
+legal_statuses: []
+tags: []
 ---
 
-# social
+# Sundar Popo
+
+**Known roles:** Singer
 
 ## Articles
 
-- [[Articles/2026-06-27_Fte-de-la-Musique-2026-a-success|Fte de la Musique 2026 a success]]
 - [[Articles/2026-07-01_A-Nation-of-Rhythm-Struggle-and-Triumph|A Nation of Rhythm Struggle and Triumph]]
