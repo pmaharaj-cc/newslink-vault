@@ -23,3 +23,5 @@ name: "crime"
 - [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
 - [[Articles/2026-07-01_Girl-17-molested-during-robbery-in-Lopinot|Girl 17 molested during robbery in Lopinot]]
 - [[Articles/2026-07-01_A-Nation-of-Rhythm-Struggle-and-Triumph|A Nation of Rhythm Struggle and Triumph]]
+- [[Articles/2026-07-02_Dad-shot-dead-wife-and-child-wounded|Dad shot dead wife and child wounded]]
+- [[Articles/2026-07-02_Cedros-student-stabbed-outside-school|Cedros student stabbed outside school]]

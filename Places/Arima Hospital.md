@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Arima"
+name: "Arima Hospital"
 ---
 
-# Arima
+# Arima Hospital
 
 ## Articles
 
-- [[Articles/2026-06-29_Teens-fatal-ride|Teens fatal ride]]
 - [[Articles/2026-07-02_Dad-shot-dead-wife-and-child-wounded|Dad shot dead wife and child wounded]]
