@@ -17,3 +17,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
 - [[Articles/2026-07-01_A-Nation-of-Rhythm-Struggle-and-Triumph|A Nation of Rhythm Struggle and Triumph]]
 - [[Articles/2026-07-02_17-police-officers-dismissed-from-TTPS|17 police officers dismissed from TTPS]]
+- [[Articles/2026-07-02_Understanding-the-Equal-Opportunity-Act|Understanding the Equal Opportunity Act]]
