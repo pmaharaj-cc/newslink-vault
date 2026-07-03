@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Cedros"
+name: "La Guaira State"
 ---
 
-# Cedros
+# La Guaira State
 
 ## Articles
 
-- [[Articles/2026-07-02_Cedros-student-stabbed-outside-school|Cedros student stabbed outside school]]
 - [[Articles/2026-07-03_UWI-confirms-Venezuela-quakes-caused-Cedros-coastline-r|UWI confirms Venezuela quakes caused Cedros coastline r]]

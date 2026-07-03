@@ -1,11 +1,15 @@
 ---
-type: place
-name: "Cedros"
+type: person
+name: "Xavier Moonan"
+roles: [Geologist]
+legal_statuses: []
+tags: []
 ---
 
-# Cedros
+# Xavier Moonan
+
+**Known roles:** Geologist
 
 ## Articles
 
-- [[Articles/2026-07-02_Cedros-student-stabbed-outside-school|Cedros student stabbed outside school]]
 - [[Articles/2026-07-03_UWI-confirms-Venezuela-quakes-caused-Cedros-coastline-r|UWI confirms Venezuela quakes caused Cedros coastline r]]
