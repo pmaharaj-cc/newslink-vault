@@ -12,3 +12,4 @@ name: "Trinidad and Tobago Police Service"
 - [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
 - [[Articles/2026-07-02_17-police-officers-dismissed-from-TTPS|17 police officers dismissed from TTPS]]
 - [[Articles/2026-07-02_Dad-shot-dead-wife-and-child-wounded|Dad shot dead wife and child wounded]]
+- [[Articles/2026-07-04_Escaped-murder-accused-hunted-after-fleeing-Arima-hospi|Escaped murder accused hunted after fleeing Arima hospi]]
