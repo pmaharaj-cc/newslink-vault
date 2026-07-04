@@ -16,3 +16,4 @@ name: "government"
 - [[Articles/2026-07-01_A-Nation-of-Rhythm-Struggle-and-Triumph|A Nation of Rhythm Struggle and Triumph]]
 - [[Articles/2026-07-02_17-police-officers-dismissed-from-TTPS|17 police officers dismissed from TTPS]]
 - [[Articles/2026-07-02_Understanding-the-Equal-Opportunity-Act|Understanding the Equal Opportunity Act]]
+- [[Articles/2026-07-04_Botched-police-raid-to-cost-taxpayers-270000|Botched police raid to cost taxpayers 270000]]

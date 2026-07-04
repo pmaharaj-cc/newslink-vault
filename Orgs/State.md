@@ -1,11 +1,10 @@
 ---
 type: organization
-name: "High Court"
+name: "State"
 ---
 
-# High Court
+# State
 
 ## Articles
 
-- [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
 - [[Articles/2026-07-04_Botched-police-raid-to-cost-taxpayers-270000|Botched police raid to cost taxpayers 270000]]

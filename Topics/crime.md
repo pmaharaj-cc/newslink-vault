@@ -26,3 +26,6 @@ name: "crime"
 - [[Articles/2026-07-02_Dad-shot-dead-wife-and-child-wounded|Dad shot dead wife and child wounded]]
 - [[Articles/2026-07-02_Cedros-student-stabbed-outside-school|Cedros student stabbed outside school]]
 - [[Articles/2026-07-03_Killer-steps-from-car-executes-coconut-vendor|Killer steps from car executes coconut vendor]]
+- [[Articles/2026-07-04_Man-cleared-of-rape-convicted-of-stealing-exgirlfriends|Man cleared of rape convicted of stealing exgirlfriends]]
+- [[Articles/2026-07-04_Botched-police-raid-to-cost-taxpayers-270000|Botched police raid to cost taxpayers 270000]]
+- [[Articles/2026-07-04_Crosser-struck-dead-on-highway|Crosser struck dead on highway]]
