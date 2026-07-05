@@ -1,11 +1,10 @@
 ---
-type: topic
-name: "infrastructure"
+type: organization
+name: "Rediffusion (Trinidad) Ltd"
 ---
 
-# infrastructure
+# Rediffusion (Trinidad) Ltd
 
 ## Articles
 
-- [[Articles/2026-07-01_POSGH-Central-Block-at-97|POSGH Central Block at 97]]
 - [[Articles/2026-07-04_Preserve-Radio-Trinidads-historic-transmitting-station|Preserve Radio Trinidads historic transmitting station]]
