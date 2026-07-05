@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Couva"
+name: "Antigua"
 ---
 
-# Couva
+# Antigua
 
 ## Articles
 
-- [[Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped|Couple abducted out of house woman raped]]
 - [[Articles/2026-07-04_Regional-Dance-Classics-returns-to-TT|Regional Dance Classics returns to TT]]
