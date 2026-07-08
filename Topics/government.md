@@ -18,3 +18,4 @@ name: "government"
 - [[Articles/2026-07-02_Understanding-the-Equal-Opportunity-Act|Understanding the Equal Opportunity Act]]
 - [[Articles/2026-07-04_Botched-police-raid-to-cost-taxpayers-270000|Botched police raid to cost taxpayers 270000]]
 - [[Articles/2026-07-04_Preserve-Radio-Trinidads-historic-transmitting-station|Preserve Radio Trinidads historic transmitting station]]
+- [[Articles/2026-07-07_The-Growing-Passport-Security-Risk|The Growing Passport Security Risk]]
