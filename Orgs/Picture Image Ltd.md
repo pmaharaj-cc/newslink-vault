@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "infrastructure"
+type: organization
+name: "Picture Image Ltd"
 ---
 
-# infrastructure
+# Picture Image Ltd
 
 ## Articles
 

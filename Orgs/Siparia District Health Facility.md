@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "infrastructure"
+type: organization
+name: "Siparia District Health Facility"
 ---
 
-# infrastructure
+# Siparia District Health Facility
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "infrastructure"
+type: place
+name: "Siparia"
 ---
 
-# infrastructure
+# Siparia
 
 ## Articles
 

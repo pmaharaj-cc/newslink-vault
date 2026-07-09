@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "crime"
+type: organization
+name: "Crime Scene Investigators"
 ---
 
-# crime
+# Crime Scene Investigators
 
 ## Articles
 

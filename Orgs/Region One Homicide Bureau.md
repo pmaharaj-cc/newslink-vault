@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "crime"
+type: organization
+name: "Region One Homicide Bureau"
 ---
 
-# crime
+# Region One Homicide Bureau
 
 ## Articles
 

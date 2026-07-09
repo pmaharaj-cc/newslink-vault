@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "crime"
+type: organization
+name: "Carenage Police Station"
 ---
 
-# crime
+# Carenage Police Station
 
 ## Articles
 

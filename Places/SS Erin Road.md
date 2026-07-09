@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "infrastructure"
+type: place
+name: "SS Erin Road"
 ---
 
-# infrastructure
+# SS Erin Road
 
 ## Articles
 

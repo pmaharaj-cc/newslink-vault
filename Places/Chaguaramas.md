@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "crime"
+type: place
+name: "Chaguaramas"
 ---
 
-# crime
+# Chaguaramas
 
 ## Articles
 

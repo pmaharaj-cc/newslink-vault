@@ -7,5 +7,4 @@ name: "Freeport"
 
 ## Articles
 
-- [[Articles/2026-06-23_Couple-abducted-out-of-house-woman-raped|Couple abducted out of house woman raped]]
-- [[Articles/2026-06-26_Bullets-fly-at-Grand-Bazaar|Bullets fly at Grand Bazaar]]
+- [[Articles/2026-07-09_5-hurt-in-crash-involving-police|5 hurt in crash involving police]]

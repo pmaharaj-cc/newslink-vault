@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "crime"
+type: place
+name: "Mount St Catherine"
 ---
 
-# crime
+# Mount St Catherine
 
 ## Articles
 

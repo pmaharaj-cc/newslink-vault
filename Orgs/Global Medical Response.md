@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "infrastructure"
+type: organization
+name: "Global Medical Response"
 ---
 
-# infrastructure
+# Global Medical Response
 
 ## Articles
 
