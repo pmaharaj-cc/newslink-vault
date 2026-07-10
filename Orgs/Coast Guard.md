@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "Coast Guard"
 ---
 
-# social
+# Coast Guard
 
 ## Articles
 

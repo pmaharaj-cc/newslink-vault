@@ -1,9 +1,12 @@
 ---
-type: topic
-name: "social"
+type: person
+name: "Sallycar Korasingh"
+roles: []
+legal_statuses: []
+tags: []
 ---
 
-# social
+# Sallycar Korasingh
 
 ## Articles
 

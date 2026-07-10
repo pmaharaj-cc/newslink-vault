@@ -1,9 +1,12 @@
 ---
-type: topic
-name: "social"
+type: person
+name: "Rishi Samaroo"
+roles: []
+legal_statuses: []
+tags: []
 ---
 
-# social
+# Rishi Samaroo
 
 ## Articles
 

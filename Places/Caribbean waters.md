@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: place
+name: "Caribbean waters"
 ---
 
-# social
+# Caribbean waters
 
 ## Articles
 

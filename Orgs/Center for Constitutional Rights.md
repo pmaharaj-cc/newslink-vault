@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "Center for Constitutional Rights"
 ---
 
-# social
+# Center for Constitutional Rights
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: place
+name: "United States"
 ---
 
-# social
+# United States
 
 ## Articles
 

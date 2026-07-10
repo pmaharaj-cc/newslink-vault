@@ -1,9 +1,12 @@
 ---
-type: topic
-name: "social"
+type: person
+name: "Chad Joseph"
+roles: []
+legal_statuses: []
+tags: []
 ---
 
-# social
+# Chad Joseph
 
 ## Articles
 

@@ -44,12 +44,50 @@
       "articles": [
         "Articles/2026-07-09_5-hurt-in-crash-involving-police.md"
       ]
+    },
+    "Chad Joseph": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "Rishi Samaroo": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "Lenore Burnley": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "Sallycar Korasingh": {
+      "roles": [],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "Kamla Persad-Bissessar": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
     }
   },
   "Orgs": {
     "Trinidad and Tobago Police Service": {
       "articles": [
-        "Articles/2026-07-09_5-hurt-in-crash-involving-police.md"
+        "Articles/2026-07-09_5-hurt-in-crash-involving-police.md",
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
       ]
     },
     "Global Medical Response": {
@@ -80,6 +118,26 @@
     "Crime Scene Investigators": {
       "articles": [
         "Articles/2026-07-09_Body-found-on-Chaguaramas-road-police-appeal-for-help.md"
+      ]
+    },
+    "American Civil Liberties Union": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "Center for Constitutional Rights": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "High Court of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "Coast Guard": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
       ]
     }
   },
@@ -123,6 +181,21 @@
       "articles": [
         "Articles/2026-07-09_Body-found-on-Chaguaramas-road-police-appeal-for-help.md"
       ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "Caribbean waters": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "United States": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
     }
   },
   "Topics": {
@@ -139,6 +212,21 @@
     "crime": {
       "articles": [
         "Articles/2026-07-09_Body-found-on-Chaguaramas-road-police-appeal-for-help.md"
+      ]
+    },
+    "government": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "foreign-affairs": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "social": {
+      "articles": [
+        "Articles/2026-07-10_Families-seek-legal-declarations.md"
       ]
     }
   },

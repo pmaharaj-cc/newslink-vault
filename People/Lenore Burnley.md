@@ -1,9 +1,12 @@
 ---
-type: topic
-name: "social"
+type: person
+name: "Lenore Burnley"
+roles: []
+legal_statuses: []
+tags: []
 ---
 
-# social
+# Lenore Burnley
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "High Court of Trinidad and Tobago"
 ---
 
-# social
+# High Court of Trinidad and Tobago
 
 ## Articles
 

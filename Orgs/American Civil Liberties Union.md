@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "American Civil Liberties Union"
 ---
 
-# social
+# American Civil Liberties Union
 
 ## Articles
 
