@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Emergency Health Services"
+name: "Arima Borough Corporation"
 ---
 
-# Emergency Health Services
+# Arima Borough Corporation
 
 ## Articles
 

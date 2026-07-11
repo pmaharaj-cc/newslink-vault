@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Emergency Health Services"
+type: place
+name: "Woodford Gardens"
 ---
 
-# Emergency Health Services
+# Woodford Gardens
 
 ## Articles
 

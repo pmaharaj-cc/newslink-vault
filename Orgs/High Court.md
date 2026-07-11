@@ -7,5 +7,4 @@ name: "High Court"
 
 ## Articles
 
-- [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
-- [[Articles/2026-07-04_Botched-police-raid-to-cost-taxpayers-270000|Botched police raid to cost taxpayers 270000]]
+- [[Articles/2026-07-11_Woman-charged-with-businessmans-murder|Woman charged with businessmans murder]]

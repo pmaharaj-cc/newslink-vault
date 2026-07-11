@@ -189,6 +189,31 @@
       "articles": [
         "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
       ]
+    },
+    "Gregory Reece": {
+      "roles": [
+        "Businessman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
+    },
+    "Aaliyah Naipal": {
+      "roles": [
+        "Accused"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
+          "title": "Woman charged with businessman’s murder",
+          "date": "2026-07-11"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
     }
   },
   "Orgs": {
@@ -287,6 +312,26 @@
       "articles": [
         "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
       ]
+    },
+    "High Court": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
+    },
+    "Director of Public Prosecutions": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
+    },
+    "Emergency Health Services": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
+    },
+    "Arima Borough Corporation": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
     }
   },
   "Places": {
@@ -350,6 +395,21 @@
       "articles": [
         "Articles/2026-07-10_These-plants-do-well-in-the-shade.md"
       ]
+    },
+    "Woodford Gardens": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
+    },
+    "Chaguanas": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
+    },
+    "Arima": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
     }
   },
   "Topics": {
@@ -366,7 +426,8 @@
     },
     "crime": {
       "articles": [
-        "Articles/2026-07-09_Body-found-on-Chaguaramas-road-police-appeal-for-help.md"
+        "Articles/2026-07-09_Body-found-on-Chaguaramas-road-police-appeal-for-help.md",
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
     },
     "government": {
@@ -398,6 +459,11 @@
     "economy": {
       "articles": [
         "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "judiciary": {
+      "articles": [
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
     }
   },

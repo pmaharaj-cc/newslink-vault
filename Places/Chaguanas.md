@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Emergency Health Services"
+type: place
+name: "Chaguanas"
 ---
 
-# Emergency Health Services
+# Chaguanas
 
 ## Articles
 
