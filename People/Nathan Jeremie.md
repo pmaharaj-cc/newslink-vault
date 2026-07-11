@@ -1,14 +1,14 @@
 ---
 type: person
-name: "John Jeremie"
-roles: [Attorney General]
+name: "Nathan Jeremie"
+roles: [Deputy Chairman]
 legal_statuses: []
 tags: []
 ---
 
-# John Jeremie
+# Nathan Jeremie
 
-**Known roles:** Attorney General
+**Known roles:** Deputy Chairman
 
 ## Articles
 

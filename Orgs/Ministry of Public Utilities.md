@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Government of Trinidad and Tobago"
+name: "Ministry of Public Utilities"
 ---
 
-# Government of Trinidad and Tobago
+# Ministry of Public Utilities
 
 ## Articles
 

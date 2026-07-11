@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: organization
+name: "First Citizens Investment Services"
 ---
 
-# economy
+# First Citizens Investment Services
 
 ## Articles
 

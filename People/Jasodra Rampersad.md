@@ -1,14 +1,14 @@
 ---
 type: person
-name: "John Jeremie"
-roles: [Attorney General]
+name: "Jasodra Rampersad"
+roles: [Chairman]
 legal_statuses: []
 tags: []
 ---
 
-# John Jeremie
+# Jasodra Rampersad
 
-**Known roles:** Attorney General
+**Known roles:** Chairman
 
 ## Articles
 

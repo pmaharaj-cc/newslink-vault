@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Government of Trinidad and Tobago"
+type: person
+name: "Hardeo Bahall"
+roles: [Director]
+legal_statuses: []
+tags: []
 ---
 
-# Government of Trinidad and Tobago
+# Hardeo Bahall
+
+**Known roles:** Director
 
 ## Articles
 

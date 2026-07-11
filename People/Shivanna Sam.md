@@ -1,14 +1,14 @@
 ---
 type: person
-name: "John Jeremie"
-roles: [Attorney General]
+name: "Shivanna Sam"
+roles: [Parliamentary Secretary]
 legal_statuses: []
 tags: []
 ---
 
-# John Jeremie
+# Shivanna Sam
 
-**Known roles:** Attorney General
+**Known roles:** Parliamentary Secretary
 
 ## Articles
 

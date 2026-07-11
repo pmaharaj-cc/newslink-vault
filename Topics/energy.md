@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Government of Trinidad and Tobago"
+type: topic
+name: "energy"
 ---
 
-# Government of Trinidad and Tobago
+# energy
 
 ## Articles
 

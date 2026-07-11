@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: organization
+name: "Business Generation"
 ---
 
-# economy
+# Business Generation
 
 ## Articles
 

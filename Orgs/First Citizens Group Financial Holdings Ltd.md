@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: organization
+name: "First Citizens Group Financial Holdings Ltd"
 ---
 
-# economy
+# First Citizens Group Financial Holdings Ltd
 
 ## Articles
 

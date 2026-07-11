@@ -1,14 +1,14 @@
 ---
 type: person
-name: "John Jeremie"
-roles: [Attorney General]
+name: "Clyde Elder"
+roles: [Minister in the Ministry of Public Utilities]
 legal_statuses: []
 tags: []
 ---
 
-# John Jeremie
+# Clyde Elder
 
-**Known roles:** Attorney General
+**Known roles:** Minister in the Ministry of Public Utilities
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "environment"
+type: place
+name: "Long Island, New York"
 ---
 
-# environment
+# Long Island, New York
 
 ## Articles
 

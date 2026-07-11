@@ -1,14 +1,14 @@
 ---
 type: person
-name: "John Jeremie"
-roles: [Attorney General]
+name: "Barry Padarath"
+roles: [Minister of Public Utilities]
 legal_statuses: []
 tags: []
 ---
 
-# John Jeremie
+# Barry Padarath
 
-**Known roles:** Attorney General
+**Known roles:** Minister of Public Utilities
 
 ## Articles
 

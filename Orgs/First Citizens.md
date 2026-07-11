@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: organization
+name: "First Citizens"
 ---
 
-# economy
+# First Citizens
 
 ## Articles
 

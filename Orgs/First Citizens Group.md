@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: organization
+name: "First Citizens Group"
 ---
 
-# economy
+# First Citizens Group
 
 ## Articles
 

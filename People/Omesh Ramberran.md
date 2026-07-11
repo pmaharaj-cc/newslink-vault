@@ -1,14 +1,14 @@
 ---
 type: person
-name: "John Jeremie"
-roles: [Attorney General]
+name: "Omesh Ramberran"
+roles: [Director]
 legal_statuses: []
 tags: []
 ---
 
-# John Jeremie
+# Omesh Ramberran
 
-**Known roles:** Attorney General
+**Known roles:** Director
 
 ## Articles
 

@@ -81,6 +81,114 @@
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md"
       ]
+    },
+    "John Jeremie": {
+      "roles": [
+        "Attorney General"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Nathan Jeremie": {
+      "roles": [
+        "Deputy Chairman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Jasodra Rampersad": {
+      "roles": [
+        "Chairman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Omesh Ramberran": {
+      "roles": [
+        "Director"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Hardeo Bahall": {
+      "roles": [
+        "Director"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Barry Padarath": {
+      "roles": [
+        "Minister of Public Utilities"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Clyde Elder": {
+      "roles": [
+        "Minister in the Ministry of Public Utilities"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Shivanna Sam": {
+      "roles": [
+        "Parliamentary Secretary"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Sana Ragbir": {
+      "roles": [
+        "Deputy Chief Executive Officer, Business Generation"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "Jason Julien": {
+      "roles": [
+        "Group Chief Executive Officer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "Neela Moonilal-Kissoon": {
+      "roles": [
+        "Deputy Chief Executive Officer of Operations and Administration"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "Shankar Bidaisee": {
+      "roles": [
+        "Chairman, First Citizens Group Financial Holdings Ltd"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
     }
   },
   "Orgs": {
@@ -139,6 +247,46 @@
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md"
       ]
+    },
+    "Power Generation Company of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Ministry of Public Utilities": {
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "Government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "First Citizens": {
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "First Citizens Group Financial Holdings Ltd": {
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "First Citizens Group": {
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "Business Generation": {
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
+    },
+    "First Citizens Investment Services": {
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+      ]
     }
   },
   "Places": {
@@ -184,7 +332,8 @@
     },
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+        "Articles/2026-07-10_Families-seek-legal-declarations.md",
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
       ]
     },
     "Caribbean waters": {
@@ -196,12 +345,18 @@
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md"
       ]
+    },
+    "Long Island, New York": {
+      "articles": [
+        "Articles/2026-07-10_These-plants-do-well-in-the-shade.md"
+      ]
     }
   },
   "Topics": {
     "infrastructure": {
       "articles": [
-        "Articles/2026-07-09_5-hurt-in-crash-involving-police.md"
+        "Articles/2026-07-09_5-hurt-in-crash-involving-police.md",
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
       ]
     },
     "health": {
@@ -216,7 +371,8 @@
     },
     "government": {
       "articles": [
-        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+        "Articles/2026-07-10_Families-seek-legal-declarations.md",
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
       ]
     },
     "foreign-affairs": {
@@ -227,6 +383,21 @@
     "social": {
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md"
+      ]
+    },
+    "environment": {
+      "articles": [
+        "Articles/2026-07-10_These-plants-do-well-in-the-shade.md"
+      ]
+    },
+    "energy": {
+      "articles": [
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+      ]
+    },
+    "economy": {
+      "articles": [
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
       ]
     }
   },

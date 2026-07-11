@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Government of Trinidad and Tobago"
+name: "Power Generation Company of Trinidad and Tobago"
 ---
 
-# Government of Trinidad and Tobago
+# Power Generation Company of Trinidad and Tobago
 
 ## Articles
 
