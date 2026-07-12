@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Port of Spain"
+type: organization
+name: "Silver Stars Steel Orchestra"
 ---
 
-# Port of Spain
+# Silver Stars Steel Orchestra
 
 ## Articles
 

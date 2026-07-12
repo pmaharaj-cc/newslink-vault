@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Trinidad"
+type: organization
+name: "Silver Stars"
 ---
 
-# Trinidad
+# Silver Stars
 
 ## Articles
 

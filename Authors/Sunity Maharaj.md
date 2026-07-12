@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Trinidad"
+type: author
+name: "Sunity Maharaj"
 ---
 
-# Trinidad
+# Sunity Maharaj
 
 ## Articles
 

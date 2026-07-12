@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Port of Spain"
+name: "Laventille"
 ---
 
-# Port of Spain
+# Laventille
 
 ## Articles
 

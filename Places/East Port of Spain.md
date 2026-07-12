@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Port of Spain"
+name: "East Port of Spain"
 ---
 
-# Port of Spain
+# East Port of Spain
 
 ## Articles
 

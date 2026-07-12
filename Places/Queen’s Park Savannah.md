@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Trinidad"
+name: "Queen’s Park Savannah"
 ---
 
-# Trinidad
+# Queen’s Park Savannah
 
 ## Articles
 

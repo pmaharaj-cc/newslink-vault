@@ -129,11 +129,13 @@
     },
     "Barry Padarath": {
       "roles": [
-        "Minister of Public Utilities"
+        "Minister of Public Utilities",
+        "MP"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md",
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
       ]
     },
     "Clyde Elder": {
@@ -207,12 +209,39 @@
         {
           "status": "charged",
           "article": "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
-          "title": "Woman charged with businessman’s murder",
+          "title": "Woman charged with businessmanâs murder",
           "date": "2026-07-11"
         }
       ],
       "articles": [
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+      ]
+    },
+    "Saddam Hosein": {
+      "roles": [
+        "MP"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
+      ]
+    },
+    "Roodal Moonilal": {
+      "roles": [
+        "MP"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
+      ]
+    },
+    "Williams": {
+      "roles": [
+        "Doctor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
       ]
     }
   },
@@ -220,7 +249,9 @@
     "Trinidad and Tobago Police Service": {
       "articles": [
         "Articles/2026-07-09_5-hurt-in-crash-involving-police.md",
-        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+        "Articles/2026-07-10_Families-seek-legal-declarations.md",
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md",
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
       ]
     },
     "Global Medical Response": {
@@ -332,6 +363,26 @@
       "articles": [
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
+    },
+    "Silver Stars": {
+      "articles": [
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md"
+      ]
+    },
+    "Silver Stars Steel Orchestra": {
+      "articles": [
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+      ]
+    },
+    "Trinidad All Steel Percussion Orchestra": {
+      "articles": [
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+      ]
+    },
+    "Festival of Britain": {
+      "articles": [
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+      ]
     }
   },
   "Places": {
@@ -378,7 +429,9 @@
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md",
-        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md",
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
       ]
     },
     "Caribbean waters": {
@@ -410,6 +463,41 @@
       "articles": [
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
+    },
+    "Queen’s Park Savannah": {
+      "articles": [
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md"
+      ]
+    },
+    "North Stand": {
+      "articles": [
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md"
+      ]
+    },
+    "Trinidad": {
+      "articles": [
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md"
+      ]
+    },
+    "Port of Spain": {
+      "articles": [
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+      ]
+    },
+    "East Port of Spain": {
+      "articles": [
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+      ]
+    },
+    "Laventille": {
+      "articles": [
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+      ]
+    },
+    "Teteron Barracks": {
+      "articles": [
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
+      ]
     }
   },
   "Topics": {
@@ -427,13 +515,18 @@
     "crime": {
       "articles": [
         "Articles/2026-07-09_Body-found-on-Chaguaramas-road-police-appeal-for-help.md",
-        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
+        "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md",
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
       ]
     },
     "government": {
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md",
-        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md",
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
       ]
     },
     "foreign-affairs": {
@@ -443,7 +536,9 @@
     },
     "social": {
       "articles": [
-        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+        "Articles/2026-07-10_Families-seek-legal-declarations.md",
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md",
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
       ]
     },
     "environment": {
@@ -465,7 +560,19 @@
       "articles": [
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
+    },
+    "culture": {
+      "articles": [
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md",
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+      ]
     }
   },
-  "Authors": {}
+  "Authors": {
+    "Sunity Maharaj": {
+      "articles": [
+        "Articles/2026-07-11_Shine-On-Silver-Stars.md"
+      ]
+    }
+  }
 }

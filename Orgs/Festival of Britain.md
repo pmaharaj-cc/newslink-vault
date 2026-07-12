@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Port of Spain"
+type: organization
+name: "Festival of Britain"
 ---
 
-# Port of Spain
+# Festival of Britain
 
 ## Articles
 

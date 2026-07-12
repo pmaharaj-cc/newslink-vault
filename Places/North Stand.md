@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Trinidad"
+name: "North Stand"
 ---
 
-# Trinidad
+# North Stand
 
 ## Articles
 
