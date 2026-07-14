@@ -209,7 +209,7 @@
         {
           "status": "charged",
           "article": "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
-          "title": "Woman charged with businessmanÃÂ¢ÃÂÃÂs murder",
+          "title": "Woman charged with businessmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂs murder",
           "date": "2026-07-11"
         }
       ],
@@ -278,6 +278,60 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe.md"
+      ]
+    },
+    "Jonathan David Harvey": {
+      "roles": [
+        "Candidate"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Nigel Farage": {
+      "roles": [
+        "Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Giorgia Meloni": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Marine Le Pen": {
+      "roles": [
+        "Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Alice Weidel": {
+      "roles": [
+        "Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Andy Burnham": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
       ]
     }
   },
@@ -491,6 +545,31 @@
       "articles": [
         "Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe.md"
       ]
+    },
+    "Official Monster Raving Loony Party": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Reform UK": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "UK Independence Party": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Brexit Party": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Labour Party": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
     }
   },
   "Places": {
@@ -575,7 +654,7 @@
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
     },
-    "QueenÃ¢ÂÂs Park Savannah": {
+    "QueenÃÂ¢ÃÂÃÂs Park Savannah": {
       "articles": [
         "Articles/2026-07-11_Shine-On-Silver-Stars.md"
       ]
@@ -620,6 +699,36 @@
       "articles": [
         "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
       ]
+    },
+    "Britain": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "United Kingdom": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Italy": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "France": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Germany": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "western Europe": {
+      "articles": [
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
     }
   },
   "Topics": {
@@ -654,13 +763,15 @@
         "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md",
         "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md",
         "Articles/2026-07-13_A-More-Inclusive-National-Census.md",
-        "Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe.md"
+        "Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe.md",
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
       ]
     },
     "foreign-affairs": {
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md",
-        "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md"
+        "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md",
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
       ]
     },
     "social": {
