@@ -209,7 +209,7 @@
         {
           "status": "charged",
           "article": "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
-          "title": "Woman charged with businessmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂs murder",
+          "title": "Woman charged with businessmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs murder",
           "date": "2026-07-11"
         }
       ],
@@ -332,6 +332,31 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+      ]
+    },
+    "Kernel Dates": {
+      "roles": [
+        "Police Officer"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md",
+          "title": "Cop charged after man shot in row",
+          "date": "2026-07-13"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+      ]
+    },
+    "Osae Murray": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
       ]
     }
   },
@@ -570,6 +595,21 @@
       "articles": [
         "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
       ]
+    },
+    "Police Complaints Authority": {
+      "articles": [
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+      ]
+    },
+    "Roxborough Hospital": {
+      "articles": [
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+      ]
+    },
+    "Scarborough General Hospital": {
+      "articles": [
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+      ]
     }
   },
   "Places": {
@@ -654,7 +694,7 @@
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
     },
-    "QueenÃÂ¢ÃÂÃÂs Park Savannah": {
+    "QueenÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Park Savannah": {
       "articles": [
         "Articles/2026-07-11_Shine-On-Silver-Stars.md"
       ]
@@ -729,6 +769,16 @@
       "articles": [
         "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
       ]
+    },
+    "Bloody Bay": {
+      "articles": [
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+      ]
+    },
+    "Tobago": {
+      "articles": [
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+      ]
     }
   },
   "Topics": {
@@ -742,7 +792,8 @@
     },
     "health": {
       "articles": [
-        "Articles/2026-07-09_5-hurt-in-crash-involving-police.md"
+        "Articles/2026-07-09_5-hurt-in-crash-involving-police.md",
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
       ]
     },
     "crime": {
@@ -751,7 +802,8 @@
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
         "Articles/2026-07-11_Shine-On-Silver-Stars.md",
         "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
-        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md",
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
       ]
     },
     "government": {
@@ -764,7 +816,8 @@
         "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md",
         "Articles/2026-07-13_A-More-Inclusive-National-Census.md",
         "Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe.md",
-        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md",
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
       ]
     },
     "foreign-affairs": {
