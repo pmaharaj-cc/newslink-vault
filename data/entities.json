@@ -209,7 +209,7 @@
         {
           "status": "charged",
           "article": "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
-          "title": "Woman charged with businessmanâs murder",
+          "title": "Woman charged with businessmanÃ¢ÂÂs murder",
           "date": "2026-07-11"
         }
       ],
@@ -316,7 +316,8 @@
     },
     "Government of Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md",
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
       ]
     },
     "First Citizens": {
@@ -383,6 +384,61 @@
       "articles": [
         "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
       ]
+    },
+    "Caribbean Community (Caricom)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Caribbean Private Sector Organisation (CPSO)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "OECS Business Council (OBC)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Organisation of Eastern Caribbean States (OECS)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Caribbean Congress of Labour (CCL)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Inter-American Development Bank (IDB)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Caribbean Development Bank (CDB)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Caricom Development Fund (CDF)": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Central Statistical Office (CSO)": {
+      "articles": [
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
+      ]
+    },
+    "National Statistical Institute of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
+      ]
+    },
+    "Trinidad and Tobago Government": {
+      "articles": [
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
+      ]
     }
   },
   "Places": {
@@ -431,7 +487,10 @@
         "Articles/2026-07-10_Families-seek-legal-declarations.md",
         "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md",
         "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
-        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md",
+        "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md",
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md",
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
       ]
     },
     "Caribbean waters": {
@@ -464,7 +523,7 @@
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
     },
-    "Queen’s Park Savannah": {
+    "Queenâs Park Savannah": {
       "articles": [
         "Articles/2026-07-11_Shine-On-Silver-Stars.md"
       ]
@@ -498,13 +557,25 @@
       "articles": [
         "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
       ]
+    },
+    "Saint Lucia": {
+      "articles": [
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
+      ]
+    },
+    "Venezuela": {
+      "articles": [
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
+      ]
     }
   },
   "Topics": {
     "infrastructure": {
       "articles": [
         "Articles/2026-07-09_5-hurt-in-crash-involving-police.md",
-        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md"
+        "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md",
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md",
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
       ]
     },
     "health": {
@@ -526,19 +597,24 @@
         "Articles/2026-07-10_Families-seek-legal-declarations.md",
         "Articles/2026-07-10_AGs-son-named-deputy-chair-of-PowerGen.md",
         "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
-        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md",
+        "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md",
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md",
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
       ]
     },
     "foreign-affairs": {
       "articles": [
-        "Articles/2026-07-10_Families-seek-legal-declarations.md"
+        "Articles/2026-07-10_Families-seek-legal-declarations.md",
+        "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md"
       ]
     },
     "social": {
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md",
         "Articles/2026-07-11_Shine-On-Silver-Stars.md",
-        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
+        "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
       ]
     },
     "environment": {
@@ -553,7 +629,9 @@
     },
     "economy": {
       "articles": [
-        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md"
+        "Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO.md",
+        "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md",
+        "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md"
       ]
     },
     "judiciary": {
@@ -572,6 +650,16 @@
     "Sunity Maharaj": {
       "articles": [
         "Articles/2026-07-11_Shine-On-Silver-Stars.md"
+      ]
+    },
+    "Jessel Mahase": {
+      "articles": [
+        "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md"
+      ]
+    },
+    "Express Editorial": {
+      "articles": [
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
       ]
     }
   }

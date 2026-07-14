@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: organization
+name: "Trinidad and Tobago Government"
 ---
 
-# Venezuela
+# Trinidad and Tobago Government
 
 ## Articles
 

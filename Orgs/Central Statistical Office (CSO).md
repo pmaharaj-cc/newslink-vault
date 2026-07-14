@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: organization
+name: "Central Statistical Office (CSO)"
 ---
 
-# Venezuela
+# Central Statistical Office (CSO)
 
 ## Articles
 

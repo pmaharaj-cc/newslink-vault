@@ -1,11 +1,10 @@
 ---
-type: topic
-name: "foreign-affairs"
+type: author
+name: "Jessel Mahase"
 ---
 
-# foreign-affairs
+# Jessel Mahase
 
 ## Articles
 
-- [[Articles/2026-07-10_Families-seek-legal-declarations|Families seek legal declarations]]
 - [[Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask|AI sovereignty and the questions Trinidad must ask]]

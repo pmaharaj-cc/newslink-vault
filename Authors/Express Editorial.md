@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: author
+name: "Express Editorial"
 ---
 
-# Venezuela
+# Express Editorial
 
 ## Articles
 
