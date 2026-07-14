@@ -1,11 +1,10 @@
 ---
 type: organization
-name: "High Court"
+name: "Court of Appeal"
 ---
 
-# High Court
+# Court of Appeal
 
 ## Articles
 
-- [[Articles/2026-07-11_Woman-charged-with-businessmans-murder|Woman charged with businessmans murder]]
 - [[Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe|Court upholds Customs bid to recover 95000 from importe]]
