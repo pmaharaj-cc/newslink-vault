@@ -209,7 +209,7 @@
         {
           "status": "charged",
           "article": "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
-          "title": "Woman charged with businessmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs murder",
+          "title": "Woman charged with businessmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs murder",
           "date": "2026-07-11"
         }
       ],
@@ -357,6 +357,67 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+      ]
+    },
+    "Earl Richards": {
+      "roles": [
+        "Detained individual"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
+    },
+    "Rajaee Ali": {
+      "roles": [
+        "Detained individual"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
+    },
+    "Christopher Hughes": {
+      "roles": [
+        "Vlogger"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md",
+          "title": "Ali, Chris Must List, Richards' attorneys write to COP",
+          "date": "2026-07-15"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
+    },
+    "Criston J Williams": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
+    },
+    "Blaine Sobrian": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
+    },
+    "Aaron Lewis": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
       ]
     }
   },
@@ -610,6 +671,21 @@
       "articles": [
         "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
       ]
+    },
+    "Police Service": {
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
+    },
+    "Strategic Services Agency": {
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
+    },
+    "Quantum Legal": {
+      "articles": [
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
+      ]
     }
   },
   "Places": {
@@ -661,7 +737,8 @@
         "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md",
         "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md",
         "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md",
-        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md",
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
       ]
     },
     "Caribbean waters": {
@@ -694,7 +771,7 @@
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
     },
-    "QueenÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Park Savannah": {
+    "QueenÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Park Savannah": {
       "articles": [
         "Articles/2026-07-11_Shine-On-Silver-Stars.md"
       ]
@@ -727,7 +804,8 @@
     },
     "Teteron Barracks": {
       "articles": [
-        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md"
+        "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md",
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
       ]
     },
     "Saint Lucia": {
@@ -803,7 +881,8 @@
         "Articles/2026-07-11_Shine-On-Silver-Stars.md",
         "Articles/2026-07-11_Pan-Police-and-Public-Trust.md",
         "Articles/2026-07-11_Whos-out-to-get-you-now-PM.md",
-        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md",
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
       ]
     },
     "government": {
@@ -817,7 +896,8 @@
         "Articles/2026-07-13_A-More-Inclusive-National-Census.md",
         "Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe.md",
         "Articles/2026-07-13_The-eccentrics-of-British-politics.md",
-        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md"
+        "Articles/2026-07-13_Cop-charged-after-man-shot-in-row.md",
+        "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md"
       ]
     },
     "foreign-affairs": {

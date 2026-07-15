@@ -17,3 +17,4 @@ name: "government"
 - [[Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe|Court upholds Customs bid to recover 95000 from importe]]
 - [[Articles/2026-07-13_The-eccentrics-of-British-politics|The eccentrics of British politics]]
 - [[Articles/2026-07-13_Cop-charged-after-man-shot-in-row|Cop charged after man shot in row]]
+- [[Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP|Ali Chris Must List Richards attorneys write to COP]]

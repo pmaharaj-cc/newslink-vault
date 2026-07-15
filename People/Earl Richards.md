@@ -1,11 +1,15 @@
 ---
-type: place
-name: "Teteron Barracks"
+type: person
+name: "Earl Richards"
+roles: [Detained individual]
+legal_statuses: []
+tags: []
 ---
 
-# Teteron Barracks
+# Earl Richards
+
+**Known roles:** Detained individual
 
 ## Articles
 
-- [[Articles/2026-07-11_Whos-out-to-get-you-now-PM|Whos out to get you now PM]]
 - [[Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP|Ali Chris Must List Richards attorneys write to COP]]
