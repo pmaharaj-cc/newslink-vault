@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Police"
+type: person
+name: "Kadeem Mason"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Police
+# Kadeem Mason
+
+**Known roles:** Victim
 
 ## Articles
 

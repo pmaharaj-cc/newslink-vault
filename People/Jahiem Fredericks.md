@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Police"
+type: person
+name: "Jahiem Fredericks"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Police
+# Jahiem Fredericks
+
+**Known roles:** Victim
 
 ## Articles
 

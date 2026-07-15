@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Police"
+name: "St James Medical Facility"
 ---
 
-# Police
+# St James Medical Facility
 
 ## Articles
 

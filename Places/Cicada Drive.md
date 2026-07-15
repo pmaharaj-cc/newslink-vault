@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Police"
+type: place
+name: "Cicada Drive"
 ---
 
-# Police
+# Cicada Drive
 
 ## Articles
 

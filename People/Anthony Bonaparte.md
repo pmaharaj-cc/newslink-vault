@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Police"
+type: person
+name: "Anthony Bonaparte"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Police
+# Anthony Bonaparte
+
+**Known roles:** Victim
 
 ## Articles
 
