@@ -13,3 +13,4 @@ tags: []
 ## Articles
 
 - [[Articles/2026-07-10_Families-seek-legal-declarations|Families seek legal declarations]]
+- [[Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres|Calls grow for clarity on AI data centres]]
