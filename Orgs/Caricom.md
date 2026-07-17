@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: organization
+name: "Caricom"
 ---
 
-# disaster
+# Caricom
 
 ## Articles
 

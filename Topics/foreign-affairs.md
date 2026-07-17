@@ -10,3 +10,5 @@ name: "foreign-affairs"
 - [[Articles/2026-07-10_Families-seek-legal-declarations|Families seek legal declarations]]
 - [[Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask|AI sovereignty and the questions Trinidad must ask]]
 - [[Articles/2026-07-13_The-eccentrics-of-British-politics|The eccentrics of British politics]]
+- [[Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity|Earthquake tragedy sparks regional unity]]
+- [[Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori|Sobers joins US led talks on far left political terrori]]

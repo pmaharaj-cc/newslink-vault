@@ -21,3 +21,5 @@ name: "government"
 - [[Articles/2026-07-15_8-year-old-tells-19-year-old-mother-she-was-being-raped|8 year old tells 19 year old mother she was being raped]]
 - [[Articles/2026-07-16_Parents-signal-legal-action|Parents signal legal action]]
 - [[Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres|Calls grow for clarity on AI data centres]]
+- [[Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity|Earthquake tragedy sparks regional unity]]
+- [[Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori|Sobers joins US led talks on far left political terrori]]

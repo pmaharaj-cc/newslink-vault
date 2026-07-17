@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: organization
+name: "International Court of Justice"
 ---
 
-# disaster
+# International Court of Justice
 
 ## Articles
 

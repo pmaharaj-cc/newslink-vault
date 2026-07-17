@@ -210,7 +210,7 @@
         {
           "status": "charged",
           "article": "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md",
-          "title": "Woman charged with businessmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs murder",
+          "title": "Woman charged with businessmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs murder",
           "date": "2026-07-11"
         }
       ],
@@ -509,6 +509,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres.md"
+      ]
+    },
+    "Delcy Rodríguez": {
+      "roles": [
+        "Acting President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
+    },
+    "Nicolas Maduro": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
+    },
+    "Sean Sobers": {
+      "roles": [
+        "Minister of Foreign and Caricom Affairs"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
       ]
     }
   },
@@ -838,6 +865,31 @@
       "articles": [
         "Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres.md"
       ]
+    },
+    "Caricom": {
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
+    },
+    "International Court of Justice": {
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
+      ]
+    },
+    "United States": {
+      "articles": [
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
+      ]
+    },
+    "Ministry of Foreign and Caricom Affairs": {
+      "articles": [
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
+      ]
     }
   },
   "Places": {
@@ -891,7 +943,8 @@
         "Articles/2026-07-13_Caricom-backs-pilot-ferry-service.md",
         "Articles/2026-07-13_A-More-Inclusive-National-Census.md",
         "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md",
-        "Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres.md"
+        "Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres.md",
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
       ]
     },
     "Caribbean waters": {
@@ -924,7 +977,7 @@
         "Articles/2026-07-11_Woman-charged-with-businessmans-murder.md"
       ]
     },
-    "QueenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Park Savannah": {
+    "QueenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Park Savannah": {
       "articles": [
         "Articles/2026-07-11_Shine-On-Silver-Stars.md"
       ]
@@ -968,7 +1021,8 @@
     },
     "Venezuela": {
       "articles": [
-        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md",
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
       ]
     },
     "Britain": {
@@ -1036,6 +1090,26 @@
       "articles": [
         "Articles/2026-07-16_Parents-signal-legal-action.md"
       ]
+    },
+    "Guyana": {
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
+    },
+    "Haiti": {
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
+    },
+    "Essequibo region": {
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
+    },
+    "Washington, DC": {
+      "articles": [
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
+      ]
     }
   },
   "Topics": {
@@ -1084,14 +1158,18 @@
         "Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP.md",
         "Articles/2026-07-15_8-year-old-tells-19-year-old-mother-she-was-being-raped.md",
         "Articles/2026-07-16_Parents-signal-legal-action.md",
-        "Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres.md"
+        "Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres.md",
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md",
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
       ]
     },
     "foreign-affairs": {
       "articles": [
         "Articles/2026-07-10_Families-seek-legal-declarations.md",
         "Articles/2026-07-13_AI-sovereignty-and-the-questions-Trinidad-must-ask.md",
-        "Articles/2026-07-13_The-eccentrics-of-British-politics.md"
+        "Articles/2026-07-13_The-eccentrics-of-British-politics.md",
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md",
+        "Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori.md"
       ]
     },
     "social": {
@@ -1133,6 +1211,11 @@
         "Articles/2026-07-11_Shine-On-Silver-Stars.md",
         "Articles/2026-07-11_Pan-Police-and-Public-Trust.md"
       ]
+    },
+    "disaster": {
+      "articles": [
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
+      ]
     }
   },
   "Authors": {
@@ -1148,7 +1231,8 @@
     },
     "Express Editorial": {
       "articles": [
-        "Articles/2026-07-13_A-More-Inclusive-National-Census.md"
+        "Articles/2026-07-13_A-More-Inclusive-National-Census.md",
+        "Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity.md"
       ]
     }
   }

@@ -1,9 +1,14 @@
 ---
-type: topic
-name: "disaster"
+type: person
+name: "Nicolas Maduro"
+roles: [President]
+legal_statuses: []
+tags: []
 ---
 
-# disaster
+# Nicolas Maduro
+
+**Known roles:** President
 
 ## Articles
 
