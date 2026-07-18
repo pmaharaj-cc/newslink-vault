@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Barbados"
+name: "MetLife Stadium"
 ---
 
-# Barbados
+# MetLife Stadium
 
 ## Articles
 

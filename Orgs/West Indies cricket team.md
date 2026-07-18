@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Barbados"
+type: organization
+name: "West Indies cricket team"
 ---
 
-# Barbados
+# West Indies cricket team
 
 ## Articles
 

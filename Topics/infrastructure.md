@@ -12,3 +12,4 @@ name: "infrastructure"
 - [[Articles/2026-07-13_Caricom-backs-pilot-ferry-service|Caricom backs pilot ferry service]]
 - [[Articles/2026-07-13_A-More-Inclusive-National-Census|A More Inclusive National Census]]
 - [[Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres|Calls grow for clarity on AI data centres]]
+- [[Articles/2026-07-17_Transparency-call-over-govt-MoUs|Transparency call over govt MoUs]]

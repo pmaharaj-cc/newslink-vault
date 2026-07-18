@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Barbados"
+name: "New Jersey"
 ---
 
-# Barbados
+# New Jersey
 
 ## Articles
 
