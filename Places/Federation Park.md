@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Forensic Science Centre"
+type: place
+name: "Federation Park"
 ---
 
-# Forensic Science Centre
+# Federation Park
 
 ## Articles
 

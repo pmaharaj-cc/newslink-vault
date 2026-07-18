@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Forensic Science Centre"
+type: place
+name: "Quarry Road"
 ---
 
-# Forensic Science Centre
+# Quarry Road
 
 ## Articles
 

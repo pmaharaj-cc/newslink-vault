@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Vallence Rambharat"
-roles: [Rescue Team Leader]
+name: "Dennis Archagee"
+roles: [Victim]
 legal_statuses: []
 tags: []
 ---
 
-# Vallence Rambharat
+# Dennis Archagee
 
-**Known roles:** Rescue Team Leader
+**Known roles:** Victim
 
 ## Articles
 
