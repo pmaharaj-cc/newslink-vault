@@ -27,3 +27,5 @@ name: "government"
 - [[Articles/2026-07-17_State-contacts-Privy-Council-for-expedited-hearing|State contacts Privy Council for expedited hearing]]
 - [[Articles/2026-07-17_Transparency-call-over-govt-MoUs|Transparency call over govt MoUs]]
 - [[Articles/2026-07-18_Should-cop-recuse-himself-in-intelligence-review|Should cop recuse himself in intelligence review]]
+- [[Articles/2026-07-18_Hadeeds-remain-behind-bars|Hadeeds remain behind bars]]
+- [[Articles/2026-07-18_Woman-to-get-103000-in-police-assault-case|Woman to get 103000 in police assault case]]

@@ -1,16 +1,15 @@
 ---
 type: person
 name: "Gerald Ramdeen"
-roles: []
+roles: [Attorney]
 legal_statuses: []
-tags: ["person"]
+tags: []
 ---
 
 # Gerald Ramdeen
 
-**Known roles:** Unknown
-
+**Known roles:** Attorney
 
 ## Articles
 
-- [[Articles/2026-05-19_Ramdeen-slams-Bharath-over-Moodys-criticism|Ramdeen slams Bharath over Moody's criticism]]
+- [[Articles/2026-07-18_Hadeeds-remain-behind-bars|Hadeeds remain behind bars]]

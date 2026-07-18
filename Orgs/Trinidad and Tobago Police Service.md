@@ -11,3 +11,4 @@ name: "Trinidad and Tobago Police Service"
 - [[Articles/2026-07-10_Families-seek-legal-declarations|Families seek legal declarations]]
 - [[Articles/2026-07-11_Shine-On-Silver-Stars|Shine On Silver Stars]]
 - [[Articles/2026-07-11_Pan-Police-and-Public-Trust|Pan Police and Public Trust]]
+- [[Articles/2026-07-18_Woman-to-get-103000-in-police-assault-case|Woman to get 103000 in police assault case]]
