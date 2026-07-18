@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Star Sabga"
-roles: [Relative]
+roles: [Aunt]
 legal_statuses: []
 tags: []
 ---
 
 # Star Sabga
 
-**Known roles:** Relative
+**Known roles:** Aunt
 
 ## Articles
 
-- [[Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter|The State brings in UK Kings Counsel for Hadeed matter]]
+- [[Articles/2026-07-17_State-contacts-Privy-Council-for-expedited-hearing|State contacts Privy Council for expedited hearing]]

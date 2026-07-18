@@ -7,4 +7,5 @@ name: "State"
 
 ## Articles
 
-- [[Articles/2026-07-04_Botched-police-raid-to-cost-taxpayers-270000|Botched police raid to cost taxpayers 270000]]
+- [[Articles/2026-07-17_Freedom-hangs-in-balance-judges-considering-release|Freedom hangs in balance judges considering release]]
+- [[Articles/2026-07-17_State-contacts-Privy-Council-for-expedited-hearing|State contacts Privy Council for expedited hearing]]

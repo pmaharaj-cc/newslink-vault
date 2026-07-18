@@ -1,12 +1,11 @@
 ---
-type: topic
-name: "judiciary"
+type: organization
+name: "Privy Council"
 ---
 
-# judiciary
+# Privy Council
 
 ## Articles
 
-- [[Articles/2026-07-11_Woman-charged-with-businessmans-murder|Woman charged with businessmans murder]]
 - [[Articles/2026-07-17_Freedom-hangs-in-balance-judges-considering-release|Freedom hangs in balance judges considering release]]
 - [[Articles/2026-07-17_State-contacts-Privy-Council-for-expedited-hearing|State contacts Privy Council for expedited hearing]]

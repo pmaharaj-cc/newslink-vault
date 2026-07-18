@@ -23,3 +23,5 @@ name: "government"
 - [[Articles/2026-07-16_Calls-grow-for-clarity-on-AI-data-centres|Calls grow for clarity on AI data centres]]
 - [[Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity|Earthquake tragedy sparks regional unity]]
 - [[Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori|Sobers joins US led talks on far left political terrori]]
+- [[Articles/2026-07-17_Freedom-hangs-in-balance-judges-considering-release|Freedom hangs in balance judges considering release]]
+- [[Articles/2026-07-17_State-contacts-Privy-Council-for-expedited-hearing|State contacts Privy Council for expedited hearing]]

@@ -16,3 +16,5 @@ name: "crime"
 - [[Articles/2026-07-15_Ali-Chris-Must-List-Richards-attorneys-write-to-COP|Ali Chris Must List Richards attorneys write to COP]]
 - [[Articles/2026-07-15_8-year-old-tells-19-year-old-mother-she-was-being-raped|8 year old tells 19 year old mother she was being raped]]
 - [[Articles/2026-07-15_Gun-attack-in-Diego-Martin-takes-murder-toll-to-204|Gun attack in Diego Martin takes murder toll to 204]]
+- [[Articles/2026-07-17_Freedom-hangs-in-balance-judges-considering-release|Freedom hangs in balance judges considering release]]
+- [[Articles/2026-07-17_State-contacts-Privy-Council-for-expedited-hearing|State contacts Privy Council for expedited hearing]]
