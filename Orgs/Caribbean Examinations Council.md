@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "education"
+type: organization
+name: "Caribbean Examinations Council"
 ---
 
-# education
+# Caribbean Examinations Council
 
 ## Articles
 
