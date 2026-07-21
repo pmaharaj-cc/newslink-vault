@@ -14,3 +14,4 @@ name: "Trinidad"
 - [[Articles/2026-07-18_Should-cop-recuse-himself-in-intelligence-review|Should cop recuse himself in intelligence review]]
 - [[Articles/2026-07-18_Playwright-Eric-Barry-moves-drama-to-the-virtual-stage|Playwright Eric Barry moves drama to the virtual stage]]
 - [[Articles/2026-07-20_Milans-magical-moment|Milans magical moment]]
+- [[Articles/2026-07-20_Traffic-Courtesies-Matter|Traffic Courtesies Matter]]

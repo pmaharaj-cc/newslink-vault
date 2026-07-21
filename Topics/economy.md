@@ -12,3 +12,5 @@ name: "economy"
 - [[Articles/2026-07-13_Caricom-backs-pilot-ferry-service|Caricom backs pilot ferry service]]
 - [[Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe|Court upholds Customs bid to recover 95000 from importe]]
 - [[Articles/2026-07-17_Transparency-call-over-govt-MoUs|Transparency call over govt MoUs]]
+- [[Articles/2026-07-20_AI-data-centres-wont-save-us|AI data centres wont save us]]
+- [[Articles/2026-07-20_Traffic-Courtesies-Matter|Traffic Courtesies Matter]]
