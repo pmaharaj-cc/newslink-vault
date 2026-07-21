@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: author
+name: "Cecila Melville"
 ---
 
-# economy
+# Cecila Melville
 
 ## Articles
 

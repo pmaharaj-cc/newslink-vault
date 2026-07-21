@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: organization
+name: "United Nations General Assembly"
 ---
 
-# economy
+# United Nations General Assembly
 
 ## Articles
 

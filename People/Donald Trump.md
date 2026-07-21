@@ -1,9 +1,14 @@
 ---
-type: place
-name: "United States"
+type: person
+name: "Donald Trump"
+roles: [President, Former President]
+legal_statuses: []
+tags: []
 ---
 
-# United States
+# Donald Trump
+
+**Known roles:** President, Former President
 
 ## Articles
 

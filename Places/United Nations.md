@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "economy"
+type: place
+name: "United Nations"
 ---
 
-# economy
+# United Nations
 
 ## Articles
 
