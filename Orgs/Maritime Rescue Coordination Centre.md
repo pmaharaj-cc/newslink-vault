@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Guyana"
+type: organization
+name: "Maritime Rescue Coordination Centre"
 ---
 
-# Guyana
+# Maritime Rescue Coordination Centre
 
 ## Articles
 

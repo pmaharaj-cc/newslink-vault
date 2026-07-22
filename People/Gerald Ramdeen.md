@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Gerald Ramdeen"
-roles: [Attorney]
+roles: [State Attorney]
 legal_statuses: []
 tags: []
 ---
 
 # Gerald Ramdeen
 
-**Known roles:** Attorney
+**Known roles:** State Attorney
 
 ## Articles
 
-- [[Articles/2026-07-18_Hadeeds-remain-behind-bars|Hadeeds remain behind bars]]
+- [[Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal|State attorneys lay out grounds of appeal]]

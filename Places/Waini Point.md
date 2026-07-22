@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Guyana"
+name: "Waini Point"
 ---
 
-# Guyana
+# Waini Point
 
 ## Articles
 

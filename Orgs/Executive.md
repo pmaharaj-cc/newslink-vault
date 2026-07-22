@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Dominic Hadeed"
-roles: [Businessman]
-legal_statuses: []
-tags: []
+type: organization
+name: "Executive"
 ---
 
-# Dominic Hadeed
-
-**Known roles:** Businessman
+# Executive
 
 ## Articles
 

@@ -7,4 +7,4 @@ name: "Trinidad and Tobago"
 
 ## Articles
 
-- [[Articles/2026-07-17_Sobers-joins-US-led-talks-on-far-left-political-terrori|Sobers joins US led talks on far left political terrori]]
+- [[Articles/2026-07-22_Ali-declares-3-days-of-mourning|Ali declares 3 days of mourning]]

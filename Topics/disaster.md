@@ -7,4 +7,4 @@ name: "disaster"
 
 ## Articles
 
-- [[Articles/2026-07-17_Earthquake-tragedy-sparks-regional-unity|Earthquake tragedy sparks regional unity]]
+- [[Articles/2026-07-22_Ali-declares-3-days-of-mourning|Ali declares 3 days of mourning]]

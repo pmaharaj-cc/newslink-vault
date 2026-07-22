@@ -19,6 +19,60 @@
       "articles": [
         "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md"
       ]
+    },
+    "Irfaan Ali": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Dominic Hadeed": {
+      "roles": [
+        "Businessman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "Genevieve Hadeed": {
+      "roles": [
+        "Spouse"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "James Eadie": {
+      "roles": [
+        "State Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "Tom Richards": {
+      "roles": [
+        "State Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "Gerald Ramdeen": {
+      "roles": [
+        "State Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
     }
   },
   "Orgs": {
@@ -92,6 +146,41 @@
       "articles": [
         "Articles/2026-07-21_AI-centre-without-a-strategy.md"
       ]
+    },
+    "Government of Guyana": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Maritime Rescue Coordination Centre": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Privy Council": {
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "Court of Appeal": {
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "Executive": {
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "State": {
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
     }
   },
   "Places": {
@@ -110,7 +199,8 @@
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
-        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md",
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
       ]
     },
     "United Nations": {
@@ -125,7 +215,8 @@
     },
     "Trinidad": {
       "articles": [
-        "Articles/2026-07-21_Justice-begins-with-equality.md"
+        "Articles/2026-07-21_Justice-begins-with-equality.md",
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
       ]
     },
     "Malaysia": {
@@ -141,6 +232,31 @@
     "Johor": {
       "articles": [
         "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Georgetown": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Port Kaituma": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Barima-Waini Administrative Region": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Waini Point": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "Guyana": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
       ]
     }
   },
@@ -168,7 +284,9 @@
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
         "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md",
         "Articles/2026-07-21_Justice-begins-with-equality.md",
-        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md",
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
       ]
     },
     "social": {
@@ -180,6 +298,16 @@
     "culture": {
       "articles": [
         "Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup.md"
+      ]
+    },
+    "disaster": {
+      "articles": [
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+      ]
+    },
+    "judiciary": {
+      "articles": [
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
       ]
     }
   },

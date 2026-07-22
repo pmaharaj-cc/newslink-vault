@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Guyana"
+name: "Georgetown"
 ---
 
-# Guyana
+# Georgetown
 
 ## Articles
 

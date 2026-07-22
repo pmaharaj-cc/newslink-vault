@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Guyana"
+name: "Barima-Waini Administrative Region"
 ---
 
-# Guyana
+# Barima-Waini Administrative Region
 
 ## Articles
 

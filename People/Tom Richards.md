@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Dominic Hadeed"
-roles: [Businessman]
+name: "Tom Richards"
+roles: [State Attorney]
 legal_statuses: []
 tags: []
 ---
 
-# Dominic Hadeed
+# Tom Richards
 
-**Known roles:** Businessman
+**Known roles:** State Attorney
 
 ## Articles
 

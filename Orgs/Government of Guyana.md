@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Guyana"
+type: organization
+name: "Government of Guyana"
 ---
 
-# Guyana
+# Government of Guyana
 
 ## Articles
 

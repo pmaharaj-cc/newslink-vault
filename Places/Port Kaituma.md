@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Guyana"
+name: "Port Kaituma"
 ---
 
-# Guyana
+# Port Kaituma
 
 ## Articles
 

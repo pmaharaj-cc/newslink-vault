@@ -1,15 +1,15 @@
 ---
 type: person
 name: "James Eadie"
-roles: [King's Counsel]
+roles: [State Attorney]
 legal_statuses: []
 tags: []
 ---
 
 # James Eadie
 
-**Known roles:** King's Counsel
+**Known roles:** State Attorney
 
 ## Articles
 
-- [[Articles/2026-07-17_Freedom-hangs-in-balance-judges-considering-release|Freedom hangs in balance judges considering release]]
+- [[Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal|State attorneys lay out grounds of appeal]]
