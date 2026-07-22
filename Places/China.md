@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: place
+name: "China"
 ---
 
-# Jarrel De Matas
+# China
 
 ## Articles
 

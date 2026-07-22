@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "Huawei"
 ---
 
-# Jarrel De Matas
+# Huawei
 
 ## Articles
 

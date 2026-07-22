@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: place
+name: "Johor"
 ---
 
-# Jarrel De Matas
+# Johor
 
 ## Articles
 

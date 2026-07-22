@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "Microsoft"
 ---
 
-# Jarrel De Matas
+# Microsoft
 
 ## Articles
 

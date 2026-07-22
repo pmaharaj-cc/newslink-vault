@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "Nvidia"
 ---
 
-# Jarrel De Matas
+# Nvidia
 
 ## Articles
 

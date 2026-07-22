@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "Technology Engagement Center"
 ---
 
-# Jarrel De Matas
+# Technology Engagement Center
 
 ## Articles
 

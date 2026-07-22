@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "US Chamber of Commerce"
 ---
 
-# Jarrel De Matas
+# US Chamber of Commerce
 
 ## Articles
 

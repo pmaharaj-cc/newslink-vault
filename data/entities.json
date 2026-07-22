@@ -47,6 +47,51 @@
       "articles": [
         "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md"
       ]
+    },
+    "Equal Opportunity Commission": {
+      "articles": [
+        "Articles/2026-07-21_Justice-begins-with-equality.md"
+      ]
+    },
+    "WASA": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "US Chamber of Commerce": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Technology Engagement Center": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Microsoft": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Google": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Nvidia": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Alibaba Cloud": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Huawei": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
     }
   },
   "Places": {
@@ -58,12 +103,14 @@
     "United States": {
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
-        "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md"
+        "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md",
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
       ]
     },
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md"
+        "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
       ]
     },
     "United Nations": {
@@ -75,12 +122,33 @@
       "articles": [
         "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md"
       ]
+    },
+    "Trinidad": {
+      "articles": [
+        "Articles/2026-07-21_Justice-begins-with-equality.md"
+      ]
+    },
+    "Malaysia": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "China": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Johor": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
     }
   },
   "Topics": {
     "economy": {
       "articles": [
-        "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md"
+        "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
       ]
     },
     "health": {
@@ -91,13 +159,27 @@
     "foreign-affairs": {
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
-        "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md"
+        "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md",
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
       ]
     },
     "government": {
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
-        "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md"
+        "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md",
+        "Articles/2026-07-21_Justice-begins-with-equality.md",
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "social": {
+      "articles": [
+        "Articles/2026-07-21_Justice-begins-with-equality.md",
+        "Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup.md"
+      ]
+    },
+    "culture": {
+      "articles": [
+        "Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup.md"
       ]
     }
   },
@@ -105,6 +187,11 @@
     "Cecila Melville": {
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md"
+      ]
+    },
+    "Jarrel De Matas": {
+      "articles": [
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
       ]
     }
   }

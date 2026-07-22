@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "Alibaba Cloud"
 ---
 
-# Jarrel De Matas
+# Alibaba Cloud
 
 ## Articles
 

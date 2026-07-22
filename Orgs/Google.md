@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "Google"
 ---
 
-# Jarrel De Matas
+# Google
 
 ## Articles
 

@@ -7,4 +7,4 @@ name: "Equal Opportunity Commission"
 
 ## Articles
 
-- [[Articles/2026-07-02_Understanding-the-Equal-Opportunity-Act|Understanding the Equal Opportunity Act]]
+- [[Articles/2026-07-21_Justice-begins-with-equality|Justice begins with equality]]

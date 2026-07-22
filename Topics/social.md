@@ -7,9 +7,5 @@ name: "social"
 
 ## Articles
 
-- [[Articles/2026-07-10_Families-seek-legal-declarations|Families seek legal declarations]]
-- [[Articles/2026-07-11_Shine-On-Silver-Stars|Shine On Silver Stars]]
-- [[Articles/2026-07-11_Pan-Police-and-Public-Trust|Pan Police and Public Trust]]
-- [[Articles/2026-07-13_A-More-Inclusive-National-Census|A More Inclusive National Census]]
-- [[Articles/2026-07-16_Parents-signal-legal-action|Parents signal legal action]]
-- [[Articles/2026-07-20_Traffic-Courtesies-Matter|Traffic Courtesies Matter]]
+- [[Articles/2026-07-21_Justice-begins-with-equality|Justice begins with equality]]
+- [[Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup|Agony and ecstasy of 2026 World Cup]]
