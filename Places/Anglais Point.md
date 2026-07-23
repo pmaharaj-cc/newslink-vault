@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: place
+name: "Anglais Point"
 ---
 
-# energy
+# Anglais Point
 
 ## Articles
 

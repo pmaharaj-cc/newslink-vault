@@ -13,3 +13,4 @@ name: "government"
 - [[Articles/2026-07-21_AI-centre-without-a-strategy|AI centre without a strategy]]
 - [[Articles/2026-07-22_Ali-declares-3-days-of-mourning|Ali declares 3 days of mourning]]
 - [[Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal|State attorneys lay out grounds of appeal]]
+- [[Articles/2026-07-22_Police-and-citizens-must-work-together|Police and citizens must work together]]

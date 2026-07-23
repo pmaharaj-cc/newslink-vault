@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: place
+name: "Palo Seco"
 ---
 
-# energy
+# Palo Seco
 
 ## Articles
 

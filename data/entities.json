@@ -181,6 +181,11 @@
       "articles": [
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
       ]
+    },
+    "Trinidad and Tobago Police Service": {
+      "articles": [
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+      ]
     }
   },
   "Places": {
@@ -200,7 +205,8 @@
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
         "Articles/2026-07-21_AI-centre-without-a-strategy.md",
-        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
       ]
     },
     "United Nations": {
@@ -216,7 +222,8 @@
     "Trinidad": {
       "articles": [
         "Articles/2026-07-21_Justice-begins-with-equality.md",
-        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
       ]
     },
     "Malaysia": {
@@ -258,6 +265,36 @@
       "articles": [
         "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
       ]
+    },
+    "Curepe": {
+      "articles": [
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+      ]
+    },
+    "southern coastline": {
+      "articles": [
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
+    },
+    "Orinoco water": {
+      "articles": [
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
+    },
+    "Chatham": {
+      "articles": [
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
+    },
+    "Anglais Point": {
+      "articles": [
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
+    },
+    "Palo Seco": {
+      "articles": [
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
     }
   },
   "Topics": {
@@ -286,7 +323,8 @@
         "Articles/2026-07-21_Justice-begins-with-equality.md",
         "Articles/2026-07-21_AI-centre-without-a-strategy.md",
         "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
-        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
       ]
     },
     "social": {
@@ -309,6 +347,21 @@
       "articles": [
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
       ]
+    },
+    "crime": {
+      "articles": [
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+      ]
+    },
+    "environment": {
+      "articles": [
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
+    },
+    "energy": {
+      "articles": [
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
     }
   },
   "Authors": {
@@ -320,6 +373,11 @@
     "Jarrel De Matas": {
       "articles": [
         "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+      ]
+    },
+    "Michael Drayton": {
+      "articles": [
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
       ]
     }
   }

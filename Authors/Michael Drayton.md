@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Trinidad and Tobago Police Service"
+type: author
+name: "Michael Drayton"
 ---
 
-# Trinidad and Tobago Police Service
+# Michael Drayton
 
 ## Articles
 

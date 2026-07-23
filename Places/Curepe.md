@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Trinidad and Tobago Police Service"
+type: place
+name: "Curepe"
 ---
 
-# Trinidad and Tobago Police Service
+# Curepe
 
 ## Articles
 
