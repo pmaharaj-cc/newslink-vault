@@ -35,16 +35,19 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     },
     "Genevieve Hadeed": {
       "roles": [
-        "Spouse"
+        "Spouse",
+        "Co‑applicant"
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     },
     "James Eadie": {
@@ -72,6 +75,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+      ]
+    },
+    "Vigel Paul": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     }
   },
@@ -164,12 +176,14 @@
     },
     "Privy Council": {
       "articles": [
-        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     },
     "Court of Appeal": {
       "articles": [
-        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     },
     "Executive": {
@@ -185,6 +199,11 @@
     "Trinidad and Tobago Police Service": {
       "articles": [
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+      ]
+    },
+    "High Court": {
+      "articles": [
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     }
   },
@@ -223,7 +242,8 @@
       "articles": [
         "Articles/2026-07-21_Justice-begins-with-equality.md",
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
-        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md",
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     },
     "Malaysia": {
@@ -345,7 +365,8 @@
     },
     "judiciary": {
       "articles": [
-        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md"
+        "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
+        "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
     },
     "crime": {

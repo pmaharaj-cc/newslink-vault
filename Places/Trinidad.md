@@ -10,3 +10,4 @@ name: "Trinidad"
 - [[Articles/2026-07-21_Justice-begins-with-equality|Justice begins with equality]]
 - [[Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal|State attorneys lay out grounds of appeal]]
 - [[Articles/2026-07-22_Exploring-the-Mud-Volcanoes|Exploring the Mud Volcanoes]]
+- [[Articles/2026-07-23_Fresh-legal-battle|Fresh legal battle]]
