@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "Co‑applicant"
+        "Coâapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -84,6 +84,51 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-23_Fresh-legal-battle.md"
+      ]
+    },
+    "Roume de St Laurent": {
+      "roles": [
+        "planter"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "Michael Anthony": {
+      "roles": [
+        "author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "C R Ottley": {
+      "roles": [
+        "author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "K O Laurence": {
+      "roles": [
+        "author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "Bridget Brereton": {
+      "roles": [
+        "author"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
       ]
     }
   },
@@ -205,6 +250,21 @@
       "articles": [
         "Articles/2026-07-23_Fresh-legal-battle.md"
       ]
+    },
+    "University of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "Ratepayers Association": {
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "Colonial Office": {
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
     }
   },
   "Places": {
@@ -225,7 +285,8 @@
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
         "Articles/2026-07-21_AI-centre-without-a-strategy.md",
         "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
-        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
       ]
     },
     "United Nations": {
@@ -243,7 +304,8 @@
         "Articles/2026-07-21_Justice-begins-with-equality.md",
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
         "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md",
-        "Articles/2026-07-23_Fresh-legal-battle.md"
+        "Articles/2026-07-23_Fresh-legal-battle.md",
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
       ]
     },
     "Malaysia": {
@@ -315,18 +377,25 @@
       "articles": [
         "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
       ]
+    },
+    "Grenada": {
+      "articles": [
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
     }
   },
   "Topics": {
     "economy": {
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
-        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md",
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
       ]
     },
     "health": {
       "articles": [
-        "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md"
+        "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
       ]
     },
     "foreign-affairs": {
@@ -344,18 +413,22 @@
         "Articles/2026-07-21_AI-centre-without-a-strategy.md",
         "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
-        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
       ]
     },
     "social": {
       "articles": [
         "Articles/2026-07-21_Justice-begins-with-equality.md",
-        "Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup.md"
+        "Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup.md",
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
       ]
     },
     "culture": {
       "articles": [
-        "Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup.md"
+        "Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup.md",
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
       ]
     },
     "disaster": {
@@ -382,6 +455,17 @@
     "energy": {
       "articles": [
         "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+      ]
+    },
+    "education": {
+      "articles": [
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "infrastructure": {
+      "articles": [
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
       ]
     }
   },

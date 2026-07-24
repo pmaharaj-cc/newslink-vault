@@ -9,3 +9,4 @@ name: "economy"
 
 - [[Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent|Cubans are suffering as TT stays silent]]
 - [[Articles/2026-07-21_AI-centre-without-a-strategy|AI centre without a strategy]]
+- [[Articles/2026-07-23_AI-boom-must-belong-to-the-people|AI boom must belong to the people]]
