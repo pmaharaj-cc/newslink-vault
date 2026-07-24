@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "Coâapplicant"
+        "CoÃ¢ÂÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -216,7 +216,8 @@
     },
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-23_A-united-fight-against-crime.md"
       ]
     },
     "Privy Council": {
@@ -265,6 +266,11 @@
       "articles": [
         "Articles/2026-07-23_History-deserves-balance-not-bias.md"
       ]
+    },
+    "Parliament": {
+      "articles": [
+        "Articles/2026-07-23_A-united-fight-against-crime.md"
+      ]
     }
   },
   "Places": {
@@ -286,7 +292,8 @@
         "Articles/2026-07-21_AI-centre-without-a-strategy.md",
         "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
-        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
+        "Articles/2026-07-23_A-united-fight-against-crime.md"
       ]
     },
     "United Nations": {
@@ -415,7 +422,8 @@
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
         "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
-        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md",
+        "Articles/2026-07-23_A-united-fight-against-crime.md"
       ]
     },
     "social": {
@@ -444,7 +452,8 @@
     },
     "crime": {
       "articles": [
-        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
+        "Articles/2026-07-23_A-united-fight-against-crime.md"
       ]
     },
     "environment": {
@@ -467,6 +476,11 @@
       "articles": [
         "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
       ]
+    },
+    "parliament": {
+      "articles": [
+        "Articles/2026-07-23_A-united-fight-against-crime.md"
+      ]
     }
   },
   "Authors": {
@@ -483,6 +497,11 @@
     "Michael Drayton": {
       "articles": [
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+      ]
+    },
+    "Paul Sarran": {
+      "articles": [
+        "Articles/2026-07-23_A-united-fight-against-crime.md"
       ]
     }
   }
