@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Office of the Attorney General"
+type: topic
+name: "corruption"
 ---
 
-# Office of the Attorney General
+# corruption
 
 ## Articles
 

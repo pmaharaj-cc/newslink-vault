@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Office of the Attorney General"
+name: "Judicial Committee of the Privy Council"
 ---
 
-# Office of the Attorney General
+# Judicial Committee of the Privy Council
 
 ## Articles
 

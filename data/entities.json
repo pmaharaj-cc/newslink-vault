@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "CoÃ¢ÂÂapplicant"
+        "CoÃÂ¢ÃÂÃÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -129,6 +129,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+      ]
+    },
+    "Karen Reid": {
+      "roles": [
+        "Justice"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-24_Candour-before-the-Court.md"
+      ]
+    },
+    "Jack Warner": {
+      "roles": [
+        "Former FIFA Vice-President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     }
   },
@@ -229,7 +247,8 @@
     "Court of Appeal": {
       "articles": [
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
-        "Articles/2026-07-23_Fresh-legal-battle.md"
+        "Articles/2026-07-23_Fresh-legal-battle.md",
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     },
     "Executive": {
@@ -271,6 +290,21 @@
       "articles": [
         "Articles/2026-07-23_A-united-fight-against-crime.md"
       ]
+    },
+    "Office of the Attorney General": {
+      "articles": [
+        "Articles/2026-07-24_Candour-before-the-Court.md"
+      ]
+    },
+    "Judicial Committee of the Privy Council": {
+      "articles": [
+        "Articles/2026-07-24_Candour-before-the-Court.md"
+      ]
+    },
+    "FIFA": {
+      "articles": [
+        "Articles/2026-07-24_Candour-before-the-Court.md"
+      ]
     }
   },
   "Places": {
@@ -283,7 +317,8 @@
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
         "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md",
-        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md",
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     },
     "Trinidad and Tobago": {
@@ -293,7 +328,8 @@
         "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
         "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
-        "Articles/2026-07-23_A-united-fight-against-crime.md"
+        "Articles/2026-07-23_A-united-fight-against-crime.md",
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     },
     "United Nations": {
@@ -409,7 +445,8 @@
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
         "Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny.md",
-        "Articles/2026-07-21_AI-centre-without-a-strategy.md"
+        "Articles/2026-07-21_AI-centre-without-a-strategy.md",
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     },
     "government": {
@@ -423,7 +460,8 @@
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
         "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
         "Articles/2026-07-23_History-deserves-balance-not-bias.md",
-        "Articles/2026-07-23_A-united-fight-against-crime.md"
+        "Articles/2026-07-23_A-united-fight-against-crime.md",
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     },
     "social": {
@@ -447,7 +485,8 @@
     "judiciary": {
       "articles": [
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
-        "Articles/2026-07-23_Fresh-legal-battle.md"
+        "Articles/2026-07-23_Fresh-legal-battle.md",
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     },
     "crime": {
@@ -480,6 +519,11 @@
     "parliament": {
       "articles": [
         "Articles/2026-07-23_A-united-fight-against-crime.md"
+      ]
+    },
+    "corruption": {
+      "articles": [
+        "Articles/2026-07-24_Candour-before-the-Court.md"
       ]
     }
   },
