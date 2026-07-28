@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Star Sabga"
-roles: [Individual]
-legal_statuses: []
-tags: []
+type: organization
+name: "Homeland Security Ministry"
 ---
 
-# Star Sabga
-
-**Known roles:** Individual
+# Homeland Security Ministry
 
 ## Articles
 

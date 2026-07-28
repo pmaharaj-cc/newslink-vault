@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "CoÃÂ¢ÃÂÃÂapplicant"
+        "CoÃÂÃÂ¢ÃÂÃÂÃÂÃÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -83,7 +83,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-07-23_Fresh-legal-battle.md"
+        "Articles/2026-07-23_Fresh-legal-battle.md",
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
     },
     "Roume de St Laurent": {
@@ -147,6 +148,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-24_Candour-before-the-Court.md"
+      ]
+    },
+    "Star Sabga": {
+      "roles": [
+        "Individual"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
+      ]
+    },
+    "Roger Alexander": {
+      "roles": [
+        "Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
     }
   },
@@ -248,7 +267,8 @@
       "articles": [
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
         "Articles/2026-07-23_Fresh-legal-battle.md",
-        "Articles/2026-07-24_Candour-before-the-Court.md"
+        "Articles/2026-07-24_Candour-before-the-Court.md",
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
     },
     "Executive": {
@@ -268,7 +288,8 @@
     },
     "High Court": {
       "articles": [
-        "Articles/2026-07-23_Fresh-legal-battle.md"
+        "Articles/2026-07-23_Fresh-legal-battle.md",
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
     },
     "University of Trinidad and Tobago": {
@@ -304,6 +325,16 @@
     "FIFA": {
       "articles": [
         "Articles/2026-07-24_Candour-before-the-Court.md"
+      ]
+    },
+    "Homeland Security Ministry": {
+      "articles": [
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
+      ]
+    },
+    "Police": {
+      "articles": [
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
     }
   },
@@ -425,6 +456,11 @@
       "articles": [
         "Articles/2026-07-23_History-deserves-balance-not-bias.md"
       ]
+    },
+    "Regents Park, Westmoorings": {
+      "articles": [
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
+      ]
     }
   },
   "Topics": {
@@ -461,7 +497,8 @@
         "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
         "Articles/2026-07-23_History-deserves-balance-not-bias.md",
         "Articles/2026-07-23_A-united-fight-against-crime.md",
-        "Articles/2026-07-24_Candour-before-the-Court.md"
+        "Articles/2026-07-24_Candour-before-the-Court.md",
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
     },
     "social": {
@@ -486,7 +523,8 @@
       "articles": [
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
         "Articles/2026-07-23_Fresh-legal-battle.md",
-        "Articles/2026-07-24_Candour-before-the-Court.md"
+        "Articles/2026-07-24_Candour-before-the-Court.md",
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
     },
     "crime": {

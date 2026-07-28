@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Star Sabga"
-roles: [Individual]
-legal_statuses: []
-tags: []
+type: place
+name: "Regents Park, Westmoorings"
 ---
 
-# Star Sabga
-
-**Known roles:** Individual
+# Regents Park, Westmoorings
 
 ## Articles
 

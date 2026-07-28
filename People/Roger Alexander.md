@@ -1,18 +1,15 @@
 ---
 type: person
 name: "Roger Alexander"
-roles: [Homeland Security Minister, Minister of Homeland Security]
+roles: [Minister]
 legal_statuses: []
 tags: []
 ---
 
 # Roger Alexander
 
-**Known roles:** Homeland Security Minister, Minister of Homeland Security
+**Known roles:** Minister
 
 ## Articles
 
-- [[Articles/2026-05-27_Penny-wants-a-stronger-PCA|Penny wants a stronger PCA]]
-- [[Articles/2026-05-30_Top-cop-Police-had-to-act-as-protesters-did-not-follow-|Top cop Police had to act as protesters did not follow ]]
-- [[Articles/2026-06-25_Activist-Jesus-detained-over-alleged-antiHindu-posts|Activist Jesus detained over alleged antiHindu posts]]
-- [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
+- [[Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest|Star Sabga freed from prison placed under house arrest]]
