@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Tobago"
+name: "Scarborough"
 ---
 
-# Tobago
+# Scarborough
 
 ## Articles
 

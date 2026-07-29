@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Tobago"
+type: organization
+name: "Planning Department"
 ---
 
-# Tobago
+# Planning Department
 
 ## Articles
 

@@ -7,4 +7,4 @@ name: "Tobago House of Assembly"
 
 ## Articles
 
-- [[Articles/2026-07-16_Parents-signal-legal-action|Parents signal legal action]]
+- [[Articles/2026-07-29_Former-THA-chief-administrator-dies|Former THA chief administrator dies]]

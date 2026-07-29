@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Tobago"
+type: organization
+name: "Towers Hospitality Group"
 ---
 
-# Tobago
+# Towers Hospitality Group
 
 ## Articles
 

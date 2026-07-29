@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "CoÃÂÃÂ¢ÃÂÃÂÃÂÃÂapplicant"
+        "CoÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -166,6 +166,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
+      ]
+    },
+    "Allan Richards": {
+      "roles": [
+        "Chief Administrator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Jonathan Bhagan": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
     }
   },
@@ -314,7 +332,8 @@
     },
     "Office of the Attorney General": {
       "articles": [
-        "Articles/2026-07-24_Candour-before-the-Court.md"
+        "Articles/2026-07-24_Candour-before-the-Court.md",
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
     },
     "Judicial Committee of the Privy Council": {
@@ -335,6 +354,41 @@
     "Police": {
       "articles": [
         "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
+      ]
+    },
+    "Tobago House of Assembly": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Office of the Chief Secretary": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Towers Hospitality Group": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Comfort Inn and Suites": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Planning Department": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Caribbean Committee against Sex Crimes": {
+      "articles": [
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
+      ]
+    },
+    "Commissioner of Police": {
+      "articles": [
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
     }
   },
@@ -360,7 +414,8 @@
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
         "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
         "Articles/2026-07-23_A-united-fight-against-crime.md",
-        "Articles/2026-07-24_Candour-before-the-Court.md"
+        "Articles/2026-07-24_Candour-before-the-Court.md",
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
     },
     "United Nations": {
@@ -461,6 +516,21 @@
       "articles": [
         "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
       ]
+    },
+    "Tobago": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Scarborough": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
+    },
+    "Roxborough Hospital": {
+      "articles": [
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+      ]
     }
   },
   "Topics": {
@@ -468,7 +538,8 @@
       "articles": [
         "Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent.md",
         "Articles/2026-07-21_AI-centre-without-a-strategy.md",
-        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
       ]
     },
     "health": {
@@ -498,7 +569,9 @@
         "Articles/2026-07-23_History-deserves-balance-not-bias.md",
         "Articles/2026-07-23_A-united-fight-against-crime.md",
         "Articles/2026-07-24_Candour-before-the-Court.md",
-        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md",
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md",
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
     },
     "social": {
@@ -530,7 +603,8 @@
     "crime": {
       "articles": [
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
-        "Articles/2026-07-23_A-united-fight-against-crime.md"
+        "Articles/2026-07-23_A-united-fight-against-crime.md",
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
     },
     "environment": {
@@ -551,7 +625,8 @@
     },
     "infrastructure": {
       "articles": [
-        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md"
+        "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
       ]
     },
     "parliament": {

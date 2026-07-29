@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Tobago"
+type: organization
+name: "Office of the Chief Secretary"
 ---
 
-# Tobago
+# Office of the Chief Secretary
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Tobago"
+type: organization
+name: "Comfort Inn and Suites"
 ---
 
-# Tobago
+# Comfort Inn and Suites
 
 ## Articles
 

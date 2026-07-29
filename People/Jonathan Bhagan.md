@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Commissioner of Police"
+type: person
+name: "Jonathan Bhagan"
+roles: [Attorney]
+legal_statuses: []
+tags: []
 ---
 
-# Commissioner of Police
+# Jonathan Bhagan
+
+**Known roles:** Attorney
 
 ## Articles
 

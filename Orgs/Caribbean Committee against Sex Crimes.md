@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Commissioner of Police"
+name: "Caribbean Committee against Sex Crimes"
 ---
 
-# Commissioner of Police
+# Caribbean Committee against Sex Crimes
 
 ## Articles
 
