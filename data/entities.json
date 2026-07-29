@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "CoÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
+        "CoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -185,6 +185,72 @@
       "articles": [
         "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
+    },
+    "Kevin Price": {
+      "roles": [
+        "Captain"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md",
+          "title": "Captain, crew members charged with murder in MV Barima tragedy",
+          "date": "2026-07-29"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Rondell Dwayne Robert": {
+      "roles": [
+        "Chief Mate"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md",
+          "title": "Captain, crew members charged with murder in MV Barima tragedy",
+          "date": "2026-07-29"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Delon Granderson": {
+      "roles": [
+        "Goods Superintendent"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md",
+          "title": "Captain, crew members charged with murder in MV Barima tragedy",
+          "date": "2026-07-29"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Judy Latchman": {
+      "roles": [
+        "Chief Magistrate"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Mohamed Irfaan Ali": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
     }
   },
   "Orgs": {
@@ -261,7 +327,8 @@
     },
     "Government of Guyana": {
       "articles": [
-        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "Maritime Rescue Coordination Centre": {
@@ -390,6 +457,21 @@
       "articles": [
         "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
       ]
+    },
+    "Guyana Police Force": {
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Georgetown Magistrates' Court": {
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Charity Magistrates' Court": {
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
     }
   },
   "Places": {
@@ -454,12 +536,14 @@
     },
     "Georgetown": {
       "articles": [
-        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "Port Kaituma": {
       "articles": [
-        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "Barima-Waini Administrative Region": {
@@ -474,7 +558,8 @@
     },
     "Guyana": {
       "articles": [
-        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "Curepe": {
@@ -531,6 +616,16 @@
       "articles": [
         "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
       ]
+    },
+    "Atlantic": {
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Essequibo": {
+      "articles": [
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
     }
   },
   "Topics": {
@@ -571,7 +666,8 @@
         "Articles/2026-07-24_Candour-before-the-Court.md",
         "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md",
         "Articles/2026-07-29_Former-THA-chief-administrator-dies.md",
-        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "social": {
@@ -589,7 +685,8 @@
     },
     "disaster": {
       "articles": [
-        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md"
+        "Articles/2026-07-22_Ali-declares-3-days-of-mourning.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "judiciary": {
@@ -597,14 +694,16 @@
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
         "Articles/2026-07-23_Fresh-legal-battle.md",
         "Articles/2026-07-24_Candour-before-the-Court.md",
-        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md"
+        "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "crime": {
       "articles": [
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
         "Articles/2026-07-23_A-united-fight-against-crime.md",
-        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md",
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
     },
     "environment": {
