@@ -12,3 +12,4 @@ name: "judiciary"
 - [[Articles/2026-07-24_Candour-before-the-Court|Candour before the Court]]
 - [[Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest|Star Sabga freed from prison placed under house arrest]]
 - [[Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t|Captain crew members charged with murder in MV Barima t]]
+- [[Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator|Jogie death No bail for jet ski operator]]

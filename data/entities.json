@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "CoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
+        "CoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -251,6 +251,56 @@
       "articles": [
         "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
+    },
+    "Ashworth Burnett": {
+      "roles": [
+        "Operator"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md",
+          "title": "Jogie death: No bail for jet ski operator",
+          "date": "2026-07-30"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+      ]
+    },
+    "Angelica Saydee Jogie": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+      ]
+    },
+    "Shah": {
+      "roles": [
+        "Magistrate"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+      ]
+    },
+    "Robby Khadoo": {
+      "roles": [
+        "Prisoner"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-07-30_Dangerous-escapee-still-at-large.md",
+          "title": "Dangerous escapee still at large",
+          "date": "2026-07-30"
+        }
+      ],
+      "articles": [
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
     }
   },
   "Orgs": {
@@ -368,7 +418,8 @@
     },
     "Trinidad and Tobago Police Service": {
       "articles": [
-        "Articles/2026-07-22_Police-and-citizens-must-work-together.md"
+        "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
       ]
     },
     "High Court": {
@@ -482,6 +533,31 @@
       "articles": [
         "Articles/2026-07-29_Preserve-the-Mangrove.md"
       ]
+    },
+    "San Fernando TML Primary School": {
+      "articles": [
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+      ]
+    },
+    "Prison Officers' Association": {
+      "articles": [
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
+    },
+    "Trinidad and Tobago Prison Service": {
+      "articles": [
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
+    },
+    "Trinidad and Tobago Defence Force": {
+      "articles": [
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
+    },
+    "Accident and Emergency Department of the Arima Health Facility": {
+      "articles": [
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
     }
   },
   "Places": {
@@ -507,7 +583,8 @@
         "Articles/2026-07-23_AI-boom-must-belong-to-the-people.md",
         "Articles/2026-07-23_A-united-fight-against-crime.md",
         "Articles/2026-07-24_Candour-before-the-Court.md",
-        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md"
+        "Articles/2026-07-29_Public-sex-offenders-website-back-online.md",
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
       ]
     },
     "United Nations": {
@@ -615,7 +692,8 @@
     },
     "Tobago": {
       "articles": [
-        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md"
+        "Articles/2026-07-29_Former-THA-chief-administrator-dies.md",
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
       ]
     },
     "Scarborough": {
@@ -636,6 +714,31 @@
     "Essequibo": {
       "articles": [
         "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+      ]
+    },
+    "Pigeon Point Marine Park beach": {
+      "articles": [
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+      ]
+    },
+    "Canaan": {
+      "articles": [
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+      ]
+    },
+    "San Fernando": {
+      "articles": [
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+      ]
+    },
+    "Arima Health Facility": {
+      "articles": [
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
+    },
+    "Naparima- Mayaro Road, Iere Village, Princes Town": {
+      "articles": [
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
       ]
     }
   },
@@ -678,7 +781,8 @@
         "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md",
         "Articles/2026-07-29_Former-THA-chief-administrator-dies.md",
         "Articles/2026-07-29_Public-sex-offenders-website-back-online.md",
-        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md",
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
       ]
     },
     "social": {
@@ -706,7 +810,8 @@
         "Articles/2026-07-23_Fresh-legal-battle.md",
         "Articles/2026-07-24_Candour-before-the-Court.md",
         "Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest.md",
-        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md",
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
       ]
     },
     "crime": {
@@ -714,7 +819,9 @@
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
         "Articles/2026-07-23_A-united-fight-against-crime.md",
         "Articles/2026-07-29_Public-sex-offenders-website-back-online.md",
-        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
+        "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md",
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md",
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
       ]
     },
     "environment": {

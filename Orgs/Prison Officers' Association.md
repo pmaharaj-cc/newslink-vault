@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Trinidad and Tobago Prison Service"
+name: "Prison Officers' Association"
 ---
 
-# Trinidad and Tobago Prison Service
+# Prison Officers' Association
 
 ## Articles
 

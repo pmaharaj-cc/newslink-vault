@@ -1,9 +1,14 @@
 ---
-type: place
-name: "San Fernando"
+type: person
+name: "Shah"
+roles: [Magistrate]
+legal_statuses: []
+tags: []
 ---
 
-# San Fernando
+# Shah
+
+**Known roles:** Magistrate
 
 ## Articles
 

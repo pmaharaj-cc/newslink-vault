@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Tobago"
+name: "Canaan"
 ---
 
-# Tobago
+# Canaan
 
 ## Articles
 
-- [[Articles/2026-07-29_Former-THA-chief-administrator-dies|Former THA chief administrator dies]]
 - [[Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator|Jogie death No bail for jet ski operator]]

@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Arima Health Facility"
+name: "Naparima- Mayaro Road, Iere Village, Princes Town"
 ---
 
-# Arima Health Facility
+# Naparima- Mayaro Road, Iere Village, Princes Town
 
 ## Articles
 

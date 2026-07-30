@@ -1,9 +1,9 @@
 ---
-type: place
-name: "San Fernando"
+type: organization
+name: "San Fernando TML Primary School"
 ---
 
-# San Fernando
+# San Fernando TML Primary School
 
 ## Articles
 
