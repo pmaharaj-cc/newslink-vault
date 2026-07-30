@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "CoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
+        "CoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -472,6 +472,16 @@
       "articles": [
         "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md"
       ]
+    },
+    "UNESCO": {
+      "articles": [
+        "Articles/2026-07-29_Preserve-the-Mangrove.md"
+      ]
+    },
+    "IMA": {
+      "articles": [
+        "Articles/2026-07-29_Preserve-the-Mangrove.md"
+      ]
     }
   },
   "Places": {
@@ -516,7 +526,8 @@
         "Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal.md",
         "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md",
         "Articles/2026-07-23_Fresh-legal-battle.md",
-        "Articles/2026-07-23_History-deserves-balance-not-bias.md"
+        "Articles/2026-07-23_History-deserves-balance-not-bias.md",
+        "Articles/2026-07-29_Preserve-the-Mangrove.md"
       ]
     },
     "Malaysia": {
@@ -708,7 +719,8 @@
     },
     "environment": {
       "articles": [
-        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md"
+        "Articles/2026-07-22_Exploring-the-Mud-Volcanoes.md",
+        "Articles/2026-07-29_Preserve-the-Mangrove.md"
       ]
     },
     "energy": {
@@ -758,6 +770,11 @@
     "Paul Sarran": {
       "articles": [
         "Articles/2026-07-23_A-united-fight-against-crime.md"
+      ]
+    },
+    "Rahanna Juman": {
+      "articles": [
+        "Articles/2026-07-29_Preserve-the-Mangrove.md"
       ]
     }
   }
