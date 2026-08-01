@@ -7,4 +7,4 @@ name: "San Fernando General Hospital"
 
 ## Articles
 
-- [[Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest|Family in fear after murdered 13 year old laid to rest]]
+- [[Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera|Fugitive Robby Khadoo shot dead during Vistabella opera]]

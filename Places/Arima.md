@@ -7,4 +7,4 @@ name: "Arima"
 
 ## Articles
 
-- [[Articles/2026-07-11_Woman-charged-with-businessmans-murder|Woman charged with businessmans murder]]
+- [[Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera|Fugitive Robby Khadoo shot dead during Vistabella opera]]

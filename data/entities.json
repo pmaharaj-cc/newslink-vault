@@ -42,7 +42,7 @@
     "Genevieve Hadeed": {
       "roles": [
         "Spouse",
-        "CoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
+        "CoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂapplicant"
       ],
       "statuses": [],
       "articles": [
@@ -288,7 +288,8 @@
     },
     "Robby Khadoo": {
       "roles": [
-        "Prisoner"
+        "Prisoner",
+        "Accused"
       ],
       "statuses": [
         {
@@ -296,10 +297,17 @@
           "article": "Articles/2026-07-30_Dangerous-escapee-still-at-large.md",
           "title": "Dangerous escapee still at large",
           "date": "2026-07-30"
+        },
+        {
+          "status": "charged",
+          "article": "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md",
+          "title": "Fugitive Robby Khadoo shot dead during Vistabella operation",
+          "date": "2026-08-01"
         }
       ],
       "articles": [
-        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md",
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
       ]
     }
   },
@@ -419,7 +427,8 @@
     "Trinidad and Tobago Police Service": {
       "articles": [
         "Articles/2026-07-22_Police-and-citizens-must-work-together.md",
-        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md",
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
       ]
     },
     "High Court": {
@@ -557,6 +566,26 @@
     "Accident and Emergency Department of the Arima Health Facility": {
       "articles": [
         "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
+    },
+    "Home Invasion Team": {
+      "articles": [
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
+      ]
+    },
+    "Southern Division Task Force": {
+      "articles": [
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
+      ]
+    },
+    "San Fernando General Hospital": {
+      "articles": [
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
+      ]
+    },
+    "Arima Hospital": {
+      "articles": [
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
       ]
     }
   },
@@ -728,7 +757,8 @@
     },
     "San Fernando": {
       "articles": [
-        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md"
+        "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md",
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
       ]
     },
     "Arima Health Facility": {
@@ -739,6 +769,21 @@
     "Naparima- Mayaro Road, Iere Village, Princes Town": {
       "articles": [
         "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+      ]
+    },
+    "Vistabella": {
+      "articles": [
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
+      ]
+    },
+    "Fabien Street": {
+      "articles": [
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
+      ]
+    },
+    "Arima": {
+      "articles": [
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
       ]
     }
   },
@@ -821,7 +866,8 @@
         "Articles/2026-07-29_Public-sex-offenders-website-back-online.md",
         "Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t.md",
         "Articles/2026-07-30_Jogie-death-No-bail-for-jet-ski-operator.md",
-        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md"
+        "Articles/2026-07-30_Dangerous-escapee-still-at-large.md",
+        "Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera.md"
       ]
     },
     "environment": {

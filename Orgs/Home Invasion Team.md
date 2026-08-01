@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Arima Hospital"
+name: "Home Invasion Team"
 ---
 
-# Arima Hospital
+# Home Invasion Team
 
 ## Articles
 

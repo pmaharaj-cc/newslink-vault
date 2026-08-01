@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Arima Hospital"
+type: place
+name: "Vistabella"
 ---
 
-# Arima Hospital
+# Vistabella
 
 ## Articles
 

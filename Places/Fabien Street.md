@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Arima Hospital"
+type: place
+name: "Fabien Street"
 ---
 
-# Arima Hospital
+# Fabien Street
 
 ## Articles
 
