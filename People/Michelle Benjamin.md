@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
+name: "Michelle Benjamin"
+roles: [Minister of Culture]
 legal_statuses: []
 tags: []
 ---
 
-# Kamla Persad-Bissessar
+# Michelle Benjamin
 
-**Known roles:** Prime Minister
+**Known roles:** Minister of Culture
 
 ## Articles
 

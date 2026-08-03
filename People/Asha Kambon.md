@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
+name: "Asha Kambon"
+roles: [Director]
 legal_statuses: []
 tags: []
 ---
 
-# Kamla Persad-Bissessar
+# Asha Kambon
 
-**Known roles:** Prime Minister
+**Known roles:** Director
 
 ## Articles
 
