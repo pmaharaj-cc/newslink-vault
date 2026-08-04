@@ -24,3 +24,5 @@ name: "government"
 - [[Articles/2026-07-29_Captain-crew-members-charged-with-murder-in-MV-Barima-t|Captain crew members charged with murder in MV Barima t]]
 - [[Articles/2026-07-30_Dangerous-escapee-still-at-large|Dangerous escapee still at large]]
 - [[Articles/2026-08-02_Emancipation-not-a-time-for-division|Emancipation not a time for division]]
+- [[Articles/2026-08-03_Expose-the-Emperors-Nakedness|Expose the Emperors Nakedness]]
+- [[Articles/2026-08-03_TT-does-not-deserve-racialised-rhetoric|TT does not deserve racialised rhetoric]]

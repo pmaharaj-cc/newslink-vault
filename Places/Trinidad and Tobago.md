@@ -16,3 +16,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-07-24_Candour-before-the-Court|Candour before the Court]]
 - [[Articles/2026-07-29_Public-sex-offenders-website-back-online|Public sex offenders website back online]]
 - [[Articles/2026-07-30_Dangerous-escapee-still-at-large|Dangerous escapee still at large]]
+- [[Articles/2026-08-03_TT-does-not-deserve-racialised-rhetoric|TT does not deserve racialised rhetoric]]

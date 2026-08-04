@@ -11,3 +11,5 @@ name: "social"
 - [[Articles/2026-07-21_Agony-and-ecstasy-of-2026-World-Cup|Agony and ecstasy of 2026 World Cup]]
 - [[Articles/2026-07-23_AI-boom-must-belong-to-the-people|AI boom must belong to the people]]
 - [[Articles/2026-08-02_Emancipation-not-a-time-for-division|Emancipation not a time for division]]
+- [[Articles/2026-08-03_Expose-the-Emperors-Nakedness|Expose the Emperors Nakedness]]
+- [[Articles/2026-08-03_TT-does-not-deserve-racialised-rhetoric|TT does not deserve racialised rhetoric]]

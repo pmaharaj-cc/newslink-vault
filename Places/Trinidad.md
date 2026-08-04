@@ -13,3 +13,4 @@ name: "Trinidad"
 - [[Articles/2026-07-23_Fresh-legal-battle|Fresh legal battle]]
 - [[Articles/2026-07-23_History-deserves-balance-not-bias|History deserves balance not bias]]
 - [[Articles/2026-07-29_Preserve-the-Mangrove|Preserve the Mangrove]]
+- [[Articles/2026-08-03_Expose-the-Emperors-Nakedness|Expose the Emperors Nakedness]]
