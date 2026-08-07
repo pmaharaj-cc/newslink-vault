@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Ronnie Boodoosingh"
-roles: [Chief Justice]
-legal_statuses: []
-tags: []
+type: organization
+name: "Supreme Court of Judicature"
 ---
 
-# Ronnie Boodoosingh
-
-**Known roles:** Chief Justice
+# Supreme Court of Judicature
 
 ## Articles
 

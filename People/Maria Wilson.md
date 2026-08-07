@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Maria Wilson"
-roles: [Justice]
+roles: [Justice of Appeal]
 legal_statuses: []
 tags: []
 ---
 
 # Maria Wilson
 
-**Known roles:** Justice
+**Known roles:** Justice of Appeal
 
 ## Articles
 
-- [[Articles/2026-07-13_Court-upholds-Customs-bid-to-recover-95000-from-importe|Court upholds Customs bid to recover 95000 from importe]]
+- [[Articles/2026-08-07_Retrial-ordered-but-appeal-court-says-2030-start-is-una|Retrial ordered but appeal court says 2030 start is una]]

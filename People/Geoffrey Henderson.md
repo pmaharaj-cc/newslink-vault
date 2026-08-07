@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Ronnie Boodoosingh"
-roles: [Chief Justice]
+name: "Geoffrey Henderson"
+roles: [Justice]
 legal_statuses: []
 tags: []
 ---
 
-# Ronnie Boodoosingh
+# Geoffrey Henderson
 
-**Known roles:** Chief Justice
+**Known roles:** Justice
 
 ## Articles
 
