@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Germany"
+type: organization
+name: "Homeland Security"
 ---
 
-# Germany
+# Homeland Security
 
 ## Articles
 

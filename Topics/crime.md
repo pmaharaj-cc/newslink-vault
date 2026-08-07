@@ -15,3 +15,4 @@ name: "crime"
 - [[Articles/2026-07-30_Dangerous-escapee-still-at-large|Dangerous escapee still at large]]
 - [[Articles/2026-08-01_Fugitive-Robby-Khadoo-shot-dead-during-Vistabella-opera|Fugitive Robby Khadoo shot dead during Vistabella opera]]
 - [[Articles/2026-08-03_Expose-the-Emperors-Nakedness|Expose the Emperors Nakedness]]
+- [[Articles/2026-08-06_A-cautious-path-to-requesting-IDs|A cautious path to requesting IDs]]

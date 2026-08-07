@@ -7,4 +7,4 @@ name: "Spain"
 
 ## Articles
 
-- [[Articles/2026-07-20_Traffic-Courtesies-Matter|Traffic Courtesies Matter]]
+- [[Articles/2026-08-06_A-cautious-path-to-requesting-IDs|A cautious path to requesting IDs]]

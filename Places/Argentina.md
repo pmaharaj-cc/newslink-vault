@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Germany"
+name: "Argentina"
 ---
 
-# Germany
+# Argentina
 
 ## Articles
 

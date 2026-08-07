@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Germany"
+name: "Singapore"
 ---
 
-# Germany
+# Singapore
 
 ## Articles
 

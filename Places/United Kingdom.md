@@ -7,4 +7,4 @@ name: "United Kingdom"
 
 ## Articles
 
-- [[Articles/2026-07-13_The-eccentrics-of-British-politics|The eccentrics of British politics]]
+- [[Articles/2026-08-06_A-cautious-path-to-requesting-IDs|A cautious path to requesting IDs]]

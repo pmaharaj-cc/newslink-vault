@@ -13,3 +13,4 @@ name: "social"
 - [[Articles/2026-08-02_Emancipation-not-a-time-for-division|Emancipation not a time for division]]
 - [[Articles/2026-08-03_Expose-the-Emperors-Nakedness|Expose the Emperors Nakedness]]
 - [[Articles/2026-08-03_TT-does-not-deserve-racialised-rhetoric|TT does not deserve racialised rhetoric]]
+- [[Articles/2026-08-06_A-cautious-path-to-requesting-IDs|A cautious path to requesting IDs]]

@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Germany"
+name: "Belgium"
 ---
 
-# Germany
+# Belgium
 
 ## Articles
 
