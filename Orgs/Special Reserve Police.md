@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Ministry of Homeland Security"
+name: "Special Reserve Police"
 ---
 
-# Ministry of Homeland Security
+# Special Reserve Police
 
 ## Articles
 

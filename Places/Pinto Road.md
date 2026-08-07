@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Ministry of Homeland Security"
+type: place
+name: "Pinto Road"
 ---
 
-# Ministry of Homeland Security
+# Pinto Road
 
 ## Articles
 

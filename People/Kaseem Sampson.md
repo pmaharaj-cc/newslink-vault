@@ -1,9 +1,12 @@
 ---
-type: organization
-name: "Ministry of Homeland Security"
+type: person
+name: "Kaseem Sampson"
+roles: []
+legal_statuses: []
+tags: []
 ---
 
-# Ministry of Homeland Security
+# Kaseem Sampson
 
 ## Articles
 

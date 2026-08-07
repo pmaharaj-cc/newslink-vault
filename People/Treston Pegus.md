@@ -1,9 +1,12 @@
 ---
-type: organization
-name: "Ministry of Homeland Security"
+type: person
+name: "Treston Pegus"
+roles: []
+legal_statuses: []
+tags: []
 ---
 
-# Ministry of Homeland Security
+# Treston Pegus
 
 ## Articles
 

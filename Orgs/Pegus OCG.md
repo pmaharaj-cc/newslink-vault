@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Ministry of Homeland Security"
+name: "Pegus OCG"
 ---
 
-# Ministry of Homeland Security
+# Pegus OCG
 
 ## Articles
 

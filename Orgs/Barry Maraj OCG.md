@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Ministry of Homeland Security"
+name: "Barry Maraj OCG"
 ---
 
-# Ministry of Homeland Security
+# Barry Maraj OCG
 
 ## Articles
 

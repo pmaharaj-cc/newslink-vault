@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Ministry of Homeland Security"
+type: place
+name: "Siparia district"
 ---
 
-# Ministry of Homeland Security
+# Siparia district
 
 ## Articles
 

@@ -1,9 +1,12 @@
 ---
-type: organization
-name: "Ministry of Homeland Security"
+type: person
+name: "Spencer Jae Reveillac"
+roles: []
+legal_statuses: []
+tags: []
 ---
 
-# Ministry of Homeland Security
+# Spencer Jae Reveillac
 
 ## Articles
 
