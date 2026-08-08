@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Couva"
+type: person
+name: "Curtis Mathura"
+roles: [Plaintiff]
+legal_statuses: []
+tags: []
 ---
 
-# Couva
+# Curtis Mathura
+
+**Known roles:** Plaintiff
 
 ## Articles
 

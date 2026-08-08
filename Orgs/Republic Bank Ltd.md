@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Couva"
+type: organization
+name: "Republic Bank Ltd"
 ---
 
-# Couva
+# Republic Bank Ltd
 
 ## Articles
 
