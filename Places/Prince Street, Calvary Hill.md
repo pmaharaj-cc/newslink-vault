@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Alexander Bruzual"
+type: place
+name: "Prince Street, Calvary Hill"
 ---
 
-# Alexander Bruzual
+# Prince Street, Calvary Hill
 
 ## Articles
 

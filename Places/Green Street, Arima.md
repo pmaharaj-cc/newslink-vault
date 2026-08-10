@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Alexander Bruzual"
+type: place
+name: "Green Street, Arima"
 ---
 
-# Alexander Bruzual
+# Green Street, Arima
 
 ## Articles
 

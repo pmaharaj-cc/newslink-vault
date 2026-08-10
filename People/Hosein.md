@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Hunters Search and Rescue Team"
+type: person
+name: "Hosein"
+roles: [Sergeant]
+legal_statuses: []
+tags: []
 ---
 
-# Hunters Search and Rescue Team
+# Hosein
+
+**Known roles:** Sergeant
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Hunters Search and Rescue Team"
+type: place
+name: "Nestor Village"
 ---
 
-# Hunters Search and Rescue Team
+# Nestor Village
 
 ## Articles
 

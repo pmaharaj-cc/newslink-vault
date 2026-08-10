@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Alexander Bruzual"
+type: place
+name: "Holy Cross Chapel"
 ---
 
-# Alexander Bruzual
+# Holy Cross Chapel
 
 ## Articles
 

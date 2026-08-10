@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Hunters Search and Rescue Team"
+type: person
+name: "Linder Alexander"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Hunters Search and Rescue Team
+# Linder Alexander
+
+**Known roles:** Victim
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Hunters Search and Rescue Team"
+type: place
+name: "Sangre Grande"
 ---
 
-# Hunters Search and Rescue Team
+# Sangre Grande
 
 ## Articles
 

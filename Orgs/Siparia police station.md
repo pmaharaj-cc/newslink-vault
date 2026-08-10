@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Siparia"
+type: organization
+name: "Siparia police station"
 ---
 
-# Siparia
+# Siparia police station
 
 ## Articles
 

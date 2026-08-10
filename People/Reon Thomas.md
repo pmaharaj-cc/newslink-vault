@@ -1,9 +1,14 @@
 ---
-type: author
-name: "Alexander Bruzual"
+type: person
+name: "Reon Thomas"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Alexander Bruzual
+# Reon Thomas
+
+**Known roles:** Victim
 
 ## Articles
 

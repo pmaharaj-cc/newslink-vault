@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Alexander Bruzual"
+type: place
+name: "Calvary Hill, Arima"
 ---
 
-# Alexander Bruzual
+# Calvary Hill, Arima
 
 ## Articles
 

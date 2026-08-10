@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Hunters Search and Rescue Team"
+type: person
+name: "Sham Soodeen"
+roles: [Rescue Team Leader]
+legal_statuses: []
+tags: []
 ---
 
-# Hunters Search and Rescue Team
+# Sham Soodeen
+
+**Known roles:** Rescue Team Leader
 
 ## Articles
 

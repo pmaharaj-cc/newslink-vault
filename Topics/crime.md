@@ -19,3 +19,6 @@ name: "crime"
 - [[Articles/2026-08-07_Westmoorings-businessman-held-with-guns-ammo|Westmoorings businessman held with guns ammo]]
 - [[Articles/2026-08-07_Retrial-ordered-but-appeal-court-says-2030-start-is-una|Retrial ordered but appeal court says 2030 start is una]]
 - [[Articles/2026-08-07_Woman-SRP-among-7-named-in-PDOs-suspected-of-gang-links|Woman SRP among 7 named in PDOs suspected of gang links]]
+- [[Articles/2026-08-10_Search-ends-in-tragedy-as-missing-woman-found-dead-in-r|Search ends in tragedy as missing woman found dead in r]]
+- [[Articles/2026-08-10_Soldier-teens-held-after-double-home-invasion-in-Sipari|Soldier teens held after double home invasion in Sipari]]
+- [[Articles/2026-08-10_Two-shot-dead-minutes-apart-in-Arima|Two shot dead minutes apart in Arima]]

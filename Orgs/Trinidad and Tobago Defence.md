@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Siparia"
+type: organization
+name: "Trinidad and Tobago Defence"
 ---
 
-# Siparia
+# Trinidad and Tobago Defence
 
 ## Articles
 

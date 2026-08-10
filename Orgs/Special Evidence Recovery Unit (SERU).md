@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Alexander Bruzual"
+type: organization
+name: "Special Evidence Recovery Unit (SERU)"
 ---
 
-# Alexander Bruzual
+# Special Evidence Recovery Unit (SERU)
 
 ## Articles
 

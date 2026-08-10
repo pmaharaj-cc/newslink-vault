@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Hunters Search and Rescue Team"
+type: person
+name: "Beekley"
+roles: [Police Constable]
+legal_statuses: []
+tags: []
 ---
 
-# Hunters Search and Rescue Team
+# Beekley
+
+**Known roles:** Police Constable
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Siparia"
+type: organization
+name: "Highway Patrol Unit"
 ---
 
-# Siparia
+# Highway Patrol Unit
 
 ## Articles
 

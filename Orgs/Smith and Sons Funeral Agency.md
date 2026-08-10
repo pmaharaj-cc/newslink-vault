@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Hunters Search and Rescue Team"
+name: "Smith and Sons Funeral Agency"
 ---
 
-# Hunters Search and Rescue Team
+# Smith and Sons Funeral Agency
 
 ## Articles
 

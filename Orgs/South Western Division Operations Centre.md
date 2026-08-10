@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Siparia"
+type: organization
+name: "South Western Division Operations Centre"
 ---
 
-# Siparia
+# South Western Division Operations Centre
 
 ## Articles
 
