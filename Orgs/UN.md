@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "University of the West Indies"
+name: "UN"
 ---
 
-# University of the West Indies
+# UN
 
 ## Articles
 

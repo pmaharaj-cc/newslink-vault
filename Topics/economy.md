@@ -12,3 +12,4 @@ name: "economy"
 - [[Articles/2026-07-23_AI-boom-must-belong-to-the-people|AI boom must belong to the people]]
 - [[Articles/2026-07-29_Former-THA-chief-administrator-dies|Former THA chief administrator dies]]
 - [[Articles/2026-08-07_Republic-Bank-exercised-reasonable-care|Republic Bank exercised reasonable care]]
+- [[Articles/2026-08-10_TTs-food-challenge|TTs food challenge]]

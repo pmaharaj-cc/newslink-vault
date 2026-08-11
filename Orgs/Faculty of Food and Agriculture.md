@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "University of the West Indies"
+name: "Faculty of Food and Agriculture"
 ---
 
-# University of the West Indies
+# Faculty of Food and Agriculture
 
 ## Articles
 

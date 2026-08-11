@@ -1,9 +1,9 @@
 ---
-type: place
-name: "St Augustine"
+type: author
+name: "Mark Wuddivira"
 ---
 
-# St Augustine
+# Mark Wuddivira
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "University of the West Indies"
+name: "The UWI St Augustine"
 ---
 
-# University of the West Indies
+# The UWI St Augustine
 
 ## Articles
 
