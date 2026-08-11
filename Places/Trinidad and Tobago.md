@@ -19,3 +19,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-08-03_TT-does-not-deserve-racialised-rhetoric|TT does not deserve racialised rhetoric]]
 - [[Articles/2026-08-06_A-cautious-path-to-requesting-IDs|A cautious path to requesting IDs]]
 - [[Articles/2026-08-10_TTs-food-challenge|TTs food challenge]]
+- [[Articles/2026-08-11_CCJ-must-clear-the-air|CCJ must clear the air]]

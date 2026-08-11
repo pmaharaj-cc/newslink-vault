@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Caricom"
+type: place
+name: "Jamaica"
 ---
 
-# Caricom
+# Jamaica
 
 ## Articles
 

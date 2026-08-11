@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Caricom"
+name: "Sunday Express"
 ---
 
-# Caricom
+# Sunday Express
 
 ## Articles
 
