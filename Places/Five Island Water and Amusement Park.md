@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Western Main Road"
+name: "Five Island Water and Amusement Park"
 ---
 
-# Western Main Road
+# Five Island Water and Amusement Park
 
 ## Articles
 

@@ -22,3 +22,4 @@ name: "crime"
 - [[Articles/2026-08-10_Search-ends-in-tragedy-as-missing-woman-found-dead-in-r|Search ends in tragedy as missing woman found dead in r]]
 - [[Articles/2026-08-10_Soldier-teens-held-after-double-home-invasion-in-Sipari|Soldier teens held after double home invasion in Sipari]]
 - [[Articles/2026-08-10_Two-shot-dead-minutes-apart-in-Arima|Two shot dead minutes apart in Arima]]
+- [[Articles/2026-08-12_COP-ROBBED-OF-HANDCUFFS-AFTER-GOING-TO-PARTY|COP ROBBED OF HANDCUFFS AFTER GOING TO PARTY]]
