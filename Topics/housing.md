@@ -7,4 +7,4 @@ name: "housing"
 
 ## Articles
 
-- [[Articles/2026-07-02_Understanding-the-Equal-Opportunity-Act|Understanding the Equal Opportunity Act]]
+- [[Articles/2026-08-12_TT-still-battling-the-giant-African-snail|TT still battling the giant African snail]]

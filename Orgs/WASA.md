@@ -7,4 +7,4 @@ name: "WASA"
 
 ## Articles
 
-- [[Articles/2026-07-21_AI-centre-without-a-strategy|AI centre without a strategy]]
+- [[Articles/2026-08-12_Water-security-amid-new-investment|Water security amid new investment]]

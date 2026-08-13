@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "government"
+type: author
+name: "William Lucie-Smith"
 ---
 
-# government
+# William Lucie-Smith
 
 ## Articles
 

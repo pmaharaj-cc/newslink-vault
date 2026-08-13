@@ -7,4 +7,4 @@ name: "Pinnacle Steel and Vanadium Corporation"
 
 ## Articles
 
-- [[Articles/2026-07-17_Transparency-call-over-govt-MoUs|Transparency call over govt MoUs]]
+- [[Articles/2026-08-12_Water-security-amid-new-investment|Water security amid new investment]]

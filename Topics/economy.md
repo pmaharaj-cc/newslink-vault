@@ -7,9 +7,5 @@ name: "economy"
 
 ## Articles
 
-- [[Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent|Cubans are suffering as TT stays silent]]
-- [[Articles/2026-07-21_AI-centre-without-a-strategy|AI centre without a strategy]]
-- [[Articles/2026-07-23_AI-boom-must-belong-to-the-people|AI boom must belong to the people]]
-- [[Articles/2026-07-29_Former-THA-chief-administrator-dies|Former THA chief administrator dies]]
-- [[Articles/2026-08-07_Republic-Bank-exercised-reasonable-care|Republic Bank exercised reasonable care]]
-- [[Articles/2026-08-10_TTs-food-challenge|TTs food challenge]]
+- [[Articles/2026-08-12_TT-still-battling-the-giant-African-snail|TT still battling the giant African snail]]
+- [[Articles/2026-08-12_Water-security-amid-new-investment|Water security amid new investment]]

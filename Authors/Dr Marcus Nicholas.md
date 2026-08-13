@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Trinidad"
+type: author
+name: "Dr Marcus Nicholas"
 ---
 
-# Trinidad
+# Dr Marcus Nicholas
 
 ## Articles
 

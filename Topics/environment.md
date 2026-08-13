@@ -7,5 +7,5 @@ name: "environment"
 
 ## Articles
 
-- [[Articles/2026-07-22_Exploring-the-Mud-Volcanoes|Exploring the Mud Volcanoes]]
-- [[Articles/2026-07-29_Preserve-the-Mangrove|Preserve the Mangrove]]
+- [[Articles/2026-08-12_TT-still-battling-the-giant-African-snail|TT still battling the giant African snail]]
+- [[Articles/2026-08-12_Water-security-amid-new-investment|Water security amid new investment]]

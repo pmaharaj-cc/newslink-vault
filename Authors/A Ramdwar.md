@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Trinidad"
+type: author
+name: "A Ramdwar"
 ---
 
-# Trinidad
+# A Ramdwar
 
 ## Articles
 
