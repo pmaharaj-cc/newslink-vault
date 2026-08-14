@@ -1,5 +1,15 @@
 {
-  "People": {},
+  "People": {
+    "Sudesh Ramkissoon": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md"
+      ]
+    }
+  },
   "Orgs": {
     "WASA": {
       "articles": [
@@ -9,6 +19,46 @@
     "Pinnacle Steel and Vanadium Corporation": {
       "articles": [
         "Articles/2026-08-12_Water-security-amid-new-investment.md"
+      ]
+    },
+    "Ministry of Agriculture and Fisheries": {
+      "articles": [
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md"
+      ]
+    },
+    "Broiler Growers Association": {
+      "articles": [
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md"
+      ]
+    },
+    "National Gas Company (NGC)": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "bp": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "Heritage and Stabilisation Fund": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "International Monetary Fund (IMF)": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "Trinidad and Tobago Government": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "Point Lisas steel plant": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
       ]
     }
   },
@@ -35,12 +85,25 @@
     },
     "Point Lisas": {
       "articles": [
-        "Articles/2026-08-12_Water-security-amid-new-investment.md"
+        "Articles/2026-08-12_Water-security-amid-new-investment.md",
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
       ]
     },
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-08-12_Water-security-amid-new-investment.md"
+        "Articles/2026-08-12_Water-security-amid-new-investment.md",
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "Manakin": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "Cocuina-Manakin field": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
       ]
     }
   },
@@ -48,13 +111,16 @@
     "environment": {
       "articles": [
         "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md",
-        "Articles/2026-08-12_Water-security-amid-new-investment.md"
+        "Articles/2026-08-12_Water-security-amid-new-investment.md",
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md"
       ]
     },
     "economy": {
       "articles": [
         "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md",
-        "Articles/2026-08-12_Water-security-amid-new-investment.md"
+        "Articles/2026-08-12_Water-security-amid-new-investment.md",
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
       ]
     },
     "housing": {
@@ -64,12 +130,20 @@
     },
     "infrastructure": {
       "articles": [
-        "Articles/2026-08-12_Water-security-amid-new-investment.md"
+        "Articles/2026-08-12_Water-security-amid-new-investment.md",
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
       ]
     },
     "government": {
       "articles": [
-        "Articles/2026-08-12_Water-security-amid-new-investment.md"
+        "Articles/2026-08-12_Water-security-amid-new-investment.md",
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "energy": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
       ]
     }
   },
@@ -87,6 +161,11 @@
     "William Lucie-Smith": {
       "articles": [
         "Articles/2026-08-12_Water-security-amid-new-investment.md"
+      ]
+    },
+    "Indera Sagewan": {
+      "articles": [
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
       ]
     }
   }

@@ -8,3 +8,4 @@ name: "infrastructure"
 ## Articles
 
 - [[Articles/2026-08-12_Water-security-amid-new-investment|Water security amid new investment]]
+- [[Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right|Gas Steel AI Opportunities to Get Right]]

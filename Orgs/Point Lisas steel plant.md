@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: organization
+name: "Point Lisas steel plant"
 ---
 
-# energy
+# Point Lisas steel plant
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: organization
+name: "bp"
 ---
 
-# energy
+# bp
 
 ## Articles
 

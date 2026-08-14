@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: organization
+name: "International Monetary Fund (IMF)"
 ---
 
-# energy
+# International Monetary Fund (IMF)
 
 ## Articles
 

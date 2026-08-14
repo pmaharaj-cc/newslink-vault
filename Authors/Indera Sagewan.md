@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: author
+name: "Indera Sagewan"
 ---
 
-# energy
+# Indera Sagewan
 
 ## Articles
 

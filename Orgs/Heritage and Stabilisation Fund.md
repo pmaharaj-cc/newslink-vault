@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: organization
+name: "Heritage and Stabilisation Fund"
 ---
 
-# energy
+# Heritage and Stabilisation Fund
 
 ## Articles
 

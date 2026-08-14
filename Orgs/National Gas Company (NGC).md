@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "energy"
+type: organization
+name: "National Gas Company (NGC)"
 ---
 
-# energy
+# National Gas Company (NGC)
 
 ## Articles
 
