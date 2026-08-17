@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Arima"
+type: organization
+name: "Arima Police Station"
 ---
 
-# Arima
+# Arima Police Station
 
 ## Articles
 

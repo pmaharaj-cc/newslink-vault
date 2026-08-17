@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Arima"
+type: organization
+name: "TikTok"
 ---
 
-# Arima
+# TikTok
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Arima"
+type: organization
+name: "Besson Street Police Station"
 ---
 
-# Arima
+# Besson Street Police Station
 
 ## Articles
 

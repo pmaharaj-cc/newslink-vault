@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Arima"
+name: "Duncan Street"
 ---
 
-# Arima
+# Duncan Street
 
 ## Articles
 
