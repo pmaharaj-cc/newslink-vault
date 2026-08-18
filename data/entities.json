@@ -75,6 +75,26 @@
       "articles": [
         "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md"
       ]
+    },
+    "Trinidad and Tobago Defence Force": {
+      "articles": [
+        "Articles/2026-08-17_Camouflage-a-crime.md"
+      ]
+    },
+    "Government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+      ]
+    },
+    "Shell": {
+      "articles": [
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+      ]
+    },
+    "Atlantic LNG": {
+      "articles": [
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+      ]
     }
   },
   "Places": {
@@ -108,7 +128,9 @@
       "articles": [
         "Articles/2026-08-12_Water-security-amid-new-investment.md",
         "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
-        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
+        "Articles/2026-08-17_Camouflage-a-crime.md",
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
       ]
     },
     "Manakin": {
@@ -135,6 +157,11 @@
       "articles": [
         "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md"
       ]
+    },
+    "Venezuela": {
+      "articles": [
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+      ]
     }
   },
   "Topics": {
@@ -150,7 +177,8 @@
         "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md",
         "Articles/2026-08-12_Water-security-amid-new-investment.md",
         "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
-        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
       ]
     },
     "housing": {
@@ -168,17 +196,25 @@
       "articles": [
         "Articles/2026-08-12_Water-security-amid-new-investment.md",
         "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
-        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
+        "Articles/2026-08-17_Camouflage-a-crime.md"
       ]
     },
     "energy": {
       "articles": [
-        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
       ]
     },
     "crime": {
       "articles": [
-        "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md"
+        "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md",
+        "Articles/2026-08-17_Camouflage-a-crime.md"
+      ]
+    },
+    "foreign-affairs": {
+      "articles": [
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
       ]
     }
   },
@@ -201,6 +237,11 @@
     "Indera Sagewan": {
       "articles": [
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+      ]
+    },
+    "Simon Wright": {
+      "articles": [
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
       ]
     }
   }

@@ -7,4 +7,4 @@ name: "Trinidad and Tobago Defence Force"
 
 ## Articles
 
-- [[Articles/2026-07-30_Dangerous-escapee-still-at-large|Dangerous escapee still at large]]
+- [[Articles/2026-08-17_Camouflage-a-crime|Camouflage a crime]]

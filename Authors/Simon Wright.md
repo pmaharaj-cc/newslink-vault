@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: author
+name: "Simon Wright"
 ---
 
-# Venezuela
+# Simon Wright
 
 ## Articles
 

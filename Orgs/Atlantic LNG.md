@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: organization
+name: "Atlantic LNG"
 ---
 
-# Venezuela
+# Atlantic LNG
 
 ## Articles
 
