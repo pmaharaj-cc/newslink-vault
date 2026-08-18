@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Police"
+type: place
+name: "Paria Main Road"
 ---
 
-# Police
+# Paria Main Road
 
 ## Articles
 

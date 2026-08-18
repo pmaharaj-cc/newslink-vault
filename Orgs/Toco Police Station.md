@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Police"
+name: "Toco Police Station"
 ---
 
-# Police
+# Toco Police Station
 
 ## Articles
 

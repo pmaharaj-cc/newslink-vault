@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Police"
+type: place
+name: "George Street"
 ---
 
-# Police
+# George Street
 
 ## Articles
 

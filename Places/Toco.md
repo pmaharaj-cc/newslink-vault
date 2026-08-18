@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Police"
+type: place
+name: "Toco"
 ---
 
-# Police
+# Toco
 
 ## Articles
 

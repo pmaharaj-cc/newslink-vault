@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Police"
+type: place
+name: "L’Anse Noire"
 ---
 
-# Police
+# L’Anse Noire
 
 ## Articles
 
