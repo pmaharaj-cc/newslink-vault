@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Atlantic"
+type: organization
+name: "Ministry of Finance"
 ---
 
-# Atlantic
+# Ministry of Finance
 
 ## Articles
 

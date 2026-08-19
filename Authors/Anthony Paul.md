@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Atlantic"
+type: author
+name: "Anthony Paul"
 ---
 
-# Atlantic
+# Anthony Paul
 
 ## Articles
 

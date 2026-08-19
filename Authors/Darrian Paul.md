@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Atlantic"
+type: author
+name: "Darrian Paul"
 ---
 
-# Atlantic
+# Darrian Paul
 
 ## Articles
 

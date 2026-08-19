@@ -71,7 +71,8 @@
     },
     "Trinidad and Tobago Government": {
       "articles": [
-        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     },
     "Point Lisas steel plant": {
@@ -153,6 +154,26 @@
       "articles": [
         "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md"
       ]
+    },
+    "Central Statistical Office": {
+      "articles": [
+        "Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec.md"
+      ]
+    },
+    "Ministry of Finance": {
+      "articles": [
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+      ]
+    },
+    "National Gas Company": {
+      "articles": [
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+      ]
+    },
+    "Treasury": {
+      "articles": [
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+      ]
     }
   },
   "Places": {
@@ -180,7 +201,8 @@
     "Point Lisas": {
       "articles": [
         "Articles/2026-08-12_Water-security-amid-new-investment.md",
-        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     },
     "Trinidad and Tobago": {
@@ -189,7 +211,9 @@
         "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
         "Articles/2026-08-17_Camouflage-a-crime.md",
-        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md",
+        "Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec.md",
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     },
     "Manakin": {
@@ -237,7 +261,7 @@
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
     },
-    "LâAnse Noire": {
+    "LÃ¢ÂÂAnse Noire": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
@@ -245,6 +269,11 @@
     "George Street": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
+      ]
+    },
+    "Atlantic": {
+      "articles": [
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     }
   },
@@ -264,7 +293,9 @@
         "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
         "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md",
-        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md",
+        "Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec.md",
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     },
     "housing": {
@@ -285,7 +316,8 @@
         "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
         "Articles/2026-08-17_Camouflage-a-crime.md",
-        "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md"
+        "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md",
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     },
     "energy": {
@@ -293,7 +325,8 @@
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
         "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md",
         "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md",
-        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md",
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     },
     "crime": {
@@ -338,6 +371,21 @@
     "Taimoon Stewart": {
       "articles": [
         "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
+      ]
+    },
+    "Mwale Emmanuel Henry": {
+      "articles": [
+        "Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec.md"
+      ]
+    },
+    "Anthony Paul": {
+      "articles": [
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+      ]
+    },
+    "Darrian Paul": {
+      "articles": [
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
       ]
     }
   }

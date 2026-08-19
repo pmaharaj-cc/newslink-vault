@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Atlantic"
+type: organization
+name: "National Gas Company"
 ---
 
-# Atlantic
+# National Gas Company
 
 ## Articles
 

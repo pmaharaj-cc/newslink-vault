@@ -13,3 +13,5 @@ name: "economy"
 - [[Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right|Gas Steel AI Opportunities to Get Right]]
 - [[Articles/2026-08-17_Turning-gas-into-a-brighter-future|Turning gas into a brighter future]]
 - [[Articles/2026-08-18_Some-questions-about-the-proposed-data-centre|Some questions about the proposed data centre]]
+- [[Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec|Part 1 The jobs numbers are fighting each other the ec]]
+- [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]

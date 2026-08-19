@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Atlantic"
+type: organization
+name: "Treasury"
 ---
 
-# Atlantic
+# Treasury
 
 ## Articles
 
