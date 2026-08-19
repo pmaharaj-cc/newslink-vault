@@ -158,7 +158,8 @@
   "Places": {
     "Trinidad": {
       "articles": [
-        "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md"
+        "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md",
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
       ]
     },
     "Tobago": {
@@ -236,7 +237,7 @@
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
     },
-    "L’Anse Noire": {
+    "LâAnse Noire": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
@@ -252,7 +253,8 @@
       "articles": [
         "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md",
         "Articles/2026-08-12_Water-security-amid-new-investment.md",
-        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md"
+        "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
       ]
     },
     "economy": {
@@ -261,7 +263,8 @@
         "Articles/2026-08-12_Water-security-amid-new-investment.md",
         "Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate.md",
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
-        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+        "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md",
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
       ]
     },
     "housing": {
@@ -272,7 +275,8 @@
     "infrastructure": {
       "articles": [
         "Articles/2026-08-12_Water-security-amid-new-investment.md",
-        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md"
+        "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
       ]
     },
     "government": {
@@ -288,7 +292,8 @@
       "articles": [
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
         "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md",
-        "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md"
+        "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md",
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
       ]
     },
     "crime": {
@@ -328,6 +333,11 @@
     "Simon Wright": {
       "articles": [
         "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+      ]
+    },
+    "Taimoon Stewart": {
+      "articles": [
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
       ]
     }
   }
