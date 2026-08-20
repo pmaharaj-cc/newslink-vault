@@ -7,6 +7,4 @@ name: "health"
 
 ## Articles
 
-- [[Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent|Cubans are suffering as TT stays silent]]
-- [[Articles/2026-07-23_AI-boom-must-belong-to-the-people|AI boom must belong to the people]]
-- [[Articles/2026-08-10_TTs-food-challenge|TTs food challenge]]
+- [[Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident|Pellet lodged in brain after Mayaro pellet gun accident]]

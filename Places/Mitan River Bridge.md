@@ -1,11 +1,10 @@
 ---
-type: organization
-name: "Police"
+type: place
+name: "Mitan River Bridge"
 ---
 
-# Police
+# Mitan River Bridge
 
 ## Articles
 
-- [[Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco|Driver shot in road rage incident in Toco]]
 - [[Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident|Pellet lodged in brain after Mayaro pellet gun accident]]

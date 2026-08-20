@@ -122,7 +122,8 @@
     },
     "Police": {
       "articles": [
-        "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
+        "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md",
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
       ]
     },
     "Occupational Safety and Health Agency": {
@@ -173,6 +174,16 @@
     "Treasury": {
       "articles": [
         "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+      ]
+    },
+    "Sangre Grande Hospital": {
+      "articles": [
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
+      ]
+    },
+    "Mount Hope Hospital": {
+      "articles": [
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
       ]
     }
   },
@@ -261,7 +272,7 @@
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
     },
-    "LÃ¢ÂÂAnse Noire": {
+    "LÃÂ¢ÃÂÃÂAnse Noire": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
@@ -274,6 +285,26 @@
     "Atlantic": {
       "articles": [
         "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+      ]
+    },
+    "Mayaro": {
+      "articles": [
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
+      ]
+    },
+    "Mitan River Bridge": {
+      "articles": [
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
+      ]
+    },
+    "Sangre Grande": {
+      "articles": [
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
+      ]
+    },
+    "Mount Hope Hospital": {
+      "articles": [
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
       ]
     }
   },
@@ -339,6 +370,11 @@
     "foreign-affairs": {
       "articles": [
         "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md"
+      ]
+    },
+    "health": {
+      "articles": [
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
       ]
     }
   },
