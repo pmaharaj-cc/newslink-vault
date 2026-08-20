@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Trinidad and Tobago Police Service"
+type: place
+name: "Valpark Shopping Plaza"
 ---
 
-# Trinidad and Tobago Police Service
+# Valpark Shopping Plaza
 
 ## Articles
 

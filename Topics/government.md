@@ -13,3 +13,5 @@ name: "government"
 - [[Articles/2026-08-17_Camouflage-a-crime|Camouflage a crime]]
 - [[Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027|Pete never found Court case set for 2027]]
 - [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]
+- [[Articles/2026-08-20_Multiple-bomb-threats-yesterday|Multiple bomb threats yesterday]]
+- [[Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention|State to pay legal fees for cops detention]]

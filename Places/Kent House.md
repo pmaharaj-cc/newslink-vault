@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Trinidad and Tobago Police Service"
+type: place
+name: "Kent House"
 ---
 
-# Trinidad and Tobago Police Service
+# Kent House
 
 ## Articles
 

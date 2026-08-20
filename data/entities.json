@@ -62,6 +62,40 @@
       "articles": [
         "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
       ]
+    },
+    "Frank Seepersad": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md"
+      ]
+    },
+    "Taradath Singh": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md"
+      ]
+    },
+    "Zion Raphael": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md",
+          "title": "State to pay legal fees for cop's detention",
+          "date": "2026-08-20"
+        }
+      ],
+      "articles": [
+        "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md"
+      ]
     }
   },
   "Orgs": {
@@ -266,6 +300,16 @@
       "articles": [
         "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
       ]
+    },
+    "Trinidad and Tobago Police Service": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
+    },
+    "Ministry of Rural Development and Local Government": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
     }
   },
   "Places": {
@@ -273,7 +317,8 @@
       "articles": [
         "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md",
         "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md",
-        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md",
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
       ]
     },
     "Tobago": {
@@ -331,7 +376,8 @@
     },
     "Arima": {
       "articles": [
-        "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md"
+        "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md",
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
       ]
     },
     "Venezuela": {
@@ -354,7 +400,7 @@
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
     },
-    "LÃÂÃÂ¢ÃÂÃÂÃÂÃÂAnse Noire": {
+    "LÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAnse Noire": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
@@ -381,7 +427,8 @@
     },
     "Sangre Grande": {
       "articles": [
-        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md",
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
       ]
     },
     "Mount Hope Hospital": {
@@ -426,7 +473,38 @@
     },
     "San Fernando": {
       "articles": [
-        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md",
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
+    },
+    "Princes Town": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
+    },
+    "Chaguanas": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
+    },
+    "Siparia": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
+    },
+    "Kent House": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
+    },
+    "Valpark Shopping Plaza": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+      ]
+    },
+    "Valsayn": {
+      "articles": [
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
       ]
     }
   },
@@ -470,7 +548,9 @@
         "Articles/2026-08-13_Gas-Steel-AI-Opportunities-to-Get-Right.md",
         "Articles/2026-08-17_Camouflage-a-crime.md",
         "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md",
-        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md",
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md",
+        "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md"
       ]
     },
     "energy": {
@@ -487,7 +567,8 @@
         "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md",
         "Articles/2026-08-17_Camouflage-a-crime.md",
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md",
-        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md",
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
       ]
     },
     "foreign-affairs": {
@@ -504,6 +585,11 @@
     "social": {
       "articles": [
         "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "judiciary": {
+      "articles": [
+        "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md"
       ]
     }
   },

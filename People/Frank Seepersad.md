@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Frank Seepersad"
-roles: [Justice]
+roles: [Judge]
 legal_statuses: []
 tags: []
 ---
 
 # Frank Seepersad
 
-**Known roles:** Justice
+**Known roles:** Judge
 
 ## Articles
 
-- [[Articles/2026-07-01_Police-detail-alleged-assassination-plan|Police detail alleged assassination plan]]
+- [[Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention|State to pay legal fees for cops detention]]

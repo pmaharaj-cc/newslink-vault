@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Trinidad and Tobago Police Service"
+name: "Ministry of Rural Development and Local Government"
 ---
 
-# Trinidad and Tobago Police Service
+# Ministry of Rural Development and Local Government
 
 ## Articles
 

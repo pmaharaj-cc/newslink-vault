@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Trinidad and Tobago Police Service"
+type: place
+name: "Princes Town"
 ---
 
-# Trinidad and Tobago Police Service
+# Princes Town
 
 ## Articles
 

@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Taradath Singh"
-roles: [Defence Attorney]
+roles: [Attorney]
 legal_statuses: []
 tags: []
 ---
 
 # Taradath Singh
 
-**Known roles:** Defence Attorney
+**Known roles:** Attorney
 
 ## Articles
 
-- [[Articles/2026-07-04_Man-cleared-of-rape-convicted-of-stealing-exgirlfriends|Man cleared of rape convicted of stealing exgirlfriends]]
+- [[Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention|State to pay legal fees for cops detention]]
