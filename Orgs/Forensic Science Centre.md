@@ -7,4 +7,4 @@ name: "Forensic Science Centre"
 
 ## Articles
 
-- [[Articles/2026-07-18_Missing-man-killed-buried-in-latrine|Missing man killed buried in latrine]]
+- [[Articles/2026-08-20_Two-autopsies-done-on-dancers-body|Two autopsies done on dancers body]]

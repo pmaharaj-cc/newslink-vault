@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Gasparillo"
+name: "Happy Hill"
 ---
 
-# Gasparillo
+# Happy Hill
 
 ## Articles
 

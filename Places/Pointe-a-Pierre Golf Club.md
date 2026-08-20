@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Gasparillo"
+name: "Pointe-a-Pierre Golf Club"
 ---
 
-# Gasparillo
+# Pointe-a-Pierre Golf Club
 
 ## Articles
 

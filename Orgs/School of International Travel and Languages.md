@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Gasparillo"
+type: organization
+name: "School of International Travel and Languages"
 ---
 
-# Gasparillo
+# School of International Travel and Languages
 
 ## Articles
 

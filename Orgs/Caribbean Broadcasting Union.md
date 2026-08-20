@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "Caribbean Broadcasting Union"
 ---
 
-# social
+# Caribbean Broadcasting Union
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Gasparillo"
+name: "Ben Lomond Village"
 ---
 
-# Gasparillo
+# Ben Lomond Village
 
 ## Articles
 

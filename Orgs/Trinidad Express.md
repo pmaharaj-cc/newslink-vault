@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "Trinidad Express"
 ---
 
-# social
+# Trinidad Express
 
 ## Articles
 

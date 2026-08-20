@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Gasparillo"
+name: "Lumsden Public Cemetery"
 ---
 
-# Gasparillo
+# Lumsden Public Cemetery
 
 ## Articles
 

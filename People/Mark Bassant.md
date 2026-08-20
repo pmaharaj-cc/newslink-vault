@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Mariah Seenath"
-roles: [Child]
+name: "Mark Bassant"
+roles: [Investigative Journalist]
 legal_statuses: []
 tags: []
 ---
 
-# Mariah Seenath
+# Mark Bassant
 
-**Known roles:** Child
+**Known roles:** Investigative Journalist
 
 ## Articles
 

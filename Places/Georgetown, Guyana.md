@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: place
+name: "Georgetown, Guyana"
 ---
 
-# social
+# Georgetown, Guyana
 
 ## Articles
 

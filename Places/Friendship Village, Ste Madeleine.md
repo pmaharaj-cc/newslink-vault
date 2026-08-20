@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: place
+name: "Friendship Village, Ste Madeleine"
 ---
 
-# social
+# Friendship Village, Ste Madeleine
 
 ## Articles
 

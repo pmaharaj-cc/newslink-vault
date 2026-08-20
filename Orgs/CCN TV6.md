@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "CCN TV6"
 ---
 
-# social
+# CCN TV6
 
 ## Articles
 

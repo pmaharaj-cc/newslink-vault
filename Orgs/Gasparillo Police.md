@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Gasparillo"
+type: organization
+name: "Gasparillo Police"
 ---
 
-# Gasparillo
+# Gasparillo Police
 
 ## Articles
 

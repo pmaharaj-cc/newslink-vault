@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Gasparillo"
+type: organization
+name: "Trinidad Multicultural Dance Company"
 ---
 
-# Gasparillo
+# Trinidad Multicultural Dance Company
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "Caribbean Communications Network"
 ---
 
-# social
+# Caribbean Communications Network
 
 ## Articles
 

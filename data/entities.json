@@ -26,6 +26,42 @@
       "articles": [
         "Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027.md"
       ]
+    },
+    "Mark Bassant": {
+      "roles": [
+        "Investigative Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "Carolyn Kissoon": {
+      "roles": [
+        "South Bureau Chief"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "Mariah Seenath": {
+      "roles": [
+        "Child"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "Jedda Beharry": {
+      "roles": [
+        "Dancer and Student"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
     }
   },
   "Orgs": {
@@ -185,13 +221,59 @@
       "articles": [
         "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
       ]
+    },
+    "Trinidad Express": {
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "Caribbean Communications Network": {
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "CCN TV6": {
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "Caribbean Broadcasting Union": {
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "School of International Travel and Languages": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "Trinidad Multicultural Dance Company": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "San Fernando General Hospital": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "Forensic Science Centre": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "Gasparillo Police": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
     }
   },
   "Places": {
     "Trinidad": {
       "articles": [
         "Articles/2026-08-12_TT-still-battling-the-giant-African-snail.md",
-        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md"
+        "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md",
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
       ]
     },
     "Tobago": {
@@ -272,7 +354,7 @@
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
     },
-    "LÃÂ¢ÃÂÃÂAnse Noire": {
+    "LÃÂÃÂ¢ÃÂÃÂÃÂÃÂAnse Noire": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
@@ -305,6 +387,46 @@
     "Mount Hope Hospital": {
       "articles": [
         "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
+      ]
+    },
+    "Georgetown, Guyana": {
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "Friendship Village, Ste Madeleine": {
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+      ]
+    },
+    "Happy Hill": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "Gasparillo": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "Pointe-a-Pierre Golf Club": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "Lumsden Public Cemetery": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "Ben Lomond Village": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "San Fernando": {
+      "articles": [
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
       ]
     }
   },
@@ -364,7 +486,8 @@
       "articles": [
         "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md",
         "Articles/2026-08-17_Camouflage-a-crime.md",
-        "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
+        "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md",
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
       ]
     },
     "foreign-affairs": {
@@ -374,7 +497,13 @@
     },
     "health": {
       "articles": [
-        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md"
+        "Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident.md",
+        "Articles/2026-08-20_Two-autopsies-done-on-dancers-body.md"
+      ]
+    },
+    "social": {
+      "articles": [
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
       ]
     }
   },

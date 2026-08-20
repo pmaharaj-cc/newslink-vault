@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Mariah Seenath"
-roles: [Child]
+name: "Carolyn Kissoon"
+roles: [South Bureau Chief]
 legal_statuses: []
 tags: []
 ---
 
-# Mariah Seenath
+# Carolyn Kissoon
 
-**Known roles:** Child
+**Known roles:** South Bureau Chief
 
 ## Articles
 
