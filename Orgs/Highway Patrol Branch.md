@@ -1,9 +1,9 @@
 ---
-type: place
-name: "St James"
+type: organization
+name: "Highway Patrol Branch"
 ---
 
-# St James
+# Highway Patrol Branch
 
 ## Articles
 

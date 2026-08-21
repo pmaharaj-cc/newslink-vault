@@ -1,9 +1,9 @@
 ---
 type: place
-name: "St James"
+name: "Beetham Highway"
 ---
 
-# St James
+# Beetham Highway
 
 ## Articles
 

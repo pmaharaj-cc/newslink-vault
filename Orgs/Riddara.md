@@ -1,9 +1,9 @@
 ---
-type: place
-name: "St James"
+type: organization
+name: "Riddara"
 ---
 
-# St James
+# Riddara
 
 ## Articles
 

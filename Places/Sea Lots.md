@@ -1,9 +1,9 @@
 ---
 type: place
-name: "St James"
+name: "Sea Lots"
 ---
 
-# St James
+# Sea Lots
 
 ## Articles
 
