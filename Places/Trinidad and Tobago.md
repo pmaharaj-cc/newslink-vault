@@ -14,3 +14,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-08-17_Turning-gas-into-a-brighter-future|Turning gas into a brighter future]]
 - [[Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec|Part 1 The jobs numbers are fighting each other the ec]]
 - [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]
+- [[Articles/2026-08-21_Better-than-that|Better than that]]
