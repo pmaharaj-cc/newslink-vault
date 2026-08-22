@@ -97,6 +97,24 @@
       "articles": [
         "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md"
       ]
+    },
+    "Junior Castillo": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
+    },
+    "Keith Benjamin Spencer": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
     }
   },
   "Orgs": {
@@ -159,7 +177,8 @@
     },
     "Arima Police Station": {
       "articles": [
-        "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md"
+        "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md",
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
       ]
     },
     "TikTok": {
@@ -343,6 +362,26 @@
       "articles": [
         "Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-.md"
       ]
+    },
+    "Arima Police District": {
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
+    },
+    "Arima Criminal Investigations Department": {
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
+    },
+    "Homicide Bureau Region II": {
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
+    },
+    "Special Evidence Recovery Unit": {
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
     }
   },
   "Places": {
@@ -413,7 +452,8 @@
     "Arima": {
       "articles": [
         "Articles/2026-08-17_Double-your-money-woman-hands-TikTok-creator-7000.md",
-        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md"
+        "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md",
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
       ]
     },
     "Venezuela": {
@@ -436,7 +476,7 @@
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
     },
-    "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAnse Noire": {
+    "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAnse Noire": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
@@ -571,6 +611,21 @@
       "articles": [
         "Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-.md"
       ]
+    },
+    "Farfan Street, Arima": {
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
+    },
+    "Heights of Guanapo": {
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
+    },
+    "Second Street, Oropune Gardens, Piarco": {
+      "articles": [
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
+      ]
     }
   },
   "Topics": {
@@ -636,7 +691,8 @@
         "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md",
         "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md",
         "Articles/2026-08-21_Dancers-funeral-postponed-after-second-autopsy.md",
-        "Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-.md"
+        "Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-.md",
+        "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
       ]
     },
     "foreign-affairs": {
