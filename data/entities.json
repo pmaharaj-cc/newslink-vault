@@ -115,6 +115,15 @@
       "articles": [
         "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
       ]
+    },
+    "Andrew Ramroop": {
+      "roles": [
+        "Tailor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
+      ]
     }
   },
   "Orgs": {
@@ -382,6 +391,11 @@
       "articles": [
         "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
       ]
+    },
+    "Savile Row": {
+      "articles": [
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
+      ]
     }
   },
   "Places": {
@@ -391,7 +405,8 @@
         "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md",
         "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md",
         "Articles/2026-08-20_Multiple-bomb-threats-yesterday.md",
-        "Articles/2026-08-21_Dancers-funeral-postponed-after-second-autopsy.md"
+        "Articles/2026-08-21_Dancers-funeral-postponed-after-second-autopsy.md",
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
       ]
     },
     "Tobago": {
@@ -476,7 +491,7 @@
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
     },
-    "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAnse Noire": {
+    "LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂAnse Noire": {
       "articles": [
         "Articles/2026-08-18_Driver-shot-in-road-rage-incident-in-Toco.md"
       ]
@@ -626,6 +641,26 @@
       "articles": [
         "Articles/2026-08-22_Two-men-shot-dead-in-Arima.md"
       ]
+    },
+    "Tunapuna": {
+      "articles": [
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
+      ]
+    },
+    "London": {
+      "articles": [
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
+      ]
+    },
+    "Buckingham Palace": {
+      "articles": [
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
+      ]
+    },
+    "England": {
+      "articles": [
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
+      ]
     }
   },
   "Topics": {
@@ -646,7 +681,8 @@
         "Articles/2026-08-17_Turning-gas-into-a-brighter-future.md",
         "Articles/2026-08-18_Some-questions-about-the-proposed-data-centre.md",
         "Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec.md",
-        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md"
+        "Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters.md",
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
       ]
     },
     "housing": {
@@ -709,12 +745,18 @@
     },
     "social": {
       "articles": [
-        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md"
+        "Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards.md",
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
       ]
     },
     "judiciary": {
       "articles": [
         "Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention.md"
+      ]
+    },
+    "culture": {
+      "articles": [
+        "Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo.md"
       ]
     }
   },

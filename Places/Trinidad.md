@@ -12,3 +12,4 @@ name: "Trinidad"
 - [[Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards|Kissoon Bassant lead CCNs success at awards]]
 - [[Articles/2026-08-20_Multiple-bomb-threats-yesterday|Multiple bomb threats yesterday]]
 - [[Articles/2026-08-21_Dancers-funeral-postponed-after-second-autopsy|Dancers funeral postponed after second autopsy]]
+- [[Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo|Bespoke tailor Andrew Ramroop shares journey in new boo]]

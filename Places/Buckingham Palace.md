@@ -1,11 +1,10 @@
 ---
-type: topic
-name: "social"
+type: place
+name: "Buckingham Palace"
 ---
 
-# social
+# Buckingham Palace
 
 ## Articles
 
-- [[Articles/2026-08-20_Kissoon-Bassant-lead-CCNs-success-at-awards|Kissoon Bassant lead CCNs success at awards]]
 - [[Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo|Bespoke tailor Andrew Ramroop shares journey in new boo]]
