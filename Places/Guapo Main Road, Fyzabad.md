@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Siparia District Health Facility"
+type: place
+name: "Guapo Main Road, Fyzabad"
 ---
 
-# Siparia District Health Facility
+# Guapo Main Road, Fyzabad
 
 ## Articles
 

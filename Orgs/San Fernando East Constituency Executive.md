@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "parliament"
+type: organization
+name: "San Fernando East Constituency Executive"
 ---
 
-# parliament
+# San Fernando East Constituency Executive
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "parliament"
+type: organization
+name: "PNM General Council"
 ---
 
-# parliament
+# PNM General Council
 
 ## Articles
 

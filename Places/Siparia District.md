@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Siparia District Health Facility"
+type: place
+name: "Siparia District"
 ---
 
-# Siparia District Health Facility
+# Siparia District
 
 ## Articles
 

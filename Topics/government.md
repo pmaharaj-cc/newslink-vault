@@ -15,3 +15,5 @@ name: "government"
 - [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]
 - [[Articles/2026-08-20_Multiple-bomb-threats-yesterday|Multiple bomb threats yesterday]]
 - [[Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention|State to pay legal fees for cops detention]]
+- [[Articles/2026-08-24_San-Fernando-East-PNM-executive-quits-amid-turmoil|San Fernando East PNM executive quits amid turmoil]]
+- [[Articles/2026-08-24_Road-rage-beating-of-police-sergeant-in-Fyzabad|Road rage beating of police sergeant in Fyzabad]]

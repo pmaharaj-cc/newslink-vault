@@ -1,9 +1,14 @@
 ---
-type: topic
-name: "parliament"
+type: person
+name: "Brian Manning"
+roles: [MP]
+legal_statuses: []
+tags: []
 ---
 
-# parliament
+# Brian Manning
+
+**Known roles:** MP
 
 ## Articles
 

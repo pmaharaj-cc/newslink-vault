@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Siparia District Health Facility"
+type: place
+name: "Fyzabad Police Station"
 ---
 
-# Siparia District Health Facility
+# Fyzabad Police Station
 
 ## Articles
 

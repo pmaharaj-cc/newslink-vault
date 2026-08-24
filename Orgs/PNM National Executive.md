@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "parliament"
+type: organization
+name: "PNM National Executive"
 ---
 
-# parliament
+# PNM National Executive
 
 ## Articles
 

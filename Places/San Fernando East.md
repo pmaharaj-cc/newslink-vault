@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "parliament"
+type: place
+name: "San Fernando East"
 ---
 
-# parliament
+# San Fernando East
 
 ## Articles
 

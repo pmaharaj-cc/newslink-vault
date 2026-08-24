@@ -9,3 +9,4 @@ name: "Trinidad and Tobago Police Service"
 
 - [[Articles/2026-08-20_Multiple-bomb-threats-yesterday|Multiple bomb threats yesterday]]
 - [[Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-|Police vehicle totaled as driver flees after red light ]]
+- [[Articles/2026-08-24_Road-rage-beating-of-police-sergeant-in-Fyzabad|Road rage beating of police sergeant in Fyzabad]]

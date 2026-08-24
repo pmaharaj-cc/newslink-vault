@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Siparia District Health Facility"
+name: "Republic Bank"
 ---
 
-# Siparia District Health Facility
+# Republic Bank
 
 ## Articles
 
