@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "education"
+type: organization
+name: "Arthur Lok Jack Graduate School of Business"
 ---
 
-# education
+# Arthur Lok Jack Graduate School of Business
 
 ## Articles
 

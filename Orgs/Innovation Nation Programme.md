@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "education"
+type: organization
+name: "Innovation Nation Programme"
 ---
 
-# education
+# Innovation Nation Programme
 
 ## Articles
 

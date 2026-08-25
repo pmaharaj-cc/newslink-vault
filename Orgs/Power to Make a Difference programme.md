@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "education"
+type: organization
+name: "Power to Make a Difference programme"
 ---
 
-# education
+# Power to Make a Difference programme
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "education"
+type: organization
+name: "Innovation Nation 2026 PowerUp Competition"
 ---
 
-# education
+# Innovation Nation 2026 PowerUp Competition
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "education"
+type: organization
+name: "Caribbean Industrial Research Institute"
 ---
 
-# education
+# Caribbean Industrial Research Institute
 
 ## Articles
 

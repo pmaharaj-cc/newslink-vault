@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "education"
+type: place
+name: "Yara Auditorium"
 ---
 
-# education
+# Yara Auditorium
 
 ## Articles
 

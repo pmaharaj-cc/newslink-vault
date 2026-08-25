@@ -12,3 +12,4 @@ name: "energy"
 - [[Articles/2026-08-18_Pete-never-found-Court-case-set-for-2027|Pete never found Court case set for 2027]]
 - [[Articles/2026-08-18_Some-questions-about-the-proposed-data-centre|Some questions about the proposed data centre]]
 - [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]
+- [[Articles/2026-08-24_Young-innovators-take-centre-stage|Young innovators take centre stage]]
