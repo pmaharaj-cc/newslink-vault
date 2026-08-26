@@ -16,3 +16,4 @@ name: "economy"
 - [[Articles/2026-08-19_Part-1-The-jobs-numbers-are-fighting-each-other-the-ec|Part 1 The jobs numbers are fighting each other the ec]]
 - [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]
 - [[Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo|Bespoke tailor Andrew Ramroop shares journey in new boo]]
+- [[Articles/2026-08-25_What-Canadian-visitors-can-find-in-TT|What Canadian visitors can find in TT]]
