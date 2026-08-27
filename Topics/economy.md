@@ -17,3 +17,4 @@ name: "economy"
 - [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]
 - [[Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo|Bespoke tailor Andrew Ramroop shares journey in new boo]]
 - [[Articles/2026-08-25_What-Canadian-visitors-can-find-in-TT|What Canadian visitors can find in TT]]
+- [[Articles/2026-08-26_Govt-a-worthy-child-of-the-labour-movement|Govt a worthy child of the labour movement]]

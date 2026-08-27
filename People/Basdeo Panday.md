@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
+name: "Basdeo Panday"
+roles: [Founder]
 legal_statuses: []
 tags: []
 ---
 
-# Kamla Persad-Bissessar
+# Basdeo Panday
 
-**Known roles:** Prime Minister
+**Known roles:** Founder
 
 ## Articles
 
