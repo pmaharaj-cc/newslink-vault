@@ -20,3 +20,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-08-26_Govt-a-worthy-child-of-the-labour-movement|Govt a worthy child of the labour movement]]
 - [[Articles/2026-08-27_Act-now-to-limit-El-Nio-risks|Act now to limit El Nio risks]]
 - [[Articles/2026-08-27_Include-the-deaf-with-equal-access|Include the deaf with equal access]]
+- [[Articles/2026-08-27_Try-new-directions-for-a-better-nation|Try new directions for a better nation]]

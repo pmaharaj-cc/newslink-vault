@@ -14,3 +14,4 @@ name: "health"
 - [[Articles/2026-08-24_Young-innovators-take-centre-stage|Young innovators take centre stage]]
 - [[Articles/2026-08-27_Act-now-to-limit-El-Nio-risks|Act now to limit El Nio risks]]
 - [[Articles/2026-08-27_Include-the-deaf-with-equal-access|Include the deaf with equal access]]
+- [[Articles/2026-08-27_Try-new-directions-for-a-better-nation|Try new directions for a better nation]]
