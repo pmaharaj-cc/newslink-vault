@@ -18,3 +18,4 @@ name: "government"
 - [[Articles/2026-08-24_San-Fernando-East-PNM-executive-quits-amid-turmoil|San Fernando East PNM executive quits amid turmoil]]
 - [[Articles/2026-08-24_Road-rage-beating-of-police-sergeant-in-Fyzabad|Road rage beating of police sergeant in Fyzabad]]
 - [[Articles/2026-08-26_Govt-a-worthy-child-of-the-labour-movement|Govt a worthy child of the labour movement]]
+- [[Articles/2026-08-27_Include-the-deaf-with-equal-access|Include the deaf with equal access]]
