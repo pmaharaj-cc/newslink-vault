@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: place
+name: "Crown Point"
 ---
 
-# disaster
+# Crown Point
 
 ## Articles
 

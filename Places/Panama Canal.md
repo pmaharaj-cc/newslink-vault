@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: place
+name: "Panama Canal"
 ---
 
-# disaster
+# Panama Canal
 
 ## Articles
 

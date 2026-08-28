@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: place
+name: "Piarco"
 ---
 
-# disaster
+# Piarco
 
 ## Articles
 

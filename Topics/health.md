@@ -12,3 +12,4 @@ name: "health"
 - [[Articles/2026-08-21_Dancers-funeral-postponed-after-second-autopsy|Dancers funeral postponed after second autopsy]]
 - [[Articles/2026-08-24_Road-rage-beating-of-police-sergeant-in-Fyzabad|Road rage beating of police sergeant in Fyzabad]]
 - [[Articles/2026-08-24_Young-innovators-take-centre-stage|Young innovators take centre stage]]
+- [[Articles/2026-08-27_Act-now-to-limit-El-Nio-risks|Act now to limit El Nio risks]]

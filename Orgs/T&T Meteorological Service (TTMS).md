@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: organization
+name: "T&T Meteorological Service (TTMS)"
 ---
 
-# disaster
+# T&T Meteorological Service (TTMS)
 
 ## Articles
 

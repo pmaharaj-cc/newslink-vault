@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: place
+name: "Windward Islands"
 ---
 
-# disaster
+# Windward Islands
 
 ## Articles
 

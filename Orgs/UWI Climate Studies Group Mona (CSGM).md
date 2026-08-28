@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "disaster"
+type: organization
+name: "UWI Climate Studies Group Mona (CSGM)"
 ---
 
-# disaster
+# UWI Climate Studies Group Mona (CSGM)
 
 ## Articles
 
