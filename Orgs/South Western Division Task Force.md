@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "South Western Division Task Force"
 ---
 
-# Freeport
+# South Western Division Task Force
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "Erin Police Station"
 ---
 
-# Freeport
+# Erin Police Station
 
 ## Articles
 

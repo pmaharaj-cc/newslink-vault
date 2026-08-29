@@ -7,4 +7,4 @@ name: "SS Erin Road"
 
 ## Articles
 
-- [[Articles/2026-07-09_5-hurt-in-crash-involving-police|5 hurt in crash involving police]]
+- [[Articles/2026-08-29_Quarrelling-couple-leads-to-gun-find|Quarrelling couple leads to gun find]]

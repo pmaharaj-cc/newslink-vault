@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Freeport"
+name: "Erin"
 ---
 
-# Freeport
+# Erin
 
 ## Articles
 

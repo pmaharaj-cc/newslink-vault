@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "South Western Division Gang Unit"
 ---
 
-# Freeport
+# South Western Division Gang Unit
 
 ## Articles
 

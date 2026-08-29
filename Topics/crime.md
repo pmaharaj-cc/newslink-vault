@@ -19,3 +19,5 @@ name: "crime"
 - [[Articles/2026-08-25_Gold-teeth-clue-to-burnt-body|Gold teeth clue to burnt body]]
 - [[Articles/2026-08-29_One-killed-another-wounded-in-Sea-Lots-violence|One killed another wounded in Sea Lots violence]]
 - [[Articles/2026-08-29_Woman-interim-gang-leader-named-in-latest-PDOs|Woman interim gang leader named in latest PDOs]]
+- [[Articles/2026-08-29_Three-held-over-41000-sausage-scam|Three held over 41000 sausage scam]]
+- [[Articles/2026-08-29_Quarrelling-couple-leads-to-gun-find|Quarrelling couple leads to gun find]]
