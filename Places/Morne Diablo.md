@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Penal"
+name: "Morne Diablo"
 ---
 
-# Penal
+# Morne Diablo
 
 ## Articles
 

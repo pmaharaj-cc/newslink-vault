@@ -7,4 +7,4 @@ name: "Quarry Road"
 
 ## Articles
 
-- [[Articles/2026-07-18_Missing-man-killed-buried-in-latrine|Missing man killed buried in latrine]]
+- [[Articles/2026-08-29_Woman-interim-gang-leader-named-in-latest-PDOs|Woman interim gang leader named in latest PDOs]]

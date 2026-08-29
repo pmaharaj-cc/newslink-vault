@@ -7,4 +7,4 @@ name: "Westmoorings"
 
 ## Articles
 
-- [[Articles/2026-08-07_Westmoorings-businessman-held-with-guns-ammo|Westmoorings businessman held with guns ammo]]
+- [[Articles/2026-08-29_Woman-interim-gang-leader-named-in-latest-PDOs|Woman interim gang leader named in latest PDOs]]

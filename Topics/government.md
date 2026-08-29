@@ -20,3 +20,4 @@ name: "government"
 - [[Articles/2026-08-26_Govt-a-worthy-child-of-the-labour-movement|Govt a worthy child of the labour movement]]
 - [[Articles/2026-08-27_Include-the-deaf-with-equal-access|Include the deaf with equal access]]
 - [[Articles/2026-08-27_Try-new-directions-for-a-better-nation|Try new directions for a better nation]]
+- [[Articles/2026-08-29_Woman-interim-gang-leader-named-in-latest-PDOs|Woman interim gang leader named in latest PDOs]]

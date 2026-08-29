@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Region One Homicide Bureau"
+type: place
+name: "Production Avenue"
 ---
 
-# Region One Homicide Bureau
+# Production Avenue
 
 ## Articles
 

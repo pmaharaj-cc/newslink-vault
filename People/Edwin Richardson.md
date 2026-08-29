@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Region One Homicide Bureau"
+type: person
+name: "Edwin Richardson"
+roles: [Civilian]
+legal_statuses: []
+tags: []
 ---
 
-# Region One Homicide Bureau
+# Edwin Richardson
+
+**Known roles:** Civilian
 
 ## Articles
 

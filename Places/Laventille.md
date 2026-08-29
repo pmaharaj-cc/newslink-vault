@@ -7,4 +7,4 @@ name: "Laventille"
 
 ## Articles
 
-- [[Articles/2026-07-11_Pan-Police-and-Public-Trust|Pan Police and Public Trust]]
+- [[Articles/2026-08-29_Woman-interim-gang-leader-named-in-latest-PDOs|Woman interim gang leader named in latest PDOs]]

@@ -17,3 +17,5 @@ name: "crime"
 - [[Articles/2026-08-22_Two-men-shot-dead-in-Arima|Two men shot dead in Arima]]
 - [[Articles/2026-08-24_Road-rage-beating-of-police-sergeant-in-Fyzabad|Road rage beating of police sergeant in Fyzabad]]
 - [[Articles/2026-08-25_Gold-teeth-clue-to-burnt-body|Gold teeth clue to burnt body]]
+- [[Articles/2026-08-29_One-killed-another-wounded-in-Sea-Lots-violence|One killed another wounded in Sea Lots violence]]
+- [[Articles/2026-08-29_Woman-interim-gang-leader-named-in-latest-PDOs|Woman interim gang leader named in latest PDOs]]

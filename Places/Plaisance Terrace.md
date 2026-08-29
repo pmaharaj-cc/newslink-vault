@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Penal"
+name: "Plaisance Terrace"
 ---
 
-# Penal
+# Plaisance Terrace
 
 ## Articles
 

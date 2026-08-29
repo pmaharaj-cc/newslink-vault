@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Penal"
+name: "Buccaneer Drive"
 ---
 
-# Penal
+# Buccaneer Drive
 
 ## Articles
 

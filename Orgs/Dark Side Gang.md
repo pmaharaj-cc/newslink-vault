@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Penal"
+type: organization
+name: "Dark Side Gang"
 ---
 
-# Penal
+# Dark Side Gang
 
 ## Articles
 

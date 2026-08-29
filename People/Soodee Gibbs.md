@@ -1,9 +1,14 @@
 ---
-type: organization
-name: "Region One Homicide Bureau"
+type: person
+name: "Soodee Gibbs"
+roles: [Civilian]
+legal_statuses: []
+tags: []
 ---
 
-# Region One Homicide Bureau
+# Soodee Gibbs
+
+**Known roles:** Civilian
 
 ## Articles
 
