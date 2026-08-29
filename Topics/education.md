@@ -7,5 +7,4 @@ name: "education"
 
 ## Articles
 
-- [[Articles/2026-08-24_Young-innovators-take-centre-stage|Young innovators take centre stage]]
-- [[Articles/2026-08-27_Include-the-deaf-with-equal-access|Include the deaf with equal access]]
+- [[Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible|Remembering Those Who Made Freedom Possible]]
