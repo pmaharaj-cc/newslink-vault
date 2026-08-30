@@ -1,9 +1,9 @@
 ---
 type: place
-name: "United States"
+name: "Japan"
 ---
 
-# United States
+# Japan
 
 ## Articles
 

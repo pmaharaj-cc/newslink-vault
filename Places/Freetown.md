@@ -1,9 +1,9 @@
 ---
 type: place
-name: "United States"
+name: "Freetown"
 ---
 
-# United States
+# Freetown
 
 ## Articles
 

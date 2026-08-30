@@ -1,9 +1,9 @@
 ---
-type: place
-name: "United States"
+type: organization
+name: "International Criminal Court"
 ---
 
-# United States
+# International Criminal Court
 
 ## Articles
 

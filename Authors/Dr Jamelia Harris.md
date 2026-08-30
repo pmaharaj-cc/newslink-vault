@@ -1,9 +1,9 @@
 ---
-type: place
-name: "United States"
+type: author
+name: "Dr Jamelia Harris"
 ---
 
-# United States
+# Dr Jamelia Harris
 
 ## Articles
 

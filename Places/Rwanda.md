@@ -1,9 +1,9 @@
 ---
 type: place
-name: "United States"
+name: "Rwanda"
 ---
 
-# United States
+# Rwanda
 
 ## Articles
 

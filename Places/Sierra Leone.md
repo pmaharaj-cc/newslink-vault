@@ -1,9 +1,9 @@
 ---
 type: place
-name: "United States"
+name: "Sierra Leone"
 ---
 
-# United States
+# Sierra Leone
 
 ## Articles
 

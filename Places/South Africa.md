@@ -1,9 +1,9 @@
 ---
 type: place
-name: "United States"
+name: "South Africa"
 ---
 
-# United States
+# South Africa
 
 ## Articles
 
