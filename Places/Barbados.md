@@ -7,4 +7,4 @@ name: "Barbados"
 
 ## Articles
 
-- [[Articles/2026-07-17_Sir-Garry-the-GOAT|Sir Garry the GOAT]]
+- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]

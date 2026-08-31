@@ -7,4 +7,4 @@ name: "Caricom"
 
 ## Articles
 
-- [[Articles/2026-08-11_CCJ-must-clear-the-air|CCJ must clear the air]]
+- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]

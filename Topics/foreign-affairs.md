@@ -7,4 +7,4 @@ name: "foreign-affairs"
 
 ## Articles
 
-- [[Articles/2026-08-17_Turning-gas-into-a-brighter-future|Turning gas into a brighter future]]
+- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]

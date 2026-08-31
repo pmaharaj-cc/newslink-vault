@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Guyana"
+name: "St Kitts and Nevis"
 ---
 
-# Guyana
+# St Kitts and Nevis
 
 ## Articles
 

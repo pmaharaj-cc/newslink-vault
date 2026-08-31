@@ -5,12 +5,38 @@
       "articles": [
         "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md"
       ]
+    },
+    "Barbados": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "Guyana": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "St Kitts and Nevis": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "Caricom": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
     }
   },
   "Places": {
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md"
+        "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
       ]
     },
     "Sierra Leone": {
@@ -47,19 +73,41 @@
       "articles": [
         "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md"
       ]
+    },
+    "Barbados": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "Guyana": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "St Kitts and Nevis": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "Caribbean": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
     }
   },
   "Topics": {
     "government": {
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
-        "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md"
+        "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md",
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
       ]
     },
     "culture": {
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
-        "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md"
+        "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md",
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
       ]
     },
     "social": {
@@ -70,6 +118,11 @@
     "education": {
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md"
+      ]
+    },
+    "foreign-affairs": {
+      "articles": [
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
       ]
     }
   },

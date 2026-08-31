@@ -1,5 +1,5 @@
 ---
-type: place
+type: organization
 name: "Guyana"
 ---
 

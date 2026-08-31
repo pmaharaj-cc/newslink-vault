@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Guyana"
+type: organization
+name: "Barbados"
 ---
 
-# Guyana
+# Barbados
 
 ## Articles
 
