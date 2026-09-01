@@ -7,4 +7,4 @@ name: "Western Division Task Force"
 
 ## Articles
 
-- [[Articles/2026-08-07_Westmoorings-businessman-held-with-guns-ammo|Westmoorings businessman held with guns ammo]]
+- [[Articles/2026-09-01_2-children-among-19-Venezuelans-detained|2 children among 19 Venezuelans detained]]

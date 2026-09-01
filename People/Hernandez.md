@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Williams"
-roles: [Senior Superintendent]
+name: "Hernandez"
+roles: [Assistant Superintendent]
 legal_statuses: []
 tags: []
 ---
 
-# Williams
+# Hernandez
 
-**Known roles:** Senior Superintendent
+**Known roles:** Assistant Superintendent
 
 ## Articles
 

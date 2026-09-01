@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Trinidad"
+name: "Glencoe"
 ---
 
-# Trinidad
+# Glencoe
 
 ## Articles
 

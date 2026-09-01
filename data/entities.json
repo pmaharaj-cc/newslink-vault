@@ -1,5 +1,33 @@
 {
-  "People": {},
+  "People": {
+    "Williams": {
+      "roles": [
+        "Senior Superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
+    },
+    "Burris": {
+      "roles": [
+        "Assistant Superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
+    },
+    "Hernandez": {
+      "roles": [
+        "Assistant Superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
+    }
+  },
   "Orgs": {
     "International Criminal Court": {
       "articles": [
@@ -29,6 +57,21 @@
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "Western Division Task Force": {
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
+    },
+    "Immigration Division": {
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
+    },
+    "Police": {
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
       ]
     }
   },
@@ -93,6 +136,21 @@
       "articles": [
         "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
       ]
+    },
+    "Glencoe": {
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
+    },
+    "Western Main Road": {
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
+    },
+    "Trinidad": {
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+      ]
     }
   },
   "Topics": {
@@ -100,7 +158,8 @@
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
         "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md",
-        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
       ]
     },
     "culture": {
@@ -123,6 +182,11 @@
     "foreign-affairs": {
       "articles": [
         "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+      ]
+    },
+    "crime": {
+      "articles": [
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
       ]
     }
   },

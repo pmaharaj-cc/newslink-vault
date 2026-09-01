@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Williams"
-roles: [Senior Superintendent]
+name: "Burris"
+roles: [Assistant Superintendent]
 legal_statuses: []
 tags: []
 ---
 
-# Williams
+# Burris
 
-**Known roles:** Senior Superintendent
+**Known roles:** Assistant Superintendent
 
 ## Articles
 
