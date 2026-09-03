@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Venezuela"
+name: "Caracas"
 ---
 
-# Venezuela
+# Caracas
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: organization
+name: "Venezuelan Embassy in Trinidad and Tobago"
 ---
 
-# Venezuela
+# Venezuelan Embassy in Trinidad and Tobago
 
 ## Articles
 

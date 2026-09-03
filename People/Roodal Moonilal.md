@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Roodal Moonilal"
-roles: [MP]
+roles: [Energy Minister]
 legal_statuses: []
 tags: []
 ---
 
 # Roodal Moonilal
 
-**Known roles:** MP
+**Known roles:** Energy Minister
 
 ## Articles
 
-- [[Articles/2026-07-11_Whos-out-to-get-you-now-PM|Whos out to get you now PM]]
+- [[Articles/2026-09-03_Cuttable-straps|Cuttable straps]]

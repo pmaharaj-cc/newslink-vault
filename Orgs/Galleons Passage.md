@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: organization
+name: "Galleons Passage"
 ---
 
-# Venezuela
+# Galleons Passage
 
 ## Articles
 

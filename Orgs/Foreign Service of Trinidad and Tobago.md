@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Venezuela"
+type: organization
+name: "Foreign Service of Trinidad and Tobago"
 ---
 
-# Venezuela
+# Foreign Service of Trinidad and Tobago
 
 ## Articles
 

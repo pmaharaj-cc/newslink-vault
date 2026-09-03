@@ -26,6 +26,94 @@
       "articles": [
         "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
       ]
+    },
+    "Kamla Persad-Bissessar": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Sean Sobers": {
+      "roles": [
+        "Minister of Foreign and Caricom Affairs"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Randall Karim": {
+      "roles": [
+        "Permanent Secretary and Head of the Foreign Service"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Claire de Bourg": {
+      "roles": [
+        "Acting Foreign Service Officer III, Head of the Americas Division"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Alvaro Enrique Sanchez Corde­ro": {
+      "roles": [
+        "Venezuelan Ambassador to Trinidad and Tobago"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Felix Plasencia": {
+      "roles": [
+        "Venezuela Minister of Foreign Relations and Foreign Trade"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Lawrence Hinds": {
+      "roles": [
+        "Electronic Monitoring manager"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_Cuttable-straps.md"
+      ]
+    },
+    "Anthony Michael Smith": {
+      "roles": [
+        "Convicted human trafficker"
+      ],
+      "statuses": [
+        {
+          "status": "convicted",
+          "article": "Articles/2026-09-03_Cuttable-straps.md",
+          "title": "Cuttable straps",
+          "date": "2026-09-03"
+        }
+      ],
+      "articles": [
+        "Articles/2026-09-03_Cuttable-straps.md"
+      ]
+    },
+    "Roodal Moonilal": {
+      "roles": [
+        "Energy Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-03_Cuttable-straps.md"
+      ]
     }
   },
   "Orgs": {
@@ -73,13 +161,45 @@
       "articles": [
         "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
       ]
+    },
+    "Government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Foreign Service of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Venezuelan Embassy in Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Caribbean Airlines": {
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Galleons Passage": {
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Joint Select Committee on National Security": {
+      "articles": [
+        "Articles/2026-09-03_Cuttable-straps.md"
+      ]
     }
   },
   "Places": {
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
-        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md",
+        "Articles/2026-09-03_Cuttable-straps.md"
       ]
     },
     "Sierra Leone": {
@@ -151,6 +271,21 @@
       "articles": [
         "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
       ]
+    },
+    "Caracas": {
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Venezuela": {
+      "articles": [
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+      ]
+    },
+    "Arouca": {
+      "articles": [
+        "Articles/2026-09-03_Cuttable-straps.md"
+      ]
     }
   },
   "Topics": {
@@ -159,7 +294,9 @@
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
         "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md",
         "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
-        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md",
+        "Articles/2026-09-03_Cuttable-straps.md"
       ]
     },
     "culture": {
@@ -181,12 +318,19 @@
     },
     "foreign-affairs": {
       "articles": [
-        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
       ]
     },
     "crime": {
       "articles": [
-        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
+        "Articles/2026-09-03_Cuttable-straps.md"
+      ]
+    },
+    "energy": {
+      "articles": [
+        "Articles/2026-09-03_Cuttable-straps.md"
       ]
     }
   },
