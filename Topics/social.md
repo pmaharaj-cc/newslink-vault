@@ -8,3 +8,4 @@ name: "social"
 ## Articles
 
 - [[Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible|Remembering Those Who Made Freedom Possible]]
+- [[Articles/2026-09-07_Food-prices-out-of-control|Food prices out of control]]

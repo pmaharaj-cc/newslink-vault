@@ -63,7 +63,7 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
       ]
     },
-    "Alvaro Enrique Sanchez Corde­ro": {
+    "Alvaro Enrique Sanchez CordeÂ­ro": {
       "roles": [
         "Venezuelan Ambassador to Trinidad and Tobago"
       ],
@@ -113,6 +113,69 @@
       "statuses": [],
       "articles": [
         "Articles/2026-09-03_Cuttable-straps.md"
+      ]
+    },
+    "George John": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-07_A-journalists-journey.md"
+      ]
+    },
+    "Ken Gordon": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-07_A-journalists-journey.md"
+      ]
+    },
+    "Therese Mills": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-07_A-journalists-journey.md"
+      ]
+    },
+    "Owen Baptiste": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-07_A-journalists-journey.md"
+      ]
+    },
+    "Raymond Ramcharitar": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-07_A-journalists-journey.md"
+      ]
+    },
+    "Andy Johnson": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-07_A-journalists-journey.md"
+      ]
+    },
+    "Mervyn Crichlow": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-07_A-journalists-journey.md"
       ]
     }
   },
@@ -199,7 +262,9 @@
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
         "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md",
-        "Articles/2026-09-03_Cuttable-straps.md"
+        "Articles/2026-09-03_Cuttable-straps.md",
+        "Articles/2026-09-07_Food-prices-out-of-control.md",
+        "Articles/2026-09-07_A-journalists-journey.md"
       ]
     },
     "Sierra Leone": {
@@ -269,7 +334,8 @@
     },
     "Trinidad": {
       "articles": [
-        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
+        "Articles/2026-09-07_Understanding-a-Deed-of-Gift.md"
       ]
     },
     "Caracas": {
@@ -285,6 +351,16 @@
     "Arouca": {
       "articles": [
         "Articles/2026-09-03_Cuttable-straps.md"
+      ]
+    },
+    "Tunapuna Market": {
+      "articles": [
+        "Articles/2026-09-07_Food-prices-out-of-control.md"
+      ]
+    },
+    "northern part of Trinidad": {
+      "articles": [
+        "Articles/2026-09-07_Food-prices-out-of-control.md"
       ]
     }
   },
@@ -303,12 +379,14 @@
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
         "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md",
-        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
+        "Articles/2026-09-07_A-journalists-journey.md"
       ]
     },
     "social": {
       "articles": [
-        "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md"
+        "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
+        "Articles/2026-09-07_Food-prices-out-of-control.md"
       ]
     },
     "education": {
@@ -332,12 +410,28 @@
       "articles": [
         "Articles/2026-09-03_Cuttable-straps.md"
       ]
+    },
+    "housing": {
+      "articles": [
+        "Articles/2026-09-07_Understanding-a-Deed-of-Gift.md"
+      ]
+    },
+    "economy": {
+      "articles": [
+        "Articles/2026-09-07_Understanding-a-Deed-of-Gift.md",
+        "Articles/2026-09-07_Food-prices-out-of-control.md"
+      ]
     }
   },
   "Authors": {
     "Dr Jamelia Harris": {
       "articles": [
         "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md"
+      ]
+    },
+    "Ron Hill": {
+      "articles": [
+        "Articles/2026-09-07_Food-prices-out-of-control.md"
       ]
     }
   }
