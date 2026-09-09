@@ -1,9 +1,14 @@
 ---
-type: topic
-name: "health"
+type: person
+name: "Simone Cardinal"
+roles: [Participant]
+legal_statuses: []
+tags: []
 ---
 
-# health
+# Simone Cardinal
+
+**Known roles:** Participant
 
 ## Articles
 

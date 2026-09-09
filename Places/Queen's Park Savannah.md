@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "health"
+type: place
+name: "Queen's Park Savannah"
 ---
 
-# health
+# Queen's Park Savannah
 
 ## Articles
 

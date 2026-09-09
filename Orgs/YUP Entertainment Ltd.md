@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "health"
+type: organization
+name: "YUP Entertainment Ltd"
 ---
 
-# health
+# YUP Entertainment Ltd
 
 ## Articles
 

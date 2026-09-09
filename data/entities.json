@@ -63,7 +63,7 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
       ]
     },
-    "Alvaro Enrique Sanchez CordeÃÂ­ro": {
+    "Alvaro Enrique Sanchez CordeÃÂÃÂ­ro": {
       "roles": [
         "Venezuelan Ambassador to Trinidad and Tobago"
       ],
@@ -177,6 +177,51 @@
       "articles": [
         "Articles/2026-09-07_A-journalists-journey.md"
       ]
+    },
+    "Simone Cardinal": {
+      "roles": [
+        "Participant"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+      ]
+    },
+    "Jason Luke Jones": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+      ]
+    },
+    "Emir Crowne": {
+      "roles": [
+        "Doctor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+      ]
+    },
+    "Matthew G W Gayle": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+      ]
+    },
+    "Joel Anderson Jones": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+      ]
     }
   },
   "Orgs": {
@@ -258,6 +303,11 @@
     "Ministry of Education": {
       "articles": [
         "Articles/2026-09-08_Does-education-need-AI-tutor-Chris.md"
+      ]
+    },
+    "YUP Entertainment Ltd": {
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
       ]
     }
   },
@@ -368,6 +418,11 @@
       "articles": [
         "Articles/2026-09-07_Food-prices-out-of-control.md"
       ]
+    },
+    "Queen's Park Savannah": {
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+      ]
     }
   },
   "Topics": {
@@ -387,13 +442,15 @@
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
         "Articles/2026-08-29_64-years-on-what-is-our-shared-story.md",
         "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
-        "Articles/2026-09-07_A-journalists-journey.md"
+        "Articles/2026-09-07_A-journalists-journey.md",
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
       ]
     },
     "social": {
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
-        "Articles/2026-09-07_Food-prices-out-of-control.md"
+        "Articles/2026-09-07_Food-prices-out-of-control.md",
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
       ]
     },
     "education": {
@@ -428,6 +485,11 @@
       "articles": [
         "Articles/2026-09-07_Understanding-a-Deed-of-Gift.md",
         "Articles/2026-09-07_Food-prices-out-of-control.md"
+      ]
+    },
+    "health": {
+      "articles": [
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
       ]
     }
   },
