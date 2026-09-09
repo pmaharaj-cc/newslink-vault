@@ -1,9 +1,9 @@
 ---
 type: place
-name: "San Juan"
+name: "El Socorro"
 ---
 
-# San Juan
+# El Socorro
 
 ## Articles
 

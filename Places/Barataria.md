@@ -1,9 +1,9 @@
 ---
 type: place
-name: "San Juan"
+name: "Barataria"
 ---
 
-# San Juan
+# Barataria
 
 ## Articles
 

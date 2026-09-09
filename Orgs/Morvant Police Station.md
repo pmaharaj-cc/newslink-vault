@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Churchill-Roosevelt Highway"
+type: organization
+name: "Morvant Police Station"
 ---
 
-# Churchill-Roosevelt Highway
+# Morvant Police Station
 
 ## Articles
 

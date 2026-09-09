@@ -1,9 +1,14 @@
 ---
-type: place
-name: "San Juan"
+type: person
+name: "Legendre"
+roles: [Corporal]
+legal_statuses: []
+tags: []
 ---
 
-# San Juan
+# Legendre
+
+**Known roles:** Corporal
 
 ## Articles
 

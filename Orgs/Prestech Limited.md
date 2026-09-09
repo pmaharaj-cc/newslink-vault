@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Uriah Butler Highway"
+type: organization
+name: "Prestech Limited"
 ---
 
-# Uriah Butler Highway
+# Prestech Limited
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Churchill-Roosevelt Highway"
+name: "KFC"
 ---
 
-# Churchill-Roosevelt Highway
+# KFC
 
 ## Articles
 

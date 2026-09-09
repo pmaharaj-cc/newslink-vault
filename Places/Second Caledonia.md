@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Churchill-Roosevelt Highway"
+name: "Second Caledonia"
 ---
 
-# Churchill-Roosevelt Highway
+# Second Caledonia
 
 ## Articles
 

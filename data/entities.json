@@ -63,7 +63,7 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
       ]
     },
-    "Alvaro Enrique Sanchez CordeÃÂÃÂ­ro": {
+    "Alvaro Enrique Sanchez CordeÃÂÃÂÃÂÃÂ­ro": {
       "roles": [
         "Venezuelan Ambassador to Trinidad and Tobago"
       ],
@@ -222,6 +222,33 @@
       "articles": [
         "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
       ]
+    },
+    "Alexander": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "Fermine Garcia": {
+      "roles": [
+        "Sergeant"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "Legendre": {
+      "roles": [
+        "Corporal"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
     }
   },
   "Orgs": {
@@ -267,7 +294,8 @@
     },
     "Police": {
       "articles": [
-        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md"
+        "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
       ]
     },
     "Government of Trinidad and Tobago": {
@@ -309,6 +337,36 @@
       "articles": [
         "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
       ]
+    },
+    "Emergency Health Services": {
+      "articles": [
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
+      ]
+    },
+    "Prestech Limited": {
+      "articles": [
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
+      ]
+    },
+    "Morvant Police Station": {
+      "articles": [
+        "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md"
+      ]
+    },
+    "North Eastern Division Crime Scene Investigations Unit": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "Eric Williams Medical Sciences Complex": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "Barataria Police Station": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
     }
   },
   "Places": {
@@ -319,7 +377,8 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md",
         "Articles/2026-09-03_Cuttable-straps.md",
         "Articles/2026-09-07_Food-prices-out-of-control.md",
-        "Articles/2026-09-07_A-journalists-journey.md"
+        "Articles/2026-09-07_A-journalists-journey.md",
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
       ]
     },
     "Sierra Leone": {
@@ -423,6 +482,61 @@
       "articles": [
         "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
       ]
+    },
+    "Uriah Butler Highway": {
+      "articles": [
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
+      ]
+    },
+    "Churchill-Roosevelt Highway": {
+      "articles": [
+        "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md"
+      ]
+    },
+    "KFC": {
+      "articles": [
+        "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md"
+      ]
+    },
+    "Second Caledonia": {
+      "articles": [
+        "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md"
+      ]
+    },
+    "Morvant": {
+      "articles": [
+        "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md"
+      ]
+    },
+    "Harmony Lane": {
+      "articles": [
+        "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md"
+      ]
+    },
+    "San Juan": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "Macqueripe Beach": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "Chaguaramas": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "El Socorro": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "Barataria": {
+      "articles": [
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
     }
   },
   "Topics": {
@@ -468,7 +582,9 @@
     "crime": {
       "articles": [
         "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
-        "Articles/2026-09-03_Cuttable-straps.md"
+        "Articles/2026-09-03_Cuttable-straps.md",
+        "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md",
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
       ]
     },
     "energy": {
@@ -489,7 +605,14 @@
     },
     "health": {
       "articles": [
-        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md",
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md",
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+      ]
+    },
+    "infrastructure": {
+      "articles": [
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
       ]
     }
   },

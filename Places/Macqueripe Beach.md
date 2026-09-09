@@ -1,9 +1,9 @@
 ---
 type: place
-name: "San Juan"
+name: "Macqueripe Beach"
 ---
 
-# San Juan
+# Macqueripe Beach
 
 ## Articles
 
