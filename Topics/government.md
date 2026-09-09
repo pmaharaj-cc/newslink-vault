@@ -13,3 +13,4 @@ name: "government"
 - [[Articles/2026-09-01_2-children-among-19-Venezuelans-detained|2 children among 19 Venezuelans detained]]
 - [[Articles/2026-09-03_TT-Venezuela-move-to-renew-ties|TT Venezuela move to renew ties]]
 - [[Articles/2026-09-03_Cuttable-straps|Cuttable straps]]
+- [[Articles/2026-09-08_Does-education-need-AI-tutor-Chris|Does education need AI tutor Chris]]

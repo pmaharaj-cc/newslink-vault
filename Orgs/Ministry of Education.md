@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Jarrel De Matas"
+type: organization
+name: "Ministry of Education"
 ---
 
-# Jarrel De Matas
+# Ministry of Education
 
 ## Articles
 
