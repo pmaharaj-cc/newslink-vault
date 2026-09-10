@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "environment"
+type: author
+name: "Vashish Maharaj"
 ---
 
-# environment
+# Vashish Maharaj
 
 ## Articles
 

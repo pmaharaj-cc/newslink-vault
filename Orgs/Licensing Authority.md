@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "environment"
+type: organization
+name: "Licensing Authority"
 ---
 
-# environment
+# Licensing Authority
 
 ## Articles
 

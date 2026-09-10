@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "environment"
+type: organization
+name: "Environmental Management Authority"
 ---
 
-# environment
+# Environmental Management Authority
 
 ## Articles
 

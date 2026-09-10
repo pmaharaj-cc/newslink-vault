@@ -1,9 +1,9 @@
 ---
-type: topic
-name: "environment"
+type: place
+name: "Jacob Hill residential community"
 ---
 
-# environment
+# Jacob Hill residential community
 
 ## Articles
 
