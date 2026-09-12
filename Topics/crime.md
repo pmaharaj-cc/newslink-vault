@@ -11,3 +11,6 @@ name: "crime"
 - [[Articles/2026-09-03_Cuttable-straps|Cuttable straps]]
 - [[Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic|Businessman kidnapped in highway traffic]]
 - [[Articles/2026-09-09_After-beach-woman-reports-date-rape|After beach woman reports date rape]]
+- [[Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical|Gun attack on couple driver dies woman critical]]
+- [[Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary|Teacher robbed assaulted at San Juan North Secondary]]
+- [[Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale|Elder with infant abducted robbed in Paxvale]]

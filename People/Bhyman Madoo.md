@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Arima"
+type: person
+name: "Bhyman Madoo"
+roles: [Civilian]
+legal_statuses: []
+tags: []
 ---
 
-# Arima
+# Bhyman Madoo
+
+**Known roles:** Civilian
 
 ## Articles
 

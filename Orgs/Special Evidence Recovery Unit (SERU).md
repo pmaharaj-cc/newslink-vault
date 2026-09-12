@@ -7,4 +7,4 @@ name: "Special Evidence Recovery Unit (SERU)"
 
 ## Articles
 
-- [[Articles/2026-08-10_Two-shot-dead-minutes-apart-in-Arima|Two shot dead minutes apart in Arima]]
+- [[Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical|Gun attack on couple driver dies woman critical]]

@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Arima"
+name: "Ojoe Road"
 ---
 
-# Arima
+# Ojoe Road
 
 ## Articles
 

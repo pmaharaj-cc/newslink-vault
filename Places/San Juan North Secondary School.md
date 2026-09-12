@@ -1,11 +1,10 @@
 ---
 type: place
-name: "San Juan"
+name: "San Juan North Secondary School"
 ---
 
-# San Juan
+# San Juan North Secondary School
 
 ## Articles
 
-- [[Articles/2026-09-09_After-beach-woman-reports-date-rape|After beach woman reports date rape]]
 - [[Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary|Teacher robbed assaulted at San Juan North Secondary]]

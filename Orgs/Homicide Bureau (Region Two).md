@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Arima"
+type: organization
+name: "Homicide Bureau (Region Two)"
 ---
 
-# Arima
+# Homicide Bureau (Region Two)
 
 ## Articles
 

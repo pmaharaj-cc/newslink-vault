@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Arima"
+name: "Holly Betaudier Boulevard"
 ---
 
-# Arima
+# Holly Betaudier Boulevard
 
 ## Articles
 

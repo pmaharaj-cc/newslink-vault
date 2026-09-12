@@ -63,7 +63,7 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
       ]
     },
-    "Alvaro Enrique Sanchez CordeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ro": {
+    "Alvaro Enrique Sanchez CordeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ro": {
       "roles": [
         "Venezuelan Ambassador to Trinidad and Tobago"
       ],
@@ -249,6 +249,15 @@
       "articles": [
         "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
       ]
+    },
+    "Bhyman Madoo": {
+      "roles": [
+        "Civilian"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
     }
   },
   "Orgs": {
@@ -360,7 +369,8 @@
     },
     "Eric Williams Medical Sciences Complex": {
       "articles": [
-        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
       ]
     },
     "Barataria Police Station": {
@@ -376,6 +386,37 @@
     "Licensing Authority": {
       "articles": [
         "Articles/2026-09-09_When-the-law-escorts-the-noise.md"
+      ]
+    },
+    "Arima Health Facility": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "Homicide Bureau (Region Two)": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "Special Evidence Recovery Unit (SERU)": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "Trinidad and Tobago Police Service": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md",
+        "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md"
+      ]
+    },
+    "San Juan North Secondary School": {
+      "articles": [
+        "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md"
+      ]
+    },
+    "Santa Cruz Police": {
+      "articles": [
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
       ]
     }
   },
@@ -525,7 +566,8 @@
     },
     "San Juan": {
       "articles": [
-        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
+        "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md"
       ]
     },
     "Macqueripe Beach": {
@@ -556,6 +598,66 @@
     "Jacob Hill residential community": {
       "articles": [
         "Articles/2026-09-09_When-the-law-escorts-the-noise.md"
+      ]
+    },
+    "Malabar": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "Holly Betaudier Boulevard": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "Ojoe Road": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "Sangre Grande": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "Arima": {
+      "articles": [
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+      ]
+    },
+    "San Juan North Secondary School": {
+      "articles": [
+        "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md"
+      ]
+    },
+    "Saddle Road": {
+      "articles": [
+        "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md"
+      ]
+    },
+    "Santa Cruz": {
+      "articles": [
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
+      ]
+    },
+    "Palm Avenue": {
+      "articles": [
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
+      ]
+    },
+    "Paxvale": {
+      "articles": [
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
+      ]
+    },
+    "Cantaro Village": {
+      "articles": [
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
+      ]
+    },
+    "Drew Manor": {
+      "articles": [
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
       ]
     }
   },
@@ -591,7 +693,8 @@
     "education": {
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
-        "Articles/2026-09-08_Does-education-need-AI-tutor-Chris.md"
+        "Articles/2026-09-08_Does-education-need-AI-tutor-Chris.md",
+        "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md"
       ]
     },
     "foreign-affairs": {
@@ -605,7 +708,10 @@
         "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
         "Articles/2026-09-03_Cuttable-straps.md",
         "Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic.md",
-        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md",
+        "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md",
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
       ]
     },
     "energy": {
@@ -628,7 +734,8 @@
       "articles": [
         "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md",
         "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md",
-        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md"
+        "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
       ]
     },
     "infrastructure": {

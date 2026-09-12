@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Arima"
+type: organization
+name: "Arima Health Facility"
 ---
 
-# Arima
+# Arima Health Facility
 
 ## Articles
 

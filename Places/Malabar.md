@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Arima"
+name: "Malabar"
 ---
 
-# Arima
+# Malabar
 
 ## Articles
 
