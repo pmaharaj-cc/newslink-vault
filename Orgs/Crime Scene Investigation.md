@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Carapichaima"
+type: organization
+name: "Crime Scene Investigation"
 ---
 
-# Carapichaima
+# Crime Scene Investigation
 
 ## Articles
 

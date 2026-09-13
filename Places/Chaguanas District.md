@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Carapichaima"
+name: "Chaguanas District"
 ---
 
-# Carapichaima
+# Chaguanas District
 
 ## Articles
 

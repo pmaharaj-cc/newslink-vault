@@ -15,3 +15,4 @@ name: "government"
 - [[Articles/2026-09-03_Cuttable-straps|Cuttable straps]]
 - [[Articles/2026-09-08_Does-education-need-AI-tutor-Chris|Does education need AI tutor Chris]]
 - [[Articles/2026-09-09_When-the-law-escorts-the-noise|When the law escorts the noise]]
+- [[Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time|Poor traffic planning despite vacation time]]

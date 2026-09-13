@@ -63,7 +63,7 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
       ]
     },
-    "Alvaro Enrique Sanchez CordeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ro": {
+    "Alvaro Enrique Sanchez CordeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ro": {
       "roles": [
         "Venezuelan Ambassador to Trinidad and Tobago"
       ],
@@ -258,6 +258,24 @@
       "articles": [
         "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
       ]
+    },
+    "Joel Charles": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
+    },
+    "Isiah Chow": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
     }
   },
   "Orgs": {
@@ -304,7 +322,8 @@
     "Police": {
       "articles": [
         "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
-        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md",
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
     },
     "Government of Trinidad and Tobago": {
@@ -370,7 +389,8 @@
     "Eric Williams Medical Sciences Complex": {
       "articles": [
         "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
-        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md",
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
     },
     "Barataria Police Station": {
@@ -417,6 +437,26 @@
     "Santa Cruz Police": {
       "articles": [
         "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
+      ]
+    },
+    "Ministry of Transport and Civil Aviation": {
+      "articles": [
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
+      ]
+    },
+    "Caroni": {
+      "articles": [
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
+      ]
+    },
+    "Chaguanas District Health Facility": {
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
+    },
+    "Crime Scene Investigation": {
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
     }
   },
@@ -659,6 +699,46 @@
       "articles": [
         "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
       ]
+    },
+    "Cumuto": {
+      "articles": [
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
+      ]
+    },
+    "Macoya": {
+      "articles": [
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
+      ]
+    },
+    "Eastern Main Road": {
+      "articles": [
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
+      ]
+    },
+    "Carapichaima": {
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
+    },
+    "Orange Field Road": {
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
+    },
+    "Mungal Trace": {
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
+    },
+    "Chaguanas District": {
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
+    },
+    "Eric Williams Medical Sciences Complex": {
+      "articles": [
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+      ]
     }
   },
   "Topics": {
@@ -671,7 +751,8 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md",
         "Articles/2026-09-03_Cuttable-straps.md",
         "Articles/2026-09-08_Does-education-need-AI-tutor-Chris.md",
-        "Articles/2026-09-09_When-the-law-escorts-the-noise.md"
+        "Articles/2026-09-09_When-the-law-escorts-the-noise.md",
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
       ]
     },
     "culture": {
@@ -711,7 +792,8 @@
         "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
         "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md",
         "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md",
-        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md"
+        "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md",
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
     },
     "energy": {
@@ -735,12 +817,14 @@
         "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md",
         "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md",
         "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
-        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md"
+        "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md",
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
     },
     "infrastructure": {
       "articles": [
-        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md",
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
       ]
     },
     "environment": {

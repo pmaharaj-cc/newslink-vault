@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Carapichaima"
+name: "Mungal Trace"
 ---
 
-# Carapichaima
+# Mungal Trace
 
 ## Articles
 

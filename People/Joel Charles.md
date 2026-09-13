@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Carapichaima"
+type: person
+name: "Joel Charles"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Carapichaima
+# Joel Charles
+
+**Known roles:** Victim
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Carapichaima"
+type: organization
+name: "Chaguanas District Health Facility"
 ---
 
-# Carapichaima
+# Chaguanas District Health Facility
 
 ## Articles
 

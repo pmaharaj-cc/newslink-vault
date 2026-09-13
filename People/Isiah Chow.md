@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Carapichaima"
+type: person
+name: "Isiah Chow"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Carapichaima
+# Isiah Chow
+
+**Known roles:** Victim
 
 ## Articles
 
