@@ -15,3 +15,4 @@ name: "crime"
 - [[Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary|Teacher robbed assaulted at San Juan North Secondary]]
 - [[Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale|Elder with infant abducted robbed in Paxvale]]
 - [[Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting|Two men critically injured in Carapichaima shooting]]
+- [[Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape|Inside TTs shifting organised crime landscape]]

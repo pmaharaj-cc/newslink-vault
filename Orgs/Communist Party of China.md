@@ -1,9 +1,9 @@
 ---
-type: place
-name: "China"
+type: organization
+name: "Communist Party of China"
 ---
 
-# China
+# Communist Party of China
 
 ## Articles
 

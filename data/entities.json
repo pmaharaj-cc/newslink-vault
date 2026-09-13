@@ -63,7 +63,7 @@
         "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
       ]
     },
-    "Alvaro Enrique Sanchez CordeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ro": {
+    "Alvaro Enrique Sanchez CordeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­ro": {
       "roles": [
         "Venezuelan Ambassador to Trinidad and Tobago"
       ],
@@ -276,6 +276,24 @@
       "articles": [
         "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
+    },
+    "Chiang Kai-Shek": {
+      "roles": [
+        "Nationalist leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "Mike Bazie": {
+      "roles": [
+        "Patient"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-12_No-medicine-no-excuses.md"
+      ]
     }
   },
   "Orgs": {
@@ -458,6 +476,41 @@
       "articles": [
         "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
+    },
+    "High Courts of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md"
+      ]
+    },
+    "Judiciary": {
+      "articles": [
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md"
+      ]
+    },
+    "People’s Republic of China Transnational Organised Crime": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "Ethnic Chinese Transnational Organised Crime": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "Triads": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "Communist Party of China": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "APO": {
+      "articles": [
+        "Articles/2026-09-12_No-medicine-no-excuses.md"
+      ]
     }
   },
   "Places": {
@@ -469,7 +522,9 @@
         "Articles/2026-09-03_Cuttable-straps.md",
         "Articles/2026-09-07_Food-prices-out-of-control.md",
         "Articles/2026-09-07_A-journalists-journey.md",
-        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md"
+        "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md",
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md",
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
       ]
     },
     "Sierra Leone": {
@@ -524,7 +579,8 @@
     },
     "Caribbean": {
       "articles": [
-        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md"
+        "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
       ]
     },
     "Glencoe": {
@@ -541,7 +597,8 @@
       "articles": [
         "Articles/2026-09-01_2-children-among-19-Venezuelans-detained.md",
         "Articles/2026-09-07_Understanding-a-Deed-of-Gift.md",
-        "Articles/2026-09-08_Does-education-need-AI-tutor-Chris.md"
+        "Articles/2026-09-08_Does-education-need-AI-tutor-Chris.md",
+        "Articles/2026-09-12_No-medicine-no-excuses.md"
       ]
     },
     "Caracas": {
@@ -739,6 +796,41 @@
       "articles": [
         "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
       ]
+    },
+    "Point Fortin": {
+      "articles": [
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md"
+      ]
+    },
+    "Princes Town": {
+      "articles": [
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md"
+      ]
+    },
+    "South Trinidad": {
+      "articles": [
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md"
+      ]
+    },
+    "China": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "Taiwan": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "Latin America": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
+      ]
+    },
+    "Cyprus": {
+      "articles": [
+        "Articles/2026-09-12_No-medicine-no-excuses.md"
+      ]
     }
   },
   "Topics": {
@@ -752,7 +844,8 @@
         "Articles/2026-09-03_Cuttable-straps.md",
         "Articles/2026-09-08_Does-education-need-AI-tutor-Chris.md",
         "Articles/2026-09-09_When-the-law-escorts-the-noise.md",
-        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md"
+        "Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time.md",
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md"
       ]
     },
     "culture": {
@@ -768,7 +861,8 @@
       "articles": [
         "Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible.md",
         "Articles/2026-09-07_Food-prices-out-of-control.md",
-        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md"
+        "Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5.md",
+        "Articles/2026-09-12_Why-jury-service-is-so-stressful.md"
       ]
     },
     "education": {
@@ -781,7 +875,8 @@
     "foreign-affairs": {
       "articles": [
         "Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings.md",
-        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md"
+        "Articles/2026-09-03_TT-Venezuela-move-to-renew-ties.md",
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
       ]
     },
     "crime": {
@@ -793,7 +888,8 @@
         "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md",
         "Articles/2026-09-12_Teacher-robbed-assaulted-at-San-Juan-North-Secondary.md",
         "Articles/2026-09-12_Elder-with-infant-abducted-robbed-in-Paxvale.md",
-        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md",
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
       ]
     },
     "energy": {
@@ -809,7 +905,8 @@
     "economy": {
       "articles": [
         "Articles/2026-09-07_Understanding-a-Deed-of-Gift.md",
-        "Articles/2026-09-07_Food-prices-out-of-control.md"
+        "Articles/2026-09-07_Food-prices-out-of-control.md",
+        "Articles/2026-09-12_No-medicine-no-excuses.md"
       ]
     },
     "health": {
@@ -818,7 +915,8 @@
         "Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20.md",
         "Articles/2026-09-09_After-beach-woman-reports-date-rape.md",
         "Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical.md",
-        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md"
+        "Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting.md",
+        "Articles/2026-09-12_No-medicine-no-excuses.md"
       ]
     },
     "infrastructure": {
@@ -852,6 +950,11 @@
     "Vashish Maharaj": {
       "articles": [
         "Articles/2026-09-09_When-the-law-escorts-the-noise.md"
+      ]
+    },
+    "Daurius Figueira": {
+      "articles": [
+        "Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape.md"
       ]
     }
   }

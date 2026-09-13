@@ -1,9 +1,9 @@
 ---
-type: place
-name: "China"
+type: organization
+name: "Triads"
 ---
 
-# China
+# Triads
 
 ## Articles
 

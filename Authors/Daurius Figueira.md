@@ -1,9 +1,9 @@
 ---
-type: place
-name: "China"
+type: author
+name: "Daurius Figueira"
 ---
 
-# China
+# Daurius Figueira
 
 ## Articles
 

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Princes Town"
+type: organization
+name: "Judiciary"
 ---
 
-# Princes Town
+# Judiciary
 
 ## Articles
 

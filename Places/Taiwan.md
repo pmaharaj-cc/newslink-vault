@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Caribbean"
+name: "Taiwan"
 ---
 
-# Caribbean
+# Taiwan
 
 ## Articles
 
-- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]
 - [[Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape|Inside TTs shifting organised crime landscape]]

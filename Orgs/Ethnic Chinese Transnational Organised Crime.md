@@ -1,9 +1,9 @@
 ---
-type: place
-name: "China"
+type: organization
+name: "Ethnic Chinese Transnational Organised Crime"
 ---
 
-# China
+# Ethnic Chinese Transnational Organised Crime
 
 ## Articles
 

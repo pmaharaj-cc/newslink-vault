@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Princes Town"
+name: "South Trinidad"
 ---
 
-# Princes Town
+# South Trinidad
 
 ## Articles
 

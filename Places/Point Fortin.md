@@ -7,4 +7,4 @@ name: "Point Fortin"
 
 ## Articles
 
-- [[Articles/2026-07-02_Cedros-student-stabbed-outside-school|Cedros student stabbed outside school]]
+- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]

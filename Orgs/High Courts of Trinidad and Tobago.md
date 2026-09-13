@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Princes Town"
+type: organization
+name: "High Courts of Trinidad and Tobago"
 ---
 
-# Princes Town
+# High Courts of Trinidad and Tobago
 
 ## Articles
 
