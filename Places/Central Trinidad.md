@@ -1,9 +1,9 @@
 ---
 type: place
-name: "St Augustine"
+name: "Central Trinidad"
 ---
 
-# St Augustine
+# Central Trinidad
 
 ## Articles
 

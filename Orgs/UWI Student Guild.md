@@ -1,9 +1,9 @@
 ---
-type: place
-name: "St Augustine"
+type: organization
+name: "UWI Student Guild"
 ---
 
-# St Augustine
+# UWI Student Guild
 
 ## Articles
 

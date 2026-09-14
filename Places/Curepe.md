@@ -7,4 +7,4 @@ name: "Curepe"
 
 ## Articles
 
-- [[Articles/2026-07-22_Police-and-citizens-must-work-together|Police and citizens must work together]]
+- [[Articles/2026-09-14_Law-student-sea-student-die-by-suicide|Law student sea student die by suicide]]

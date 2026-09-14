@@ -7,4 +7,4 @@ name: "Chaguanas"
 
 ## Articles
 
-- [[Articles/2026-08-20_Multiple-bomb-threats-yesterday|Multiple bomb threats yesterday]]
+- [[Articles/2026-09-14_Law-student-sea-student-die-by-suicide|Law student sea student die by suicide]]

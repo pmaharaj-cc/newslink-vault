@@ -1,9 +1,9 @@
 ---
-type: place
-name: "St Augustine"
+type: organization
+name: "Dass Funeral Home"
 ---
 
-# St Augustine
+# Dass Funeral Home
 
 ## Articles
 
