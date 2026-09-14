@@ -13,3 +13,4 @@ name: "health"
 - [[Articles/2026-09-12_Gun-attack-on-couple-driver-dies-woman-critical|Gun attack on couple driver dies woman critical]]
 - [[Articles/2026-09-12_Two-men-critically-injured-in-Carapichaima-shooting|Two men critically injured in Carapichaima shooting]]
 - [[Articles/2026-09-12_No-medicine-no-excuses|No medicine no excuses]]
+- [[Articles/2026-09-13_When-memory-fades-Understanding-dementia|When memory fades Understanding dementia]]

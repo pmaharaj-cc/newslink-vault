@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "University of the West Indies"
+name: "T&T"
 ---
 
-# University of the West Indies
+# T&T
 
 ## Articles
 

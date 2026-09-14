@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "University of the West Indies"
+name: "World Meteorological Organization"
 ---
 
-# University of the West Indies
+# World Meteorological Organization
 
 ## Articles
 

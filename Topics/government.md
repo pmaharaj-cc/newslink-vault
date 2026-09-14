@@ -17,3 +17,4 @@ name: "government"
 - [[Articles/2026-09-09_When-the-law-escorts-the-noise|When the law escorts the noise]]
 - [[Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time|Poor traffic planning despite vacation time]]
 - [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
+- [[Articles/2026-09-13_Bring-fresh-ideas-for-education|Bring fresh ideas for education]]

@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "University of the West Indies"
+type: place
+name: "Northern Hemisphere"
 ---
 
-# University of the West Indies
+# Northern Hemisphere
 
 ## Articles
 

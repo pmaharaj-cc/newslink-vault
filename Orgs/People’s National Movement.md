@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Paul Sarran"
+type: organization
+name: "People’s National Movement"
 ---
 
-# Paul Sarran
+# People’s National Movement
 
 ## Articles
 

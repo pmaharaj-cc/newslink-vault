@@ -7,4 +7,4 @@ name: "disaster"
 
 ## Articles
 
-- [[Articles/2026-08-27_Act-now-to-limit-El-Nio-risks|Act now to limit El Nio risks]]
+- [[Articles/2026-09-13_Prepare-for-Super-El-Nio|Prepare for Super El Nio]]

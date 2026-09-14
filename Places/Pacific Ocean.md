@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "University of the West Indies"
+type: place
+name: "Pacific Ocean"
 ---
 
-# University of the West Indies
+# Pacific Ocean
 
 ## Articles
 
