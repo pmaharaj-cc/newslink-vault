@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Gasparillo"
+name: "Thompson Street"
 ---
 
-# Gasparillo
+# Thompson Street
 
 ## Articles
 

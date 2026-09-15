@@ -18,3 +18,6 @@ name: "crime"
 - [[Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape|Inside TTs shifting organised crime landscape]]
 - [[Articles/2026-09-13_Squeeze-Too-Much-Society-Will-Explode|Squeeze Too Much Society Will Explode]]
 - [[Articles/2026-09-13_Take-responsibility-parents|Take responsibility parents]]
+- [[Articles/2026-09-15_Gunmen-block-car-driver-shot-dead|Gunmen block car driver shot dead]]
+- [[Articles/2026-09-15_Husband-confronts-men-harassing-wife-shot-fired|Husband confronts men harassing wife shot fired]]
+- [[Articles/2026-09-15_Instagram-date-with-Nadia-ends-in-robbery|Instagram date with Nadia ends in robbery]]
