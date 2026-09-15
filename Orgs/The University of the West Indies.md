@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Express Editorial"
+type: organization
+name: "The University of the West Indies"
 ---
 
-# Express Editorial
+# The University of the West Indies
 
 ## Articles
 

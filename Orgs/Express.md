@@ -1,9 +1,9 @@
 ---
-type: author
-name: "Express Editorial"
+type: organization
+name: "Express"
 ---
 
-# Express Editorial
+# Express
 
 ## Articles
 

@@ -18,3 +18,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape|Inside TTs shifting organised crime landscape]]
 - [[Articles/2026-09-13_Squeeze-Too-Much-Society-Will-Explode|Squeeze Too Much Society Will Explode]]
 - [[Articles/2026-09-13_Take-responsibility-parents|Take responsibility parents]]
+- [[Articles/2026-09-14_Simple-measures-can-save-lives|Simple measures can save lives]]
