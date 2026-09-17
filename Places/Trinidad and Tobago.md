@@ -20,3 +20,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-09-13_Take-responsibility-parents|Take responsibility parents]]
 - [[Articles/2026-09-14_Simple-measures-can-save-lives|Simple measures can save lives]]
 - [[Articles/2026-09-15_Husband-confronts-men-harassing-wife-shot-fired|Husband confronts men harassing wife shot fired]]
+- [[Articles/2026-09-16_The-TT-we-knew-vs-the-one-we-need|The TT we knew vs the one we need]]

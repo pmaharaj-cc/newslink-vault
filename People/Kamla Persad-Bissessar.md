@@ -14,3 +14,4 @@ tags: []
 
 - [[Articles/2026-09-03_TT-Venezuela-move-to-renew-ties|TT Venezuela move to renew ties]]
 - [[Articles/2026-09-13_Bring-fresh-ideas-for-education|Bring fresh ideas for education]]
+- [[Articles/2026-09-16_The-TT-we-knew-vs-the-one-we-need|The TT we knew vs the one we need]]
