@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Barrackpore"
+name: "Jaffar Street"
 ---
 
-# Barrackpore
+# Jaffar Street
 
 ## Articles
 

@@ -14,3 +14,4 @@ name: "Police"
 - [[Articles/2026-09-15_Husband-confronts-men-harassing-wife-shot-fired|Husband confronts men harassing wife shot fired]]
 - [[Articles/2026-09-15_Instagram-date-with-Nadia-ends-in-robbery|Instagram date with Nadia ends in robbery]]
 - [[Articles/2026-09-15_Two-schoolgirls-robbed-at-gunpoint-in-San-Juan|Two schoolgirls robbed at gunpoint in San Juan]]
+- [[Articles/2026-09-17_Man-robbed-of-75000-and-240000-vehicle-after-attempting|Man robbed of 75000 and 240000 vehicle after attempting]]

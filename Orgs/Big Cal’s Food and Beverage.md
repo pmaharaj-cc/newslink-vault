@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Barrackpore"
+type: organization
+name: "Big Cal’s Food and Beverage"
 ---
 
-# Barrackpore
+# Big Cal’s Food and Beverage
 
 ## Articles
 

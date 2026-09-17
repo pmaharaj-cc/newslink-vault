@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Barrackpore"
+name: "Bamboo Settlement No. 2"
 ---
 
-# Barrackpore
+# Bamboo Settlement No. 2
 
 ## Articles
 

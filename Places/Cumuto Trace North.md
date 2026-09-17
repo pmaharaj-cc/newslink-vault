@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Barrackpore"
+name: "Cumuto Trace North"
 ---
 
-# Barrackpore
+# Cumuto Trace North
 
 ## Articles
 
