@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Frank Seepersad"
-roles: [Judge]
-legal_statuses: []
-tags: []
+type: organization
+name: "Total Pet Care"
 ---
 
-# Frank Seepersad
-
-**Known roles:** Judge
+# Total Pet Care
 
 ## Articles
 

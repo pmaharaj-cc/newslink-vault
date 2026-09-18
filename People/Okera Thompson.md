@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Frank Seepersad"
-roles: [Judge]
+name: "Okera Thompson"
+roles: [Director]
 legal_statuses: []
 tags: []
 ---
 
-# Frank Seepersad
+# Okera Thompson
 
-**Known roles:** Judge
+**Known roles:** Director
 
 ## Articles
 

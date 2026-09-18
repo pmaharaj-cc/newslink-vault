@@ -1,12 +1,12 @@
 ---
 type: person
-name: "Frank Seepersad"
+name: "Nirad Samnadda-Ramrekersingh"
 roles: [Judge]
 legal_statuses: []
 tags: []
 ---
 
-# Frank Seepersad
+# Nirad Samnadda-Ramrekersingh
 
 **Known roles:** Judge
 

@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Frank Seepersad"
-roles: [Judge]
-legal_statuses: []
-tags: []
+type: organization
+name: "Pure Media Concepts"
 ---
 
-# Frank Seepersad
-
-**Known roles:** Judge
+# Pure Media Concepts
 
 ## Articles
 

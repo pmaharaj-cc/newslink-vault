@@ -13,3 +13,4 @@ name: "Trinidad"
 - [[Articles/2026-09-12_No-medicine-no-excuses|No medicine no excuses]]
 - [[Articles/2026-09-13_When-memory-fades-Understanding-dementia|When memory fades Understanding dementia]]
 - [[Articles/2026-09-13_Prepare-for-Super-El-Nio|Prepare for Super El Nio]]
+- [[Articles/2026-09-18_TV-host-could-face-jail-in-defamation-case|TV host could face jail in defamation case]]

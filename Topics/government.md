@@ -22,3 +22,4 @@ name: "government"
 - [[Articles/2026-09-13_Reject-FOI-Amendment-Bill|Reject FOI Amendment Bill]]
 - [[Articles/2026-09-13_Take-responsibility-parents|Take responsibility parents]]
 - [[Articles/2026-09-16_The-TT-we-knew-vs-the-one-we-need|The TT we knew vs the one we need]]
+- [[Articles/2026-09-18_TV-host-could-face-jail-in-defamation-case|TV host could face jail in defamation case]]

@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Frank Seepersad"
-roles: [Judge]
+name: "Dale Edwards"
+roles: [Television Host]
 legal_statuses: []
 tags: []
 ---
 
-# Frank Seepersad
+# Dale Edwards
 
-**Known roles:** Judge
+**Known roles:** Television Host
 
 ## Articles
 
