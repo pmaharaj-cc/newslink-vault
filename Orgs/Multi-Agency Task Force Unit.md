@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "Multi-Agency Task Force Unit"
 ---
 
-# Freeport
+# Multi-Agency Task Force Unit
 
 ## Articles
 

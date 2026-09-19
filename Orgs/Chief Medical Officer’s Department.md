@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "Chief Medical Officer’s Department"
 ---
 
-# Freeport
+# Chief Medical Officer’s Department
 
 ## Articles
 

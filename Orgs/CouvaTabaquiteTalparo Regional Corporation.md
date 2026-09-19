@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "CouvaTabaquiteTalparo Regional Corporation"
 ---
 
-# Freeport
+# Couva/Tabaquite/Talparo Regional Corporation
 
 ## Articles
 

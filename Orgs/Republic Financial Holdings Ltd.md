@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Republic Bank Ltd"
+name: "Republic Financial Holdings Ltd"
 ---
 
-# Republic Bank Ltd
+# Republic Financial Holdings Ltd
 
 ## Articles
 

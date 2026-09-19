@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "Funeral agency (owner)"
 ---
 
-# Freeport
+# Funeral agency (owner)
 
 ## Articles
 

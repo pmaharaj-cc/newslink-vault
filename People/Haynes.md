@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Freeport"
+type: person
+name: "Haynes"
+roles: [Superintendent]
+legal_statuses: []
+tags: []
 ---
 
-# Freeport
+# Haynes
+
+**Known roles:** Superintendent
 
 ## Articles
 

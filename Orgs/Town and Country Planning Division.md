@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "Town and Country Planning Division"
 ---
 
-# Freeport
+# Town and Country Planning Division
 
 ## Articles
 

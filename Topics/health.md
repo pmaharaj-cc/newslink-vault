@@ -16,3 +16,4 @@ name: "health"
 - [[Articles/2026-09-13_When-memory-fades-Understanding-dementia|When memory fades Understanding dementia]]
 - [[Articles/2026-09-14_Law-student-sea-student-die-by-suicide|Law student sea student die by suicide]]
 - [[Articles/2026-09-14_Simple-measures-can-save-lives|Simple measures can save lives]]
+- [[Articles/2026-09-18_Eight-bodies-found-in-Freeport-building|Eight bodies found in Freeport building]]

@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "Environmental Management Authority (EMA)"
 ---
 
-# Freeport
+# Environmental Management Authority (EMA)
 
 ## Articles
 

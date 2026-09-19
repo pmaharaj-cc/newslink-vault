@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Freeport"
+name: "Jaisrie Street"
 ---
 
-# Freeport
+# Jaisrie Street
 
 ## Articles
 

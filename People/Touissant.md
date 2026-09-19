@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Freeport"
+type: person
+name: "Touissant"
+roles: [Sergeant]
+legal_statuses: []
+tags: []
 ---
 
-# Freeport
+# Touissant
+
+**Known roles:** Sergeant
 
 ## Articles
 

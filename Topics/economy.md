@@ -11,3 +11,4 @@ name: "economy"
 - [[Articles/2026-09-07_Food-prices-out-of-control|Food prices out of control]]
 - [[Articles/2026-09-12_No-medicine-no-excuses|No medicine no excuses]]
 - [[Articles/2026-09-13_Squeeze-Too-Much-Society-Will-Explode|Squeeze Too Much Society Will Explode]]
+- [[Articles/2026-09-18_Tom-Yew-Jardine-appointed-Managing-Director-of-Republic|Tom Yew Jardine appointed Managing Director of Republic]]

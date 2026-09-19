@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Freeport"
+type: organization
+name: "Central Division Crime Scene Investigators"
 ---
 
-# Freeport
+# Central Division Crime Scene Investigators
 
 ## Articles
 

@@ -24,3 +24,4 @@ name: "crime"
 - [[Articles/2026-09-15_Two-schoolgirls-robbed-at-gunpoint-in-San-Juan|Two schoolgirls robbed at gunpoint in San Juan]]
 - [[Articles/2026-09-16_The-TT-we-knew-vs-the-one-we-need|The TT we knew vs the one we need]]
 - [[Articles/2026-09-17_Man-robbed-of-75000-and-240000-vehicle-after-attempting|Man robbed of 75000 and 240000 vehicle after attempting]]
+- [[Articles/2026-09-18_Eight-bodies-found-in-Freeport-building|Eight bodies found in Freeport building]]
