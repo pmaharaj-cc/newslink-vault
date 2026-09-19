@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Point Fortin"
+name: "Spring Bridge"
 ---
 
-# Point Fortin
+# Spring Bridge
 
 ## Articles
 
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
 - [[Articles/2026-09-19_Soldier-drowns-on-patrol-at-Three-Pools-Blanchisseuse|Soldier drowns on patrol at Three Pools Blanchisseuse]]

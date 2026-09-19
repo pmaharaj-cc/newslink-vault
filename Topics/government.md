@@ -25,3 +25,4 @@ name: "government"
 - [[Articles/2026-09-18_TV-host-could-face-jail-in-defamation-case|TV host could face jail in defamation case]]
 - [[Articles/2026-09-18_Tom-Yew-Jardine-appointed-Managing-Director-of-Republic|Tom Yew Jardine appointed Managing Director of Republic]]
 - [[Articles/2026-09-18_Eight-bodies-found-in-Freeport-building|Eight bodies found in Freeport building]]
+- [[Articles/2026-09-19_Soldier-drowns-on-patrol-at-Three-Pools-Blanchisseuse|Soldier drowns on patrol at Three Pools Blanchisseuse]]

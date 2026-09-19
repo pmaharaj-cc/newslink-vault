@@ -1,11 +1,15 @@
 ---
-type: place
-name: "Point Fortin"
+type: person
+name: "Renis Phillip"
+roles: [Corporal]
+legal_statuses: []
+tags: []
 ---
 
-# Point Fortin
+# Renis Phillip
+
+**Known roles:** Corporal
 
 ## Articles
 
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
 - [[Articles/2026-09-19_Soldier-drowns-on-patrol-at-Three-Pools-Blanchisseuse|Soldier drowns on patrol at Three Pools Blanchisseuse]]

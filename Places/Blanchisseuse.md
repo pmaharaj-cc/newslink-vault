@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Point Fortin"
+name: "Blanchisseuse"
 ---
 
-# Point Fortin
+# Blanchisseuse
 
 ## Articles
 
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
 - [[Articles/2026-09-19_Soldier-drowns-on-patrol-at-Three-Pools-Blanchisseuse|Soldier drowns on patrol at Three Pools Blanchisseuse]]

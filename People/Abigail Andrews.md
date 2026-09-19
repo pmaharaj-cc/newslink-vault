@@ -1,11 +1,15 @@
 ---
-type: place
-name: "Curepe"
+type: person
+name: "Abigail Andrews"
+roles: [Patient]
+legal_statuses: []
+tags: []
 ---
 
-# Curepe
+# Abigail Andrews
+
+**Known roles:** Patient
 
 ## Articles
 
-- [[Articles/2026-09-14_Law-student-sea-student-die-by-suicide|Law student sea student die by suicide]]
 - [[Articles/2026-09-19_Woman-dies-during-cellulite-procedure-in-Curepe|Woman dies during cellulite procedure in Curepe]]
