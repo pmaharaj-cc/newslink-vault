@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Trinidad"
+type: organization
+name: "National Security Forces"
 ---
 
-# Trinidad
+# National Security Forces
 
 ## Articles
 

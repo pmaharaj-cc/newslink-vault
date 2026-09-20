@@ -7,22 +7,4 @@ name: "government"
 
 ## Articles
 
-- [[Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible|Remembering Those Who Made Freedom Possible]]
-- [[Articles/2026-08-29_64-years-on-what-is-our-shared-story|64 years on what is our shared story]]
-- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]
-- [[Articles/2026-09-01_2-children-among-19-Venezuelans-detained|2 children among 19 Venezuelans detained]]
-- [[Articles/2026-09-03_TT-Venezuela-move-to-renew-ties|TT Venezuela move to renew ties]]
-- [[Articles/2026-09-03_Cuttable-straps|Cuttable straps]]
-- [[Articles/2026-09-08_Does-education-need-AI-tutor-Chris|Does education need AI tutor Chris]]
-- [[Articles/2026-09-09_When-the-law-escorts-the-noise|When the law escorts the noise]]
-- [[Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time|Poor traffic planning despite vacation time]]
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
-- [[Articles/2026-09-13_Bring-fresh-ideas-for-education|Bring fresh ideas for education]]
-- [[Articles/2026-09-13_Squeeze-Too-Much-Society-Will-Explode|Squeeze Too Much Society Will Explode]]
-- [[Articles/2026-09-13_Reject-FOI-Amendment-Bill|Reject FOI Amendment Bill]]
-- [[Articles/2026-09-13_Take-responsibility-parents|Take responsibility parents]]
-- [[Articles/2026-09-16_The-TT-we-knew-vs-the-one-we-need|The TT we knew vs the one we need]]
-- [[Articles/2026-09-18_TV-host-could-face-jail-in-defamation-case|TV host could face jail in defamation case]]
-- [[Articles/2026-09-18_Tom-Yew-Jardine-appointed-Managing-Director-of-Republic|Tom Yew Jardine appointed Managing Director of Republic]]
-- [[Articles/2026-09-18_Eight-bodies-found-in-Freeport-building|Eight bodies found in Freeport building]]
-- [[Articles/2026-09-19_Soldier-drowns-on-patrol-at-Three-Pools-Blanchisseuse|Soldier drowns on patrol at Three Pools Blanchisseuse]]
+- [[Articles/2026-09-19_Special-Operations-Bill-goes-too-far|Special Operations Bill goes too far]]

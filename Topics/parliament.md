@@ -7,4 +7,4 @@ name: "parliament"
 
 ## Articles
 
-- [[Articles/2026-08-24_San-Fernando-East-PNM-executive-quits-amid-turmoil|San Fernando East PNM executive quits amid turmoil]]
+- [[Articles/2026-09-19_Special-Operations-Bill-goes-too-far|Special Operations Bill goes too far]]

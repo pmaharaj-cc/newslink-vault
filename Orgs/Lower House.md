@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Trinidad"
+type: organization
+name: "Lower House"
 ---
 
-# Trinidad
+# Lower House
 
 ## Articles
 
