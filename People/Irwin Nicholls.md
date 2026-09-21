@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Irwin Nicholls"
+roles: [Fisherman]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Irwin Nicholls
+
+**Known roles:** Fisherman
 
 ## Articles
 

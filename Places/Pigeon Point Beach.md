@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Scarborough"
+name: "Pigeon Point Beach"
 ---
 
-# Scarborough
+# Pigeon Point Beach
 
 ## Articles
 

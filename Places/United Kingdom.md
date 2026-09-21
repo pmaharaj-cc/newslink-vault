@@ -7,4 +7,4 @@ name: "United Kingdom"
 
 ## Articles
 
-- [[Articles/2026-08-29_64-years-on-what-is-our-shared-story|64 years on what is our shared story]]
+- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]

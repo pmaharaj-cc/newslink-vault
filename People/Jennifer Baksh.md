@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Jennifer Baksh"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Jennifer Baksh
+
+**Known roles:** Passenger
 
 ## Articles
 

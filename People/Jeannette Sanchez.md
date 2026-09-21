@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Jeannette Sanchez"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Jeannette Sanchez
+
+**Known roles:** Passenger
 
 ## Articles
 

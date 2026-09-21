@@ -7,4 +7,4 @@ name: "Guyana"
 
 ## Articles
 
-- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]
+- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]

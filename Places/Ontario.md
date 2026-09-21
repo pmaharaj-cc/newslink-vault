@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Scarborough"
+name: "Ontario"
 ---
 
-# Scarborough
+# Ontario
 
 ## Articles
 

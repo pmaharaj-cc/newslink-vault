@@ -17,6 +17,105 @@
       "articles": [
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
       ]
+    },
+    "Irwin Nicholls": {
+      "roles": [
+        "Fisherman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Renaldo Yeates": {
+      "roles": [
+        "Pilot"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Jennifer Baksh": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Nisera Delea Rondon": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Shivana Singh": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Cody Mohammed": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Sariah Ramroop": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Jeannette Sanchez": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Avin Bissoondath": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Patrick Joseph": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Rabrindarnath Persuade": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
     }
   },
   "Orgs": {
@@ -52,12 +151,23 @@
     },
     "Police": {
       "articles": [
-        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
       ]
     },
     "Army": {
       "articles": [
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "Emergency Health Services": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Scarborough General Hospital": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
       ]
     }
   },
@@ -75,6 +185,66 @@
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "Pigeon Point Beach": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Tobago": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Tank Road": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Signal Hill": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Crown Point": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Scarborough": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Princes Town": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "San Fernando": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Ontario": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "United Kingdom": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "Guyana": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+      ]
+    },
+    "East Coast Demerara": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
       ]
     }
   },
@@ -94,6 +264,11 @@
     "parliament": {
       "articles": [
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md"
+      ]
+    },
+    "health": {
+      "articles": [
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
       ]
     }
   },

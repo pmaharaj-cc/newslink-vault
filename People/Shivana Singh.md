@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Shivana Singh"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Shivana Singh
+
+**Known roles:** Passenger
 
 ## Articles
 

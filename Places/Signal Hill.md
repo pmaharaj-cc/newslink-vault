@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Scarborough"
+name: "Signal Hill"
 ---
 
-# Scarborough
+# Signal Hill
 
 ## Articles
 

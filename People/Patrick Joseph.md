@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Patrick Joseph"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Patrick Joseph
+
+**Known roles:** Passenger
 
 ## Articles
 

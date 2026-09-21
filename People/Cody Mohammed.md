@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Cody Mohammed"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Cody Mohammed
+
+**Known roles:** Passenger
 
 ## Articles
 

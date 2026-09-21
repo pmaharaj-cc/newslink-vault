@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Nisera Delea Rondon"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Nisera Delea Rondon
+
+**Known roles:** Passenger
 
 ## Articles
 

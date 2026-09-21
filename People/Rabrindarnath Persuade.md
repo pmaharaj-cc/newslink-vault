@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Rabrindarnath Persuade"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Rabrindarnath Persuade
+
+**Known roles:** Passenger
 
 ## Articles
 

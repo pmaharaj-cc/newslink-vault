@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Renaldo Yeates"
+roles: [Pilot]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Renaldo Yeates
+
+**Known roles:** Pilot
 
 ## Articles
 

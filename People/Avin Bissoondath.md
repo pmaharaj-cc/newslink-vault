@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Scarborough"
+type: person
+name: "Avin Bissoondath"
+roles: [Passenger]
+legal_statuses: []
+tags: []
 ---
 
-# Scarborough
+# Avin Bissoondath
+
+**Known roles:** Passenger
 
 ## Articles
 

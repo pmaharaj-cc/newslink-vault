@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Scarborough"
+name: "East Coast Demerara"
 ---
 
-# Scarborough
+# East Coast Demerara
 
 ## Articles
 

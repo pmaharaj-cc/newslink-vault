@@ -7,5 +7,4 @@ name: "Tobago"
 
 ## Articles
 
-- [[Articles/2026-08-12_TT-still-battling-the-giant-African-snail|TT still battling the giant African snail]]
-- [[Articles/2026-08-25_What-Canadian-visitors-can-find-in-TT|What Canadian visitors can find in TT]]
+- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]

@@ -7,4 +7,4 @@ name: "Princes Town"
 
 ## Articles
 
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
+- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]

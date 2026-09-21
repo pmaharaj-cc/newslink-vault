@@ -7,4 +7,4 @@ name: "Crown Point"
 
 ## Articles
 
-- [[Articles/2026-08-27_Act-now-to-limit-El-Nio-risks|Act now to limit El Nio risks]]
+- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]

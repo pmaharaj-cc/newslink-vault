@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Scarborough"
+name: "Tank Road"
 ---
 
-# Scarborough
+# Tank Road
 
 ## Articles
 
