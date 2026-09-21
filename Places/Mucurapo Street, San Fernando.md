@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
-legal_statuses: []
-tags: []
+type: place
+name: "Mucurapo Street, San Fernando"
 ---
 
-# Kamla Persad-Bissessar
-
-**Known roles:** Prime Minister
+# Mucurapo Street, San Fernando
 
 ## Articles
 

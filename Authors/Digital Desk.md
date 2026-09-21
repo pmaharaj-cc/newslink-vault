@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
-legal_statuses: []
-tags: []
+type: author
+name: "Digital Desk"
 ---
 
-# Kamla Persad-Bissessar
-
-**Known roles:** Prime Minister
+# Digital Desk
 
 ## Articles
 

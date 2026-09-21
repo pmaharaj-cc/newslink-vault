@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
-legal_statuses: []
-tags: []
+type: organization
+name: "Senate"
 ---
 
-# Kamla Persad-Bissessar
-
-**Known roles:** Prime Minister
+# Senate
 
 ## Articles
 

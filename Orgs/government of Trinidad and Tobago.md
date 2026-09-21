@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
-legal_statuses: []
-tags: []
+type: organization
+name: "government of Trinidad and Tobago"
 ---
 
-# Kamla Persad-Bissessar
-
-**Known roles:** Prime Minister
+# government of Trinidad and Tobago
 
 ## Articles
 

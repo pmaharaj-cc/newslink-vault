@@ -1,14 +1,9 @@
 ---
-type: person
-name: "Kamla Persad-Bissessar"
-roles: [Prime Minister]
-legal_statuses: []
-tags: []
+type: organization
+name: "House of Representatives"
 ---
 
-# Kamla Persad-Bissessar
-
-**Known roles:** Prime Minister
+# House of Representatives
 
 ## Articles
 

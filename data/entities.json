@@ -1,5 +1,24 @@
 {
-  "People": {},
+  "People": {
+    "John Jeremie": {
+      "roles": [
+        "Attorney General"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "Kamla Persad-Bissessar": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    }
+  },
   "Orgs": {
     "National Security Forces": {
       "articles": [
@@ -10,6 +29,36 @@
       "articles": [
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md"
       ]
+    },
+    "Senate": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "House of Representatives": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "United National Congress": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "Police": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "Army": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
     }
   },
   "Places": {
@@ -17,17 +66,29 @@
       "articles": [
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md"
       ]
+    },
+    "Mucurapo Street, San Fernando": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
     }
   },
   "Topics": {
     "government": {
       "articles": [
-        "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md"
+        "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
       ]
     },
     "crime": {
       "articles": [
-        "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md"
+        "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
       ]
     },
     "parliament": {
@@ -36,5 +97,11 @@
       ]
     }
   },
-  "Authors": {}
+  "Authors": {
+    "Digital Desk": {
+      "articles": [
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    }
+  }
 }
