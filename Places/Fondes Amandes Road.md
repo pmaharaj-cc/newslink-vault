@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Government of Trinidad and Tobago"
+type: place
+name: "Fondes Amandes Road"
 ---
 
-# Government of Trinidad and Tobago
+# Fondes Amandes Road
 
 ## Articles
 

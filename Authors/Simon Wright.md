@@ -7,4 +7,4 @@ name: "Simon Wright"
 
 ## Articles
 
-- [[Articles/2026-08-17_Turning-gas-into-a-brighter-future|Turning gas into a brighter future]]
+- [[Articles/2026-09-21_When-criminals-pose-as-police|When criminals pose as police]]

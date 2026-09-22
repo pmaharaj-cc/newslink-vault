@@ -152,6 +152,15 @@
       "articles": [
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
+    },
+    "Derrick Boucaud": {
+      "roles": [
+        "Civilian"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
+      ]
     }
   },
   "Orgs": {
@@ -208,7 +217,8 @@
     },
     "Trinidad and Tobago Police Service": {
       "articles": [
-        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
+        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
     },
     "Eric Williams Medical Sciences Complex": {
@@ -219,6 +229,11 @@
     "Military Museum": {
       "articles": [
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
+      ]
+    },
+    "Government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
     }
   },
@@ -322,6 +337,21 @@
       "articles": [
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
+    },
+    "St Ann’s": {
+      "articles": [
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
+      ]
+    },
+    "Symond Road": {
+      "articles": [
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
+      ]
+    },
+    "Fondes Amandes Road": {
+      "articles": [
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
+      ]
     }
   },
   "Topics": {
@@ -329,14 +359,16 @@
       "articles": [
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
-        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
+        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
     },
     "crime": {
       "articles": [
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
-        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
+        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
     },
     "parliament": {
@@ -354,6 +386,11 @@
     "Digital Desk": {
       "articles": [
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+      ]
+    },
+    "Simon Wright": {
+      "articles": [
+        "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
     }
   }

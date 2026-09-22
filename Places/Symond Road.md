@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Government of Trinidad and Tobago"
+type: place
+name: "Symond Road"
 ---
 
-# Government of Trinidad and Tobago
+# Symond Road
 
 ## Articles
 

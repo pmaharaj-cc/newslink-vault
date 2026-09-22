@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Government of Trinidad and Tobago"
+type: place
+name: "St Ann’s"
 ---
 
-# Government of Trinidad and Tobago
+# St Ann’s
 
 ## Articles
 
