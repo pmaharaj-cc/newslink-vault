@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Eric Williams Medical Sciences Complex"
+type: person
+name: "Narine"
+roles: [Police Constable]
+legal_statuses: []
+tags: []
 ---
 
-# Eric Williams Medical Sciences Complex
+# Narine
+
+**Known roles:** Police Constable
 
 ## Articles
 

@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Eric Williams Medical Sciences Complex"
+type: person
+name: "Rogers"
+roles: [Police Constable]
+legal_statuses: []
+tags: []
 ---
 
-# Eric Williams Medical Sciences Complex
+# Rogers
+
+**Known roles:** Police Constable
 
 ## Articles
 

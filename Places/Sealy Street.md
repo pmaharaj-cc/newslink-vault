@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Eric Williams Medical Sciences Complex"
+name: "Sealy Street"
 ---
 
-# Eric Williams Medical Sciences Complex
+# Sealy Street
 
 ## Articles
 

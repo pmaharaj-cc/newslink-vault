@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Eric Williams Medical Sciences Complex"
+type: organization
+name: "Military Museum"
 ---
 
-# Eric Williams Medical Sciences Complex
+# Military Museum
 
 ## Articles
 

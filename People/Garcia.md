@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Eric Williams Medical Sciences Complex"
+type: person
+name: "Garcia"
+roles: [Sergeant]
+legal_statuses: []
+tags: []
 ---
 
-# Eric Williams Medical Sciences Complex
+# Garcia
+
+**Known roles:** Sergeant
 
 ## Articles
 
