@@ -1,11 +1,15 @@
 ---
-type: place
-name: "Trinidad"
+type: person
+name: "Kawal Baboolal"
+roles: [Justice of the Peace]
+legal_statuses: []
+tags: []
 ---
 
-# Trinidad
+# Kawal Baboolal
+
+**Known roles:** Justice of the Peace
 
 ## Articles
 
-- [[Articles/2026-09-19_Special-Operations-Bill-goes-too-far|Special Operations Bill goes too far]]
 - [[Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search|Cops charged after cash disappears during police search]]

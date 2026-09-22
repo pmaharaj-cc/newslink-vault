@@ -161,6 +161,65 @@
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
+    },
+    "Satesh Mahase": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md",
+          "title": "Cops charged after cash disappears during police search",
+          "date": "2026-09-22"
+        }
+      ],
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
+    },
+    "Akeil Celestine": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [
+        {
+          "status": "charged",
+          "article": "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md",
+          "title": "Cops charged after cash disappears during police search",
+          "date": "2026-09-22"
+        }
+      ],
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
+    },
+    "Whitney Franklyn": {
+      "roles": [
+        "Magistrate"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
+    },
+    "Kawal Baboolal": {
+      "roles": [
+        "Justice of the Peace"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
+    },
+    "Bhola": {
+      "roles": [
+        "Assistant Director of Public Prosecutions"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
     }
   },
   "Orgs": {
@@ -235,12 +294,28 @@
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
+    },
+    "Southern Division": {
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
+    },
+    "Professional Standards Bureau": {
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
+    },
+    "Office of the Director of Public Prosecutions": {
+      "articles": [
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+      ]
     }
   },
   "Places": {
     "Trinidad": {
       "articles": [
-        "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md"
+        "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
       ]
     },
     "Mucurapo Street, San Fernando": {
@@ -338,7 +413,7 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
     },
-    "St Ann’s": {
+    "St Annâs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -360,7 +435,8 @@
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
-        "Articles/2026-09-21_When-criminals-pose-as-police.md"
+        "Articles/2026-09-21_When-criminals-pose-as-police.md",
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
       ]
     },
     "crime": {
@@ -368,7 +444,8 @@
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
-        "Articles/2026-09-21_When-criminals-pose-as-police.md"
+        "Articles/2026-09-21_When-criminals-pose-as-police.md",
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
       ]
     },
     "parliament": {
