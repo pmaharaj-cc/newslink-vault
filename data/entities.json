@@ -325,7 +325,8 @@
     },
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
+        "Articles/2026-09-23_The-Future-Is-Here.md"
       ]
     },
     "Pigeon Point Beach": {
@@ -413,7 +414,7 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
     },
-    "St Annâs": {
+    "St AnnÃ¢ÂÂs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -426,6 +427,11 @@
     "Fondes Amandes Road": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
+      ]
+    },
+    "Caribbean": {
+      "articles": [
+        "Articles/2026-09-23_The-Future-Is-Here.md"
       ]
     }
   },
@@ -455,7 +461,23 @@
     },
     "health": {
       "articles": [
-        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
+        "Articles/2026-09-23_The-Future-Is-Here.md"
+      ]
+    },
+    "environment": {
+      "articles": [
+        "Articles/2026-09-23_The-Future-Is-Here.md"
+      ]
+    },
+    "energy": {
+      "articles": [
+        "Articles/2026-09-23_The-Future-Is-Here.md"
+      ]
+    },
+    "social": {
+      "articles": [
+        "Articles/2026-09-23_The-Future-Is-Here.md"
       ]
     }
   },

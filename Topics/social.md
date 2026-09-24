@@ -7,13 +7,4 @@ name: "social"
 
 ## Articles
 
-- [[Articles/2026-08-29_Remembering-Those-Who-Made-Freedom-Possible|Remembering Those Who Made Freedom Possible]]
-- [[Articles/2026-09-07_Food-prices-out-of-control|Food prices out of control]]
-- [[Articles/2026-09-09_Woman-threatens-legal-action-over-injuries-at-YUPLIFE-5|Woman threatens legal action over injuries at YUPLIFE 5]]
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
-- [[Articles/2026-09-13_Bring-fresh-ideas-for-education|Bring fresh ideas for education]]
-- [[Articles/2026-09-13_Squeeze-Too-Much-Society-Will-Explode|Squeeze Too Much Society Will Explode]]
-- [[Articles/2026-09-13_Take-responsibility-parents|Take responsibility parents]]
-- [[Articles/2026-09-14_Law-student-sea-student-die-by-suicide|Law student sea student die by suicide]]
-- [[Articles/2026-09-14_Simple-measures-can-save-lives|Simple measures can save lives]]
-- [[Articles/2026-09-16_The-TT-we-knew-vs-the-one-we-need|The TT we knew vs the one we need]]
+- [[Articles/2026-09-23_The-Future-Is-Here|The Future Is Here]]
