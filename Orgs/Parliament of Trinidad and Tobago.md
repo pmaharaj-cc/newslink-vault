@@ -1,11 +1,10 @@
 ---
-type: topic
-name: "social"
+type: organization
+name: "Parliament of Trinidad and Tobago"
 ---
 
-# social
+# Parliament of Trinidad and Tobago
 
 ## Articles
 
-- [[Articles/2026-09-23_The-Future-Is-Here|The Future Is Here]]
 - [[Articles/2026-09-27_Sob-an-attack-on-human-rights|Sob an attack on human rights]]
