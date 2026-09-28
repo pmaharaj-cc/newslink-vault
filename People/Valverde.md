@@ -1,12 +1,12 @@
 ---
 type: person
-name: "Dwight Yorke"
+name: "Valverde"
 roles: [Footballer]
 legal_statuses: []
 tags: []
 ---
 
-# Dwight Yorke
+# Valverde
 
 **Known roles:** Footballer
 

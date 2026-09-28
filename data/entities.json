@@ -220,6 +220,78 @@
       "articles": [
         "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
       ]
+    },
+    "Caitlyn": {
+      "roles": [
+        "Patient"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md"
+      ]
+    },
+    "Dwight Yorke": {
+      "roles": [
+        "Footballer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "Jose Mourinho": {
+      "roles": [
+        "Football Manager"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "Jude Bellingham": {
+      "roles": [
+        "Footballer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "Kylian Mbappe": {
+      "roles": [
+        "Footballer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "Vini Junior": {
+      "roles": [
+        "Footballer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "Valverde": {
+      "roles": [
+        "Footballer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "Thibaut Courtois": {
+      "roles": [
+        "Goalkeeper"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
     }
   },
   "Orgs": {
@@ -317,13 +389,34 @@
       "articles": [
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md"
       ]
+    },
+    "Manchester United": {
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "Real Madrid": {
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "La Liga": {
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
+    },
+    "UEFA Champions League": {
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
+      ]
     }
   },
   "Places": {
     "Trinidad": {
       "articles": [
         "Articles/2026-09-19_Special-Operations-Bill-goes-too-far.md",
-        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md",
+        "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md"
       ]
     },
     "Mucurapo Street, San Fernando": {
@@ -385,7 +478,8 @@
     },
     "United Kingdom": {
       "articles": [
-        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
+        "Articles/2026-09-27_Capacity-and-Fit.md"
       ]
     },
     "Guyana": {
@@ -423,7 +517,7 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
     },
-    "St AnnÃÂ¢ÃÂÃÂs": {
+    "St AnnÃÂÃÂ¢ÃÂÃÂÃÂÃÂs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -473,7 +567,8 @@
     "health": {
       "articles": [
         "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
-        "Articles/2026-09-23_The-Future-Is-Here.md"
+        "Articles/2026-09-23_The-Future-Is-Here.md",
+        "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md"
       ]
     },
     "environment": {
@@ -502,6 +597,16 @@
     "Simon Wright": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
+      ]
+    },
+    "Avisha Kissoon": {
+      "articles": [
+        "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md"
+      ]
+    },
+    "Joanne Paul": {
+      "articles": [
+        "Articles/2026-09-27_Capacity-and-Fit.md"
       ]
     }
   }

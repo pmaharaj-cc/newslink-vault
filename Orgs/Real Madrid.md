@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Manchester United"
+name: "Real Madrid"
 ---
 
-# Manchester United
+# Real Madrid
 
 ## Articles
 

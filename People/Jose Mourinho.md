@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Dwight Yorke"
-roles: [Footballer]
+name: "Jose Mourinho"
+roles: [Football Manager]
 legal_statuses: []
 tags: []
 ---
 
-# Dwight Yorke
+# Jose Mourinho
 
-**Known roles:** Footballer
+**Known roles:** Football Manager
 
 ## Articles
 

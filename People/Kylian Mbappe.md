@@ -1,12 +1,12 @@
 ---
 type: person
-name: "Dwight Yorke"
+name: "Kylian Mbappe"
 roles: [Footballer]
 legal_statuses: []
 tags: []
 ---
 
-# Dwight Yorke
+# Kylian Mbappe
 
 **Known roles:** Footballer
 

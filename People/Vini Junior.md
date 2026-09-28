@@ -1,12 +1,12 @@
 ---
 type: person
-name: "Dwight Yorke"
+name: "Vini Junior"
 roles: [Footballer]
 legal_statuses: []
 tags: []
 ---
 
-# Dwight Yorke
+# Vini Junior
 
 **Known roles:** Footballer
 

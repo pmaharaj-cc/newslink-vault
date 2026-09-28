@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Manchester United"
+name: "La Liga"
 ---
 
-# Manchester United
+# La Liga
 
 ## Articles
 

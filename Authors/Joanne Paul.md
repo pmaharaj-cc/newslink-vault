@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Manchester United"
+type: author
+name: "Joanne Paul"
 ---
 
-# Manchester United
+# Joanne Paul
 
 ## Articles
 

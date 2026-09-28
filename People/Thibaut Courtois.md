@@ -1,14 +1,14 @@
 ---
 type: person
-name: "Dwight Yorke"
-roles: [Footballer]
+name: "Thibaut Courtois"
+roles: [Goalkeeper]
 legal_statuses: []
 tags: []
 ---
 
-# Dwight Yorke
+# Thibaut Courtois
 
-**Known roles:** Footballer
+**Known roles:** Goalkeeper
 
 ## Articles
 

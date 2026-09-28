@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Manchester United"
+name: "UEFA Champions League"
 ---
 
-# Manchester United
+# UEFA Champions League
 
 ## Articles
 

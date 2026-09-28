@@ -1,12 +1,12 @@
 ---
 type: person
-name: "Dwight Yorke"
+name: "Jude Bellingham"
 roles: [Footballer]
 legal_statuses: []
 tags: []
 ---
 
-# Dwight Yorke
+# Jude Bellingham
 
 **Known roles:** Footballer
 

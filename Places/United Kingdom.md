@@ -8,3 +8,4 @@ name: "United Kingdom"
 ## Articles
 
 - [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]
+- [[Articles/2026-09-27_Capacity-and-Fit|Capacity and Fit]]
