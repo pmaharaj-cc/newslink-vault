@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Erin"
+name: "Cap-de-Ville"
 ---
 
-# Erin
+# Cap-de-Ville
 
 ## Articles
 

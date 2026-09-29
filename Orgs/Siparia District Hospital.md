@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Erin"
+type: organization
+name: "Siparia District Hospital"
 ---
 
-# Erin
+# Siparia District Hospital
 
 ## Articles
 

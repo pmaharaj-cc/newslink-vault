@@ -292,6 +292,24 @@
       "articles": [
         "Articles/2026-09-27_Capacity-and-Fit.md"
       ]
+    },
+    "Joshua": {
+      "roles": [
+        "Mechanic"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
+    },
+    "Vinika Joshua": {
+      "roles": [
+        "Wife"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
     }
   },
   "Orgs": {
@@ -330,7 +348,8 @@
       "articles": [
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
         "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
-        "Articles/2026-09-27_Sob-an-attack-on-human-rights.md"
+        "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
       ]
     },
     "Army": {
@@ -352,7 +371,8 @@
     "Trinidad and Tobago Police Service": {
       "articles": [
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
-        "Articles/2026-09-21_When-criminals-pose-as-police.md"
+        "Articles/2026-09-21_When-criminals-pose-as-police.md",
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
       ]
     },
     "Eric Williams Medical Sciences Complex": {
@@ -409,6 +429,16 @@
       "articles": [
         "Articles/2026-09-27_Capacity-and-Fit.md"
       ]
+    },
+    "Siparia District Hospital": {
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
+    },
+    "San Fernando Mortuary": {
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
     }
   },
   "Places": {
@@ -428,7 +458,8 @@
       "articles": [
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
         "Articles/2026-09-23_The-Future-Is-Here.md",
-        "Articles/2026-09-27_Sob-an-attack-on-human-rights.md"
+        "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
       ]
     },
     "Pigeon Point Beach": {
@@ -517,7 +548,7 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
     },
-    "St AnnÃÂÃÂ¢ÃÂÃÂÃÂÃÂs": {
+    "St AnnÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -535,6 +566,46 @@
     "Caribbean": {
       "articles": [
         "Articles/2026-09-23_The-Future-Is-Here.md"
+      ]
+    },
+    "Rose Park": {
+      "articles": [
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
+      ]
+    },
+    "Arima": {
+      "articles": [
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
+      ]
+    },
+    "Hollis Avenue": {
+      "articles": [
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
+      ]
+    },
+    "Erin": {
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
+    },
+    "Buenos Ayres": {
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
+    },
+    "Cap-de-Ville": {
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
+    },
+    "Siparia District Hospital": {
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
+    },
+    "San Fernando Mortuary": {
+      "articles": [
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
       ]
     }
   },
@@ -555,7 +626,8 @@
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
         "Articles/2026-09-21_When-criminals-pose-as-police.md",
-        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md"
+        "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md",
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
       ]
     },
     "parliament": {
@@ -568,7 +640,8 @@
       "articles": [
         "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
         "Articles/2026-09-23_The-Future-Is-Here.md",
-        "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md"
+        "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md",
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
       ]
     },
     "environment": {
@@ -591,7 +664,8 @@
   "Authors": {
     "Digital Desk": {
       "articles": [
-        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md"
+        "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
       ]
     },
     "Simon Wright": {

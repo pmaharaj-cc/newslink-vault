@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Erin"
+type: person
+name: "Joshua"
+roles: [Mechanic]
+legal_statuses: []
+tags: []
 ---
 
-# Erin
+# Joshua
+
+**Known roles:** Mechanic
 
 ## Articles
 

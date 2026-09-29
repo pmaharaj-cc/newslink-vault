@@ -9,3 +9,4 @@ name: "Trinidad and Tobago Police Service"
 
 - [[Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart|Two killed in police shootings hours apart]]
 - [[Articles/2026-09-21_When-criminals-pose-as-police|When criminals pose as police]]
+- [[Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car|Mechanic crushed to death under wifes car]]

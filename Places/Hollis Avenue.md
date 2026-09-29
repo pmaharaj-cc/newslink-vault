@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Arima"
+name: "Hollis Avenue"
 ---
 
-# Arima
+# Hollis Avenue
 
 ## Articles
 

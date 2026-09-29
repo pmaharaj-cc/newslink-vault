@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Erin"
+name: "Buenos Ayres"
 ---
 
-# Erin
+# Buenos Ayres
 
 ## Articles
 

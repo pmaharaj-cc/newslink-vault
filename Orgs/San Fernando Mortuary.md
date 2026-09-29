@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Erin"
+type: organization
+name: "San Fernando Mortuary"
 ---
 
-# Erin
+# San Fernando Mortuary
 
 ## Articles
 

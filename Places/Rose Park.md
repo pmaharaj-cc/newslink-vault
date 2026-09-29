@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Arima"
+name: "Rose Park"
 ---
 
-# Arima
+# Rose Park
 
 ## Articles
 

@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Erin"
+type: person
+name: "Vinika Joshua"
+roles: [Wife]
+legal_statuses: []
+tags: []
 ---
 
-# Erin
+# Vinika Joshua
+
+**Known roles:** Wife
 
 ## Articles
 
