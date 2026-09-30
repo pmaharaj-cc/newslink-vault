@@ -310,6 +310,33 @@
       "articles": [
         "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
       ]
+    },
+    "Kevin Arevese": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Marcus Stephens": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Neil Rampersad": {
+      "roles": [
+        "Bar Owner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
     }
   },
   "Orgs": {
@@ -349,7 +376,8 @@
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
         "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
-        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md",
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
       ]
     },
     "Army": {
@@ -377,7 +405,8 @@
     },
     "Eric Williams Medical Sciences Complex": {
       "articles": [
-        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
+        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
       ]
     },
     "Military Museum": {
@@ -438,6 +467,16 @@
     "San Fernando Mortuary": {
       "articles": [
         "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+      ]
+    },
+    "Caroni Mobile Patrol": {
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Safe Landing Bar": {
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
       ]
     }
   },
@@ -548,7 +587,7 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
     },
-    "St AnnÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
+    "St AnnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -607,6 +646,51 @@
       "articles": [
         "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
       ]
+    },
+    "Kelly Village": {
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Caroni": {
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Safe Landing Bar": {
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Mt Hope": {
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Talparo": {
+      "articles": [
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+      ]
+    },
+    "Lange Park": {
+      "articles": [
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
+      ]
+    },
+    "Chaguanas": {
+      "articles": [
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
+      ]
+    },
+    "Waterloo": {
+      "articles": [
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
+      ]
+    },
+    "Cunupia": {
+      "articles": [
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
+      ]
     }
   },
   "Topics": {
@@ -627,7 +711,9 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
         "Articles/2026-09-21_When-criminals-pose-as-police.md",
         "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md",
-        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md",
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
       ]
     },
     "parliament": {
@@ -641,7 +727,8 @@
         "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
         "Articles/2026-09-23_The-Future-Is-Here.md",
         "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md",
-        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md"
+        "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md",
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
       ]
     },
     "environment": {
@@ -665,7 +752,9 @@
     "Digital Desk": {
       "articles": [
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
-        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md",
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
       ]
     },
     "Simon Wright": {

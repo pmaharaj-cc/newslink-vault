@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Mt Hope"
+type: organization
+name: "Caroni Mobile Patrol"
 ---
 
-# Mt Hope
+# Caroni Mobile Patrol
 
 ## Articles
 

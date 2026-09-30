@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Mt Hope"
+type: person
+name: "Neil Rampersad"
+roles: [Bar Owner]
+legal_statuses: []
+tags: []
 ---
 
-# Mt Hope
+# Neil Rampersad
+
+**Known roles:** Bar Owner
 
 ## Articles
 

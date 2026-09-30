@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Mt Hope"
+name: "Caroni"
 ---
 
-# Mt Hope
+# Caroni
 
 ## Articles
 

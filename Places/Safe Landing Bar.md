@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Mt Hope"
+name: "Safe Landing Bar"
 ---
 
-# Mt Hope
+# Safe Landing Bar
 
 ## Articles
 

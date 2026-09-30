@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Mt Hope"
+type: person
+name: "Marcus Stephens"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Mt Hope
+# Marcus Stephens
+
+**Known roles:** Victim
 
 ## Articles
 

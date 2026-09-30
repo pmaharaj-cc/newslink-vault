@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Mt Hope"
+name: "Talparo"
 ---
 
-# Mt Hope
+# Talparo
 
 ## Articles
 

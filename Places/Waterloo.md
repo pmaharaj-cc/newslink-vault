@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Chaguanas"
+name: "Waterloo"
 ---
 
-# Chaguanas
+# Waterloo
 
 ## Articles
 

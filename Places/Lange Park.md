@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Chaguanas"
+name: "Lange Park"
 ---
 
-# Chaguanas
+# Lange Park
 
 ## Articles
 

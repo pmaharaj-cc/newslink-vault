@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Mt Hope"
+type: person
+name: "Kevin Arevese"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Mt Hope
+# Kevin Arevese
+
+**Known roles:** Victim
 
 ## Articles
 

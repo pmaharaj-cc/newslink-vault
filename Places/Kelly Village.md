@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Mt Hope"
+name: "Kelly Village"
 ---
 
-# Mt Hope
+# Kelly Village
 
 ## Articles
 
