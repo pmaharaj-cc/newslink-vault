@@ -15,3 +15,4 @@ name: "crime"
 - [[Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park|Woman sitting with dog raped at Arima park]]
 - [[Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat|Man shot in mouth bullet lodged in throat]]
 - [[Articles/2026-09-30_Bandits-strike-in-Lange-Park|Bandits strike in Lange Park]]
+- [[Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions|Dear PM stop degrading nations institutions]]

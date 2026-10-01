@@ -1,9 +1,14 @@
 ---
-type: place
-name: "St Kitts and Nevis"
+type: person
+name: "Mickela Panday"
+roles: [Critic]
+legal_statuses: []
+tags: []
 ---
 
-# St Kitts and Nevis
+# Mickela Panday
+
+**Known roles:** Critic
 
 ## Articles
 

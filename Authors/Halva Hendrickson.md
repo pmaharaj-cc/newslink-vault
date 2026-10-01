@@ -1,9 +1,9 @@
 ---
-type: place
-name: "St Kitts and Nevis"
+type: author
+name: "Halva Hendrickson"
 ---
 
-# St Kitts and Nevis
+# Halva Hendrickson
 
 ## Articles
 

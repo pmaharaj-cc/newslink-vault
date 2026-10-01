@@ -1,9 +1,9 @@
 ---
-type: place
-name: "St Kitts and Nevis"
+type: organization
+name: "Independent senators"
 ---
 
-# St Kitts and Nevis
+# Independent senators
 
 ## Articles
 

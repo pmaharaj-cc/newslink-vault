@@ -1,16 +1,15 @@
 ---
 type: person
 name: "Vasant Bharath"
-roles: []
+roles: [Critic]
 legal_statuses: []
-tags: ["person"]
+tags: []
 ---
 
 # Vasant Bharath
 
-**Known roles:** Unknown
-
+**Known roles:** Critic
 
 ## Articles
 
-- [[Articles/2026-05-19_Ramdeen-slams-Bharath-over-Moodys-criticism|Ramdeen slams Bharath over Moody's criticism]]
+- [[Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions|Dear PM stop degrading nations institutions]]
