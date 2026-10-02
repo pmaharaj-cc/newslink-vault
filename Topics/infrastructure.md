@@ -7,5 +7,4 @@ name: "infrastructure"
 
 ## Articles
 
-- [[Articles/2026-09-09_Road-deaths-down-29-per-cent-but-62-killed-so-far-in-20|Road deaths down 29 per cent but 62 killed so far in 20]]
-- [[Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time|Poor traffic planning despite vacation time]]
+- [[Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service|CAL resumes Caracas flights adds TobagoToronto service]]

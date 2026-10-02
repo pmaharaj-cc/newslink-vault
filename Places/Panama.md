@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Toronto"
+name: "Panama"
 ---
 
-# Toronto
+# Panama
 
 ## Articles
 

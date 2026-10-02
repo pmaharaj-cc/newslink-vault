@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Trinidad Express"
+type: place
+name: "Forres Park dump"
 ---
 
-# Trinidad Express
+# Forres Park dump
 
 ## Articles
 

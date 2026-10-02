@@ -7,8 +7,4 @@ name: "economy"
 
 ## Articles
 
-- [[Articles/2026-09-07_Understanding-a-Deed-of-Gift|Understanding a Deed of Gift]]
-- [[Articles/2026-09-07_Food-prices-out-of-control|Food prices out of control]]
-- [[Articles/2026-09-12_No-medicine-no-excuses|No medicine no excuses]]
-- [[Articles/2026-09-13_Squeeze-Too-Much-Society-Will-Explode|Squeeze Too Much Society Will Explode]]
-- [[Articles/2026-09-18_Tom-Yew-Jardine-appointed-Managing-Director-of-Republic|Tom Yew Jardine appointed Managing Director of Republic]]
+- [[Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service|CAL resumes Caracas flights adds TobagoToronto service]]

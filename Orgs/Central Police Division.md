@@ -1,9 +1,9 @@
 ---
 type: organization
-name: "Trinidad Express"
+name: "Central Police Division"
 ---
 
-# Trinidad Express
+# Central Police Division
 
 ## Articles
 

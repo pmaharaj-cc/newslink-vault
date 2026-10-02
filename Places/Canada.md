@@ -7,4 +7,4 @@ name: "Canada"
 
 ## Articles
 
-- [[Articles/2026-08-25_What-Canadian-visitors-can-find-in-TT|What Canadian visitors can find in TT]]
+- [[Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service|CAL resumes Caracas flights adds TobagoToronto service]]

@@ -1,9 +1,9 @@
 ---
-type: organization
-name: "Trinidad Express"
+type: place
+name: "Claxton Bay"
 ---
 
-# Trinidad Express
+# Claxton Bay
 
 ## Articles
 
