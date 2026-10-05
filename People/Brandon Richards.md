@@ -1,9 +1,14 @@
 ---
-type: place
-name: "Las Lomas"
+type: person
+name: "Brandon Richards"
+roles: [Victim]
+legal_statuses: []
+tags: []
 ---
 
-# Las Lomas
+# Brandon Richards
+
+**Known roles:** Victim
 
 ## Articles
 

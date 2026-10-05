@@ -1,11 +1,10 @@
 ---
 type: place
-name: "Arima"
+name: "Southern Main Road"
 ---
 
-# Arima
+# Southern Main Road
 
 ## Articles
 
-- [[Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park|Woman sitting with dog raped at Arima park]]
 - [[Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into|Driver dies two critical after Nissan Note plunges into]]

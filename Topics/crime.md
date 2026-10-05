@@ -18,3 +18,4 @@ name: "crime"
 - [[Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions|Dear PM stop degrading nations institutions]]
 - [[Articles/2026-10-02_Fowl-Play-Businessman-killed-in-shooting|Fowl Play Businessman killed in shooting]]
 - [[Articles/2026-10-02_Buckets-of-body-parts-at-dump|Buckets of body parts at dump]]
+- [[Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water|Las Lomas man stabbed doused with hot water]]

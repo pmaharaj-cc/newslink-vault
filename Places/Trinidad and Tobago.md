@@ -12,3 +12,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-09-27_Sob-an-attack-on-human-rights|Sob an attack on human rights]]
 - [[Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car|Mechanic crushed to death under wifes car]]
 - [[Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions|Dear PM stop degrading nations institutions]]
+- [[Articles/2026-10-04_Caterpillar-closure-a-warning-sign|Caterpillar closure a warning sign]]

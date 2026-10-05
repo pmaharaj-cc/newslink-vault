@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Las Lomas"
+type: organization
+name: "St Helena Health Centre"
 ---
 
-# Las Lomas
+# St Helena Health Centre
 
 ## Articles
 

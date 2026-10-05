@@ -1,9 +1,9 @@
 ---
 type: place
-name: "Las Lomas"
+name: "St Helena"
 ---
 
-# Las Lomas
+# St Helena
 
 ## Articles
 

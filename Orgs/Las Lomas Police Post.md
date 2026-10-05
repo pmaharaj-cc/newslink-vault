@@ -1,9 +1,9 @@
 ---
-type: place
-name: "Las Lomas"
+type: organization
+name: "Las Lomas Police Post"
 ---
 
-# Las Lomas
+# Las Lomas Police Post
 
 ## Articles
 

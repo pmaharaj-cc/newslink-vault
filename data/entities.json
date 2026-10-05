@@ -383,6 +383,15 @@
       "articles": [
         "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md"
       ]
+    },
+    "Brandon Richards": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+      ]
     }
   },
   "Orgs": {
@@ -447,13 +456,17 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
         "Articles/2026-09-21_When-criminals-pose-as-police.md",
         "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md",
-        "Articles/2026-10-02_Fowl-Play-Businessman-killed-in-shooting.md"
+        "Articles/2026-10-02_Fowl-Play-Businessman-killed-in-shooting.md",
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md",
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
       ]
     },
     "Eric Williams Medical Sciences Complex": {
       "articles": [
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
-        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md",
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
       ]
     },
     "Military Museum": {
@@ -551,6 +564,31 @@
       "articles": [
         "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md"
       ]
+    },
+    "Massy": {
+      "articles": [
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
+      ]
+    },
+    "Caterpillar": {
+      "articles": [
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
+      ]
+    },
+    "Government": {
+      "articles": [
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
+      ]
+    },
+    "Las Lomas Police Post": {
+      "articles": [
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+      ]
+    },
+    "St Helena Health Centre": {
+      "articles": [
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+      ]
     }
   },
   "Places": {
@@ -573,7 +611,8 @@
         "Articles/2026-09-23_The-Future-Is-Here.md",
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
         "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md",
-        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md"
+        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
       ]
     },
     "Pigeon Point Beach": {
@@ -663,7 +702,7 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
     },
-    "St AnnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
+    "St AnnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -691,7 +730,8 @@
     },
     "Arima": {
       "articles": [
-        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md"
+        "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md",
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md"
       ]
     },
     "Hollis Avenue": {
@@ -766,7 +806,8 @@
     },
     "Cunupia": {
       "articles": [
-        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md",
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md"
       ]
     },
     "St Kitts and Nevis": {
@@ -818,6 +859,26 @@
       "articles": [
         "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md"
       ]
+    },
+    "Southern Main Road": {
+      "articles": [
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md"
+      ]
+    },
+    "Cunupia River": {
+      "articles": [
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md"
+      ]
+    },
+    "Las Lomas": {
+      "articles": [
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+      ]
+    },
+    "St Helena": {
+      "articles": [
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+      ]
     }
   },
   "Topics": {
@@ -829,7 +890,8 @@
         "Articles/2026-09-21_When-criminals-pose-as-police.md",
         "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md",
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
-        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md"
+        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
       ]
     },
     "crime": {
@@ -844,7 +906,8 @@
         "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md",
         "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
         "Articles/2026-10-02_Fowl-Play-Businessman-killed-in-shooting.md",
-        "Articles/2026-10-02_Buckets-of-body-parts-at-dump.md"
+        "Articles/2026-10-02_Buckets-of-body-parts-at-dump.md",
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
       ]
     },
     "parliament": {
@@ -860,7 +923,9 @@
         "Articles/2026-09-27_When-fainting-is-more-than-just-fainting.md",
         "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md",
         "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
-        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md"
+        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md",
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
       ]
     },
     "environment": {
@@ -870,7 +935,8 @@
     },
     "energy": {
       "articles": [
-        "Articles/2026-09-23_The-Future-Is-Here.md"
+        "Articles/2026-09-23_The-Future-Is-Here.md",
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
       ]
     },
     "social": {
@@ -882,12 +948,15 @@
     },
     "infrastructure": {
       "articles": [
-        "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md"
+        "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md",
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md",
+        "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md"
       ]
     },
     "economy": {
       "articles": [
-        "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md"
+        "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md",
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
       ]
     }
   },
