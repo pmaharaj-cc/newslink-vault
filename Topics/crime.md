@@ -20,3 +20,6 @@ name: "crime"
 - [[Articles/2026-10-02_Buckets-of-body-parts-at-dump|Buckets of body parts at dump]]
 - [[Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water|Las Lomas man stabbed doused with hot water]]
 - [[Articles/2026-10-12_Pass-laws-to-protect-minors-online|Pass laws to protect minors online]]
+- [[Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape|Prisoner survives 20foot jump during hospital escape]]
+- [[Articles/2026-10-13_Principal-reports-6500-taken-from-her-office|Principal reports 6500 taken from her office]]
+- [[Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra|Robbers hit Chocolate Supermarket in Palmyra]]

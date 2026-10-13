@@ -410,6 +410,15 @@
       "articles": [
         "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
+    },
+    "Darren Stewart": {
+      "roles": [
+        "Prisoner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
+      ]
     }
   },
   "Orgs": {
@@ -450,7 +459,8 @@
         "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
         "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md",
-        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md",
+        "Articles/2026-10-13_Principal-reports-6500-taken-from-her-office.md"
       ]
     },
     "Army": {
@@ -461,7 +471,8 @@
     },
     "Emergency Health Services": {
       "articles": [
-        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
       ]
     },
     "Scarborough General Hospital": {
@@ -484,7 +495,8 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
         "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
         "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md",
-        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md",
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
       ]
     },
     "Military Museum": {
@@ -639,6 +651,36 @@
       "articles": [
         "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
+    },
+    "St Joseph Police Station": {
+      "articles": [
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
+      ]
+    },
+    "Radiology Department": {
+      "articles": [
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
+      ]
+    },
+    "Accident and Emergency Department": {
+      "articles": [
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
+      ]
+    },
+    "Mason Hall SDA Primary School": {
+      "articles": [
+        "Articles/2026-10-13_Principal-reports-6500-taken-from-her-office.md"
+      ]
+    },
+    "Elite Intelligence Security Ltd": {
+      "articles": [
+        "Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra.md"
+      ]
+    },
+    "Chocolate Supermarket": {
+      "articles": [
+        "Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra.md"
+      ]
     }
   },
   "Places": {
@@ -676,7 +718,8 @@
     "Tobago": {
       "articles": [
         "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
-        "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md"
+        "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md",
+        "Articles/2026-10-13_Principal-reports-6500-taken-from-her-office.md"
       ]
     },
     "Tank Road": {
@@ -753,10 +796,11 @@
     },
     "Eric Williams Medical Sciences Complex": {
       "articles": [
-        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
+        "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md",
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
       ]
     },
-    "St AnnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
+    "St AnnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -835,7 +879,8 @@
     },
     "Mt Hope": {
       "articles": [
-        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md"
+        "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
       ]
     },
     "Talparo": {
@@ -948,6 +993,36 @@
       "articles": [
         "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
+    },
+    "Upper Irvin Street": {
+      "articles": [
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
+      ]
+    },
+    "Petit Bourg": {
+      "articles": [
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
+      ]
+    },
+    "St Joseph Police Station": {
+      "articles": [
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
+      ]
+    },
+    "Mason Hall SDA Primary School": {
+      "articles": [
+        "Articles/2026-10-13_Principal-reports-6500-taken-from-her-office.md"
+      ]
+    },
+    "Mt Stewart Village": {
+      "articles": [
+        "Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra.md"
+      ]
+    },
+    "Palmyra": {
+      "articles": [
+        "Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra.md"
+      ]
     }
   },
   "Topics": {
@@ -979,7 +1054,10 @@
         "Articles/2026-10-02_Fowl-Play-Businessman-killed-in-shooting.md",
         "Articles/2026-10-02_Buckets-of-body-parts-at-dump.md",
         "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md",
-        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md",
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md",
+        "Articles/2026-10-13_Principal-reports-6500-taken-from-her-office.md",
+        "Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra.md"
       ]
     },
     "parliament": {
@@ -997,7 +1075,8 @@
         "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
         "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
         "Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into.md",
-        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md",
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
       ]
     },
     "environment": {
@@ -1043,6 +1122,11 @@
       "articles": [
         "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md"
       ]
+    },
+    "education": {
+      "articles": [
+        "Articles/2026-10-13_Principal-reports-6500-taken-from-her-office.md"
+      ]
     }
   },
   "Authors": {
@@ -1051,7 +1135,8 @@
         "Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill.md",
         "Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park.md",
         "Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat.md",
-        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md"
+        "Articles/2026-09-30_Bandits-strike-in-Lange-Park.md",
+        "Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape.md"
       ]
     },
     "Simon Wright": {

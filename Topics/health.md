@@ -15,3 +15,4 @@ name: "health"
 - [[Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions|Dear PM stop degrading nations institutions]]
 - [[Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into|Driver dies two critical after Nissan Note plunges into]]
 - [[Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water|Las Lomas man stabbed doused with hot water]]
+- [[Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape|Prisoner survives 20foot jump during hospital escape]]

@@ -12,3 +12,4 @@ name: "Police"
 - [[Articles/2026-09-27_Sob-an-attack-on-human-rights|Sob an attack on human rights]]
 - [[Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park|Woman sitting with dog raped at Arima park]]
 - [[Articles/2026-09-30_Bandits-strike-in-Lange-Park|Bandits strike in Lange Park]]
+- [[Articles/2026-10-13_Principal-reports-6500-taken-from-her-office|Principal reports 6500 taken from her office]]
