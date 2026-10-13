@@ -7,4 +7,4 @@ name: "Australia"
 
 ## Articles
 
-- [[Articles/2026-08-06_A-cautious-path-to-requesting-IDs|A cautious path to requesting IDs]]
+- [[Articles/2026-10-12_Pass-laws-to-protect-minors-online|Pass laws to protect minors online]]

@@ -7,4 +7,4 @@ name: "Hunters Search and Rescue Team"
 
 ## Articles
 
-- [[Articles/2026-08-10_Search-ends-in-tragedy-as-missing-woman-found-dead-in-r|Search ends in tragedy as missing woman found dead in r]]
+- [[Articles/2026-10-12_Pass-laws-to-protect-minors-online|Pass laws to protect minors online]]

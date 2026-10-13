@@ -392,6 +392,24 @@
       "articles": [
         "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
       ]
+    },
+    "Helena Holder": {
+      "roles": [
+        "Plaintiff"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-12_Personal-Injuries.md"
+      ]
+    },
+    "Shamsudeen Ayube": {
+      "roles": [
+        "Citizen"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
     }
   },
   "Orgs": {
@@ -497,7 +515,9 @@
     "Parliament of Trinidad and Tobago": {
       "articles": [
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
-        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md"
+        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
+        "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md",
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
     },
     "Manchester United": {
@@ -589,6 +609,36 @@
       "articles": [
         "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
       ]
+    },
+    "Legal Aid & Advisory Authority": {
+      "articles": [
+        "Articles/2026-10-12_Personal-Injuries.md"
+      ]
+    },
+    "Attorney General of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-10-12_Personal-Injuries.md"
+      ]
+    },
+    "Hunters Search and Rescue Team": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
+    },
+    "United States Federal Government": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
+    },
+    "Australia": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
+    },
+    "Brazil": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
     }
   },
   "Places": {
@@ -612,7 +662,10 @@
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
         "Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car.md",
         "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
-        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md",
+        "Articles/2026-10-12_Personal-Injuries.md",
+        "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md",
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
     },
     "Pigeon Point Beach": {
@@ -669,7 +722,8 @@
     },
     "Guyana": {
       "articles": [
-        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md"
+        "Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims.md",
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
     },
     "East Coast Demerara": {
@@ -702,7 +756,7 @@
         "Articles/2026-09-21_Two-killed-in-police-shootings-hours-apart.md"
       ]
     },
-    "St AnnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
+    "St AnnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs": {
       "articles": [
         "Articles/2026-09-21_When-criminals-pose-as-police.md"
       ]
@@ -879,6 +933,21 @@
       "articles": [
         "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
       ]
+    },
+    "United States": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
+    },
+    "Australia": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
+    },
+    "Brazil": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
+      ]
     }
   },
   "Topics": {
@@ -891,7 +960,9 @@
         "Articles/2026-09-22_Cops-charged-after-cash-disappears-during-police-search.md",
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
         "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
-        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md",
+        "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md",
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
     },
     "crime": {
@@ -907,7 +978,8 @@
         "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
         "Articles/2026-10-02_Fowl-Play-Businessman-killed-in-shooting.md",
         "Articles/2026-10-02_Buckets-of-body-parts-at-dump.md",
-        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md"
+        "Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water.md",
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
     },
     "parliament": {
@@ -943,7 +1015,9 @@
       "articles": [
         "Articles/2026-09-23_The-Future-Is-Here.md",
         "Articles/2026-09-27_Sob-an-attack-on-human-rights.md",
-        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md"
+        "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md",
+        "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md",
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
     },
     "infrastructure": {
@@ -956,7 +1030,18 @@
     "economy": {
       "articles": [
         "Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service.md",
-        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md"
+        "Articles/2026-10-04_Caterpillar-closure-a-warning-sign.md",
+        "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md"
+      ]
+    },
+    "judiciary": {
+      "articles": [
+        "Articles/2026-10-12_Personal-Injuries.md"
+      ]
+    },
+    "culture": {
+      "articles": [
+        "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md"
       ]
     }
   },
@@ -987,6 +1072,16 @@
     "Halva Hendrickson": {
       "articles": [
         "Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions.md"
+      ]
+    },
+    "Ronald Ramkissoon": {
+      "articles": [
+        "Articles/2026-10-12_Rage-everywhere-When-will-we-stop.md"
+      ]
+    },
+    "Jay Rakhar, NY": {
+      "articles": [
+        "Articles/2026-10-12_Pass-laws-to-protect-minors-online.md"
       ]
     }
   }
