@@ -7,5 +7,4 @@ name: "Point Fortin"
 
 ## Articles
 
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
-- [[Articles/2026-09-19_Soldier-drowns-on-patrol-at-Three-Pools-Blanchisseuse|Soldier drowns on patrol at Three Pools Blanchisseuse]]
+- [[Articles/2026-10-14_UNC-waging-war|UNC waging war]]

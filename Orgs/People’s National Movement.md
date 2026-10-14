@@ -7,4 +7,4 @@ name: "People’s National Movement"
 
 ## Articles
 
-- [[Articles/2026-09-13_Bring-fresh-ideas-for-education|Bring fresh ideas for education]]
+- [[Articles/2026-10-14_UNC-waging-war|UNC waging war]]

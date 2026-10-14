@@ -17,3 +17,4 @@ name: "government"
 - [[Articles/2026-10-04_Caterpillar-closure-a-warning-sign|Caterpillar closure a warning sign]]
 - [[Articles/2026-10-12_Rage-everywhere-When-will-we-stop|Rage everywhere When will we stop]]
 - [[Articles/2026-10-12_Pass-laws-to-protect-minors-online|Pass laws to protect minors online]]
+- [[Articles/2026-10-14_UNC-waging-war|UNC waging war]]
