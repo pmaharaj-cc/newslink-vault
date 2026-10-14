@@ -18,3 +18,4 @@ name: "government"
 - [[Articles/2026-10-12_Rage-everywhere-When-will-we-stop|Rage everywhere When will we stop]]
 - [[Articles/2026-10-12_Pass-laws-to-protect-minors-online|Pass laws to protect minors online]]
 - [[Articles/2026-10-14_UNC-waging-war|UNC waging war]]
+- [[Articles/2026-10-14_Aboud-ordered-to-pay-investment-adviser-25000-over-thre|Aboud ordered to pay investment adviser 25000 over thre]]

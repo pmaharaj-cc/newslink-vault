@@ -1,16 +1,15 @@
 ---
 type: person
 name: "Devindra Rampersad"
-roles: []
+roles: [Judge]
 legal_statuses: []
-tags: ["person"]
+tags: []
 ---
 
 # Devindra Rampersad
 
-**Known roles:** Unknown
-
+**Known roles:** Judge
 
 ## Articles
 
-- [[Articles/2026-05-15_Finance-Ministry-ordered-to-disclose-lawyer-fees|Finance Ministry ordered to disclose lawyer fees]]
+- [[Articles/2026-10-14_Aboud-ordered-to-pay-investment-adviser-25000-over-thre|Aboud ordered to pay investment adviser 25000 over thre]]

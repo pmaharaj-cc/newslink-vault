@@ -11,3 +11,4 @@ name: "economy"
 - [[Articles/2026-10-04_Caterpillar-closure-a-warning-sign|Caterpillar closure a warning sign]]
 - [[Articles/2026-10-12_Rage-everywhere-When-will-we-stop|Rage everywhere When will we stop]]
 - [[Articles/2026-10-14_UNC-waging-war|UNC waging war]]
+- [[Articles/2026-10-14_Aboud-ordered-to-pay-investment-adviser-25000-over-thre|Aboud ordered to pay investment adviser 25000 over thre]]

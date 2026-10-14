@@ -23,3 +23,5 @@ name: "crime"
 - [[Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape|Prisoner survives 20foot jump during hospital escape]]
 - [[Articles/2026-10-13_Principal-reports-6500-taken-from-her-office|Principal reports 6500 taken from her office]]
 - [[Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra|Robbers hit Chocolate Supermarket in Palmyra]]
+- [[Articles/2026-10-14_Westmoorings-man-robbed-of-50000-outside-bank|Westmoorings man robbed of 50000 outside bank]]
+- [[Articles/2026-10-14_Armed-bandits-tie-up-mother-son-steal-Hilux|Armed bandits tie up mother son steal Hilux]]

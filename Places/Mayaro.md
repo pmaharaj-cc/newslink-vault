@@ -7,4 +7,4 @@ name: "Mayaro"
 
 ## Articles
 
-- [[Articles/2026-08-19_Pellet-lodged-in-brain-after-Mayaro-pellet-gun-accident|Pellet lodged in brain after Mayaro pellet gun accident]]
+- [[Articles/2026-10-14_Armed-bandits-tie-up-mother-son-steal-Hilux|Armed bandits tie up mother son steal Hilux]]

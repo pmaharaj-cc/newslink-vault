@@ -7,4 +7,4 @@ name: "Eastern Main Road"
 
 ## Articles
 
-- [[Articles/2026-09-12_Poor-traffic-planning-despite-vacation-time|Poor traffic planning despite vacation time]]
+- [[Articles/2026-10-14_Armed-bandits-tie-up-mother-son-steal-Hilux|Armed bandits tie up mother son steal Hilux]]
