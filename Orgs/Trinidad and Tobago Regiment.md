@@ -7,4 +7,4 @@ name: "Trinidad and Tobago Regiment"
 
 ## Articles
 
-- [[Articles/2026-09-19_Soldier-drowns-on-patrol-at-Three-Pools-Blanchisseuse|Soldier drowns on patrol at Three Pools Blanchisseuse]]
+- [[Articles/2026-10-15_Search-for-missing-Tobago-fishermen-covers-1300-square-|Search for missing Tobago fishermen covers 1300 square ]]
