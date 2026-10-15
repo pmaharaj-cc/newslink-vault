@@ -7,4 +7,5 @@ name: "Republic Financial Holdings Ltd"
 
 ## Articles
 
-- [[Articles/2026-09-18_Tom-Yew-Jardine-appointed-Managing-Director-of-Republic|Tom Yew Jardine appointed Managing Director of Republic]]
+- [[Articles/2026-10-15_Yip-Chuck-named-incoming-CEO-of-Republic-Financial-Hold|Yip Chuck named incoming CEO of Republic Financial Hold]]
+- [[Articles/2026-10-15_Sammy-departs-Republic-ahead-of-January-CEO-succession|Sammy departs Republic ahead of January CEO succession]]

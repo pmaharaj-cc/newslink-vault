@@ -20,3 +20,5 @@ name: "government"
 - [[Articles/2026-10-14_UNC-waging-war|UNC waging war]]
 - [[Articles/2026-10-14_Aboud-ordered-to-pay-investment-adviser-25000-over-thre|Aboud ordered to pay investment adviser 25000 over thre]]
 - [[Articles/2026-10-15_Search-for-missing-Tobago-fishermen-covers-1300-square-|Search for missing Tobago fishermen covers 1300 square ]]
+- [[Articles/2026-10-15_Yip-Chuck-named-incoming-CEO-of-Republic-Financial-Hold|Yip Chuck named incoming CEO of Republic Financial Hold]]
+- [[Articles/2026-10-15_Sammy-departs-Republic-ahead-of-January-CEO-succession|Sammy departs Republic ahead of January CEO succession]]

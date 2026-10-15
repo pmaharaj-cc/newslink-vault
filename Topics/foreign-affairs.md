@@ -7,6 +7,5 @@ name: "foreign-affairs"
 
 ## Articles
 
-- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]
-- [[Articles/2026-09-03_TT-Venezuela-move-to-renew-ties|TT Venezuela move to renew ties]]
-- [[Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape|Inside TTs shifting organised crime landscape]]
+- [[Articles/2026-10-15_Yip-Chuck-named-incoming-CEO-of-Republic-Financial-Hold|Yip Chuck named incoming CEO of Republic Financial Hold]]
+- [[Articles/2026-10-15_Sammy-departs-Republic-ahead-of-January-CEO-succession|Sammy departs Republic ahead of January CEO succession]]
