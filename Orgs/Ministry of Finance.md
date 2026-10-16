@@ -7,4 +7,4 @@ name: "Ministry of Finance"
 
 ## Articles
 
-- [[Articles/2026-08-19_When-the-state-takes-less-why-royalty-still-matters|When the state takes less why royalty still matters]]
+- [[Articles/2026-10-15_Divestment-must-deliver-value|Divestment must deliver value]]
