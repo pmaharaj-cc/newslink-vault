@@ -28,3 +28,4 @@ name: "crime"
 - [[Articles/2026-10-18_Three-crash-victims-robbed-on-Beetham-Highway|Three crash victims robbed on Beetham Highway]]
 - [[Articles/2026-10-18_3-suspects-sought-in-Malick-mother-daughter-killings|3 suspects sought in Malick mother daughter killings]]
 - [[Articles/2026-10-18_The-child-pornography-investigation-no-one-can-find|The child pornography investigation no one can find]]
+- [[Articles/2026-10-18_No-leads-two-weeks-after-Venezuelan-woman-abducted|No leads two weeks after Venezuelan woman abducted]]

@@ -7,4 +7,4 @@ name: "La Romaine"
 
 ## Articles
 
-- [[Articles/2026-06-25_Family-in-fear-after-murdered-13-year-old-laid-to-rest|Family in fear after murdered 13 year old laid to rest]]
+- [[Articles/2026-10-18_No-leads-two-weeks-after-Venezuelan-woman-abducted|No leads two weeks after Venezuelan woman abducted]]

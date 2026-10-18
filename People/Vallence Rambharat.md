@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Vallence Rambharat"
-roles: [Rescue Team Leader]
+roles: [Search and Rescue Team Leader]
 legal_statuses: []
 tags: []
 ---
 
 # Vallence Rambharat
 
-**Known roles:** Rescue Team Leader
+**Known roles:** Search and Rescue Team Leader
 
 ## Articles
 
-- [[Articles/2026-07-18_Missing-man-killed-buried-in-latrine|Missing man killed buried in latrine]]
+- [[Articles/2026-10-18_No-leads-two-weeks-after-Venezuelan-woman-abducted|No leads two weeks after Venezuelan woman abducted]]
