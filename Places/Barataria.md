@@ -7,4 +7,4 @@ name: "Barataria"
 
 ## Articles
 
-- [[Articles/2026-09-09_After-beach-woman-reports-date-rape|After beach woman reports date rape]]
+- [[Articles/2026-10-18_3-suspects-sought-in-Malick-mother-daughter-killings|3 suspects sought in Malick mother daughter killings]]

@@ -25,3 +25,6 @@ name: "crime"
 - [[Articles/2026-10-13_Robbers-hit-Chocolate-Supermarket-in-Palmyra|Robbers hit Chocolate Supermarket in Palmyra]]
 - [[Articles/2026-10-14_Westmoorings-man-robbed-of-50000-outside-bank|Westmoorings man robbed of 50000 outside bank]]
 - [[Articles/2026-10-14_Armed-bandits-tie-up-mother-son-steal-Hilux|Armed bandits tie up mother son steal Hilux]]
+- [[Articles/2026-10-18_Three-crash-victims-robbed-on-Beetham-Highway|Three crash victims robbed on Beetham Highway]]
+- [[Articles/2026-10-18_3-suspects-sought-in-Malick-mother-daughter-killings|3 suspects sought in Malick mother daughter killings]]
+- [[Articles/2026-10-18_The-child-pornography-investigation-no-one-can-find|The child pornography investigation no one can find]]

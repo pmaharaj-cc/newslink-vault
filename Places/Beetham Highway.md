@@ -7,4 +7,4 @@ name: "Beetham Highway"
 
 ## Articles
 
-- [[Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-|Police vehicle totaled as driver flees after red light ]]
+- [[Articles/2026-10-18_Three-crash-victims-robbed-on-Beetham-Highway|Three crash victims robbed on Beetham Highway]]

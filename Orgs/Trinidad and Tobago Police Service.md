@@ -13,3 +13,4 @@ name: "Trinidad and Tobago Police Service"
 - [[Articles/2026-10-02_Fowl-Play-Businessman-killed-in-shooting|Fowl Play Businessman killed in shooting]]
 - [[Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into|Driver dies two critical after Nissan Note plunges into]]
 - [[Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water|Las Lomas man stabbed doused with hot water]]
+- [[Articles/2026-10-18_The-child-pornography-investigation-no-one-can-find|The child pornography investigation no one can find]]
