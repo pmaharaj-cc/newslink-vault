@@ -7,4 +7,4 @@ name: "Barbados"
 
 ## Articles
 
-- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]
+- [[Articles/2026-10-18_Making-a-place-in-schools-for-Slave|Making a place in schools for Slave]]

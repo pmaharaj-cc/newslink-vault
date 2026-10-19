@@ -7,4 +7,4 @@ name: "University of Trinidad and Tobago"
 
 ## Articles
 
-- [[Articles/2026-07-23_History-deserves-balance-not-bias|History deserves balance not bias]]
+- [[Articles/2026-10-18_Making-a-place-in-schools-for-Slave|Making a place in schools for Slave]]
