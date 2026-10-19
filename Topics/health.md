@@ -7,12 +7,4 @@ name: "health"
 
 ## Articles
 
-- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]
-- [[Articles/2026-09-23_The-Future-Is-Here|The Future Is Here]]
-- [[Articles/2026-09-27_When-fainting-is-more-than-just-fainting|When fainting is more than just fainting]]
-- [[Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car|Mechanic crushed to death under wifes car]]
-- [[Articles/2026-09-30_Man-shot-in-mouth-bullet-lodged-in-throat|Man shot in mouth bullet lodged in throat]]
-- [[Articles/2026-09-30_Dear-PM-stop-degrading-nations-institutions|Dear PM stop degrading nations institutions]]
-- [[Articles/2026-10-04_Driver-dies-two-critical-after-Nissan-Note-plunges-into|Driver dies two critical after Nissan Note plunges into]]
-- [[Articles/2026-10-04_Las-Lomas-man-stabbed-doused-with-hot-water|Las Lomas man stabbed doused with hot water]]
-- [[Articles/2026-10-13_Prisoner-survives-20foot-jump-during-hospital-escape|Prisoner survives 20foot jump during hospital escape]]
+- [[Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies|Baby who underwent open heart surgery dies]]
