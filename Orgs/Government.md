@@ -7,4 +7,4 @@ name: "Government"
 
 ## Articles
 
-- [[Articles/2026-10-04_Caterpillar-closure-a-warning-sign|Caterpillar closure a warning sign]]
+- [[Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention|Hadeeds seek full recording used to justify detention]]

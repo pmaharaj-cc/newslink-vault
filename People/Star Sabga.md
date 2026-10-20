@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Star Sabga"
-roles: [Individual]
+roles: [Aunt]
 legal_statuses: []
 tags: []
 ---
 
 # Star Sabga
 
-**Known roles:** Individual
+**Known roles:** Aunt
 
 ## Articles
 
-- [[Articles/2026-07-28_Star-Sabga-freed-from-prison-placed-under-house-arrest|Star Sabga freed from prison placed under house arrest]]
+- [[Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention|Hadeeds seek full recording used to justify detention]]

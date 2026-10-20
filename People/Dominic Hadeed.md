@@ -12,5 +12,4 @@ tags: []
 
 ## Articles
 
-- [[Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal|State attorneys lay out grounds of appeal]]
-- [[Articles/2026-07-23_Fresh-legal-battle|Fresh legal battle]]
+- [[Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention|Hadeeds seek full recording used to justify detention]]

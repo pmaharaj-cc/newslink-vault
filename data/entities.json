@@ -1,9 +1,89 @@
 {
-  "People": {},
+  "People": {
+    "Dominic Hadeed": {
+      "roles": [
+        "Businessman"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "Genevieve Hadeed": {
+      "roles": [
+        "Wife"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "Star Sabga": {
+      "roles": [
+        "Aunt"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "Vigel Paul": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "Douglas Mendes": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "Gerald Ramdeen": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    }
+  },
   "Orgs": {
     "San Fernando General Hospital": {
       "articles": [
         "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md"
+      ]
+    },
+    "Rotary Club of Chaguanas": {
+      "articles": [
+        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md"
+      ]
+    },
+    "Brentwood Mall": {
+      "articles": [
+        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md"
+      ]
+    },
+    "Strategic Services Agency": {
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "High Court": {
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "Government": {
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
       ]
     }
   },
@@ -27,17 +107,49 @@
       "articles": [
         "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md"
       ]
+    },
+    "Chaguanas": {
+      "articles": [
+        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md"
+      ]
+    },
+    "Brentwood Mall": {
+      "articles": [
+        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md"
+      ]
+    },
+    "Trinidad": {
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
     }
   },
   "Topics": {
     "health": {
       "articles": [
-        "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md"
+        "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md",
+        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md"
       ]
     },
     "crime": {
       "articles": [
-        "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md"
+        "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md",
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "social": {
+      "articles": [
+        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md"
+      ]
+    },
+    "government": {
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+      ]
+    },
+    "judiciary": {
+      "articles": [
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
       ]
     }
   },

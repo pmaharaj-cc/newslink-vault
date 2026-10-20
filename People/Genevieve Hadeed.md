@@ -1,16 +1,15 @@
 ---
 type: person
 name: "Genevieve Hadeed"
-roles: [Spouse, Co‑applicant]
+roles: [Wife]
 legal_statuses: []
 tags: []
 ---
 
 # Genevieve Hadeed
 
-**Known roles:** Spouse, Co‑applicant
+**Known roles:** Wife
 
 ## Articles
 
-- [[Articles/2026-07-22_State-attorneys-lay-out-grounds-of-appeal|State attorneys lay out grounds of appeal]]
-- [[Articles/2026-07-23_Fresh-legal-battle|Fresh legal battle]]
+- [[Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention|Hadeeds seek full recording used to justify detention]]
