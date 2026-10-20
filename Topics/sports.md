@@ -7,4 +7,4 @@ name: "sports"
 
 ## Articles
 
-- [[Articles/2026-07-04_Chanka-Maharaj|Chanka Maharaj]]
+- [[Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9|Basil Ince scholar diplomat and sporting icon dies at 9]]

@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Hasely Crawford"
-roles: [Sprinter]
+roles: [Athlete]
 legal_statuses: []
 tags: []
 ---
 
 # Hasely Crawford
 
-**Known roles:** Sprinter
+**Known roles:** Athlete
 
 ## Articles
 
-- [[Articles/2026-07-01_A-Nation-of-Rhythm-Struggle-and-Triumph|A Nation of Rhythm Struggle and Triumph]]
+- [[Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9|Basil Ince scholar diplomat and sporting icon dies at 9]]

@@ -53,6 +53,42 @@
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
       ]
+    },
+    "Basil Ince": {
+      "roles": [
+        "Former Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "George Chambers": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "Hasely Crawford": {
+      "roles": [
+        "Athlete"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "Nyron Chadee": {
+      "roles": [
+        "labourer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
     }
   },
   "Orgs": {
@@ -85,12 +121,48 @@
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
       ]
+    },
+    "People's National Movement": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "University of the West Indies": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "National Association of Amateur Athletes of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "La Brea Police Station": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
+    },
+    "South Western Division": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
+    },
+    "Homicide Bureau of Investigations (Region Three)": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
+    },
+    "Forensic Science Centre": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
     }
   },
   "Places": {
     "Princes Town": {
       "articles": [
-        "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md"
+        "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md",
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
       ]
     },
     "Fairfield": {
@@ -122,6 +194,51 @@
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
       ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "United Kingdom": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "Montreal": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "St Augustine": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "Charlotte Street": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
+    },
+    "La Brea": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
+    },
+    "Carat Shed beach": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
+    },
+    "Point Sable": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
+    },
+    "Federation Park": {
+      "articles": [
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+      ]
     }
   },
   "Topics": {
@@ -134,7 +251,8 @@
     "crime": {
       "articles": [
         "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md",
-        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
       ]
     },
     "social": {
@@ -144,14 +262,36 @@
     },
     "government": {
       "articles": [
-        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
       ]
     },
     "judiciary": {
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
       ]
+    },
+    "sports": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "culture": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "education": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
     }
   },
-  "Authors": {}
+  "Authors": {
+    "Digital Desk": {
+      "articles": [
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    }
+  }
 }

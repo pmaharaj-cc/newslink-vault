@@ -7,4 +7,4 @@ name: "St Augustine"
 
 ## Articles
 
-- [[Articles/2026-09-14_Law-student-sea-student-die-by-suicide|Law student sea student die by suicide]]
+- [[Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9|Basil Ince scholar diplomat and sporting icon dies at 9]]

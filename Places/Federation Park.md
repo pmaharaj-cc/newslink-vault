@@ -7,4 +7,4 @@ name: "Federation Park"
 
 ## Articles
 
-- [[Articles/2026-08-21_Dancers-funeral-postponed-after-second-autopsy|Dancers funeral postponed after second autopsy]]
+- [[Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead|They will kill me missing man found shot dead]]
