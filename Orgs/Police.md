@@ -7,10 +7,4 @@ name: "Police"
 
 ## Articles
 
-- [[Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill|What you should know about the Special Operations Bill]]
-- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]
-- [[Articles/2026-09-27_Sob-an-attack-on-human-rights|Sob an attack on human rights]]
-- [[Articles/2026-09-29_Woman-sitting-with-dog-raped-at-Arima-park|Woman sitting with dog raped at Arima park]]
-- [[Articles/2026-09-30_Bandits-strike-in-Lange-Park|Bandits strike in Lange Park]]
-- [[Articles/2026-10-13_Principal-reports-6500-taken-from-her-office|Principal reports 6500 taken from her office]]
-- [[Articles/2026-10-18_3-suspects-sought-in-Malick-mother-daughter-killings|3 suspects sought in Malick mother daughter killings]]
+- [[Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man|Post mortem reveals blunt force injuries in Cunupia man]]

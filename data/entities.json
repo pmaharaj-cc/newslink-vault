@@ -89,6 +89,15 @@
       "articles": [
         "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
       ]
+    },
+    "Brian De-Peza": {
+      "roles": [
+        "Retired"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
+      ]
     }
   },
   "Orgs": {
@@ -154,7 +163,23 @@
     },
     "Forensic Science Centre": {
       "articles": [
-        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md",
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
+      ]
+    },
+    "Princes Town Police": {
+      "articles": [
+        "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md"
+      ]
+    },
+    "Princes Town District Health Facility": {
+      "articles": [
+        "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md"
+      ]
+    },
+    "Police": {
+      "articles": [
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
       ]
     }
   },
@@ -162,7 +187,8 @@
     "Princes Town": {
       "articles": [
         "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md",
-        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md",
+        "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md"
       ]
     },
     "Fairfield": {
@@ -239,6 +265,31 @@
       "articles": [
         "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
       ]
+    },
+    "Cedar Hill, Princes Town": {
+      "articles": [
+        "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md"
+      ]
+    },
+    "Yard Road": {
+      "articles": [
+        "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md"
+      ]
+    },
+    "Cunupia": {
+      "articles": [
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
+      ]
+    },
+    "Kernaham Trace": {
+      "articles": [
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
+      ]
+    },
+    "Chin Chin Road": {
+      "articles": [
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
+      ]
     }
   },
   "Topics": {
@@ -252,7 +303,9 @@
       "articles": [
         "Articles/2026-10-19_Baby-who-underwent-open-heart-surgery-dies.md",
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
-        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md",
+        "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md",
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
       ]
     },
     "social": {
@@ -291,6 +344,11 @@
     "Digital Desk": {
       "articles": [
         "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+      ]
+    },
+    "Carolyn Kissoon": {
+      "articles": [
+        "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md"
       ]
     }
   }
