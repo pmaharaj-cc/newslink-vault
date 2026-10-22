@@ -7,4 +7,4 @@ name: "Mayaro"
 
 ## Articles
 
-- [[Articles/2026-10-14_Armed-bandits-tie-up-mother-son-steal-Hilux|Armed bandits tie up mother son steal Hilux]]
+- [[Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire|Mayaro man 67 dies in house fire]]

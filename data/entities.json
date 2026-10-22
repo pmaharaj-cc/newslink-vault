@@ -98,6 +98,24 @@
       "articles": [
         "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
       ]
+    },
+    "Vishnu Marajh": {
+      "roles": [
+        "Resident"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
+      ]
+    },
+    "Sanjay Marajh": {
+      "roles": [
+        "Son"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
+      ]
     }
   },
   "Orgs": {
@@ -179,7 +197,28 @@
     },
     "Police": {
       "articles": [
-        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md",
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+      ]
+    },
+    "Brazil Secondary School": {
+      "articles": [
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+      ]
+    },
+    "San Rafael Police Station": {
+      "articles": [
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+      ]
+    },
+    "Mayaro Police Station": {
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
+      ]
+    },
+    "Rio Claro Fire Station": {
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
       ]
     }
   },
@@ -290,6 +329,31 @@
       "articles": [
         "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
       ]
+    },
+    "Brazil Secondary School": {
+      "articles": [
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+      ]
+    },
+    "San Rafael Police Station": {
+      "articles": [
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+      ]
+    },
+    "Union Village": {
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
+      ]
+    },
+    "Mayaro": {
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
+      ]
+    },
+    "LP No. 5 Oil Field Road": {
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
+      ]
     }
   },
   "Topics": {
@@ -305,7 +369,8 @@
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
         "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md",
         "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md",
-        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md"
+        "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md",
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
       ]
     },
     "social": {
@@ -336,7 +401,13 @@
     },
     "education": {
       "articles": [
-        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md",
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+      ]
+    },
+    "disaster": {
+      "articles": [
+        "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
       ]
     }
   },
