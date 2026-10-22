@@ -13,3 +13,4 @@ name: "crime"
 - [[Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux|Cedar Hill principal beaten robbed of jewels and Hilux]]
 - [[Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man|Post mortem reveals blunt force injuries in Cunupia man]]
 - [[Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school|Bullet found at Brazil secondary school]]
+- [[Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house|Woman reports rape at exboyfriends house]]

@@ -198,7 +198,8 @@
     "Police": {
       "articles": [
         "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md",
-        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md",
+        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
       ]
     },
     "Brazil Secondary School": {
@@ -219,6 +220,11 @@
     "Rio Claro Fire Station": {
       "articles": [
         "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
+      ]
+    },
+    "Point Fortin Police Station": {
+      "articles": [
+        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
       ]
     }
   },
@@ -354,6 +360,11 @@
       "articles": [
         "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
       ]
+    },
+    "Point Fortin": {
+      "articles": [
+        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
+      ]
     }
   },
   "Topics": {
@@ -370,7 +381,8 @@
         "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md",
         "Articles/2026-10-21_Cedar-Hill-principal-beaten-robbed-of-jewels-and-Hilux.md",
         "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md",
-        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md"
+        "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md",
+        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
       ]
     },
     "social": {

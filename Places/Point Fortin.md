@@ -7,4 +7,4 @@ name: "Point Fortin"
 
 ## Articles
 
-- [[Articles/2026-10-14_UNC-waging-war|UNC waging war]]
+- [[Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house|Woman reports rape at exboyfriends house]]
