@@ -116,6 +116,58 @@
       "articles": [
         "Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire.md"
       ]
+    },
+    "Natasha de Bourg": {
+      "roles": [
+        "Executive Chef"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "Zion Pulido": {
+      "roles": [
+        "Cyclist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-23_untitled.md"
+      ]
+    },
+    "Njisane Phillip": {
+      "roles": [
+        "Cyclist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-23_untitled.md"
+      ]
+    },
+    "Nicholas Paul": {
+      "roles": [
+        "Cyclist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-23_untitled.md"
+      ]
+    },
+    "Matthew Richardson": {
+      "roles": [
+        "Cyclist"
+      ],
+      "statuses": [
+        {
+          "status": "accused",
+          "article": "Articles/2026-10-23_untitled.md",
+          "title": "Untitled",
+          "date": "2026-10-23"
+        }
+      ],
+      "articles": [
+        "Articles/2026-10-23_untitled.md"
+      ]
     }
   },
   "Orgs": {
@@ -226,6 +278,36 @@
       "articles": [
         "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
       ]
+    },
+    "Rumhouse": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "Food & Wine": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "Mirazur": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "University of Derby": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "César Ritz Colleges Switzerland": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "British Cycling": {
+      "articles": [
+        "Articles/2026-10-23_untitled.md"
+      ]
     }
   },
   "Places": {
@@ -268,7 +350,9 @@
     },
     "Trinidad and Tobago": {
       "articles": [
-        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md",
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md",
+        "Articles/2026-10-23_untitled.md"
       ]
     },
     "United Kingdom": {
@@ -365,6 +449,41 @@
       "articles": [
         "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
       ]
+    },
+    "Annapolis": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "Maryland": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "Menton": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "France": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "Switzerland": {
+      "articles": [
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+      ]
+    },
+    "Los Angeles, California, USA": {
+      "articles": [
+        "Articles/2026-10-23_untitled.md"
+      ]
+    },
+    "Shanghai, China": {
+      "articles": [
+        "Articles/2026-10-23_untitled.md"
+      ]
     }
   },
   "Topics": {
@@ -408,7 +527,8 @@
     },
     "culture": {
       "articles": [
-        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md",
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
     },
     "education": {

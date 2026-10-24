@@ -7,4 +7,4 @@ name: "France"
 
 ## Articles
 
-- [[Articles/2026-07-13_The-eccentrics-of-British-politics|The eccentrics of British politics]]
+- [[Articles/2026-10-23_Doubles-make-the-cut-in-Maryland|Doubles make the cut in Maryland]]
