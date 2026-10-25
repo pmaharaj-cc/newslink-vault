@@ -168,6 +168,15 @@
       "articles": [
         "Articles/2026-10-23_untitled.md"
       ]
+    },
+    "Ryan Williams": {
+      "roles": [
+        "Artist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-24_Williams-showcases-lasting-impressions.md"
+      ]
     }
   },
   "Orgs": {
@@ -299,7 +308,7 @@
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
     },
-    "CÃÂ©sar Ritz Colleges Switzerland": {
+    "CÃÂÃÂ©sar Ritz Colleges Switzerland": {
       "articles": [
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
@@ -322,6 +331,11 @@
     "Belmont Police Station": {
       "articles": [
         "Articles/2026-10-24_Man-robbed-of-21000-gold-rings-after-Trincity-meeting.md"
+      ]
+    },
+    "Horizons Art Gallery": {
+      "articles": [
+        "Articles/2026-10-24_Williams-showcases-lasting-impressions.md"
       ]
     }
   },
@@ -368,7 +382,8 @@
       "articles": [
         "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md",
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md",
-        "Articles/2026-10-23_untitled.md"
+        "Articles/2026-10-23_untitled.md",
+        "Articles/2026-10-24_Williams-showcases-lasting-impressions.md"
       ]
     },
     "United Kingdom": {
@@ -572,7 +587,8 @@
     "culture": {
       "articles": [
         "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md",
-        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
+        "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md",
+        "Articles/2026-10-24_Williams-showcases-lasting-impressions.md"
       ]
     },
     "education": {
