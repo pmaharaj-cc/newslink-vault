@@ -7,4 +7,4 @@ name: "Beetham Highway"
 
 ## Articles
 
-- [[Articles/2026-10-18_Three-crash-victims-robbed-on-Beetham-Highway|Three crash victims robbed on Beetham Highway]]
+- [[Articles/2026-10-24_Man-robbed-of-21000-gold-rings-after-Trincity-meeting|Man robbed of 21000 gold rings after Trincity meeting]]

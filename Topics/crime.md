@@ -15,3 +15,4 @@ name: "crime"
 - [[Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school|Bullet found at Brazil secondary school]]
 - [[Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house|Woman reports rape at exboyfriends house]]
 - [[Articles/2026-10-23_Our-Lost-Children|Our Lost Children]]
+- [[Articles/2026-10-24_Man-robbed-of-21000-gold-rings-after-Trincity-meeting|Man robbed of 21000 gold rings after Trincity meeting]]
