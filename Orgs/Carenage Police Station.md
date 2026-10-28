@@ -7,5 +7,4 @@ name: "Carenage Police Station"
 
 ## Articles
 
-- [[Articles/2026-07-09_Body-found-on-Chaguaramas-road-police-appeal-for-help|Body found on Chaguaramas road police appeal for help]]
-- [[Articles/2026-07-18_Police-suspect-fatal-hit-and-run|Police suspect fatal hit and run]]
+- [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]

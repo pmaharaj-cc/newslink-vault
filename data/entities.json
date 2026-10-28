@@ -177,6 +177,51 @@
       "articles": [
         "Articles/2026-10-24_Williams-showcases-lasting-impressions.md"
       ]
+    },
+    "Kavita Deosaran": {
+      "roles": [
+        "Owner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack.md"
+      ]
+    },
+    "Cheryl Dickson": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack.md"
+      ]
+    },
+    "Robin Mohammed": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
+    },
+    "Benjamin": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
+    },
+    "Renaldo Brown": {
+      "roles": [
+        "Complainant"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
     }
   },
   "Orgs": {
@@ -260,7 +305,8 @@
       "articles": [
         "Articles/2026-10-21_Post-mortem-reveals-blunt-force-injuries-in-Cunupia-man.md",
         "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md",
-        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
+        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md",
+        "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md"
       ]
     },
     "Brazil Secondary School": {
@@ -308,7 +354,7 @@
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
     },
-    "CÃÂÃÂÃÂÃÂ©sar Ritz Colleges Switzerland": {
+    "CÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©sar Ritz Colleges Switzerland": {
       "articles": [
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
@@ -357,6 +403,26 @@
       "articles": [
         "Articles/2026-10-26_Intruder-smashes-way-into-Bacolet-womans-home.md"
       ]
+    },
+    "Office of the Attorney General": {
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
+    },
+    "Carenage Police Station": {
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
+    },
+    "Coast Guard": {
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
+    },
+    "PPM Parts and Tyres": {
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
     }
   },
   "Places": {
@@ -395,7 +461,8 @@
     "Trinidad": {
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
-        "Articles/2026-10-23_Our-Lost-Children.md"
+        "Articles/2026-10-23_Our-Lost-Children.md",
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
       ]
     },
     "Trinidad and Tobago": {
@@ -424,7 +491,8 @@
     },
     "Charlotte Street": {
       "articles": [
-        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md"
+        "Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead.md",
+        "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md"
       ]
     },
     "La Brea": {
@@ -586,6 +654,32 @@
       "articles": [
         "Articles/2026-10-26_Intruder-smashes-way-into-Bacolet-womans-home.md"
       ]
+    },
+    "Couva": {
+      "articles": [
+        "Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack.md",
+        "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md"
+      ]
+    },
+    "Freeport": {
+      "articles": [
+        "Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack.md"
+      ]
+    },
+    "Carenage": {
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
+    },
+    "Western Main Road": {
+      "articles": [
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+      ]
+    },
+    "Southern Main Road": {
+      "articles": [
+        "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md"
+      ]
     }
   },
   "Topics": {
@@ -606,7 +700,10 @@
         "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md",
         "Articles/2026-10-23_Our-Lost-Children.md",
         "Articles/2026-10-24_Man-robbed-of-21000-gold-rings-after-Trincity-meeting.md",
-        "Articles/2026-10-26_Intruder-smashes-way-into-Bacolet-womans-home.md"
+        "Articles/2026-10-26_Intruder-smashes-way-into-Bacolet-womans-home.md",
+        "Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack.md",
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md",
+        "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md"
       ]
     },
     "social": {
@@ -618,12 +715,14 @@
     "government": {
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
-        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md"
+        "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md",
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
       ]
     },
     "judiciary": {
       "articles": [
-        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md"
+        "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
       ]
     },
     "sports": {

@@ -17,3 +17,6 @@ name: "crime"
 - [[Articles/2026-10-23_Our-Lost-Children|Our Lost Children]]
 - [[Articles/2026-10-24_Man-robbed-of-21000-gold-rings-after-Trincity-meeting|Man robbed of 21000 gold rings after Trincity meeting]]
 - [[Articles/2026-10-26_Intruder-smashes-way-into-Bacolet-womans-home|Intruder smashes way into Bacolet womans home]]
+- [[Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack|Spa owner 64 year old woman killed in attack]]
+- [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]
+- [[Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva|Two women shot dead at spa in Couva]]

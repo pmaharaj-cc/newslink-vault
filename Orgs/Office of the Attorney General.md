@@ -7,5 +7,4 @@ name: "Office of the Attorney General"
 
 ## Articles
 
-- [[Articles/2026-07-24_Candour-before-the-Court|Candour before the Court]]
-- [[Articles/2026-07-29_Public-sex-offenders-website-back-online|Public sex offenders website back online]]
+- [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]

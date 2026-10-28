@@ -7,4 +7,5 @@ name: "Couva"
 
 ## Articles
 
-- [[Articles/2026-08-07_Republic-Bank-exercised-reasonable-care|Republic Bank exercised reasonable care]]
+- [[Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack|Spa owner 64 year old woman killed in attack]]
+- [[Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva|Two women shot dead at spa in Couva]]
