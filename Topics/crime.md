@@ -20,3 +20,4 @@ name: "crime"
 - [[Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack|Spa owner 64 year old woman killed in attack]]
 - [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]
 - [[Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva|Two women shot dead at spa in Couva]]
+- [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]

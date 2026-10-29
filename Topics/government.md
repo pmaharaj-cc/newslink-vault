@@ -11,3 +11,4 @@ name: "government"
 - [[Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9|Basil Ince scholar diplomat and sporting icon dies at 9]]
 - [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]
 - [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]
+- [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]

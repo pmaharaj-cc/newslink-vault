@@ -7,4 +7,4 @@ name: "Scarborough"
 
 ## Articles
 
-- [[Articles/2026-09-21_Tourists-from-Canada-UK-among-Pigeon-Point-victims|Tourists from Canada UK among Pigeon Point victims]]
+- [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]
