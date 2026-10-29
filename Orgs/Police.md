@@ -11,3 +11,4 @@ name: "Police"
 - [[Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school|Bullet found at Brazil secondary school]]
 - [[Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house|Woman reports rape at exboyfriends house]]
 - [[Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva|Two women shot dead at spa in Couva]]
+- [[Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery|Businessman suffers seizure after beating and robbery]]

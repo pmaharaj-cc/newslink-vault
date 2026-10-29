@@ -9,3 +9,4 @@ name: "Charlotte Street"
 
 - [[Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead|They will kill me missing man found shot dead]]
 - [[Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva|Two women shot dead at spa in Couva]]
+- [[Articles/2026-10-29_Gunman-spoke-to-Couva-spa-owner-then-killed-her-and-cus|Gunman spoke to Couva spa owner then killed her and cus]]

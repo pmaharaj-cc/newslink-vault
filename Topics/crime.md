@@ -21,3 +21,5 @@ name: "crime"
 - [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]
 - [[Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva|Two women shot dead at spa in Couva]]
 - [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]
+- [[Articles/2026-10-29_Gunman-spoke-to-Couva-spa-owner-then-killed-her-and-cus|Gunman spoke to Couva spa owner then killed her and cus]]
+- [[Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery|Businessman suffers seizure after beating and robbery]]
