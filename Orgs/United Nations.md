@@ -7,4 +7,4 @@ name: "United Nations"
 
 ## Articles
 
-- [[Articles/2026-08-11_CCJ-must-clear-the-air|CCJ must clear the air]]
+- [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]

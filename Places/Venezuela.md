@@ -7,4 +7,4 @@ name: "Venezuela"
 
 ## Articles
 
-- [[Articles/2026-10-02_CAL-resumes-Caracas-flights-adds-TobagoToronto-service|CAL resumes Caracas flights adds TobagoToronto service]]
+- [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]

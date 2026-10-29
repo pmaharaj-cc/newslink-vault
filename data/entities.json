@@ -222,6 +222,15 @@
       "articles": [
         "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
       ]
+    },
+    "Nicolas Maduro": {
+      "roles": [
+        "Former President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
     }
   },
   "Orgs": {
@@ -354,7 +363,7 @@
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
     },
-    "CÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©sar Ritz Colleges Switzerland": {
+    "CÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©sar Ritz Colleges Switzerland": {
       "articles": [
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
@@ -423,6 +432,76 @@
       "articles": [
         "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
       ]
+    },
+    "United Nations General Assembly": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "United Nations": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Cuba": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "United States": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Venezuela": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Bosnia": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Ecuador": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Lithuania": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Paraguay": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Slovenia": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Germany": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Italy": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Latvia": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
     }
   },
   "Places": {
@@ -471,7 +550,8 @@
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md",
         "Articles/2026-10-23_untitled.md",
         "Articles/2026-10-24_Williams-showcases-lasting-impressions.md",
-        "Articles/2026-10-26_Airport-parking-hourly-rate-up-to-15-daily-to-95.md"
+        "Articles/2026-10-26_Airport-parking-hourly-rate-up-to-15-daily-to-95.md",
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
       ]
     },
     "United Kingdom": {
@@ -680,6 +760,61 @@
       "articles": [
         "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md"
       ]
+    },
+    "Cuba": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "United States": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Venezuela": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Bosnia": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Ecuador": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Lithuania": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Paraguay": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Slovenia": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Germany": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Italy": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
+    },
+    "Latvia": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
+      ]
     }
   },
   "Topics": {
@@ -716,7 +851,8 @@
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
         "Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9.md",
-        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md",
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
       ]
     },
     "judiciary": {
@@ -756,6 +892,11 @@
     "infrastructure": {
       "articles": [
         "Articles/2026-10-26_Airport-parking-hourly-rate-up-to-15-daily-to-95.md"
+      ]
+    },
+    "foreign-affairs": {
+      "articles": [
+        "Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg.md"
       ]
     }
   },

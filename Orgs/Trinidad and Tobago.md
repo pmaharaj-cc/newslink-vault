@@ -7,4 +7,4 @@ name: "Trinidad and Tobago"
 
 ## Articles
 
-- [[Articles/2026-08-31_Regional-leaders-send-TT-independence-greetings|Regional leaders send TT independence greetings]]
+- [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]

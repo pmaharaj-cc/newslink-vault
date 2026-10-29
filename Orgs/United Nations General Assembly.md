@@ -7,4 +7,4 @@ name: "United Nations General Assembly"
 
 ## Articles
 
-- [[Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent|Cubans are suffering as TT stays silent]]
+- [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]
