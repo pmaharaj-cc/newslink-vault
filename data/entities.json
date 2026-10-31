@@ -242,6 +242,24 @@
       "articles": [
         "Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun.md"
       ]
+    },
+    "Mitchell-Samuel": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
+      ]
+    },
+    "Tull": {
+      "roles": [
+        "Police Constable"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
+      ]
     }
   },
   "Orgs": {
@@ -328,7 +346,9 @@
         "Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school.md",
         "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md",
         "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md",
-        "Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery.md"
+        "Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery.md",
+        "Articles/2026-10-31_Grandson-fights-off-armed-home-invader.md",
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
       ]
     },
     "Brazil Secondary School": {
@@ -376,7 +396,7 @@
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
     },
-    "CÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©sar Ritz Colleges Switzerland": {
+    "CÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©sar Ritz Colleges Switzerland": {
       "articles": [
         "Articles/2026-10-23_Doubles-make-the-cut-in-Maryland.md"
       ]
@@ -560,6 +580,36 @@
       "articles": [
         "Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery.md"
       ]
+    },
+    "Task Force": {
+      "articles": [
+        "Articles/2026-10-31_Grandson-fights-off-armed-home-invader.md"
+      ]
+    },
+    "Crime Scene Investigators": {
+      "articles": [
+        "Articles/2026-10-31_Grandson-fights-off-armed-home-invader.md"
+      ]
+    },
+    "Lazarri Bakery": {
+      "articles": [
+        "Articles/2026-10-31_Bakery-van-driver-escapes-cutlass-attack-in-Rio-Claro.md"
+      ]
+    },
+    "Rio Claro Police Station": {
+      "articles": [
+        "Articles/2026-10-31_Bakery-van-driver-escapes-cutlass-attack-in-Rio-Claro.md"
+      ]
+    },
+    "Freeport Police Station": {
+      "articles": [
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
+      ]
+    },
+    "Chaguanas Health Facility": {
+      "articles": [
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
+      ]
     }
   },
   "Places": {
@@ -588,7 +638,8 @@
     },
     "Chaguanas": {
       "articles": [
-        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md"
+        "Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu.md",
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
       ]
     },
     "Brentwood Mall": {
@@ -600,7 +651,8 @@
       "articles": [
         "Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention.md",
         "Articles/2026-10-23_Our-Lost-Children.md",
-        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md"
+        "Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620.md",
+        "Articles/2026-10-31_Grandson-fights-off-armed-home-invader.md"
       ]
     },
     "Trinidad and Tobago": {
@@ -707,7 +759,8 @@
     },
     "Point Fortin": {
       "articles": [
-        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md"
+        "Articles/2026-10-22_Woman-reports-rape-at-exboyfriends-house.md",
+        "Articles/2026-10-31_Grandson-fights-off-armed-home-invader.md"
       ]
     },
     "Annapolis": {
@@ -805,7 +858,8 @@
     "Freeport": {
       "articles": [
         "Articles/2026-10-28_Spa-owner-64-year-old-woman-killed-in-attack.md",
-        "Articles/2026-10-29_Gunman-spoke-to-Couva-spa-owner-then-killed-her-and-cus.md"
+        "Articles/2026-10-29_Gunman-spoke-to-Couva-spa-owner-then-killed-her-and-cus.md",
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
       ]
     },
     "Carenage": {
@@ -943,6 +997,31 @@
       "articles": [
         "Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery.md"
       ]
+    },
+    "Warden Road": {
+      "articles": [
+        "Articles/2026-10-31_Grandson-fights-off-armed-home-invader.md"
+      ]
+    },
+    "Rio Claro": {
+      "articles": [
+        "Articles/2026-10-31_Bakery-van-driver-escapes-cutlass-attack-in-Rio-Claro.md"
+      ]
+    },
+    "Old Railway Road": {
+      "articles": [
+        "Articles/2026-10-31_Bakery-van-driver-escapes-cutlass-attack-in-Rio-Claro.md"
+      ]
+    },
+    "Calcutta Settlement": {
+      "articles": [
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
+      ]
+    },
+    "Nadira Gardens": {
+      "articles": [
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
+      ]
     }
   },
   "Topics": {
@@ -970,7 +1049,10 @@
         "Articles/2026-10-28_Two-women-shot-dead-at-spa-in-Couva.md",
         "Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun.md",
         "Articles/2026-10-29_Gunman-spoke-to-Couva-spa-owner-then-killed-her-and-cus.md",
-        "Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery.md"
+        "Articles/2026-10-29_Businessman-suffers-seizure-after-beating-and-robbery.md",
+        "Articles/2026-10-31_Grandson-fights-off-armed-home-invader.md",
+        "Articles/2026-10-31_Bakery-van-driver-escapes-cutlass-attack-in-Rio-Claro.md",
+        "Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres.md"
       ]
     },
     "social": {
