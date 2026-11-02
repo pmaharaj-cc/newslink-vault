@@ -14,3 +14,4 @@ name: "government"
 - [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]
 - [[Articles/2026-10-29_WASA-imposes-water-restrictions-in-Tobago-ahead-of-Carn|WASA imposes water restrictions in Tobago ahead of Carn]]
 - [[Articles/2026-11-01_New-direction-for-the-Nagar|New direction for the Nagar]]
+- [[Articles/2026-11-02_Frank-Seepersad-among-5-elevated-to-Appeal-Court|Frank Seepersad among 5 elevated to Appeal Court]]

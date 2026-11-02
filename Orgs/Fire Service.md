@@ -7,4 +7,4 @@ name: "Fire Service"
 
 ## Articles
 
-- [[Articles/2026-10-18_3-suspects-sought-in-Malick-mother-daughter-killings|3 suspects sought in Malick mother daughter killings]]
+- [[Articles/2026-11-02_Body-of-22-year-old-recovered-after-gorge-search|Body of 22 year old recovered after gorge search]]

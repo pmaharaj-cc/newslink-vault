@@ -7,4 +7,4 @@ name: "Judiciary"
 
 ## Articles
 
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
+- [[Articles/2026-11-02_Frank-Seepersad-among-5-elevated-to-Appeal-Court|Frank Seepersad among 5 elevated to Appeal Court]]

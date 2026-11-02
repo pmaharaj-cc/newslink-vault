@@ -7,4 +7,4 @@ name: "Hunters Search and Rescue Team"
 
 ## Articles
 
-- [[Articles/2026-10-12_Pass-laws-to-protect-minors-online|Pass laws to protect minors online]]
+- [[Articles/2026-11-02_Body-of-22-year-old-recovered-after-gorge-search|Body of 22 year old recovered after gorge search]]

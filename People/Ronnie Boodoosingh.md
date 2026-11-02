@@ -12,4 +12,4 @@ tags: []
 
 ## Articles
 
-- [[Articles/2026-08-07_Retrial-ordered-but-appeal-court-says-2030-start-is-una|Retrial ordered but appeal court says 2030 start is una]]
+- [[Articles/2026-11-02_Frank-Seepersad-among-5-elevated-to-Appeal-Court|Frank Seepersad among 5 elevated to Appeal Court]]
