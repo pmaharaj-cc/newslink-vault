@@ -13,3 +13,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-10-24_Williams-showcases-lasting-impressions|Williams showcases lasting impressions]]
 - [[Articles/2026-10-26_Airport-parking-hourly-rate-up-to-15-daily-to-95|Airport parking hourly rate up to 15 daily to 95]]
 - [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]
+- [[Articles/2026-11-01_New-direction-for-the-Nagar|New direction for the Nagar]]
