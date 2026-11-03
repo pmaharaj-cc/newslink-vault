@@ -26,3 +26,5 @@ name: "crime"
 - [[Articles/2026-10-31_Grandson-fights-off-armed-home-invader|Grandson fights off armed home invader]]
 - [[Articles/2026-10-31_Bakery-van-driver-escapes-cutlass-attack-in-Rio-Claro|Bakery van driver escapes cutlass attack in Rio Claro]]
 - [[Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres|Man accused of kicking two police officers during arres]]
+- [[Articles/2026-11-03_Police-complaints-investigator-reports-death-threat|Police complaints investigator reports death threat]]
+- [[Articles/2026-11-03_Lopinot-man-beaten-stabbed-to-death-outside-Valencia-ga|Lopinot man beaten stabbed to death outside Valencia ga]]

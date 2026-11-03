@@ -7,5 +7,4 @@ name: "Lopinot"
 
 ## Articles
 
-- [[Articles/2026-07-01_Girl-17-molested-during-robbery-in-Lopinot|Girl 17 molested during robbery in Lopinot]]
-- [[Articles/2026-07-08_Beauty-of-the-blue-tree|Beauty of the blue tree]]
+- [[Articles/2026-11-03_Lopinot-man-beaten-stabbed-to-death-outside-Valencia-ga|Lopinot man beaten stabbed to death outside Valencia ga]]

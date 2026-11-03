@@ -12,3 +12,4 @@ name: "Digital Desk"
 - [[Articles/2026-10-29_Gunman-spoke-to-Couva-spa-owner-then-killed-her-and-cus|Gunman spoke to Couva spa owner then killed her and cus]]
 - [[Articles/2026-10-29_WASA-imposes-water-restrictions-in-Tobago-ahead-of-Carn|WASA imposes water restrictions in Tobago ahead of Carn]]
 - [[Articles/2026-11-02_Frank-Seepersad-among-5-elevated-to-Appeal-Court|Frank Seepersad among 5 elevated to Appeal Court]]
+- [[Articles/2026-11-03_Lopinot-man-beaten-stabbed-to-death-outside-Valencia-ga|Lopinot man beaten stabbed to death outside Valencia ga]]
