@@ -28,3 +28,4 @@ name: "crime"
 - [[Articles/2026-10-31_Man-accused-of-kicking-two-police-officers-during-arres|Man accused of kicking two police officers during arres]]
 - [[Articles/2026-11-03_Police-complaints-investigator-reports-death-threat|Police complaints investigator reports death threat]]
 - [[Articles/2026-11-03_Lopinot-man-beaten-stabbed-to-death-outside-Valencia-ga|Lopinot man beaten stabbed to death outside Valencia ga]]
+- [[Articles/2026-11-03_Xtra-Big-five-bottles-of-rum-found-in-mans-pants|Xtra Big five bottles of rum found in mans pants]]

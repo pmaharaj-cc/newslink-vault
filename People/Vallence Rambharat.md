@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Vallence Rambharat"
-roles: [Search and Rescue Team Leader]
+roles: [Rescue Team Leader]
 legal_statuses: []
 tags: []
 ---
 
 # Vallence Rambharat
 
-**Known roles:** Search and Rescue Team Leader
+**Known roles:** Rescue Team Leader
 
 ## Articles
 
-- [[Articles/2026-10-18_No-leads-two-weeks-after-Venezuelan-woman-abducted|No leads two weeks after Venezuelan woman abducted]]
+- [[Articles/2026-11-03_Search-on-for-missing-Debe-man-and-vehicle|Search on for missing Debe man and vehicle]]

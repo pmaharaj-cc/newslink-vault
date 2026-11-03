@@ -7,4 +7,4 @@ name: "Barataria Police Station"
 
 ## Articles
 
-- [[Articles/2026-09-09_After-beach-woman-reports-date-rape|After beach woman reports date rape]]
+- [[Articles/2026-11-03_Xtra-Big-five-bottles-of-rum-found-in-mans-pants|Xtra Big five bottles of rum found in mans pants]]
