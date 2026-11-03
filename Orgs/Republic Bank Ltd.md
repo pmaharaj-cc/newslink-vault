@@ -7,4 +7,4 @@ name: "Republic Bank Ltd"
 
 ## Articles
 
-- [[Articles/2026-09-18_Tom-Yew-Jardine-appointed-Managing-Director-of-Republic|Tom Yew Jardine appointed Managing Director of Republic]]
+- [[Articles/2026-11-03_Dumas-named-Visa-director-of-Partnerships-and-Market-De|Dumas named Visa director of Partnerships and Market De]]

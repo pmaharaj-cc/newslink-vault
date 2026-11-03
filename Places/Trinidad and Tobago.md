@@ -16,3 +16,5 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-11-01_New-direction-for-the-Nagar|New direction for the Nagar]]
 - [[Articles/2026-11-02_Hard-Times-Changing-Buying-Habits|Hard Times Changing Buying Habits]]
 - [[Articles/2026-11-02_TCL-records-176m-operating-loss-in-TT|TCL records 176m operating loss in TT]]
+- [[Articles/2026-11-03_TT-breaks-20-year-support-for-ICC-championed-by-Robinso|TT breaks 20 year support for ICC championed by Robinso]]
+- [[Articles/2026-11-03_Dumas-named-Visa-director-of-Partnerships-and-Market-De|Dumas named Visa director of Partnerships and Market De]]

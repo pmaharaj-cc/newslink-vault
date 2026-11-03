@@ -7,5 +7,4 @@ name: "Siparia"
 
 ## Articles
 
-- [[Articles/2026-08-20_Multiple-bomb-threats-yesterday|Multiple bomb threats yesterday]]
-- [[Articles/2026-08-29_Woman-interim-gang-leader-named-in-latest-PDOs|Woman interim gang leader named in latest PDOs]]
+- [[Articles/2026-11-03_Mystery-man-exits-car-before-fatal-Palo-Seco-shooting|Mystery man exits car before fatal Palo Seco shooting]]

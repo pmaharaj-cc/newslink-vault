@@ -7,4 +7,4 @@ name: "Palo Seco"
 
 ## Articles
 
-- [[Articles/2026-07-22_Exploring-the-Mud-Volcanoes|Exploring the Mud Volcanoes]]
+- [[Articles/2026-11-03_Mystery-man-exits-car-before-fatal-Palo-Seco-shooting|Mystery man exits car before fatal Palo Seco shooting]]

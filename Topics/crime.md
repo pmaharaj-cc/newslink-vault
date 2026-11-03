@@ -29,3 +29,4 @@ name: "crime"
 - [[Articles/2026-11-03_Police-complaints-investigator-reports-death-threat|Police complaints investigator reports death threat]]
 - [[Articles/2026-11-03_Lopinot-man-beaten-stabbed-to-death-outside-Valencia-ga|Lopinot man beaten stabbed to death outside Valencia ga]]
 - [[Articles/2026-11-03_Xtra-Big-five-bottles-of-rum-found-in-mans-pants|Xtra Big five bottles of rum found in mans pants]]
+- [[Articles/2026-11-03_Mystery-man-exits-car-before-fatal-Palo-Seco-shooting|Mystery man exits car before fatal Palo Seco shooting]]
