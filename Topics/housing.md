@@ -7,4 +7,4 @@ name: "housing"
 
 ## Articles
 
-- [[Articles/2026-09-07_Understanding-a-Deed-of-Gift|Understanding a Deed of Gift]]
+- [[Articles/2026-11-04_From-open-doors-to-locked-gates|From open doors to locked gates]]

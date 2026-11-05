@@ -1,16 +1,15 @@
 ---
 type: person
 name: "Donald Trump"
-roles: [President, Former President]
+roles: [Former President]
 legal_statuses: []
 tags: []
 ---
 
 # Donald Trump
 
-**Known roles:** President, Former President
+**Known roles:** Former President
 
 ## Articles
 
-- [[Articles/2026-07-20_Cubans-are-suffering-as-TT-stays-silent|Cubans are suffering as TT stays silent]]
-- [[Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny|Courts are the last defence against tyranny]]
+- [[Articles/2026-11-04_Questions-for-TT-after-US-midterms|Questions for TT after US midterms]]
