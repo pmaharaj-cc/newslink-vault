@@ -30,3 +30,5 @@ name: "crime"
 - [[Articles/2026-11-03_Lopinot-man-beaten-stabbed-to-death-outside-Valencia-ga|Lopinot man beaten stabbed to death outside Valencia ga]]
 - [[Articles/2026-11-03_Xtra-Big-five-bottles-of-rum-found-in-mans-pants|Xtra Big five bottles of rum found in mans pants]]
 - [[Articles/2026-11-03_Mystery-man-exits-car-before-fatal-Palo-Seco-shooting|Mystery man exits car before fatal Palo Seco shooting]]
+- [[Articles/2026-11-06_Kamla-aligned-ts-foreign-policy-to-Trump-now-what|Kamla aligned ts foreign policy to Trump now what]]
+- [[Articles/2026-11-06_Woman-escapes-man-trying-to-force-her-into-car-in-viral|Woman escapes man trying to force her into car in viral]]
