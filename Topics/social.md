@@ -7,9 +7,5 @@ name: "social"
 
 ## Articles
 
-- [[Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu|Free medical and legal clinic at Brentwood Mall on Satu]]
-- [[Articles/2026-10-23_Our-Lost-Children|Our Lost Children]]
-- [[Articles/2026-11-01_New-direction-for-the-Nagar|New direction for the Nagar]]
-- [[Articles/2026-11-02_Hard-Times-Changing-Buying-Habits|Hard Times Changing Buying Habits]]
-- [[Articles/2026-11-03_Search-on-for-missing-Debe-man-and-vehicle|Search on for missing Debe man and vehicle]]
-- [[Articles/2026-11-04_From-open-doors-to-locked-gates|From open doors to locked gates]]
+- [[Articles/2026-11-06_The-deadly-toll-on-women-and-girls|The deadly toll on women and girls]]
+- [[Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity|Divali A universal message of light and humanity]]

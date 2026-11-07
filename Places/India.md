@@ -7,4 +7,4 @@ name: "India"
 
 ## Articles
 
-- [[Articles/2026-07-20_Courts-are-the-last-defence-against-tyranny|Courts are the last defence against tyranny]]
+- [[Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity|Divali A universal message of light and humanity]]
