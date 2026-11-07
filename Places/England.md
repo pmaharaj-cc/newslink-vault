@@ -7,4 +7,4 @@ name: "England"
 
 ## Articles
 
-- [[Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo|Bespoke tailor Andrew Ramroop shares journey in new boo]]
+- [[Articles/2026-11-06_Reparations-and-Human-Nature|Reparations and Human Nature]]

@@ -35,6 +35,15 @@
       "articles": [
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
       ]
+    },
+    "David Livingstone": {
+      "roles": [
+        "Explorer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+      ]
     }
   },
   "Orgs": {
@@ -146,7 +155,8 @@
     },
     "Trinidad": {
       "articles": [
-        "Articles/2026-11-06_Have-we-changed-at-all.md"
+        "Articles/2026-11-06_Have-we-changed-at-all.md",
+        "Articles/2026-11-06_Sweets-for-Divali.md"
       ]
     },
     "United States": {
@@ -157,6 +167,41 @@
     "Washington": {
       "articles": [
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "New World": {
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+      ]
+    },
+    "Europe": {
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+      ]
+    },
+    "England": {
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+      ]
+    },
+    "Spain": {
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+      ]
+    },
+    "France": {
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+      ]
+    },
+    "Africa": {
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+      ]
+    },
+    "America": {
+      "articles": [
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
       ]
     }
   },
@@ -170,13 +215,16 @@
       "articles": [
         "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md",
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
-        "Articles/2026-11-06_Have-we-changed-at-all.md"
+        "Articles/2026-11-06_Have-we-changed-at-all.md",
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
       ]
     },
     "culture": {
       "articles": [
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
-        "Articles/2026-11-06_Have-we-changed-at-all.md"
+        "Articles/2026-11-06_Have-we-changed-at-all.md",
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md",
+        "Articles/2026-11-06_Sweets-for-Divali.md"
       ]
     },
     "foreign-affairs": {

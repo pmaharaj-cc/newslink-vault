@@ -7,4 +7,4 @@ name: "France"
 
 ## Articles
 
-- [[Articles/2026-10-23_Doubles-make-the-cut-in-Maryland|Doubles make the cut in Maryland]]
+- [[Articles/2026-11-06_Reparations-and-Human-Nature|Reparations and Human Nature]]

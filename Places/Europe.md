@@ -7,4 +7,4 @@ name: "Europe"
 
 ## Articles
 
-- [[Articles/2026-11-05_The-consumer-spending-squeeze|The consumer spending squeeze]]
+- [[Articles/2026-11-06_Reparations-and-Human-Nature|Reparations and Human Nature]]
