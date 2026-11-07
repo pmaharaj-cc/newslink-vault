@@ -7,14 +7,4 @@ name: "government"
 
 ## Articles
 
-- [[Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention|Hadeeds seek full recording used to justify detention]]
-- [[Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9|Basil Ince scholar diplomat and sporting icon dies at 9]]
-- [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]
-- [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]
-- [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]
-- [[Articles/2026-10-29_WASA-imposes-water-restrictions-in-Tobago-ahead-of-Carn|WASA imposes water restrictions in Tobago ahead of Carn]]
-- [[Articles/2026-11-01_New-direction-for-the-Nagar|New direction for the Nagar]]
-- [[Articles/2026-11-02_Frank-Seepersad-among-5-elevated-to-Appeal-Court|Frank Seepersad among 5 elevated to Appeal Court]]
-- [[Articles/2026-11-04_Questions-for-TT-after-US-midterms|Questions for TT after US midterms]]
-- [[Articles/2026-11-05_The-consumer-spending-squeeze|The consumer spending squeeze]]
-- [[Articles/2026-11-06_Kamla-aligned-ts-foreign-policy-to-Trump-now-what|Kamla aligned ts foreign policy to Trump now what]]
+- [[Articles/2026-11-06_Why-TT-must-stay-close-to-Trump|Why TT must stay close to Trump]]

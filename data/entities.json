@@ -1,16 +1,102 @@
 {
-  "People": {},
-  "Orgs": {},
+  "People": {
+    "Amir Jangoo": {
+      "roles": [
+        "Batter"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "Sat Maharaj": {
+      "roles": [
+        "Public figure"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-06_Have-we-changed-at-all.md"
+      ]
+    },
+    "Donald Trump": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "Kamla Persad-Bissessar": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    }
+  },
+  "Orgs": {
+    "West Indies cricket team": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "Bangladesh cricket team": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "India cricket team": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "Pakistan cricket team": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "PNM": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "UNC": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "US Congress": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "US Government": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "Trump Administration": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    }
+  },
   "Places": {
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md",
-        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md"
+        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
+        "Articles/2026-11-06_Jangoo-the-real-deal.md",
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
       ]
     },
     "India": {
       "articles": [
-        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md"
+        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
       ]
     },
     "Northern India": {
@@ -37,6 +123,41 @@
       "articles": [
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md"
       ]
+    },
+    "Sylhet": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "Bangladesh": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "Multan": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "Pakistan": {
+      "articles": [
+        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+      ]
+    },
+    "Trinidad": {
+      "articles": [
+        "Articles/2026-11-06_Have-we-changed-at-all.md"
+      ]
+    },
+    "United States": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "Washington": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
     }
   },
   "Topics": {
@@ -48,14 +169,32 @@
     "social": {
       "articles": [
         "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md",
-        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md"
+        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
+        "Articles/2026-11-06_Have-we-changed-at-all.md"
       ]
     },
     "culture": {
       "articles": [
-        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md"
+        "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
+        "Articles/2026-11-06_Have-we-changed-at-all.md"
+      ]
+    },
+    "foreign-affairs": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "government": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
       ]
     }
   },
-  "Authors": {}
+  "Authors": {
+    "Dr Vishnu Bisram": {
+      "articles": [
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    }
+  }
 }

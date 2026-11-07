@@ -7,4 +7,4 @@ name: "West Indies cricket team"
 
 ## Articles
 
-- [[Articles/2026-07-17_Sir-Garry-the-GOAT|Sir Garry the GOAT]]
+- [[Articles/2026-11-06_Jangoo-the-real-deal|Jangoo the real deal]]
