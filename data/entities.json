@@ -44,6 +44,15 @@
       "articles": [
         "Articles/2026-11-06_Reparations-and-Human-Nature.md"
       ]
+    },
+    "Joel Mc Hutchinson": {
+      "roles": [
+        "Civilian"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+      ]
     }
   },
   "Orgs": {
@@ -90,6 +99,11 @@
     "Trump Administration": {
       "articles": [
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "Homicide Region I of the TTPS": {
+      "articles": [
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
       ]
     }
   },
@@ -203,12 +217,28 @@
       "articles": [
         "Articles/2026-11-06_Reparations-and-Human-Nature.md"
       ]
+    },
+    "Maloney Gardens": {
+      "articles": [
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+      ]
+    },
+    "Picton": {
+      "articles": [
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+      ]
+    },
+    "Pump Trace Picton area": {
+      "articles": [
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+      ]
     }
   },
   "Topics": {
     "crime": {
       "articles": [
-        "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md"
+        "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md",
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
       ]
     },
     "social": {
@@ -242,6 +272,11 @@
     "Dr Vishnu Bisram": {
       "articles": [
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+      ]
+    },
+    "Digital Desk": {
+      "articles": [
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
       ]
     }
   }
