@@ -9,3 +9,5 @@ name: "crime"
 
 - [[Articles/2026-11-06_The-deadly-toll-on-women-and-girls|The deadly toll on women and girls]]
 - [[Articles/2026-11-07_Man-shot-dead-in-Picton|Man shot dead in Picton]]
+- [[Articles/2026-11-08_Confessed-killer-slain-outside-party|Confessed killer slain outside party]]
+- [[Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer|Police diary seized in hunt for killer]]

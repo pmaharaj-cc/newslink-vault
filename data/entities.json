@@ -73,6 +73,49 @@
       "articles": [
         "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
       ]
+    },
+    "Joel McHutchinson": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [
+        {
+          "status": "convicted",
+          "article": "Articles/2026-11-08_Confessed-killer-slain-outside-party.md",
+          "title": "Confessed killer slain outside party",
+          "date": "2026-11-08"
+        }
+      ],
+      "articles": [
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+      ]
+    },
+    "Ignatius Antoine": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+      ]
+    },
+    "Althea Alexis-Windsor": {
+      "roles": [
+        "Judge"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+      ]
+    },
+    "Taradath Singh": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
     }
   },
   "Orgs": {
@@ -150,6 +193,36 @@
       "articles": [
         "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
       ]
+    },
+    "Jaamia Madinatul Uloom Institute of Higher Islamic and Secondary Education": {
+      "articles": [
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
+      ]
+    },
+    "Marabella Institute": {
+      "articles": [
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
+      ]
+    },
+    "Darul IFTAA": {
+      "articles": [
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
+      ]
+    },
+    "Police": {
+      "articles": [
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+      ]
+    },
+    "Power House Gym": {
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
+    },
+    "Chaguanas Police Station": {
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
     }
   },
   "Places": {
@@ -218,7 +291,8 @@
       "articles": [
         "Articles/2026-11-06_Have-we-changed-at-all.md",
         "Articles/2026-11-06_Sweets-for-Divali.md",
-        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md"
+        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
       ]
     },
     "United States": {
@@ -269,7 +343,8 @@
     },
     "Maloney Gardens": {
       "articles": [
-        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md",
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
       ]
     },
     "Picton": {
@@ -286,13 +361,60 @@
       "articles": [
         "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
       ]
+    },
+    "Marabella": {
+      "articles": [
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
+      ]
+    },
+    "Laventille": {
+      "articles": [
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+      ]
+    },
+    "Pump Trace": {
+      "articles": [
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+      ]
+    },
+    "Picton Road": {
+      "articles": [
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+      ]
+    },
+    "Charlieville": {
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
+    },
+    "John Peter Road": {
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
+    },
+    "Extension Charlieville": {
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
+    },
+    "Chaguanas": {
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
+    },
+    "Caroni Savannah Road": {
+      "articles": [
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+      ]
     }
   },
   "Topics": {
     "crime": {
       "articles": [
         "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md",
-        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md",
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md",
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
       ]
     },
     "social": {
@@ -301,7 +423,8 @@
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
         "Articles/2026-11-06_Have-we-changed-at-all.md",
         "Articles/2026-11-06_Reparations-and-Human-Nature.md",
-        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md"
+        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
       ]
     },
     "culture": {
@@ -310,7 +433,8 @@
         "Articles/2026-11-06_Have-we-changed-at-all.md",
         "Articles/2026-11-06_Reparations-and-Human-Nature.md",
         "Articles/2026-11-06_Sweets-for-Divali.md",
-        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md"
+        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
       ]
     },
     "foreign-affairs": {

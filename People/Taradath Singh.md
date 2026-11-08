@@ -12,4 +12,4 @@ tags: []
 
 ## Articles
 
-- [[Articles/2026-08-20_State-to-pay-legal-fees-for-cops-detention|State to pay legal fees for cops detention]]
+- [[Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer|Police diary seized in hunt for killer]]
