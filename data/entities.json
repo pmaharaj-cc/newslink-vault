@@ -24,7 +24,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
       ]
     },
     "Kamla Persad-Bissessar": {
@@ -33,7 +34,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
       ]
     },
     "David Livingstone": {
@@ -52,6 +54,24 @@
       "statuses": [],
       "articles": [
         "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+      ]
+    },
+    "Keith Rowley": {
+      "roles": [
+        "Former Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+      ]
+    },
+    "David Lee": {
+      "roles": [
+        "Minister of Housing"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
       ]
     }
   },
@@ -105,6 +125,31 @@
       "articles": [
         "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
       ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+      ]
+    },
+    "United States": {
+      "articles": [
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+      ]
+    },
+    "Housing Ministry": {
+      "articles": [
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+      ]
+    },
+    "Government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+      ]
+    },
+    "Cabinet": {
+      "articles": [
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+      ]
     }
   },
   "Places": {
@@ -113,7 +158,9 @@
         "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md",
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
         "Articles/2026-11-06_Jangoo-the-real-deal.md",
-        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
       ]
     },
     "India": {
@@ -170,7 +217,8 @@
     "Trinidad": {
       "articles": [
         "Articles/2026-11-06_Have-we-changed-at-all.md",
-        "Articles/2026-11-06_Sweets-for-Divali.md"
+        "Articles/2026-11-06_Sweets-for-Divali.md",
+        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md"
       ]
     },
     "United States": {
@@ -180,7 +228,8 @@
     },
     "Washington": {
       "articles": [
-        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
       ]
     },
     "New World": {
@@ -232,6 +281,11 @@
       "articles": [
         "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
       ]
+    },
+    "Port of Spain": {
+      "articles": [
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+      ]
     }
   },
   "Topics": {
@@ -246,7 +300,8 @@
         "Articles/2026-11-06_The-deadly-toll-on-women-and-girls.md",
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
         "Articles/2026-11-06_Have-we-changed-at-all.md",
-        "Articles/2026-11-06_Reparations-and-Human-Nature.md"
+        "Articles/2026-11-06_Reparations-and-Human-Nature.md",
+        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md"
       ]
     },
     "culture": {
@@ -254,17 +309,31 @@
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
         "Articles/2026-11-06_Have-we-changed-at-all.md",
         "Articles/2026-11-06_Reparations-and-Human-Nature.md",
-        "Articles/2026-11-06_Sweets-for-Divali.md"
+        "Articles/2026-11-06_Sweets-for-Divali.md",
+        "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md"
       ]
     },
     "foreign-affairs": {
       "articles": [
-        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
       ]
     },
     "government": {
       "articles": [
-        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+      ]
+    },
+    "economy": {
+      "articles": [
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+      ]
+    },
+    "corruption": {
+      "articles": [
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
       ]
     }
   },
@@ -277,6 +346,11 @@
     "Digital Desk": {
       "articles": [
         "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+      ]
+    },
+    "Lester Philip": {
+      "articles": [
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
       ]
     }
   }

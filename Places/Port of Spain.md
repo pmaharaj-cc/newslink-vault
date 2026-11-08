@@ -7,4 +7,4 @@ name: "Port of Spain"
 
 ## Articles
 
-- [[Articles/2026-11-02_Frank-Seepersad-among-5-elevated-to-Appeal-Court|Frank Seepersad among 5 elevated to Appeal Court]]
+- [[Articles/2026-11-07_Must-US-political-shifts-spell-trouble|Must US political shifts spell trouble]]
