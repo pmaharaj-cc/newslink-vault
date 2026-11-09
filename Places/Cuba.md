@@ -7,4 +7,4 @@ name: "Cuba"
 
 ## Articles
 
-- [[Articles/2026-10-28_TT-breaks-with-30-year-record-votes-against-Cuba-embarg|TT breaks with 30 year record votes against Cuba embarg]]
+- [[Articles/2026-11-08_untitled|untitled]]

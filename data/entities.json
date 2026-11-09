@@ -134,6 +134,24 @@
       "articles": [
         "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
       ]
+    },
+    "Mia Mottley": {
+      "roles": [
+        "Prime Minister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Christiane Amanpour": {
+      "roles": [
+        "Journalist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
     }
   },
   "Orgs": {
@@ -266,6 +284,21 @@
       "articles": [
         "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
       ]
+    },
+    "Democratic Party": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Republican Party": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "CNN": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
     }
   },
   "Places": {
@@ -342,7 +375,8 @@
     },
     "United States": {
       "articles": [
-        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md"
+        "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
+        "Articles/2026-11-08_untitled.md"
       ]
     },
     "Washington": {
@@ -461,6 +495,51 @@
       "articles": [
         "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
       ]
+    },
+    "Barbados": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Cuba": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Panama": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Greenland": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Venezuela": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Russia": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Ukraine": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Israel": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
+    },
+    "Palestine": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
+      ]
     }
   },
   "Topics": {
@@ -497,7 +576,8 @@
       "articles": [
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
         "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
-        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md",
+        "Articles/2026-11-08_untitled.md"
       ]
     },
     "government": {
@@ -505,7 +585,8 @@
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
         "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
         "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md",
-        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md",
+        "Articles/2026-11-08_untitled.md"
       ]
     },
     "economy": {
@@ -540,6 +621,11 @@
     "Lester Philip": {
       "articles": [
         "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+      ]
+    },
+    "Joanne F Paul": {
+      "articles": [
+        "Articles/2026-11-08_untitled.md"
       ]
     }
   }
