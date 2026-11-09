@@ -12,3 +12,5 @@ name: "government"
 - [[Articles/2026-11-07_David-Lee-and-Kamlas-judgment|David Lee and Kamlas judgment]]
 - [[Articles/2026-11-08_Why-the-race-debate-cannot-wait|Why the race debate cannot wait]]
 - [[Articles/2026-11-08_untitled|untitled]]
+- [[Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace|Relief at last for St Johns Trace]]
+- [[Articles/2026-11-08_Agriculture-Working-Smarter|Agriculture Working Smarter]]

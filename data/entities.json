@@ -152,6 +152,24 @@
       "articles": [
         "Articles/2026-11-08_untitled.md"
       ]
+    },
+    "Lackram Bodoe": {
+      "roles": [
+        "MP"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
+      ]
+    },
+    "Ravi Ratiram": {
+      "roles": [
+        "Minister of Agriculture and Fisheries"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md"
+      ]
     }
   },
   "Orgs": {
@@ -299,6 +317,36 @@
       "articles": [
         "Articles/2026-11-08_untitled.md"
       ]
+    },
+    "UWI Cocoa Research Centre": {
+      "articles": [
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md"
+      ]
+    },
+    "Ministry of Agriculture and Fisheries": {
+      "articles": [
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md"
+      ]
+    },
+    "Cocoa and Coffee Steering Committee": {
+      "articles": [
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md"
+      ]
+    },
+    "Citizen Science for Agricultural Prosperity initiative": {
+      "articles": [
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md"
+      ]
+    },
+    "ANR Robinson International Airport": {
+      "articles": [
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
+    },
+    "Caribbean Airlines": {
+      "articles": [
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
     }
   },
   "Places": {
@@ -370,7 +418,9 @@
         "Articles/2026-11-06_Have-we-changed-at-all.md",
         "Articles/2026-11-06_Sweets-for-Divali.md",
         "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
-        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md",
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md",
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
       ]
     },
     "United States": {
@@ -488,7 +538,8 @@
     },
     "Guyana": {
       "articles": [
-        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md",
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
       ]
     },
     "Antigua and Barbuda": {
@@ -540,6 +591,41 @@
       "articles": [
         "Articles/2026-11-08_untitled.md"
       ]
+    },
+    "St John’s Branch Road, Avocat": {
+      "articles": [
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
+      ]
+    },
+    "South Trinidad": {
+      "articles": [
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
+      ]
+    },
+    "Godineau River": {
+      "articles": [
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
+      ]
+    },
+    "St John’s Trace": {
+      "articles": [
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
+      ]
+    },
+    "Tobago": {
+      "articles": [
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
+    },
+    "Toronto": {
+      "articles": [
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
+    },
+    "Miami": {
+      "articles": [
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
     }
   },
   "Topics": {
@@ -559,7 +645,8 @@
         "Articles/2026-11-06_Reparations-and-Human-Nature.md",
         "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
         "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md",
-        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md",
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
     },
     "culture": {
@@ -569,7 +656,8 @@
         "Articles/2026-11-06_Reparations-and-Human-Nature.md",
         "Articles/2026-11-06_Sweets-for-Divali.md",
         "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
-        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md",
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
       ]
     },
     "foreign-affairs": {
@@ -586,14 +674,18 @@
         "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
         "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md",
         "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md",
-        "Articles/2026-11-08_untitled.md"
+        "Articles/2026-11-08_untitled.md",
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md",
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md"
       ]
     },
     "economy": {
       "articles": [
         "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
         "Articles/2026-11-08_Forging-new-paths-for-national-development.md",
-        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md",
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md",
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
       ]
     },
     "corruption": {
@@ -603,7 +695,14 @@
     },
     "infrastructure": {
       "articles": [
-        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md",
+        "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md",
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
+    },
+    "environment": {
+      "articles": [
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
       ]
     }
   },

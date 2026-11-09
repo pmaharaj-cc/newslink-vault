@@ -7,4 +7,4 @@ name: "Ministry of Agriculture and Fisheries"
 
 ## Articles
 
-- [[Articles/2026-08-13_A-new-food-strategy-for-a-hotter-climate|A new food strategy for a hotter climate]]
+- [[Articles/2026-11-08_Agriculture-Working-Smarter|Agriculture Working Smarter]]

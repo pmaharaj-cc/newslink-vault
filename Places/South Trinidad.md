@@ -7,4 +7,4 @@ name: "South Trinidad"
 
 ## Articles
 
-- [[Articles/2026-09-12_Why-jury-service-is-so-stressful|Why jury service is so stressful]]
+- [[Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace|Relief at last for St Johns Trace]]
