@@ -7,4 +7,4 @@ name: "Parliament"
 
 ## Articles
 
-- [[Articles/2026-07-23_A-united-fight-against-crime|A united fight against crime]]
+- [[Articles/2026-11-08_Why-the-race-debate-cannot-wait|Why the race debate cannot wait]]

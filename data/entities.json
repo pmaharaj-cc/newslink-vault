@@ -116,6 +116,24 @@
       "articles": [
         "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
       ]
+    },
+    "Irfaan Ali": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
+    },
+    "Subrahmanyam Jaishankar": {
+      "roles": [
+        "Minister of External Affairs"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
     }
   },
   "Orgs": {
@@ -223,6 +241,31 @@
       "articles": [
         "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
       ]
+    },
+    "Guyana": {
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
+    },
+    "India": {
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
+    },
+    "Commonwealth Heads of Government Meeting": {
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
+    },
+    "Antigua and Barbuda": {
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
+    },
+    "Parliament": {
+      "articles": [
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
+      ]
     }
   },
   "Places": {
@@ -233,13 +276,15 @@
         "Articles/2026-11-06_Jangoo-the-real-deal.md",
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
         "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
-        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md",
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
       ]
     },
     "India": {
       "articles": [
         "Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity.md",
-        "Articles/2026-11-06_Jangoo-the-real-deal.md"
+        "Articles/2026-11-06_Jangoo-the-real-deal.md",
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
       ]
     },
     "Northern India": {
@@ -406,6 +451,16 @@
       "articles": [
         "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
       ]
+    },
+    "Guyana": {
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
+    },
+    "Antigua and Barbuda": {
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
+      ]
     }
   },
   "Topics": {
@@ -424,7 +479,8 @@
         "Articles/2026-11-06_Have-we-changed-at-all.md",
         "Articles/2026-11-06_Reparations-and-Human-Nature.md",
         "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
-        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md"
+        "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md",
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
       ]
     },
     "culture": {
@@ -440,24 +496,33 @@
     "foreign-affairs": {
       "articles": [
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
-        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
       ]
     },
     "government": {
       "articles": [
         "Articles/2026-11-06_Why-TT-must-stay-close-to-Trump.md",
         "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
-        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+        "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md",
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
       ]
     },
     "economy": {
       "articles": [
-        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md",
+        "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md"
       ]
     },
     "corruption": {
       "articles": [
         "Articles/2026-11-07_David-Lee-and-Kamlas-judgment.md"
+      ]
+    },
+    "infrastructure": {
+      "articles": [
+        "Articles/2026-11-08_Forging-new-paths-for-national-development.md"
       ]
     }
   },
