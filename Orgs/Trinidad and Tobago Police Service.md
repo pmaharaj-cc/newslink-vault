@@ -7,5 +7,4 @@ name: "Trinidad and Tobago Police Service"
 
 ## Articles
 
-- [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]
-- [[Articles/2026-11-03_Princes-Town-man-dies-hours-after-starting-new-medicati|Princes Town man dies hours after starting new medicati]]
+- [[Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing|Horror at sea 37 involved in boat crash 5 missing]]

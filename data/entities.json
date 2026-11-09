@@ -170,6 +170,24 @@
       "articles": [
         "Articles/2026-11-08_Agriculture-Working-Smarter.md"
       ]
+    },
+    "Richard Yousef": {
+      "roles": [
+        "Captain"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "Mattique Fereira": {
+      "roles": [
+        "Captain"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
     }
   },
   "Orgs": {
@@ -346,6 +364,47 @@
     "Caribbean Airlines": {
       "articles": [
         "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
+    },
+    "Trinidad and Tobago Coast Guard": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+      ]
+    },
+    "Trinidad and Tobago Police Service": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "Coastal Support Unit": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "Air Support Unit": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "St. James Medical Complex": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "Trinidad and Tobago Police Service Air Support Unit": {
+      "articles": [
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+      ]
+    },
+    "Hunters Search and Rescue Team": {
+      "articles": [
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+      ]
+    },
+    "St James Medical Complex": {
+      "articles": [
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
       ]
     }
   },
@@ -592,7 +651,7 @@
         "Articles/2026-11-08_untitled.md"
       ]
     },
-    "St John’s Branch Road, Avocat": {
+    "St Johnâs Branch Road, Avocat": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -607,7 +666,7 @@
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
     },
-    "St John’s Trace": {
+    "St Johnâs Trace": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -625,6 +684,37 @@
     "Miami": {
       "articles": [
         "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+      ]
+    },
+    "Chaguaramas": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+      ]
+    },
+    "Point Cannings": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "Staubles Bay": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "Gasparee": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+      ]
+    },
+    "Coast Guard Base": {
+      "articles": [
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+      ]
+    },
+    "St James Medical Complex": {
+      "articles": [
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
       ]
     }
   },
@@ -676,7 +766,8 @@
         "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md",
         "Articles/2026-11-08_untitled.md",
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md",
-        "Articles/2026-11-08_Agriculture-Working-Smarter.md"
+        "Articles/2026-11-08_Agriculture-Working-Smarter.md",
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
       ]
     },
     "economy": {
@@ -704,6 +795,17 @@
       "articles": [
         "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
       ]
+    },
+    "disaster": {
+      "articles": [
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+      ]
+    },
+    "health": {
+      "articles": [
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+      ]
     }
   },
   "Authors": {
@@ -714,7 +816,8 @@
     },
     "Digital Desk": {
       "articles": [
-        "Articles/2026-11-07_Man-shot-dead-in-Picton.md"
+        "Articles/2026-11-07_Man-shot-dead-in-Picton.md",
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
       ]
     },
     "Lester Philip": {

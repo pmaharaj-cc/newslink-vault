@@ -7,5 +7,5 @@ name: "disaster"
 
 ## Articles
 
-- [[Articles/2026-10-21_Mayaro-man-67-dies-in-house-fire|Mayaro man 67 dies in house fire]]
-- [[Articles/2026-11-02_Body-of-22-year-old-recovered-after-gorge-search|Body of 22 year old recovered after gorge search]]
+- [[Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing|Horror at sea 37 involved in boat crash 5 missing]]
+- [[Articles/2026-11-09_Children-among-five-missing-after-boats-collide|Children among five missing after boats collide]]
