@@ -7,5 +7,4 @@ name: "education"
 
 ## Articles
 
-- [[Articles/2026-10-20_Basil-Ince-scholar-diplomat-and-sporting-icon-dies-at-9|Basil Ince scholar diplomat and sporting icon dies at 9]]
-- [[Articles/2026-10-21_Bullet-found-at-Brazil-secondary-school|Bullet found at Brazil secondary school]]
+- [[Articles/2026-11-09_Preserve-the-beacon-of-the-East-West-Corridor|Preserve the beacon of the East West Corridor]]

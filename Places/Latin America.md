@@ -7,4 +7,4 @@ name: "Latin America"
 
 ## Articles
 
-- [[Articles/2026-09-12_Inside-TTs-shifting-organised-crime-landscape|Inside TTs shifting organised crime landscape]]
+- [[Articles/2026-11-09_ECLAC-calls-for-stronger-institutions-to-drive-developm|ECLAC calls for stronger institutions to drive developm]]
