@@ -14,3 +14,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-11-07_Must-US-political-shifts-spell-trouble|Must US political shifts spell trouble]]
 - [[Articles/2026-11-07_David-Lee-and-Kamlas-judgment|David Lee and Kamlas judgment]]
 - [[Articles/2026-11-08_Why-the-race-debate-cannot-wait|Why the race debate cannot wait]]
+- [[Articles/2026-11-10_Debt-consolidation-drives-rise-in-bank-bad-loans|Debt consolidation drives rise in bank bad loans]]

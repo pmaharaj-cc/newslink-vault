@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Clarke"
-roles: [Police Constable]
+roles: [Constable]
 legal_statuses: []
 tags: []
 ---
 
 # Clarke
 
-**Known roles:** Police Constable
+**Known roles:** Constable
 
 ## Articles
 
-- [[Articles/2026-07-09_5-hurt-in-crash-involving-police|5 hurt in crash involving police]]
+- [[Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it|Police vehicle crashes into SUV overturns it]]

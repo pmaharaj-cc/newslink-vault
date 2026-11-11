@@ -7,4 +7,4 @@ name: "Central Bank of Trinidad and Tobago"
 
 ## Articles
 
-- [[Articles/2026-06-25_6m-bail-for-woman-charged-in-alleged-20m-fraud|6m bail for woman charged in alleged 20m fraud]]
+- [[Articles/2026-11-10_Debt-consolidation-drives-rise-in-bank-bad-loans|Debt consolidation drives rise in bank bad loans]]
