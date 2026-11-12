@@ -189,7 +189,7 @@
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
       ]
     },
-    "JosÃÂ© Manuel Salazar-Xirinachs": {
+    "JosÃÂÃÂ© Manuel Salazar-Xirinachs": {
       "roles": [
         "Executive Secretary"
       ],
@@ -484,7 +484,9 @@
     "Trinidad and Tobago Police Service": {
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
-        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md"
+        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md",
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw.md"
       ]
     },
     "Coastal Support Unit": {
@@ -566,6 +568,33 @@
     "Police Service": {
       "articles": [
         "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Highway Patrol": {
+      "articles": [
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw.md"
+      ]
+    },
+    "Fire Services": {
+      "articles": [
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw.md"
+      ]
+    },
+    "South West Regional Health Authority": {
+      "articles": [
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
+      ]
+    },
+    "Point Fortin Fire Station": {
+      "articles": [
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
+      ]
+    },
+    "La Brea Health Centre": {
+      "articles": [
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
       ]
     }
   },
@@ -709,7 +738,8 @@
     },
     "Port of Spain": {
       "articles": [
-        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md"
+        "Articles/2026-11-07_Must-US-political-shifts-spell-trouble.md",
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md"
       ]
     },
     "Marabella": {
@@ -749,7 +779,9 @@
     },
     "Chaguanas": {
       "articles": [
-        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md"
+        "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md",
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw.md"
       ]
     },
     "Caroni Savannah Road": {
@@ -813,7 +845,7 @@
         "Articles/2026-11-08_untitled.md"
       ]
     },
-    "St JohnÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Branch Road, Avocat": {
+    "St JohnÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Branch Road, Avocat": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -828,7 +860,7 @@
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
     },
-    "St JohnÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Trace": {
+    "St JohnÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Trace": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -940,6 +972,33 @@
       "articles": [
         "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
+    },
+    "Uriah Butler Highway": {
+      "articles": [
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw.md"
+      ]
+    },
+    "Brentwood Mall": {
+      "articles": [
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw.md"
+      ]
+    },
+    "Caroni": {
+      "articles": [
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md"
+      ]
+    },
+    "La Brea": {
+      "articles": [
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
+      ]
+    },
+    "Point Fortin": {
+      "articles": [
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
+      ]
     }
   },
   "Topics": {
@@ -1019,7 +1078,10 @@
       "articles": [
         "Articles/2026-11-08_Forging-new-paths-for-national-development.md",
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md",
-        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md",
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw.md",
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
       ]
     },
     "environment": {
@@ -1031,13 +1093,16 @@
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
         "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
-        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md",
+        "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
       ]
     },
     "health": {
       "articles": [
         "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
-        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md"
+        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md",
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
       ]
     },
     "education": {

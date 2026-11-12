@@ -7,4 +7,5 @@ name: "Brentwood Mall"
 
 ## Articles
 
-- [[Articles/2026-10-20_Free-medical-and-legal-clinic-at-Brentwood-Mall-on-Satu|Free medical and legal clinic at Brentwood Mall on Satu]]
+- [[Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway|Biker dies crash and burn on the highway]]
+- [[Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw|Crash closes all southbound lanes of Uriah Butler Highw]]

@@ -7,4 +7,4 @@ name: "La Brea"
 
 ## Articles
 
-- [[Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead|They will kill me missing man found shot dead]]
+- [[Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre|Fire forces evacuation of La Brea Health Centre]]
