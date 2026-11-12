@@ -189,7 +189,7 @@
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
       ]
     },
-    "JosÃ© Manuel Salazar-Xirinachs": {
+    "JosÃÂ© Manuel Salazar-Xirinachs": {
       "roles": [
         "Executive Secretary"
       ],
@@ -241,6 +241,60 @@
       "statuses": [],
       "articles": [
         "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md"
+      ]
+    },
+    "Jaheem Richards": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Keiyana Seechan": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Ameer Mohammed": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Anil Ahyee": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Lorenzo Oliver": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Titus Augustine": {
+      "roles": [
+        "Passenger"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     }
   },
@@ -423,7 +477,8 @@
     "Trinidad and Tobago Coast Guard": {
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
-        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     },
     "Trinidad and Tobago Police Service": {
@@ -454,7 +509,8 @@
     },
     "Hunters Search and Rescue Team": {
       "articles": [
-        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     },
     "St James Medical Complex": {
@@ -505,6 +561,11 @@
     "Eric Williams Medical Sciences Complex": {
       "articles": [
         "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md"
+      ]
+    },
+    "Police Service": {
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     }
   },
@@ -752,7 +813,7 @@
         "Articles/2026-11-08_untitled.md"
       ]
     },
-    "St JohnÃÂ¢ÃÂÃÂs Branch Road, Avocat": {
+    "St JohnÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Branch Road, Avocat": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -767,7 +828,7 @@
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
     },
-    "St JohnÃÂ¢ÃÂÃÂs Trace": {
+    "St JohnÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Trace": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -790,12 +851,14 @@
     "Chaguaramas": {
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
-        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     },
     "Point Cannings": {
       "articles": [
-        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     },
     "Staubles Bay": {
@@ -856,6 +919,26 @@
     "Eric Williams Medical Sciences Complex": {
       "articles": [
         "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md"
+      ]
+    },
+    "Chaguacabana Beach Resort": {
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Carenage": {
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Diego Martin": {
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Arouca": {
+      "articles": [
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     }
   },
@@ -947,7 +1030,8 @@
     "disaster": {
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
-        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md"
+        "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
       ]
     },
     "health": {

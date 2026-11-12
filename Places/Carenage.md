@@ -7,4 +7,4 @@ name: "Carenage"
 
 ## Articles
 
-- [[Articles/2026-10-28_Cop-beats-and-wrongfully-arrests-man-taxpayers-get-1620|Cop beats and wrongfully arrests man taxpayers get 1620]]
+- [[Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts|Six now missing as Coast Guard expands search efforts]]
