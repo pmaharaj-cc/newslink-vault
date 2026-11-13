@@ -12,3 +12,4 @@ name: "disaster"
 - [[Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts|Six now missing as Coast Guard expands search efforts]]
 - [[Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway|Biker dies crash and burn on the highway]]
 - [[Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre|Fire forces evacuation of La Brea Health Centre]]
+- [[Articles/2026-11-12_Another-boat-tragedy-victim-found|Another boat tragedy victim found]]

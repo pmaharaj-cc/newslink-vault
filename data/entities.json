@@ -189,7 +189,7 @@
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
       ]
     },
-    "JosÃÂÃÂ© Manuel Salazar-Xirinachs": {
+    "JosÃÂÃÂÃÂÃÂ© Manuel Salazar-Xirinachs": {
       "roles": [
         "Executive Secretary"
       ],
@@ -276,7 +276,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "Lorenzo Oliver": {
@@ -295,6 +296,15 @@
       "statuses": [],
       "articles": [
         "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+      ]
+    },
+    "Guevarro": {
+      "roles": [
+        "Commissioner"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
       ]
     }
   },
@@ -391,7 +401,8 @@
     },
     "Police": {
       "articles": [
-        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "Power House Gym": {
@@ -478,7 +489,8 @@
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
         "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
-        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "Trinidad and Tobago Police Service": {
@@ -512,7 +524,8 @@
     "Hunters Search and Rescue Team": {
       "articles": [
         "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
-        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "St James Medical Complex": {
@@ -596,6 +609,26 @@
       "articles": [
         "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
       ]
+    },
+    "Defence Force": {
+      "articles": [
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
+      ]
+    },
+    "T&T Police Service": {
+      "articles": [
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
+      ]
+    },
+    "Opposition": {
+      "articles": [
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
+      ]
+    },
+    "Forensic Science Centre": {
+      "articles": [
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
+      ]
     }
   },
   "Places": {
@@ -670,7 +703,8 @@
         "Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style.md",
         "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md",
         "Articles/2026-11-08_Agriculture-Working-Smarter.md",
-        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md"
+        "Articles/2026-11-08_Tobagos-opportunity-of-a-generation.md",
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
       ]
     },
     "United States": {
@@ -723,7 +757,8 @@
     "Maloney Gardens": {
       "articles": [
         "Articles/2026-11-07_Man-shot-dead-in-Picton.md",
-        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md"
+        "Articles/2026-11-08_Confessed-killer-slain-outside-party.md",
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
       ]
     },
     "Picton": {
@@ -845,7 +880,7 @@
         "Articles/2026-11-08_untitled.md"
       ]
     },
-    "St JohnÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Branch Road, Avocat": {
+    "St JohnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Branch Road, Avocat": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -860,7 +895,7 @@
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
     },
-    "St JohnÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Trace": {
+    "St JohnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Trace": {
       "articles": [
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md"
       ]
@@ -884,18 +919,21 @@
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
         "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
-        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "Point Cannings": {
       "articles": [
         "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
-        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md"
+        "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "Staubles Bay": {
       "articles": [
-        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md"
+        "Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "Gasparee": {
@@ -925,7 +963,8 @@
     },
     "East-West Corridor": {
       "articles": [
-        "Articles/2026-11-09_Preserve-the-beacon-of-the-East-West-Corridor.md"
+        "Articles/2026-11-09_Preserve-the-beacon-of-the-East-West-Corridor.md",
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
       ]
     },
     "Macoya Road": {
@@ -999,6 +1038,16 @@
       "articles": [
         "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
       ]
+    },
+    "Scotland Bay": {
+      "articles": [
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
+      ]
+    },
+    "Federation Park": {
+      "articles": [
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
+      ]
     }
   },
   "Topics": {
@@ -1008,7 +1057,8 @@
         "Articles/2026-11-07_Man-shot-dead-in-Picton.md",
         "Articles/2026-11-08_Confessed-killer-slain-outside-party.md",
         "Articles/2026-11-08_Police-diary-seized-in-hunt-for-killer.md",
-        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md"
+        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md",
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
       ]
     },
     "social": {
@@ -1021,7 +1071,8 @@
         "Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap.md",
         "Articles/2026-11-08_Why-the-race-debate-cannot-wait.md",
         "Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace.md",
-        "Articles/2026-11-09_Preserve-the-beacon-of-the-East-West-Corridor.md"
+        "Articles/2026-11-09_Preserve-the-beacon-of-the-East-West-Corridor.md",
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
       ]
     },
     "culture": {
@@ -1055,7 +1106,8 @@
         "Articles/2026-11-08_Agriculture-Working-Smarter.md",
         "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
         "Articles/2026-11-09_Preserve-the-beacon-of-the-East-West-Corridor.md",
-        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md"
+        "Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it.md",
+        "Articles/2026-11-12_Getting-Maloneys-operation-right.md"
       ]
     },
     "economy": {
@@ -1095,7 +1147,8 @@
         "Articles/2026-11-09_Children-among-five-missing-after-boats-collide.md",
         "Articles/2026-11-11_Six-now-missing-as-Coast-Guard-expands-search-efforts.md",
         "Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway.md",
-        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md"
+        "Articles/2026-11-12_Fire-forces-evacuation-of-La-Brea-Health-Centre.md",
+        "Articles/2026-11-12_Another-boat-tragedy-victim-found.md"
       ]
     },
     "health": {

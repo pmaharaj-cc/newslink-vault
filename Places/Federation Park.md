@@ -7,4 +7,4 @@ name: "Federation Park"
 
 ## Articles
 
-- [[Articles/2026-10-20_They-will-kill-me-missing-man-found-shot-dead|They will kill me missing man found shot dead]]
+- [[Articles/2026-11-12_Another-boat-tragedy-victim-found|Another boat tragedy victim found]]
