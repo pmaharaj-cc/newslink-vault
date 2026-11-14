@@ -17,3 +17,5 @@ name: "social"
 - [[Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace|Relief at last for St Johns Trace]]
 - [[Articles/2026-11-09_Preserve-the-beacon-of-the-East-West-Corridor|Preserve the beacon of the East West Corridor]]
 - [[Articles/2026-11-12_Getting-Maloneys-operation-right|Getting Maloneys operation right]]
+- [[Articles/2026-11-14_SOA-puts-halt-to-Maloney-basketball|SOA puts halt to Maloney basketball]]
+- [[Articles/2026-11-14_AI-used-to-create-fake-Sturge-videos-says-Defence-Minis|AI used to create fake Sturge videos says Defence Minis]]

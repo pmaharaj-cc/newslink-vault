@@ -11,3 +11,4 @@ name: "Trinidad and Tobago Police Service"
 - [[Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it|Police vehicle crashes into SUV overturns it]]
 - [[Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway|Biker dies crash and burn on the highway]]
 - [[Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw|Crash closes all southbound lanes of Uriah Butler Highw]]
+- [[Articles/2026-11-14_AI-used-to-create-fake-Sturge-videos-says-Defence-Minis|AI used to create fake Sturge videos says Defence Minis]]
