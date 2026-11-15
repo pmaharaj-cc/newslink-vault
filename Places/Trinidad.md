@@ -14,3 +14,4 @@ name: "Trinidad"
 - [[Articles/2026-11-08_Agriculture-Working-Smarter|Agriculture Working Smarter]]
 - [[Articles/2026-11-08_Tobagos-opportunity-of-a-generation|Tobagos opportunity of a generation]]
 - [[Articles/2026-11-12_Getting-Maloneys-operation-right|Getting Maloneys operation right]]
+- [[Articles/2026-11-14_Is-girl-code-still-a-thing|Is girl code still a thing]]

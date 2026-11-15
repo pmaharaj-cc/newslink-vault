@@ -14,3 +14,4 @@ name: "economy"
 - [[Articles/2026-11-08_Tobagos-opportunity-of-a-generation|Tobagos opportunity of a generation]]
 - [[Articles/2026-11-09_ECLAC-calls-for-stronger-institutions-to-drive-developm|ECLAC calls for stronger institutions to drive developm]]
 - [[Articles/2026-11-10_Debt-consolidation-drives-rise-in-bank-bad-loans|Debt consolidation drives rise in bank bad loans]]
+- [[Articles/2026-11-14_You-do-not-get-what-you-deserve-you-get-what-you-fight-|You do not get what you deserve you get what you fight ]]

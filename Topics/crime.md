@@ -14,3 +14,4 @@ name: "crime"
 - [[Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it|Police vehicle crashes into SUV overturns it]]
 - [[Articles/2026-11-12_Getting-Maloneys-operation-right|Getting Maloneys operation right]]
 - [[Articles/2026-11-14_AI-used-to-create-fake-Sturge-videos-says-Defence-Minis|AI used to create fake Sturge videos says Defence Minis]]
+- [[Articles/2026-11-14_Maloney-under-siege-while-politicians-play-politics|Maloney under siege while politicians play politics]]

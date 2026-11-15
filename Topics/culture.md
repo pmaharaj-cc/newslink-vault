@@ -14,3 +14,4 @@ name: "culture"
 - [[Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style|The Sari Comeback From Occasion Wear To Everyday Style]]
 - [[Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap|Islamic institute warns against Merry Christmas and Hap]]
 - [[Articles/2026-11-08_Tobagos-opportunity-of-a-generation|Tobagos opportunity of a generation]]
+- [[Articles/2026-11-14_Is-girl-code-still-a-thing|Is girl code still a thing]]
