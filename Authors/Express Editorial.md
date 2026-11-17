@@ -7,4 +7,4 @@ name: "Express Editorial"
 
 ## Articles
 
-- [[Articles/2026-09-14_Simple-measures-can-save-lives|Simple measures can save lives]]
+- [[Articles/2026-11-16_WASAs-timely-water-warning|WASAs timely water warning]]

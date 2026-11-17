@@ -21,3 +21,4 @@ name: "government"
 - [[Articles/2026-11-14_SOA-puts-halt-to-Maloney-basketball|SOA puts halt to Maloney basketball]]
 - [[Articles/2026-11-14_AI-used-to-create-fake-Sturge-videos-says-Defence-Minis|AI used to create fake Sturge videos says Defence Minis]]
 - [[Articles/2026-11-14_Maloney-under-siege-while-politicians-play-politics|Maloney under siege while politicians play politics]]
+- [[Articles/2026-11-16_WASAs-timely-water-warning|WASAs timely water warning]]
