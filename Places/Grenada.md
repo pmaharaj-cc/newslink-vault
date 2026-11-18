@@ -7,4 +7,4 @@ name: "Grenada"
 
 ## Articles
 
-- [[Articles/2026-07-23_History-deserves-balance-not-bias|History deserves balance not bias]]
+- [[Articles/2026-11-17_Reopening-Pointe-a-Pierre-where-the-value-lies|Reopening Pointe a Pierre where the value lies]]

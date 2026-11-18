@@ -9,3 +9,4 @@ name: "Guyana"
 
 - [[Articles/2026-11-08_Forging-new-paths-for-national-development|Forging new paths for national development]]
 - [[Articles/2026-11-08_Tobagos-opportunity-of-a-generation|Tobagos opportunity of a generation]]
+- [[Articles/2026-11-17_Reopening-Pointe-a-Pierre-where-the-value-lies|Reopening Pointe a Pierre where the value lies]]
