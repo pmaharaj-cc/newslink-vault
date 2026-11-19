@@ -7,4 +7,4 @@ name: "DIGITAL DESK"
 
 ## Articles
 
-- [[Articles/2026-06-27_Barrackpore-pensioner-murdered-in-home-invasion|Barrackpore pensioner murdered in home invasion]]
+- [[Articles/2026-11-19_Homeless-man-attacks-kills-pedestrian-in-Marabella|Homeless man attacks kills pedestrian in Marabella]]

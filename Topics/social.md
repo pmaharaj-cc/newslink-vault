@@ -22,3 +22,4 @@ name: "social"
 - [[Articles/2026-11-14_Is-girl-code-still-a-thing|Is girl code still a thing]]
 - [[Articles/2026-11-14_Maloney-under-siege-while-politicians-play-politics|Maloney under siege while politicians play politics]]
 - [[Articles/2026-11-16_Prejudice-stands-in-the-way-of-progress|Prejudice stands in the way of progress]]
+- [[Articles/2026-11-19_Angelicas-family-takes-jet-ski-operator-to-court|Angelicas family takes jet ski operator to court]]

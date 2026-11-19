@@ -15,3 +15,5 @@ name: "crime"
 - [[Articles/2026-11-12_Getting-Maloneys-operation-right|Getting Maloneys operation right]]
 - [[Articles/2026-11-14_AI-used-to-create-fake-Sturge-videos-says-Defence-Minis|AI used to create fake Sturge videos says Defence Minis]]
 - [[Articles/2026-11-14_Maloney-under-siege-while-politicians-play-politics|Maloney under siege while politicians play politics]]
+- [[Articles/2026-11-19_Carenage-man-cleared-of-sexual-charges-against-8-year-o|Carenage man cleared of sexual charges against 8 year o]]
+- [[Articles/2026-11-19_Homeless-man-attacks-kills-pedestrian-in-Marabella|Homeless man attacks kills pedestrian in Marabella]]

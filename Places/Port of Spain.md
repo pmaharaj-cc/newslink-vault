@@ -9,3 +9,4 @@ name: "Port of Spain"
 
 - [[Articles/2026-11-07_Must-US-political-shifts-spell-trouble|Must US political shifts spell trouble]]
 - [[Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway|Biker dies crash and burn on the highway]]
+- [[Articles/2026-11-19_Carenage-man-cleared-of-sexual-charges-against-8-year-o|Carenage man cleared of sexual charges against 8 year o]]

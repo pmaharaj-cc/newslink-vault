@@ -7,4 +7,4 @@ name: "Freedom Law Chambers"
 
 ## Articles
 
-- [[Articles/2026-07-16_Parents-signal-legal-action|Parents signal legal action]]
+- [[Articles/2026-11-19_Angelicas-family-takes-jet-ski-operator-to-court|Angelicas family takes jet ski operator to court]]

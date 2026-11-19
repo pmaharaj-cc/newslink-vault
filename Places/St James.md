@@ -7,5 +7,4 @@ name: "St James"
 
 ## Articles
 
-- [[Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-|Police vehicle totaled as driver flees after red light ]]
-- [[Articles/2026-08-25_Gold-teeth-clue-to-burnt-body|Gold teeth clue to burnt body]]
+- [[Articles/2026-11-19_Homeless-man-attacks-kills-pedestrian-in-Marabella|Homeless man attacks kills pedestrian in Marabella]]
