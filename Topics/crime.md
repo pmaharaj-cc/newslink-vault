@@ -20,3 +20,6 @@ name: "crime"
 - [[Articles/2026-11-19_State-failures-in-securing-convictions|State failures in securing convictions]]
 - [[Articles/2026-11-20_Search-for-missing-Laventille-woman-takes-grim-turn|Search for missing Laventille woman takes grim turn]]
 - [[Articles/2026-11-20_Gonzales-2026-murder-reduction-is-really-89|Gonzales 2026 murder reduction is really 89]]
+- [[Articles/2026-11-20_While-professor-in-Germany-house-cleaned-out|While professor in Germany house cleaned out]]
+- [[Articles/2026-11-20_Boss-Doubles-hit-by-armed-robbers|Boss Doubles hit by armed robbers]]
+- [[Articles/2026-11-20_Retiree-beaten-to-death-by-mentally-ill-relative|Retiree beaten to death by mentally ill relative]]

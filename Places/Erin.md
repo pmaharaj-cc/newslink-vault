@@ -7,4 +7,4 @@ name: "Erin"
 
 ## Articles
 
-- [[Articles/2026-09-29_Mechanic-crushed-to-death-under-wifes-car|Mechanic crushed to death under wifes car]]
+- [[Articles/2026-11-20_While-professor-in-Germany-house-cleaned-out|While professor in Germany house cleaned out]]
