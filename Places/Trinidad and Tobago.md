@@ -21,3 +21,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-11-16_Prejudice-stands-in-the-way-of-progress|Prejudice stands in the way of progress]]
 - [[Articles/2026-11-17_Reopening-Pointe-a-Pierre-where-the-value-lies|Reopening Pointe a Pierre where the value lies]]
 - [[Articles/2026-11-19_Make-work-pay-or-watch-them-leave|Make work pay or watch them leave]]
+- [[Articles/2026-11-20_Gonzales-2026-murder-reduction-is-really-89|Gonzales 2026 murder reduction is really 89]]

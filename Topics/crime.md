@@ -19,3 +19,4 @@ name: "crime"
 - [[Articles/2026-11-19_Homeless-man-attacks-kills-pedestrian-in-Marabella|Homeless man attacks kills pedestrian in Marabella]]
 - [[Articles/2026-11-19_State-failures-in-securing-convictions|State failures in securing convictions]]
 - [[Articles/2026-11-20_Search-for-missing-Laventille-woman-takes-grim-turn|Search for missing Laventille woman takes grim turn]]
+- [[Articles/2026-11-20_Gonzales-2026-murder-reduction-is-really-89|Gonzales 2026 murder reduction is really 89]]

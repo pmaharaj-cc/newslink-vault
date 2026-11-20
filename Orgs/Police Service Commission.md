@@ -7,4 +7,4 @@ name: "Police Service Commission"
 
 ## Articles
 
-- [[Articles/2026-07-18_Should-cop-recuse-himself-in-intelligence-review|Should cop recuse himself in intelligence review]]
+- [[Articles/2026-11-20_Gonzales-2026-murder-reduction-is-really-89|Gonzales 2026 murder reduction is really 89]]

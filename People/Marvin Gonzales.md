@@ -1,16 +1,15 @@
 ---
 type: person
 name: "Marvin Gonzales"
-roles: []
+roles: [MP]
 legal_statuses: []
-tags: ["person"]
+tags: []
 ---
 
 # Marvin Gonzales
 
-**Known roles:** Unknown
-
+**Known roles:** MP
 
 ## Articles
 
-- [[Articles/2026-05-15_Penny-still-gathering-facts-on-John-Bates-matter|Penny still 'gathering facts' on John-Bates matter]]
+- [[Articles/2026-11-20_Gonzales-2026-murder-reduction-is-really-89|Gonzales 2026 murder reduction is really 89]]
