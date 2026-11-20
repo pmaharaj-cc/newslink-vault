@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Vallence Rambharat"
-roles: [Rescue Team Leader]
+roles: [Captain]
 legal_statuses: []
 tags: []
 ---
 
 # Vallence Rambharat
 
-**Known roles:** Rescue Team Leader
+**Known roles:** Captain
 
 ## Articles
 
-- [[Articles/2026-11-03_Search-on-for-missing-Debe-man-and-vehicle|Search on for missing Debe man and vehicle]]
+- [[Articles/2026-11-20_Search-for-missing-Laventille-woman-takes-grim-turn|Search for missing Laventille woman takes grim turn]]
