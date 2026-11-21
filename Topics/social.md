@@ -25,3 +25,6 @@ name: "social"
 - [[Articles/2026-11-19_Angelicas-family-takes-jet-ski-operator-to-court|Angelicas family takes jet ski operator to court]]
 - [[Articles/2026-11-19_In-respect-of-Maloney|In respect of Maloney]]
 - [[Articles/2026-11-19_Make-work-pay-or-watch-them-leave|Make work pay or watch them leave]]
+- [[Articles/2026-11-20_In-the-land-of-the-artificial|In the land of the artificial]]
+- [[Articles/2026-11-20_When-protection-seems-like-punishment|When protection seems like punishment]]
+- [[Articles/2026-11-20_Shaping-the-Men-of-Tomorrow|Shaping the Men of Tomorrow]]

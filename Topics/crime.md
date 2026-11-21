@@ -23,3 +23,4 @@ name: "crime"
 - [[Articles/2026-11-20_While-professor-in-Germany-house-cleaned-out|While professor in Germany house cleaned out]]
 - [[Articles/2026-11-20_Boss-Doubles-hit-by-armed-robbers|Boss Doubles hit by armed robbers]]
 - [[Articles/2026-11-20_Retiree-beaten-to-death-by-mentally-ill-relative|Retiree beaten to death by mentally ill relative]]
+- [[Articles/2026-11-20_When-protection-seems-like-punishment|When protection seems like punishment]]

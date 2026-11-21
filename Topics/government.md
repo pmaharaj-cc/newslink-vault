@@ -26,3 +26,4 @@ name: "government"
 - [[Articles/2026-11-19_State-failures-in-securing-convictions|State failures in securing convictions]]
 - [[Articles/2026-11-19_In-respect-of-Maloney|In respect of Maloney]]
 - [[Articles/2026-11-20_Gonzales-2026-murder-reduction-is-really-89|Gonzales 2026 murder reduction is really 89]]
+- [[Articles/2026-11-20_When-protection-seems-like-punishment|When protection seems like punishment]]
