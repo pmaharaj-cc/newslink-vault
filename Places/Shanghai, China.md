@@ -7,4 +7,4 @@ name: "Shanghai, China"
 
 ## Articles
 
-- [[Articles/2026-10-23_untitled|untitled]]
+- [[Articles/2026-11-20_A-Time-to-Celebrate|A Time to Celebrate]]

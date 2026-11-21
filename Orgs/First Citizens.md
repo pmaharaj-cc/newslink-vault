@@ -7,4 +7,4 @@ name: "First Citizens"
 
 ## Articles
 
-- [[Articles/2026-07-10_Ragbir-appointed-First-Citizens-deputy-CEO|Ragbir appointed First Citizens deputy CEO]]
+- [[Articles/2026-11-20_A-Time-to-Celebrate|A Time to Celebrate]]
