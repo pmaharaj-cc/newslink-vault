@@ -12,4 +12,4 @@ tags: []
 
 ## Articles
 
-- [[Articles/2026-11-19_Homeless-man-attacks-kills-pedestrian-in-Marabella|Homeless man attacks kills pedestrian in Marabella]]
+- [[Articles/2026-11-22_Have-a-Heart-Mayor-Parris|Have a Heart Mayor Parris]]

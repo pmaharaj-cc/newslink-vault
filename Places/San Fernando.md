@@ -7,4 +7,4 @@ name: "San Fernando"
 
 ## Articles
 
-- [[Articles/2026-11-20_Boss-Doubles-hit-by-armed-robbers|Boss Doubles hit by armed robbers]]
+- [[Articles/2026-11-22_Have-a-Heart-Mayor-Parris|Have a Heart Mayor Parris]]

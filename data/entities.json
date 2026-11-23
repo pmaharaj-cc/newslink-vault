@@ -29,6 +29,24 @@
       "articles": [
         "Articles/2026-11-22_Mottleys-ideas-feasible.md"
       ]
+    },
+    "Sherwin Mohammed": {
+      "roles": [
+        "Victim"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
+      ]
+    },
+    "Robert Parris": {
+      "roles": [
+        "Mayor"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
+      ]
     }
   },
   "Orgs": {
@@ -60,6 +78,21 @@
     "Caribbean Court of Justice": {
       "articles": [
         "Articles/2026-11-22_Mottleys-ideas-feasible.md"
+      ]
+    },
+    "Central Statistical Office": {
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
+      ]
+    },
+    "Central Bank": {
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
+      ]
+    },
+    "Police": {
+      "articles": [
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
       ]
     }
   },
@@ -98,13 +131,41 @@
       "articles": [
         "Articles/2026-11-22_Mottleys-ideas-feasible.md"
       ]
+    },
+    "Marabella": {
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
+      ]
+    },
+    "Harris Promenade": {
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
+      ]
+    },
+    "San Fernando": {
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
+      ]
+    },
+    "Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
+      ]
+    },
+    "Maloney Gardens": {
+      "articles": [
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
+      ]
     }
   },
   "Topics": {
     "government": {
       "articles": [
         "Articles/2026-11-22_Powder-Keg-System.md",
-        "Articles/2026-11-22_Mottleys-ideas-feasible.md"
+        "Articles/2026-11-22_Mottleys-ideas-feasible.md",
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
       ]
     },
     "foreign-affairs": {
@@ -119,7 +180,21 @@
     },
     "economy": {
       "articles": [
-        "Articles/2026-11-22_Mottleys-ideas-feasible.md"
+        "Articles/2026-11-22_Mottleys-ideas-feasible.md",
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
+        "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md"
+      ]
+    },
+    "social": {
+      "articles": [
+        "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
+        "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md"
+      ]
+    },
+    "crime": {
+      "articles": [
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
       ]
     }
   },
