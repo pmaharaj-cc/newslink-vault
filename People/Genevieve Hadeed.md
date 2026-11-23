@@ -1,15 +1,13 @@
 ---
 type: person
 name: "Genevieve Hadeed"
-roles: [Wife]
+roles: []
 legal_statuses: []
 tags: []
 ---
 
 # Genevieve Hadeed
 
-**Known roles:** Wife
-
 ## Articles
 
-- [[Articles/2026-10-20_Hadeeds-seek-full-recording-used-to-justify-detention|Hadeeds seek full recording used to justify detention]]
+- [[Articles/2026-11-22_Powder-Keg-System|Powder Keg System]]

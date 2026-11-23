@@ -7,4 +7,4 @@ name: "Microsoft"
 
 ## Articles
 
-- [[Articles/2026-07-21_AI-centre-without-a-strategy|AI centre without a strategy]]
+- [[Articles/2026-11-22_Powder-Keg-System|Powder Keg System]]

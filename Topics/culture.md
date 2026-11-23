@@ -7,14 +7,4 @@ name: "culture"
 
 ## Articles
 
-- [[Articles/2026-11-06_Divali-A-universal-message-of-light-and-humanity|Divali A universal message of light and humanity]]
-- [[Articles/2026-11-06_Have-we-changed-at-all|Have we changed at all]]
-- [[Articles/2026-11-06_Reparations-and-Human-Nature|Reparations and Human Nature]]
-- [[Articles/2026-11-06_Sweets-for-Divali|Sweets for Divali]]
-- [[Articles/2026-11-07_The-Sari-Comeback-From-Occasion-Wear-To-Everyday-Style|The Sari Comeback From Occasion Wear To Everyday Style]]
-- [[Articles/2026-11-08_Islamic-institute-warns-against-Merry-Christmas-and-Hap|Islamic institute warns against Merry Christmas and Hap]]
-- [[Articles/2026-11-08_Tobagos-opportunity-of-a-generation|Tobagos opportunity of a generation]]
-- [[Articles/2026-11-14_Is-girl-code-still-a-thing|Is girl code still a thing]]
-- [[Articles/2026-11-16_Prejudice-stands-in-the-way-of-progress|Prejudice stands in the way of progress]]
-- [[Articles/2026-11-20_A-Time-to-Celebrate|A Time to Celebrate]]
-- [[Articles/2026-11-20_Shaping-the-Men-of-Tomorrow|Shaping the Men of Tomorrow]]
+- [[Articles/2026-11-22_Powder-Keg-System|Powder Keg System]]

@@ -7,9 +7,4 @@ name: "foreign-affairs"
 
 ## Articles
 
-- [[Articles/2026-11-06_Why-TT-must-stay-close-to-Trump|Why TT must stay close to Trump]]
-- [[Articles/2026-11-07_Must-US-political-shifts-spell-trouble|Must US political shifts spell trouble]]
-- [[Articles/2026-11-08_Forging-new-paths-for-national-development|Forging new paths for national development]]
-- [[Articles/2026-11-08_untitled|untitled]]
-- [[Articles/2026-11-09_ECLAC-calls-for-stronger-institutions-to-drive-developm|ECLAC calls for stronger institutions to drive developm]]
-- [[Articles/2026-11-14_You-do-not-get-what-you-deserve-you-get-what-you-fight-|You do not get what you deserve you get what you fight ]]
+- [[Articles/2026-11-22_Powder-Keg-System|Powder Keg System]]
