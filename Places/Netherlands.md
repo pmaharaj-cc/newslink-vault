@@ -7,4 +7,4 @@ name: "Netherlands"
 
 ## Articles
 
-- [[Articles/2026-08-06_A-cautious-path-to-requesting-IDs|A cautious path to requesting IDs]]
+- [[Articles/2026-11-22_Staying-safe-in-an-uncertain-digital-world|Staying safe in an uncertain digital world]]
