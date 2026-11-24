@@ -74,6 +74,87 @@
       "articles": [
         "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
       ]
+    },
+    "Wendell Eversley": {
+      "roles": [
+        "Social activist"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Stuart Young": {
+      "roles": [
+        "MP"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Pennelope Beckles": {
+      "roles": [
+        "Opposition Leader"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Farai Hove-Masaisai": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Tricia Kinsale": {
+      "roles": [
+        "Resident"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Neal Lewis": {
+      "roles": [
+        "Resident"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Natisha Quamina": {
+      "roles": [
+        "Resident"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Nekesha Carter": {
+      "roles": [
+        "Resident"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "David Pannick": {
+      "roles": [
+        "Barrister"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
     }
   },
   "Orgs": {
@@ -156,6 +237,21 @@
       "articles": [
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
+    },
+    "Attorney General's Office": {
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Police Commissioner": {
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Government of Trinidad and Tobago": {
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
     }
   },
   "Places": {
@@ -214,7 +310,8 @@
         "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
         "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
         "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md",
-        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
       ]
     },
     "Maloney Gardens": {
@@ -231,6 +328,11 @@
       "articles": [
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
+    },
+    "Maloney": {
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
     }
   },
   "Topics": {
@@ -241,7 +343,8 @@
         "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
         "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
         "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md",
-        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
       ]
     },
     "foreign-affairs": {
@@ -290,6 +393,11 @@
     "energy": {
       "articles": [
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "judiciary": {
+      "articles": [
+        "Articles/2026-11-24_State-faces-more-legal-action.md"
       ]
     }
   },

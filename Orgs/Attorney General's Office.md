@@ -7,4 +7,4 @@ name: "Attorney General's Office"
 
 ## Articles
 
-- [[Articles/2026-07-01_The-State-brings-in-UK-Kings-Counsel-for-Hadeed-matter|The State brings in UK Kings Counsel for Hadeed matter]]
+- [[Articles/2026-11-24_State-faces-more-legal-action|State faces more legal action]]

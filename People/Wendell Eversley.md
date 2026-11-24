@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Wendell Eversley"
-roles: [Public interest advocate]
+roles: [Social activist]
 legal_statuses: []
 tags: []
 ---
 
 # Wendell Eversley
 
-**Known roles:** Public interest advocate
+**Known roles:** Social activist
 
 ## Articles
 
-- [[Articles/2026-07-17_Transparency-call-over-govt-MoUs|Transparency call over govt MoUs]]
+- [[Articles/2026-11-24_State-faces-more-legal-action|State faces more legal action]]
