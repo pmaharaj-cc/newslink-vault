@@ -7,4 +7,4 @@ name: "Express Editorial"
 
 ## Articles
 
-- [[Articles/2026-11-16_WASAs-timely-water-warning|WASAs timely water warning]]
+- [[Articles/2026-11-23_The-Menace-That-Is-Metal-Theft|The Menace That Is Metal Theft]]

@@ -47,6 +47,33 @@
       "articles": [
         "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md"
       ]
+    },
+    "Look Loy": {
+      "roles": [
+        "Commentator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
+    },
+    "Le Hunte": {
+      "roles": [
+        "Commentator"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
+    },
+    "Derron Sandy": {
+      "roles": [
+        "Performance Poet"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
     }
   },
   "Orgs": {
@@ -93,6 +120,41 @@
     "Police": {
       "articles": [
         "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
+      ]
+    },
+    "Trinidad Guardian": {
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
+    },
+    "Trinidad Express": {
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
+    },
+    "Trinidad and Tobago Electricity Commission": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "TSTT": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "Water and Sewerage Authority": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "Ministry of Trade": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "Senate": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
     }
   },
@@ -150,12 +212,24 @@
     "Trinidad and Tobago": {
       "articles": [
         "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
-        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md",
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
     },
     "Maloney Gardens": {
       "articles": [
         "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
+      ]
+    },
+    "Maloney Buildings Housing Development": {
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
+    },
+    "Tabaquite Booster Station": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
     }
   },
@@ -165,7 +239,9 @@
         "Articles/2026-11-22_Powder-Keg-System.md",
         "Articles/2026-11-22_Mottleys-ideas-feasible.md",
         "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
-        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md",
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
     },
     "foreign-affairs": {
@@ -182,19 +258,38 @@
       "articles": [
         "Articles/2026-11-22_Mottleys-ideas-feasible.md",
         "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
-        "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md"
+        "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md",
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
     },
     "social": {
       "articles": [
         "Articles/2026-11-22_Have-a-Heart-Mayor-Parris.md",
         "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
-        "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md"
+        "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md",
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
       ]
     },
     "crime": {
       "articles": [
-        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md"
+        "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md",
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "housing": {
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
+    },
+    "infrastructure": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "energy": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
     }
   },
@@ -202,6 +297,16 @@
     "Dr Joanne F Paul": {
       "articles": [
         "Articles/2026-11-22_Powder-Keg-System.md"
+      ]
+    },
+    "Claude A Job": {
+      "articles": [
+        "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md"
+      ]
+    },
+    "Express Editorial": {
+      "articles": [
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
       ]
     }
   }
