@@ -1,17 +1,15 @@
 ---
 type: person
 name: "Allister Guevarro"
-roles: []
+roles: [Commissioner of Police]
 legal_statuses: []
-tags: ["person"]
+tags: []
 ---
 
 # Allister Guevarro
 
-**Known roles:** Unknown
-
+**Known roles:** Commissioner of Police
 
 ## Articles
 
-- [[Articles/2026-05-20_Police-Samaroo-shooting-file-to-move-to-DPP|Police Samaroo shooting file to move to DPP]]
-- [[Articles/2026-05-21_Petty-thief-killed-by-police|Petty thief killed by police]]
+- [[Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry|Century old problems with the scrap iron industry]]

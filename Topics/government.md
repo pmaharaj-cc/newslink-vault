@@ -14,3 +14,5 @@ name: "government"
 - [[Articles/2026-11-23_Killing-Ants-with-Sledgehammers|Killing Ants with Sledgehammers]]
 - [[Articles/2026-11-23_The-Menace-That-Is-Metal-Theft|The Menace That Is Metal Theft]]
 - [[Articles/2026-11-24_State-faces-more-legal-action|State faces more legal action]]
+- [[Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry|Century old problems with the scrap iron industry]]
+- [[Articles/2026-11-24_Where-will-the-iron-go|Where will the iron go]]

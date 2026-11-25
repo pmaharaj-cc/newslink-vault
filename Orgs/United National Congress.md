@@ -7,4 +7,4 @@ name: "United National Congress"
 
 ## Articles
 
-- [[Articles/2026-09-21_What-you-should-know-about-the-Special-Operations-Bill|What you should know about the Special Operations Bill]]
+- [[Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry|Century old problems with the scrap iron industry]]

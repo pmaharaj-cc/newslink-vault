@@ -7,10 +7,4 @@ name: "Trinidad and Tobago Police Service"
 
 ## Articles
 
-- [[Articles/2026-11-09_Horror-at-sea-37-involved-in-boat-crash-5-missing|Horror at sea 37 involved in boat crash 5 missing]]
-- [[Articles/2026-11-10_Police-vehicle-crashes-into-SUV-overturns-it|Police vehicle crashes into SUV overturns it]]
-- [[Articles/2026-11-12_Biker-dies-crash-and-burn-on-the-highway|Biker dies crash and burn on the highway]]
-- [[Articles/2026-11-12_Crash-closes-all-southbound-lanes-of-Uriah-Butler-Highw|Crash closes all southbound lanes of Uriah Butler Highw]]
-- [[Articles/2026-11-14_AI-used-to-create-fake-Sturge-videos-says-Defence-Minis|AI used to create fake Sturge videos says Defence Minis]]
-- [[Articles/2026-11-14_Maloney-under-siege-while-politicians-play-politics|Maloney under siege while politicians play politics]]
-- [[Articles/2026-11-20_Gonzales-2026-murder-reduction-is-really-89|Gonzales 2026 murder reduction is really 89]]
+- [[Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry|Century old problems with the scrap iron industry]]
