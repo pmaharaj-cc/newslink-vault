@@ -7,5 +7,4 @@ name: "Port of Spain General Hospital"
 
 ## Articles
 
-- [[Articles/2026-08-21_Police-vehicle-totaled-as-driver-flees-after-red-light-|Police vehicle totaled as driver flees after red light ]]
-- [[Articles/2026-08-29_One-killed-another-wounded-in-Sea-Lots-violence|One killed another wounded in Sea Lots violence]]
+- [[Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke|Historic Calypso Monarch Delamo dies after stroke]]

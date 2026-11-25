@@ -7,4 +7,4 @@ name: "Morvant"
 
 ## Articles
 
-- [[Articles/2026-09-09_Businessman-kidnapped-in-highway-traffic|Businessman kidnapped in highway traffic]]
+- [[Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke|Historic Calypso Monarch Delamo dies after stroke]]

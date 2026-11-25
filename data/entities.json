@@ -171,7 +171,8 @@
       ],
       "statuses": [],
       "articles": [
-        "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md"
+        "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
+        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md"
       ]
     },
     "Allister Guevarro": {
@@ -181,6 +182,33 @@
       "statuses": [],
       "articles": [
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md"
+      ]
+    },
+    "Franz Lambkin": {
+      "roles": [
+        "Calypsonian"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+      ]
+    },
+    "Luta Peters": {
+      "roles": [
+        "Calypsonian"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+      ]
+    },
+    "Marcia Miranda": {
+      "roles": [
+        "Singer"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
       ]
     }
   },
@@ -282,7 +310,8 @@
     },
     "Scrap Iron Dealers Association": {
       "articles": [
-        "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md"
+        "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
+        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md"
       ]
     },
     "Trinidad and Tobago Police Service": {
@@ -303,6 +332,26 @@
     "Maloney Building Housing Development": {
       "articles": [
         "Articles/2026-11-24_Where-will-the-iron-go.md"
+      ]
+    },
+    "London Metal Exchange": {
+      "articles": [
+        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md"
+      ]
+    },
+    "International Copper Study Group": {
+      "articles": [
+        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md"
+      ]
+    },
+    "Port of Spain General Hospital": {
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+      ]
+    },
+    "Kaiso House": {
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
       ]
     }
   },
@@ -365,7 +414,8 @@
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
         "Articles/2026-11-24_State-faces-more-legal-action.md",
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
-        "Articles/2026-11-24_Where-will-the-iron-go.md"
+        "Articles/2026-11-24_Where-will-the-iron-go.md",
+        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md"
       ]
     },
     "Maloney Gardens": {
@@ -386,6 +436,21 @@
     "Maloney": {
       "articles": [
         "Articles/2026-11-24_State-faces-more-legal-action.md"
+      ]
+    },
+    "Port of Spain": {
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+      ]
+    },
+    "Morvant": {
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+      ]
+    },
+    "South Trinidad": {
+      "articles": [
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
       ]
     }
   },
@@ -410,7 +475,8 @@
     },
     "culture": {
       "articles": [
-        "Articles/2026-11-22_Powder-Keg-System.md"
+        "Articles/2026-11-22_Powder-Keg-System.md",
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
       ]
     },
     "economy": {
@@ -420,7 +486,8 @@
         "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md",
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
-        "Articles/2026-11-24_Where-will-the-iron-go.md"
+        "Articles/2026-11-24_Where-will-the-iron-go.md",
+        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md"
       ]
     },
     "social": {

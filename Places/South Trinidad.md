@@ -7,4 +7,4 @@ name: "South Trinidad"
 
 ## Articles
 
-- [[Articles/2026-11-08_Relief-at-last-for-St-Johns-Trace|Relief at last for St Johns Trace]]
+- [[Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke|Historic Calypso Monarch Delamo dies after stroke]]
