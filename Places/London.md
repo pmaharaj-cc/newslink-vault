@@ -7,4 +7,4 @@ name: "London"
 
 ## Articles
 
-- [[Articles/2026-08-22_Bespoke-tailor-Andrew-Ramroop-shares-journey-in-new-boo|Bespoke tailor Andrew Ramroop shares journey in new boo]]
+- [[Articles/2026-11-25_Bridging-the-Cancer-Care-Gap|Bridging the Cancer Care Gap]]

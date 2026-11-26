@@ -353,6 +353,11 @@
       "articles": [
         "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
       ]
+    },
+    "Caricom": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+      ]
     }
   },
   "Places": {
@@ -440,7 +445,8 @@
     },
     "Port of Spain": {
       "articles": [
-        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md",
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
       ]
     },
     "Morvant": {
@@ -451,6 +457,31 @@
     "South Trinidad": {
       "articles": [
         "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+      ]
+    },
+    "Boston": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+      ]
+    },
+    "London": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+      ]
+    },
+    "Georgetown": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+      ]
+    },
+    "Kingston": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+      ]
+    },
+    "Bridgetown": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
       ]
     }
   },
@@ -531,6 +562,11 @@
       "articles": [
         "Articles/2026-11-24_Where-will-the-iron-go.md"
       ]
+    },
+    "health": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+      ]
     }
   },
   "Authors": {
@@ -547,6 +583,11 @@
     "Express Editorial": {
       "articles": [
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+      ]
+    },
+    "Dr Osafo Oluko Savory": {
+      "articles": [
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
       ]
     }
   }
