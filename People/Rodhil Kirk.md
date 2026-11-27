@@ -1,16 +1,15 @@
 ---
 type: person
 name: "Rodhil Kirk"
-roles: []
+roles: [Senior Superintendent]
 legal_statuses: []
-tags: ["person"]
+tags: []
 ---
 
 # Rodhil Kirk
 
-**Known roles:** Unknown
-
+**Known roles:** Senior Superintendent
 
 ## Articles
 
-- [[Articles/2026-05-19_Third-person-held-in-Angelo-case|Third person held in Angelo case]]
+- [[Articles/2026-11-27_Three-in-custody-for-Latonyas-murder|Three in custody for Latonyas murder]]

@@ -1,15 +1,15 @@
 ---
 type: person
 name: "Latonya Christian"
-roles: [Missing Person]
+roles: [Hairdresser]
 legal_statuses: []
 tags: []
 ---
 
 # Latonya Christian
 
-**Known roles:** Missing Person
+**Known roles:** Hairdresser
 
 ## Articles
 
-- [[Articles/2026-11-20_Search-for-missing-Laventille-woman-takes-grim-turn|Search for missing Laventille woman takes grim turn]]
+- [[Articles/2026-11-27_Three-in-custody-for-Latonyas-murder|Three in custody for Latonyas murder]]

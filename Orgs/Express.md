@@ -7,4 +7,4 @@ name: "Express"
 
 ## Articles
 
-- [[Articles/2026-09-14_Simple-measures-can-save-lives|Simple measures can save lives]]
+- [[Articles/2026-11-27_Three-in-custody-for-Latonyas-murder|Three in custody for Latonyas murder]]

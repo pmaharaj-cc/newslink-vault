@@ -246,6 +246,33 @@
       "articles": [
         "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
       ]
+    },
+    "Latonya Christian": {
+      "roles": [
+        "Hairdresser"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
+    },
+    "Rodhil Kirk": {
+      "roles": [
+        "Senior Superintendent"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
+    },
+    "Wilson Christian": {
+      "roles": [
+        "Father"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
     }
   },
   "Orgs": {
@@ -428,6 +455,16 @@
       "articles": [
         "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
       ]
+    },
+    "Shirvan Road Police Station": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
+    },
+    "Express": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
     }
   },
   "Places": {
@@ -582,7 +619,8 @@
     },
     "Tobago": {
       "articles": [
-        "Articles/2026-11-26_Enhancing-Maritime-Safety.md"
+        "Articles/2026-11-26_Enhancing-Maritime-Safety.md",
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
       ]
     },
     "Pigeon Point Heritage Park": {
@@ -628,6 +666,31 @@
     "Seychelles": {
       "articles": [
         "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "Delaford": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
+    },
+    "Speyside": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
+    },
+    "King’s Bay": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
+    },
+    "Laventille": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+      ]
+    },
+    "Sou Sou Lands": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
       ]
     }
   },
@@ -688,7 +751,8 @@
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
         "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md",
-        "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md"
+        "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md",
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
       ]
     },
     "housing": {
@@ -764,6 +828,11 @@
     "Urvashi Tiwari Roopnarine": {
       "articles": [
         "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "Elizabeth Williams": {
+      "articles": [
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
       ]
     }
   }

@@ -7,5 +7,4 @@ name: "Laventille"
 
 ## Articles
 
-- [[Articles/2026-11-08_Confessed-killer-slain-outside-party|Confessed killer slain outside party]]
-- [[Articles/2026-11-20_Search-for-missing-Laventille-woman-takes-grim-turn|Search for missing Laventille woman takes grim turn]]
+- [[Articles/2026-11-27_Three-in-custody-for-Latonyas-murder|Three in custody for Latonyas murder]]
