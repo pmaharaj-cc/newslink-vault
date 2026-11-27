@@ -12,4 +12,4 @@ tags: []
 
 ## Articles
 
-- [[Articles/2026-11-02_Frank-Seepersad-among-5-elevated-to-Appeal-Court|Frank Seepersad among 5 elevated to Appeal Court]]
+- [[Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m|Presidents private travel cost police nearly 9m]]

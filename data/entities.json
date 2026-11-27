@@ -219,6 +219,33 @@
       "articles": [
         "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md"
       ]
+    },
+    "Christine Kangaloo": {
+      "roles": [
+        "President"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "Keron Ramkhalwhan": {
+      "roles": [
+        "Attorney"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "Vishal Persad": {
+      "roles": [
+        "Client"
+      ],
+      "statuses": [],
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
     }
   },
   "Orgs": {
@@ -328,7 +355,8 @@
     "Trinidad and Tobago Police Service": {
       "articles": [
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
-        "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md"
+        "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md",
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
       ]
     },
     "People's National Movement": {
@@ -464,7 +492,8 @@
         "Articles/2026-11-24_Where-will-the-iron-go.md",
         "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md",
         "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md",
-        "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md"
+        "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md",
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
       ]
     },
     "Maloney Gardens": {
@@ -507,7 +536,8 @@
     },
     "Boston": {
       "articles": [
-        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md",
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
       ]
     },
     "London": {
@@ -569,6 +599,36 @@
       "articles": [
         "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
       ]
+    },
+    "Los Angeles": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "San Francisco": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "New York": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "Miami": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "Dubai": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
+    },
+    "Seychelles": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
     }
   },
   "Topics": {
@@ -585,7 +645,8 @@
         "Articles/2026-11-24_Where-will-the-iron-go.md",
         "Articles/2026-11-26_Enhancing-Maritime-Safety.md",
         "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md",
-        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md",
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
       ]
     },
     "foreign-affairs": {
@@ -667,6 +728,11 @@
       "articles": [
         "Articles/2026-11-26_Enhancing-Maritime-Safety.md"
       ]
+    },
+    "corruption": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+      ]
     }
   },
   "Authors": {
@@ -693,6 +759,11 @@
     "Ramesh Lutchmedial": {
       "articles": [
         "Articles/2026-11-26_Enhancing-Maritime-Safety.md"
+      ]
+    },
+    "Urvashi Tiwari Roopnarine": {
+      "articles": [
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
       ]
     }
   }

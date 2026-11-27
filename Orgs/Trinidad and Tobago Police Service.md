@@ -9,3 +9,4 @@ name: "Trinidad and Tobago Police Service"
 
 - [[Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry|Century old problems with the scrap iron industry]]
 - [[Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse|Failure of Justice for Women Facing Abuse]]
+- [[Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m|Presidents private travel cost police nearly 9m]]
