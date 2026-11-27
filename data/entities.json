@@ -290,7 +290,8 @@
     },
     "Water and Sewerage Authority": {
       "articles": [
-        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
       ]
     },
     "Ministry of Trade": {
@@ -389,6 +390,16 @@
       "articles": [
         "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md"
       ]
+    },
+    "Estate Management Department": {
+      "articles": [
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
+      ]
+    },
+    "Housing Development Corporation": {
+      "articles": [
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
+      ]
     }
   },
   "Places": {
@@ -485,7 +496,8 @@
     },
     "Morvant": {
       "articles": [
-        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md"
+        "Articles/2026-11-25_Historic-Calypso-Monarch-Delamo-dies-after-stroke.md",
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
       ]
     },
     "South Trinidad": {
@@ -552,6 +564,11 @@
       "articles": [
         "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md"
       ]
+    },
+    "Pelican Extension Road": {
+      "articles": [
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
+      ]
     }
   },
   "Topics": {
@@ -567,7 +584,8 @@
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
         "Articles/2026-11-24_Where-will-the-iron-go.md",
         "Articles/2026-11-26_Enhancing-Maritime-Safety.md",
-        "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md"
+        "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md",
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
       ]
     },
     "foreign-affairs": {
@@ -598,7 +616,8 @@
         "Articles/2026-11-22_Maloney-residents-have-a-right-to-ask-questions.md",
         "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md",
         "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md",
-        "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md"
+        "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md",
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
       ]
     },
     "crime": {
@@ -619,7 +638,8 @@
     },
     "infrastructure": {
       "articles": [
-        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md"
+        "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
       ]
     },
     "energy": {
