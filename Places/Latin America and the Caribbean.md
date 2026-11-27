@@ -7,4 +7,4 @@ name: "Latin America and the Caribbean"
 
 ## Articles
 
-- [[Articles/2026-08-27_Include-the-deaf-with-equal-access|Include the deaf with equal access]]
+- [[Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse|Failure of Justice for Women Facing Abuse]]

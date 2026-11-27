@@ -7,4 +7,4 @@ name: "Pigeon Point Heritage Park"
 
 ## Articles
 
-- [[Articles/2026-11-19_Angelicas-family-takes-jet-ski-operator-to-court|Angelicas family takes jet ski operator to court]]
+- [[Articles/2026-11-26_Enhancing-Maritime-Safety|Enhancing Maritime Safety]]

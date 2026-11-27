@@ -7,4 +7,4 @@ name: "Pigeon Point"
 
 ## Articles
 
-- [[Articles/2026-10-29_Man-killed-by-police-had-stolen-TTPS-gun|Man killed by police had stolen TTPS gun]]
+- [[Articles/2026-11-26_Enhancing-Maritime-Safety|Enhancing Maritime Safety]]
