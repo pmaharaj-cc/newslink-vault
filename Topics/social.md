@@ -14,3 +14,4 @@ name: "social"
 - [[Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse|Failure of Justice for Women Facing Abuse]]
 - [[Articles/2026-11-26_Morvant-water-crisis-deepening|Morvant water crisis deepening]]
 - [[Articles/2026-11-27_Race-baiting-distracts-from-real-issues|Race baiting distracts from real issues]]
+- [[Articles/2026-11-27_Action-before-Grand-Theft-Auto|Action before Grand Theft Auto]]
