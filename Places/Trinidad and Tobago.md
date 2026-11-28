@@ -18,3 +18,4 @@ name: "Trinidad and Tobago"
 - [[Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse|Failure of Justice for Women Facing Abuse]]
 - [[Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get|14 nights in Maloney what did we get]]
 - [[Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m|Presidents private travel cost police nearly 9m]]
+- [[Articles/2026-11-27_Race-baiting-distracts-from-real-issues|Race baiting distracts from real issues]]

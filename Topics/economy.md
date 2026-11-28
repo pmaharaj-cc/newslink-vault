@@ -14,3 +14,4 @@ name: "economy"
 - [[Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry|Century old problems with the scrap iron industry]]
 - [[Articles/2026-11-24_Where-will-the-iron-go|Where will the iron go]]
 - [[Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism|Global prices for copper soar fuelling vandalism]]
+- [[Articles/2026-11-27_Race-baiting-distracts-from-real-issues|Race baiting distracts from real issues]]

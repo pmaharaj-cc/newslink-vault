@@ -20,3 +20,4 @@ name: "government"
 - [[Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get|14 nights in Maloney what did we get]]
 - [[Articles/2026-11-26_Morvant-water-crisis-deepening|Morvant water crisis deepening]]
 - [[Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m|Presidents private travel cost police nearly 9m]]
+- [[Articles/2026-11-27_Race-baiting-distracts-from-real-issues|Race baiting distracts from real issues]]

@@ -465,6 +465,11 @@
       "articles": [
         "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
       ]
+    },
+    "National Gas Company": {
+      "articles": [
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
+      ]
     }
   },
   "Places": {
@@ -530,7 +535,8 @@
         "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md",
         "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md",
         "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md",
-        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     },
     "Maloney Gardens": {
@@ -678,7 +684,7 @@
         "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
       ]
     },
-    "King’s Bay": {
+    "Kingâs Bay": {
       "articles": [
         "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
       ]
@@ -709,7 +715,8 @@
         "Articles/2026-11-26_Enhancing-Maritime-Safety.md",
         "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md",
         "Articles/2026-11-26_Morvant-water-crisis-deepening.md",
-        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     },
     "foreign-affairs": {
@@ -731,7 +738,8 @@
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
         "Articles/2026-11-24_Where-will-the-iron-go.md",
-        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md"
+        "Articles/2026-11-25_Global-prices-for-copper-soar-fuelling-vandalism.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     },
     "social": {
@@ -741,7 +749,8 @@
         "Articles/2026-11-22_With-AI-and-robots-where-will-humanity-work.md",
         "Articles/2026-11-23_Killing-Ants-with-Sledgehammers.md",
         "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md",
-        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     },
     "crime": {
@@ -752,7 +761,8 @@
         "Articles/2026-11-24_Century-old-problems-with-the-scrap-iron-industry.md",
         "Articles/2026-11-26_Failure-of-Justice-for-Women-Facing-Abuse.md",
         "Articles/2026-11-26_14-nights-in-Maloney-what-did-we-get.md",
-        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md"
+        "Articles/2026-11-27_Three-in-custody-for-Latonyas-murder.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     },
     "housing": {
@@ -764,7 +774,8 @@
     "infrastructure": {
       "articles": [
         "Articles/2026-11-23_The-Menace-That-Is-Metal-Theft.md",
-        "Articles/2026-11-26_Morvant-water-crisis-deepening.md"
+        "Articles/2026-11-26_Morvant-water-crisis-deepening.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     },
     "energy": {
@@ -785,7 +796,8 @@
     },
     "health": {
       "articles": [
-        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md"
+        "Articles/2026-11-25_Bridging-the-Cancer-Care-Gap.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     },
     "disaster": {
@@ -795,7 +807,13 @@
     },
     "corruption": {
       "articles": [
-        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md"
+        "Articles/2026-11-27_Presidents-private-travel-cost-police-nearly-9m.md",
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
+      ]
+    },
+    "education": {
+      "articles": [
+        "Articles/2026-11-27_Race-baiting-distracts-from-real-issues.md"
       ]
     }
   },
